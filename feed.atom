@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T12:44:10.181Z</id>
+    <id>urn:2023-02-07T13:09:41.465Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T12:44:10.181Z</updated>
+    <updated>2023-02-07T13:09:41.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆口笛歌枠 /whistle song /  90％の初見さんに " 思ったよりうまくて草 " と言われます。たぶん。【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=LX5sBkTmoDI</id>
+        <link href="https://www.youtube.com/watch?v=LX5sBkTmoDI"/>
+        <updated>2023-02-07T12:58:58.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見歓迎！新曲もあるよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=yXo2uLyHFMU</id>
@@ -48,15 +57,6 @@
         <updated>2023-02-07T11:08:14.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🗡️Dark and Darker🕯️】あの話題のゲームでトレジャー!!【天川はの/花京院ちえり/雲母ミミ】]]></title>
-        <id>https://www.youtube.com/watch?v=_gF8Xw29N9w</id>
-        <link href="https://www.youtube.com/watch?v=_gF8Xw29N9w"/>
-        <updated>2023-02-07T09:55:40.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1878,6 +1878,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【🤝Heave Ho】2人ならおてて繋いでても余裕に生活できる【天川はの/リクム】]]></title>
+        <id>https://www.youtube.com/watch?v=UOlfNFPUijw</id>
+        <link href="https://www.youtube.com/watch?v=UOlfNFPUijw"/>
+        <updated>2023-01-22T05:32:49.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/singing stream】aikoさん縛り歌枠🎤✨ karaoke【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=bxWkkN6QElo</id>
         <link href="https://www.youtube.com/watch?v=bxWkkN6QElo"/>
@@ -1956,15 +1965,6 @@
         <updated>2023-01-21T11:15:25.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆NeiR Replicant / #03 / 完全初見 / ver.1.22474487139...〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=HHQDQ-75cc8</id>
-        <link href="https://www.youtube.com/watch?v=HHQDQ-75cc8"/>
-        <updated>2023-01-21T10:20:09.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
