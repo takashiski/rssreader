@@ -1082,6 +1082,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
+          "publishedOn": "2023-02-07T11:41:08.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #33 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4pyKfdTdtkc",
           "author": null,
           "description": "",
@@ -1219,16 +1229,6 @@
           "publishedOn": "2023-01-20T12:17:13.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】Ciさんと！アイドルマスターSideMしばり歌枠コラボ #すし315 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QjsUd_nbW_0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QjsUd_nbW_0",
-          "publishedOn": "2023-01-19T22:21:32.000Z",
-          "wordCount": null,
-          "title": "【 P3P 】ペルソナ３ ポータブル は最高のゲームだって君に伝えたい 実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]

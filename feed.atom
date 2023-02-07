@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T11:34:28.158Z</id>
+    <id>urn:2023-02-07T12:07:58.141Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T11:34:28.158Z</updated>
+    <updated>2023-02-07T12:07:58.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #33 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AgGSrrlfWS0</id>
+        <link href="https://www.youtube.com/watch?v=AgGSrrlfWS0"/>
+        <updated>2023-02-07T11:41:08.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】きょうもいっしょに楽しも～癒しかわいいおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xGzVJVXy960</id>
@@ -2046,15 +2055,6 @@
         <updated>2023-01-20T01:43:30.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 P3P 】ペルソナ３ ポータブル は最高のゲームだって君に伝えたい 実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=QjsUd_nbW_0</id>
-        <link href="https://www.youtube.com/watch?v=QjsUd_nbW_0"/>
-        <updated>2023-01-19T22:21:32.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
