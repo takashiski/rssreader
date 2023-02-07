@@ -621,11 +621,11 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=lROtjIAKqoU",
+          "id": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=lROtjIAKqoU",
-          "publishedOn": "2023-02-07T09:38:54.000Z",
+          "link": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
+          "publishedOn": "2023-02-07T12:20:57.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見歓迎！新曲もあるよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
@@ -1239,16 +1239,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=LX5sBkTmoDI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LX5sBkTmoDI",
-          "publishedOn": "2023-02-06T21:10:13.000Z",
-          "wordCount": null,
-          "title": "◆口笛歌枠 /whistle song /  90％の初見さんに \" 思ったよりうまくて草 \" と言われます。たぶん。【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=huCHe6qVQK4",
           "author": null,
           "description": "",
@@ -1386,6 +1376,16 @@
           "publishedOn": "2023-01-22T08:55:44.000Z",
           "wordCount": null,
           "title": "◆歌枠 /sing / 初見歓迎！日曜の昼は元気にアニソン🎤✨【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HHQDQ-75cc8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HHQDQ-75cc8",
+          "publishedOn": "2023-01-21T10:20:09.000Z",
+          "wordCount": null,
+          "title": "◆NeiR Replicant / #03 / 完全初見 / ver.1.22474487139...〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
@@ -1964,6 +1964,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WMUL2wrmNnY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WMUL2wrmNnY",
+          "publishedOn": "2023-02-07T12:06:30.000Z",
+          "wordCount": null,
+          "title": "【サンブレイク】アプデきたぁぁぁぁぁぁぁっ！！！きれいなモンスターに会いに行こ！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MfYSpNcsdi8",
           "author": null,
           "description": "",
@@ -2531,6 +2541,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FA1uum8j6fE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FA1uum8j6fE",
+          "publishedOn": "2023-02-07T12:00:17.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】超絶かわいい / Covered by 獅子神レオナ #short",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Pcj4fwbZ-08",
           "author": null,

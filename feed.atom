@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T12:07:58.141Z</id>
+    <id>urn:2023-02-07T12:44:10.181Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T12:07:58.141Z</updated>
+    <updated>2023-02-07T12:44:10.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！新曲もあるよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=yXo2uLyHFMU</id>
+        <link href="https://www.youtube.com/watch?v=yXo2uLyHFMU"/>
+        <updated>2023-02-07T12:20:57.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【サンブレイク】アプデきたぁぁぁぁぁぁぁっ！！！きれいなモンスターに会いに行こ！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=WMUL2wrmNnY</id>
+        <link href="https://www.youtube.com/watch?v=WMUL2wrmNnY"/>
+        <updated>2023-02-07T12:06:30.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】超絶かわいい / Covered by 獅子神レオナ #short]]></title>
+        <id>https://www.youtube.com/watch?v=FA1uum8j6fE</id>
+        <link href="https://www.youtube.com/watch?v=FA1uum8j6fE"/>
+        <updated>2023-02-07T12:00:17.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #33 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AgGSrrlfWS0</id>
@@ -33,15 +60,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！新曲もあるよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=lROtjIAKqoU</id>
-        <link href="https://www.youtube.com/watch?v=lROtjIAKqoU"/>
-        <updated>2023-02-07T09:38:54.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】“愛”縛り歌枠♡｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ORVrMrJU8-Y</id>
         <link href="https://www.youtube.com/watch?v=ORVrMrJU8-Y"/>
@@ -57,15 +75,6 @@
         <updated>2023-02-07T04:12:23.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆口笛歌枠 /whistle song /  90％の初見さんに " 思ったよりうまくて草 " と言われます。たぶん。【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=LX5sBkTmoDI</id>
-        <link href="https://www.youtube.com/watch?v=LX5sBkTmoDI"/>
-        <updated>2023-02-06T21:10:13.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1947,6 +1956,15 @@
         <updated>2023-01-21T11:15:25.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆NeiR Replicant / #03 / 完全初見 / ver.1.22474487139...〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=HHQDQ-75cc8</id>
+        <link href="https://www.youtube.com/watch?v=HHQDQ-75cc8"/>
+        <updated>2023-01-21T10:20:09.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
