@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T16:39:57.480Z</id>
+    <id>urn:2023-02-07T17:05:52.258Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T16:39:57.480Z</updated>
+    <updated>2023-02-07T17:05:52.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-02-07T14:40:16.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ぎゅっと抱きしめ♡ゼロ距離で心音/囁き/耳塞ぎ♡睡眠導入【Heart Beat/Binaural/Ear Massage/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=RWw9lFAiVWI</id>
-        <link href="https://www.youtube.com/watch?v=RWw9lFAiVWI"/>
-        <updated>2023-02-07T14:32:49.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1479,6 +1470,15 @@
         <updated>2023-01-27T00:38:06.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】段々眠くなるのに鼓膜がゾクゾク♡耳かき・耳ふー【Ear Cleaning/Ear Blowing/Binaural/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=xPKEngDv8h4</id>
+        <link href="https://www.youtube.com/watch?v=xPKEngDv8h4"/>
+        <updated>2023-01-26T19:49:44.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
