@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-07T15:05:52.409Z</id>
+    <id>urn:2023-02-07T15:34:55.026Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-07T15:05:52.409Z</updated>
+    <updated>2023-02-07T15:34:55.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きた？挨拶しにきてよ～💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FiQ0_VyP8oc</id>
+        <link href="https://www.youtube.com/watch?v=FiQ0_VyP8oc"/>
+        <updated>2023-02-07T15:09:54.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🗡️Dark and Darker🕯️】あの話題のゲームでトレジャー!!【天川はの/花京院ちえり/雲母ミミ】]]></title>
         <id>https://www.youtube.com/watch?v=_gF8Xw29N9w</id>
@@ -1758,15 +1767,6 @@
         <updated>2023-01-23T02:44:56.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Ghost Watchers】顔面偏差値で幽霊を黙らせる👻❕…ぇ～ん #ほしふぁみりぃ【月紫アリア/ほし/美星メイ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Pga7leTw4ak</id>
-        <link href="https://www.youtube.com/watch?v=Pga7leTw4ak"/>
-        <updated>2023-01-23T02:30:29.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
