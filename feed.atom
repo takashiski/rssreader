@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T19:34:32.916Z</id>
+    <id>urn:2023-02-08T20:06:01.960Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T19:34:32.916Z</updated>
+    <updated>2023-02-08T20:06:01.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,7 +87,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！4000人ありがとう！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！4100人目指す！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=HhmLSKdnWtI</id>
         <link href="https://www.youtube.com/watch?v=HhmLSKdnWtI"/>
         <updated>2023-02-08T14:07:16.000Z</updated>
