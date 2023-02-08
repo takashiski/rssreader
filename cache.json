@@ -2542,6 +2542,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bVbiHXw8cwg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bVbiHXw8cwg",
+          "publishedOn": "2023-02-08T07:18:02.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】りぼんちゃんが歌いに来たぞ～🎤  sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FA1uum8j6fE",
           "author": null,
           "description": "",
@@ -2679,16 +2689,6 @@
           "publishedOn": "2023-01-12T18:39:46.000Z",
           "wordCount": null,
           "title": "【APEX】久しぶりにやっちゃう～～～！！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ru9vmDkEB78",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ru9vmDkEB78",
-          "publishedOn": "2023-01-10T15:37:32.000Z",
-          "wordCount": null,
-          "title": "【 雑談】イヤホンをすぐなくす獅子、雑談をする。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
