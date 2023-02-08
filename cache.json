@@ -778,6 +778,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dKQUGHndDBE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dKQUGHndDBE",
+          "publishedOn": "2023-02-08T12:00:28.000Z",
+          "wordCount": null,
+          "title": "【 #shorts 】Vsingerが一発録りで ちゅ、多様性。 歌ってみた【#彩雲のの / #新人vtuber 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZAbdZkZqmEc",
           "author": null,
           "description": "",
@@ -1502,6 +1512,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Rt_1IpnkGqY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rt_1IpnkGqY",
+          "publishedOn": "2023-02-08T11:35:38.000Z",
+          "wordCount": null,
+          "title": "90デシベル以下で消えるVtuberかしこまり",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xffM8m-1MFA",
           "author": null,
