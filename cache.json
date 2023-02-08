@@ -1092,6 +1092,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
+          "publishedOn": "2023-02-08T12:50:55.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #33 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4pyKfdTdtkc",
           "author": null,
           "description": "",
@@ -1229,16 +1239,6 @@
           "publishedOn": "2023-01-20T12:17:13.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】Ciさんと！アイドルマスターSideMしばり歌枠コラボ #すし315 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QjsUd_nbW_0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QjsUd_nbW_0",
-          "publishedOn": "2023-01-19T22:21:32.000Z",
-          "wordCount": null,
-          "title": "【 P3P 】ペルソナ３ ポータブル は最高のゲームだって君に伝えたい 実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -2552,6 +2552,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bVbiHXw8cwg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bVbiHXw8cwg",
+          "publishedOn": "2023-02-08T12:49:23.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】りぼんちゃんが歌いに来たぞ～🎤  sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FA1uum8j6fE",
           "author": null,
           "description": "",
@@ -2689,16 +2699,6 @@
           "publishedOn": "2023-01-12T18:39:46.000Z",
           "wordCount": null,
           "title": "【APEX】久しぶりにやっちゃう～～～！！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ru9vmDkEB78",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ru9vmDkEB78",
-          "publishedOn": "2023-01-10T15:37:32.000Z",
-          "wordCount": null,
-          "title": "【 雑談】イヤホンをすぐなくす獅子、雑談をする。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
