@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T12:08:08.969Z</id>
+    <id>urn:2023-02-08T12:43:57.488Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T12:08:08.969Z</updated>
+    <updated>2023-02-08T12:43:57.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,15 +39,6 @@
         <updated>2023-02-08T10:17:25.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】りぼんちゃんが歌いに来たぞ～🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=bVbiHXw8cwg</id>
-        <link href="https://www.youtube.com/watch?v=bVbiHXw8cwg"/>
-        <updated>2023-02-08T07:18:02.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -165,15 +156,6 @@
         <updated>2023-02-07T12:00:17.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #33 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=AgGSrrlfWS0</id>
-        <link href="https://www.youtube.com/watch?v=AgGSrrlfWS0"/>
-        <updated>2023-02-07T11:41:08.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2148,6 +2130,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 P3P 】ペルソナ３ ポータブル は最高のゲームだって君に伝えたい 実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=QjsUd_nbW_0</id>
+        <link href="https://www.youtube.com/watch?v=QjsUd_nbW_0"/>
+        <updated>2023-01-19T22:21:32.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/singing stream】環境音と癒しの深夜歌枠🌙🎤 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=2aAlhpUvviE</id>
         <link href="https://www.youtube.com/watch?v=2aAlhpUvviE"/>
@@ -2622,6 +2613,15 @@
         <updated>2023-01-11T12:00:25.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 雑談】イヤホンをすぐなくす獅子、雑談をする。【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ru9vmDkEB78</id>
+        <link href="https://www.youtube.com/watch?v=Ru9vmDkEB78"/>
+        <updated>2023-01-10T15:37:32.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
