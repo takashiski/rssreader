@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T05:05:52.412Z</id>
+    <id>urn:2023-02-08T05:34:28.454Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T05:05:52.412Z</updated>
+    <updated>2023-02-08T05:34:28.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スニッパーズ】2人で仲良くちょきちょきする！【マル・ナナモナ/神輿たらん】]]></title>
+        <id>https://www.youtube.com/watch?v=zyso22QKpT0</id>
+        <link href="https://www.youtube.com/watch?v=zyso22QKpT0"/>
+        <updated>2023-02-08T05:26:31.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【原神】まったりおはなししながら素材あつめ⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=MbDTaltQhZM</id>
@@ -1137,15 +1146,6 @@
         <updated>2023-01-30T13:42:37.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/talk】告知あり！のんびりお話し！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6vt3zzytCdo</id>
-        <link href="https://www.youtube.com/watch?v=6vt3zzytCdo"/>
-        <updated>2023-01-30T03:41:49.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
