@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HhmLSKdnWtI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HhmLSKdnWtI",
+          "publishedOn": "2023-02-08T14:07:16.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見歓迎！4000人目指すよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-01-30T15:55:11.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見歓迎！ぬくぬくしながら歌う！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6vt3zzytCdo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6vt3zzytCdo",
-          "publishedOn": "2023-01-30T03:41:49.000Z",
-          "wordCount": null,
-          "title": "【雑談/talk】告知あり！のんびりお話し！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2843,6 +2843,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1fU8Xdh_rng",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1fU8Xdh_rng",
+          "publishedOn": "2023-02-08T14:12:31.000Z",
+          "wordCount": null,
+          "title": "【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストは九楽ライちゃん！蜂楽くんを布教する！【宇佐美ユノ / 九楽ライ / vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6Gyh6Af505w",
           "author": null,
           "description": "",
@@ -2970,16 +2980,6 @@
           "publishedOn": "2023-01-20T13:51:56.000Z",
           "wordCount": null,
           "title": "【#ユノりぼ姉妹】新年初のユノりぼ姉妹は、推しアニメプレゼン企画！！【宇佐美ユノ / 姫熊りぼん / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hXgMMl9buc8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hXgMMl9buc8",
-          "publishedOn": "2023-01-19T13:46:50.000Z",
-          "wordCount": null,
-          "title": "【#殺戮の天使】ザックを助けなきゃ！ついに折り返し地点！！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         }
       ]
