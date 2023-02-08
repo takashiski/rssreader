@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T00:50:06.961Z</id>
+    <id>urn:2023-02-08T01:34:37.694Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T00:50:06.961Z</updated>
+    <updated>2023-02-08T01:34:37.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きた？挨拶しにきてよ～💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FiQ0_VyP8oc</id>
+        <link href="https://www.youtube.com/watch?v=FiQ0_VyP8oc"/>
+        <updated>2023-02-08T00:41:09.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】歌！⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=fbywHoermt0</id>
@@ -174,15 +183,6 @@
         <updated>2023-02-06T16:28:25.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もしも起きることができたなら寝起き雑談をする枠]]></title>
-        <id>https://www.youtube.com/watch?v=4pyKfdTdtkc</id>
-        <link href="https://www.youtube.com/watch?v=4pyKfdTdtkc"/>
-        <updated>2023-02-06T15:45:59.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1779,15 +1779,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Ghost Watchers】顔面偏差値で幽霊を黙らせる👻❕…ぇ～ん #ほしふぁみりぃ【月紫アリア/ほし/美星メイ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Pga7leTw4ak</id>
-        <link href="https://www.youtube.com/watch?v=Pga7leTw4ak"/>
-        <updated>2023-01-23T02:30:29.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=Z7JWeP6Rhtc</id>
         <link href="https://www.youtube.com/watch?v=Z7JWeP6Rhtc"/>
@@ -2091,6 +2082,15 @@
         <updated>2023-01-20T01:43:30.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 P3P 】ペルソナ３ ポータブル は最高のゲームだって君に伝えたい 実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=QjsUd_nbW_0</id>
+        <link href="https://www.youtube.com/watch?v=QjsUd_nbW_0"/>
+        <updated>2023-01-19T22:21:32.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
