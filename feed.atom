@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T14:34:43.275Z</id>
+    <id>urn:2023-02-09T15:05:51.436Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T14:34:43.275Z</updated>
+    <updated>2023-02-09T15:05:51.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】おまいら15年前何してたよ｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=2dIfxj0RRbk</id>
+        <link href="https://www.youtube.com/watch?v=2dIfxj0RRbk"/>
+        <updated>2023-02-09T15:04:10.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん大歓迎期間♡告知あり雑談あり、sing and talk ！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=80wXt9IiLX4</id>
+        <link href="https://www.youtube.com/watch?v=80wXt9IiLX4"/>
+        <updated>2023-02-09T14:52:56.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ダンガンロンパ #4】完全初見❕第３章も謎を解き明かす🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=s3exgwZLDKw</id>
@@ -21,15 +39,6 @@
         <updated>2023-02-09T13:54:51.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】おまいら15年前何してたよ｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2dIfxj0RRbk</id>
-        <link href="https://www.youtube.com/watch?v=2dIfxj0RRbk"/>
-        <updated>2023-02-09T11:12:59.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -102,15 +111,6 @@
         <updated>2023-02-08T17:27:52.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】歌おう～～🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=GrBLaR3WCzI</id>
-        <link href="https://www.youtube.com/watch?v=GrBLaR3WCzI"/>
-        <updated>2023-02-08T16:14:45.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2058,15 +2058,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】初お披露目！ごりごり耳かきと囁き、ドキドキする吐息♡絶対気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=S3C3WuFlKtg</id>
-        <link href="https://www.youtube.com/watch?v=S3C3WuFlKtg"/>
-        <updated>2023-01-21T16:48:49.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=P794VIgk-y8</id>
         <link href="https://www.youtube.com/watch?v=P794VIgk-y8"/>
@@ -2577,6 +2568,15 @@
         <updated>2023-01-13T01:10:13.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【APEX】久しぶりにやっちゃう～～～！！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rvUiNgmXLWA</id>
+        <link href="https://www.youtube.com/watch?v=rvUiNgmXLWA"/>
+        <updated>2023-01-12T18:39:46.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
