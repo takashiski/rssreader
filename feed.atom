@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T15:05:51.436Z</id>
+    <id>urn:2023-02-09T15:35:11.534Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T15:05:51.436Z</updated>
+    <updated>2023-02-09T15:35:11.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -60,15 +60,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#音伽ねむ生誕祭2023 / 雑談】後夜祭(？)💖歌ってみたの感想聞かせて🤍＆たくさんのお祝いありがとう✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=T0fety1OQJ0</id>
-        <link href="https://www.youtube.com/watch?v=T0fety1OQJ0"/>
-        <updated>2023-02-09T09:32:57.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【初見さん歓迎！】深夜に歌の練習しまする【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=whOkEpzBR2g</id>
         <link href="https://www.youtube.com/watch?v=whOkEpzBR2g"/>
@@ -82,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=HhmLSKdnWtI</id>
         <link href="https://www.youtube.com/watch?v=HhmLSKdnWtI"/>
         <updated>2023-02-09T02:00:31.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=OJ60ZbYOXPw</id>
-        <link href="https://www.youtube.com/watch?v=OJ60ZbYOXPw"/>
-        <updated>2023-02-09T01:36:00.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1257,6 +1239,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！ぬくぬくしながら歌う！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ArzpZ1HmZC0</id>
+        <link href="https://www.youtube.com/watch?v=ArzpZ1HmZC0"/>
+        <updated>2023-01-30T15:55:11.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【👂ASMR】息は～っ＆マッサージでお耳を暖めちゃう【Ear Blowing/Ear Massage/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=ytgCRiW56mA</id>
         <link href="https://www.youtube.com/watch?v=ytgCRiW56mA"/>
@@ -2046,6 +2037,15 @@
         <updated>2023-01-21T23:15:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation 】今日も楽しくお仕事するよ～✨優秀管理人になるっ❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JccHPc_S2L8</id>
+        <link href="https://www.youtube.com/watch?v=JccHPc_S2L8"/>
+        <updated>2023-01-21T22:38:35.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
