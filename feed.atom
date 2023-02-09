@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T17:05:40.189Z</id>
+    <id>urn:2023-02-09T17:34:36.995Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T17:05:40.189Z</updated>
+    <updated>2023-02-09T17:34:36.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[☀朝活雑談 / 250人におはようって言うまで終わらない朝🔥見つけて～～っ！ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=zXgEcMHg-lQ</id>
+        <link href="https://www.youtube.com/watch?v=zXgEcMHg-lQ"/>
+        <updated>2023-02-09T17:08:10.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🔆朝活/初見さん歓迎】アイドル子供のモーニングルーティン🪞GoodMorning【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=cYTiHpnP5u0</id>
@@ -1866,15 +1875,6 @@
         <updated>2023-01-24T15:29:20.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆NeiR Replicant / #04 / 完全初見 / ついに大人になった僕。3人の旅が始まる。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=CSXlSvGKWdc</id>
-        <link href="https://www.youtube.com/watch?v=CSXlSvGKWdc"/>
-        <updated>2023-01-24T09:05:08.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

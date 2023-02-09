@@ -1249,6 +1249,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zXgEcMHg-lQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zXgEcMHg-lQ",
+          "publishedOn": "2023-02-09T17:08:10.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / 250人におはようって言うまで終わらない朝🔥見つけて～～っ！ / morning freetalk【新人Vtuber/九楽ライ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5KQJcMDZgIc",
           "author": null,
           "description": "",
@@ -1386,16 +1396,6 @@
           "publishedOn": "2023-01-26T10:37:55.000Z",
           "wordCount": null,
           "title": "◆NeiR Replicant / #05 / 完全初見 / 新エンドを求めて。カイネ編スタート！〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CSXlSvGKWdc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CSXlSvGKWdc",
-          "publishedOn": "2023-01-24T09:05:08.000Z",
-          "wordCount": null,
-          "title": "◆NeiR Replicant / #04 / 完全初見 / ついに大人になった僕。3人の旅が始まる。〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
