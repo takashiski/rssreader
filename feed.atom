@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T13:39:17.415Z</id>
+    <id>urn:2023-02-09T14:05:46.958Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T13:39:17.415Z</updated>
+    <updated>2023-02-09T14:05:46.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#殺戮の天使】あと少し！！ラストまで二人を見守り隊！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=IN38A0UKEuI</id>
+        <link href="https://www.youtube.com/watch?v=IN38A0UKEuI"/>
+        <updated>2023-02-09T13:54:51.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】おまいら15年前何してたよ｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=2dIfxj0RRbk</id>
@@ -114,30 +123,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ #4】完全初見❕第３章も謎を解き明かす🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=s3exgwZLDKw</id>
-        <link href="https://www.youtube.com/watch?v=s3exgwZLDKw"/>
-        <updated>2023-02-08T15:57:11.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆ホグワーツ・レガシー / #01 / おや...フクロウ便が届いたようだ...✉ハリポタオタクによるレガシーが今始まる！〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=5KQJcMDZgIc</id>
         <link href="https://www.youtube.com/watch?v=5KQJcMDZgIc"/>
         <updated>2023-02-08T15:10:55.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#殺戮の天使】あと少し！！ラストまで二人を見守り隊！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=IN38A0UKEuI</id>
-        <link href="https://www.youtube.com/watch?v=IN38A0UKEuI"/>
-        <updated>2023-02-08T15:06:50.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1839,6 +1830,15 @@
         <updated>2023-01-25T03:48:56.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎🌅 おきろおきろ～～✨目覚まして元気だしてこ💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qaKw0vjqbkA</id>
+        <link href="https://www.youtube.com/watch?v=qaKw0vjqbkA"/>
+        <updated>2023-01-25T00:15:32.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
