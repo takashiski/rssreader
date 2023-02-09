@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T10:05:53.721Z</id>
+    <id>urn:2023-02-09T10:35:14.054Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T10:05:53.721Z</updated>
+    <updated>2023-02-09T10:35:14.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[九楽ライ、今日から変わります... / 雑談〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=huCHe6qVQK4</id>
+        <link href="https://www.youtube.com/watch?v=huCHe6qVQK4"/>
+        <updated>2023-02-09T10:34:35.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#音伽ねむ生誕祭2023 / 雑談】後夜祭(？)💖歌ってみたの感想聞かせて🤍＆たくさんのお祝いありがとう✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=T0fety1OQJ0</id>
@@ -300,15 +309,6 @@
         <updated>2023-02-07T04:12:23.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[九楽ライ、今日から変わります... / 雑談〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=huCHe6qVQK4</id>
-        <link href="https://www.youtube.com/watch?v=huCHe6qVQK4"/>
-        <updated>2023-02-06T20:21:55.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
