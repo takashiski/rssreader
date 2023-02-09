@@ -651,16 +651,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=8MB-BRuNq64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8MB-BRuNq64",
-          "publishedOn": "2023-02-09T01:32:15.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】4000人記念＆4100人耐久【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
           "author": null,
           "description": "",
@@ -778,6 +768,16 @@
           "publishedOn": "2023-02-01T04:54:09.000Z",
           "wordCount": null,
           "title": "【雑談/talk】のんびりまったり！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=p8EdJPpl-lQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p8EdJPpl-lQ",
+          "publishedOn": "2023-02-01T02:18:02.000Z",
+          "wordCount": null,
+          "title": "【アソビ大全】今日もちゃんまり先輩に勝つ！【かしこまり/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
