@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T01:34:13.911Z</id>
+    <id>urn:2023-02-09T02:29:58.140Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T01:34:13.911Z</updated>
+    <updated>2023-02-09T02:29:58.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！4100人目指す！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HhmLSKdnWtI</id>
+        <link href="https://www.youtube.com/watch?v=HhmLSKdnWtI"/>
+        <updated>2023-02-09T02:00:31.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=OJ60ZbYOXPw</id>
+        <link href="https://www.youtube.com/watch?v=OJ60ZbYOXPw"/>
+        <updated>2023-02-09T01:36:00.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】4000人記念＆4100人耐久【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8MB-BRuNq64</id>
@@ -1023,15 +1041,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【アソビ大全】今日もちゃんまり先輩に勝つ！【かしこまり/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p8EdJPpl-lQ</id>
-        <link href="https://www.youtube.com/watch?v=p8EdJPpl-lQ"/>
-        <updated>2023-02-01T02:18:02.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎🌅 ２月最初の水曜日、気合い入れるしかないでしょ💜 goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=UL5iWbBKomM</id>
         <link href="https://www.youtube.com/watch?v=UL5iWbBKomM"/>
@@ -1209,15 +1218,6 @@
         <updated>2023-01-30T16:24:05.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！ぬくぬくしながら歌う！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ArzpZ1HmZC0</id>
-        <link href="https://www.youtube.com/watch?v=ArzpZ1HmZC0"/>
-        <updated>2023-01-30T15:55:11.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
