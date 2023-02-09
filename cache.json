@@ -621,16 +621,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=HhmLSKdnWtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HhmLSKdnWtI",
-          "publishedOn": "2023-02-08T14:07:16.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見歓迎！4100人目指す！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
           "author": null,
           "description": "",
@@ -768,6 +758,16 @@
           "publishedOn": "2023-01-30T15:55:11.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見歓迎！ぬくぬくしながら歌う！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6vt3zzytCdo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6vt3zzytCdo",
+          "publishedOn": "2023-01-30T03:41:49.000Z",
+          "wordCount": null,
+          "title": "【雑談/talk】告知あり！のんびりお話し！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
