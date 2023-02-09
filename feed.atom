@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T00:49:50.354Z</id>
+    <id>urn:2023-02-09T01:34:13.911Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T00:49:50.354Z</updated>
+    <updated>2023-02-09T01:34:13.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】4000人記念＆4100人耐久【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8MB-BRuNq64</id>
+        <link href="https://www.youtube.com/watch?v=8MB-BRuNq64"/>
+        <updated>2023-02-09T01:32:15.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #弾き語り 】ひきがたり～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=yiLxt_SwY6g</id>
@@ -1236,15 +1245,6 @@
         <updated>2023-01-30T13:42:37.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/talk】告知あり！のんびりお話し！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6vt3zzytCdo</id>
-        <link href="https://www.youtube.com/watch?v=6vt3zzytCdo"/>
-        <updated>2023-01-30T03:41:49.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
