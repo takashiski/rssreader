@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DCKSHzznOkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DCKSHzznOkc",
+          "publishedOn": "2023-02-10T14:25:00.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見歓迎！消えちゃったアーカイブのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TuHy133Ittg",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-02-01T23:00:59.000Z",
           "wordCount": null,
           "title": "【シチュボ】1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=leXHsqDuyZQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=leXHsqDuyZQ",
-          "publishedOn": "2023-02-01T21:06:25.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見歓迎！元気な太陽！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1767,6 +1767,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=530tQHOo2JY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=530tQHOo2JY",
+          "publishedOn": "2023-02-10T14:08:39.000Z",
+          "wordCount": null,
+          "title": "【メン限】あしたはおやすみだからね❄【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NtcCE2KJ62Q",
           "author": null,
           "description": "",
@@ -1904,16 +1914,6 @@
           "publishedOn": "2023-01-28T15:17:02.000Z",
           "wordCount": null,
           "title": "【✨５万人記念✨】お披露目あり💜いっしょにお祝いしてくれるよねえ？🎉✨ over 50K thankyou💜please celebrate❕【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mw46kSxkqrM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mw46kSxkqrM",
-          "publishedOn": "2023-01-28T09:49:01.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨ 土曜日おひるの最強かわいいおうた💜 karaoke【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
