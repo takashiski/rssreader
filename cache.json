@@ -631,6 +631,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OJ60ZbYOXPw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OJ60ZbYOXPw",
+          "publishedOn": "2023-02-10T03:37:00.000Z",
+          "wordCount": null,
+          "title": "【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8MB-BRuNq64",
           "author": null,
           "description": "",
@@ -768,16 +778,6 @@
           "publishedOn": "2023-02-01T21:06:25.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見歓迎！元気な太陽！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9bsPnbMt55E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9bsPnbMt55E",
-          "publishedOn": "2023-02-01T04:54:09.000Z",
-          "wordCount": null,
-          "title": "【雑談/talk】のんびりまったり！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1640,16 +1640,6 @@
           "publishedOn": "2023-01-12T11:00:25.000Z",
           "wordCount": null,
           "title": "【ハモリにつられるな】ロマンスの神様 一緒に歌って！広瀬香美  #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sRiy7o7GTM0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sRiy7o7GTM0",
-          "publishedOn": "2023-01-11T15:38:45.000Z",
-          "wordCount": null,
-          "title": "【一緒に作業】ざっくり曲覚えて寝て忘れる！「ギターと孤独と蒼い惑星」「私は最強」BGMにもどうぞ【かしこまり/Re:AcT】",
           "imageUrl": null
         }
       ]

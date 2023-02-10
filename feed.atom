@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T03:37:48.105Z</id>
+    <id>urn:2023-02-10T04:06:10.283Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T03:37:48.105Z</updated>
+    <updated>2023-02-10T04:06:10.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=OJ60ZbYOXPw</id>
+        <link href="https://www.youtube.com/watch?v=OJ60ZbYOXPw"/>
+        <updated>2023-02-10T03:37:00.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／復帰配信だよおお～！君たちひさしぶり！！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cWIKQFqCMR0</id>
@@ -1101,15 +1110,6 @@
         <updated>2023-02-01T05:18:29.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/talk】のんびりまったり！ZATSUDAN【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9bsPnbMt55E</id>
-        <link href="https://www.youtube.com/watch?v=9bsPnbMt55E"/>
-        <updated>2023-02-01T04:54:09.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2613,15 +2613,6 @@
         <updated>2023-01-11T16:14:28.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【一緒に作業】ざっくり曲覚えて寝て忘れる！「ギターと孤独と蒼い惑星」「私は最強」BGMにもどうぞ【かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sRiy7o7GTM0</id>
-        <link href="https://www.youtube.com/watch?v=sRiy7o7GTM0"/>
-        <updated>2023-01-11T15:38:45.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
