@@ -1082,6 +1082,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KKekqsE4Mjw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KKekqsE4Mjw",
+          "publishedOn": "2023-02-10T08:39:19.000Z",
+          "wordCount": null,
+          "title": "#22 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
           "author": null,
           "description": "",
@@ -1219,16 +1229,6 @@
           "publishedOn": "2023-01-21T23:15:12.000Z",
           "wordCount": null,
           "title": "#19 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zOCZGCXsTDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zOCZGCXsTDs",
-          "publishedOn": "2023-01-20T12:17:13.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】Ciさんと！アイドルマスターSideMしばり歌枠コラボ #すし315 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
           "imageUrl": null
         }
       ]
