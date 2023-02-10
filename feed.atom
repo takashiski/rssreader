@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T14:34:46.272Z</id>
+    <id>urn:2023-02-10T15:05:52.097Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T14:34:46.272Z</updated>
+    <updated>2023-02-10T15:05:52.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,15 +12,6 @@
         <updated>2023-02-10T14:25:00.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】あしたはおやすみだからね❄【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=530tQHOo2JY</id>
-        <link href="https://www.youtube.com/watch?v=530tQHOo2JY"/>
-        <updated>2023-02-10T14:08:39.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1563,6 +1554,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨ 土曜日おひるの最強かわいいおうた💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Mw46kSxkqrM</id>
+        <link href="https://www.youtube.com/watch?v=Mw46kSxkqrM"/>
+        <updated>2023-01-28T09:49:01.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【🐉ドラゴンクエスト11S 】最後の鍵とヨッチ村と子供【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=-tT4nWaumu0</id>
         <link href="https://www.youtube.com/watch?v=-tT4nWaumu0"/>
@@ -2586,15 +2586,6 @@
         <updated>2023-01-12T11:00:25.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】元気に歌うお昼🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=7gZslOGKCgU</id>
-        <link href="https://www.youtube.com/watch?v=7gZslOGKCgU"/>
-        <updated>2023-01-12T02:50:11.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
