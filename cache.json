@@ -621,16 +621,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=DCKSHzznOkc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DCKSHzznOkc",
-          "publishedOn": "2023-02-10T14:25:00.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見歓迎！消えちゃったアーカイブのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=TuHy133Ittg",
           "author": null,
           "description": "",
@@ -768,6 +758,16 @@
           "publishedOn": "2023-02-01T23:00:59.000Z",
           "wordCount": null,
           "title": "【シチュボ】1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=leXHsqDuyZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=leXHsqDuyZQ",
+          "publishedOn": "2023-02-01T21:06:25.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見歓迎！元気な太陽！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
