@@ -1082,6 +1082,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CFxTYYnLcDI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CFxTYYnLcDI",
+          "publishedOn": "2023-02-10T11:00:09.000Z",
+          "wordCount": null,
+          "title": "アイタリナイ / MAISONdes 歌ってみました COVER  [#shorts #vsinger ]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KKekqsE4Mjw",
           "author": null,
           "description": "",
@@ -1219,16 +1229,6 @@
           "publishedOn": "2023-01-22T18:37:30.000Z",
           "wordCount": null,
           "title": "【 #歌枠 / 睡眠導入 】雨音とピアノのウィスパーボイス歌枠 /  ✦ Songs and Chat ✦【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-VFW1H5rzv4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-VFW1H5rzv4",
-          "publishedOn": "2023-01-21T23:15:12.000Z",
-          "wordCount": null,
-          "title": "#19 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]

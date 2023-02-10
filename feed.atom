@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T10:36:07.252Z</id>
+    <id>urn:2023-02-10T11:05:53.368Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T10:36:07.252Z</updated>
+    <updated>2023-02-10T11:05:53.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アイタリナイ / MAISONdes 歌ってみました COVER  [#shorts #vsinger ]]]></title>
+        <id>https://www.youtube.com/watch?v=CFxTYYnLcDI</id>
+        <link href="https://www.youtube.com/watch?v=CFxTYYnLcDI"/>
+        <updated>2023-02-10T11:00:09.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨楽しく歌うから盛り上げて～っ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NtcCE2KJ62Q</id>
@@ -2064,15 +2073,6 @@
         <updated>2023-01-22T02:28:49.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#19 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=-VFW1H5rzv4</id>
-        <link href="https://www.youtube.com/watch?v=-VFW1H5rzv4"/>
-        <updated>2023-01-21T23:15:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
