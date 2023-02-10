@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T19:34:21.560Z</id>
+    <id>urn:2023-02-10T20:06:11.302Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T19:34:21.560Z</updated>
+    <updated>2023-02-10T20:06:11.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！消えちゃったアーカイブのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DCKSHzznOkc</id>
+        <link href="https://www.youtube.com/watch?v=DCKSHzznOkc"/>
+        <updated>2023-02-10T19:39:16.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】つきみママをべたべたに甘やかす日💛💛【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=ADNof9FC9Po</id>
@@ -1029,15 +1038,6 @@
         <updated>2023-02-01T22:04:39.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！元気な太陽！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=leXHsqDuyZQ</id>
-        <link href="https://www.youtube.com/watch?v=leXHsqDuyZQ"/>
-        <updated>2023-02-01T21:06:25.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
