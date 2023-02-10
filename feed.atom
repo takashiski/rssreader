@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-10T00:25:10.672Z</id>
+    <id>urn:2023-02-10T00:50:57.559Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T00:25:10.672Z</updated>
+    <updated>2023-02-10T00:50:57.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[【🔆朝活/初見さん歓迎】アイドル子供のモーニングルーティン🪞GoodMorning【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=cYTiHpnP5u0</id>
         <link href="https://www.youtube.com/watch?v=cYTiHpnP5u0"/>
-        <updated>2023-02-09T16:29:16.000Z</updated>
+        <updated>2023-02-10T00:36:42.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
         </author>
@@ -39,15 +39,6 @@
         <updated>2023-02-09T15:46:38.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社畜になります…【Free Talk/朝活雑談】]]></title>
-        <id>https://www.youtube.com/watch?v=VvZXJAI3UxQ</id>
-        <link href="https://www.youtube.com/watch?v=VvZXJAI3UxQ"/>
-        <updated>2023-02-09T15:37:07.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1473,6 +1464,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【初心者モンスト】ガンダムコラボ、推しに勝てない…けて…助けて…/モンスターストライク【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=TfZL0TfTOOk</id>
+        <link href="https://www.youtube.com/watch?v=TfZL0TfTOOk"/>
+        <updated>2023-01-28T15:38:22.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【✨５万人記念✨】お披露目あり💜いっしょにお祝いしてくれるよねえ？🎉✨ over 50K thankyou💜please celebrate❕【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=V-XNtSGT8wo</id>
         <link href="https://www.youtube.com/watch?v=V-XNtSGT8wo"/>
@@ -2622,15 +2622,6 @@
         <updated>2023-01-11T15:38:45.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【勝利の女神：NIKKE】指揮官7日目！イベントストーリー👉メインストーリー第8章「葛藤」【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=VmRwiQ7i6qY</id>
-        <link href="https://www.youtube.com/watch?v=VmRwiQ7i6qY"/>
-        <updated>2023-01-11T12:25:30.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
