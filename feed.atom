@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T17:34:27.468Z</id>
+    <id>urn:2023-02-11T18:06:04.809Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T17:34:27.468Z</updated>
+    <updated>2023-02-11T18:06:04.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=ZyL5KubbDsE</id>
+        <link href="https://www.youtube.com/watch?v=ZyL5KubbDsE"/>
+        <updated>2023-02-11T18:00:10.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ 盛り上がる曲をたくさん歌いたい！✦ KARAOKE【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6ZWMym40zpY</id>
+        <link href="https://www.youtube.com/watch?v=6ZWMym40zpY"/>
+        <updated>2023-02-11T17:43:45.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わたしだけ魔法使いになれないかもしれない？？？？【Free Talk/朝活雑談】]]></title>
+        <id>https://www.youtube.com/watch?v=D7NsNNwvpqw</id>
+        <link href="https://www.youtube.com/watch?v=D7NsNNwvpqw"/>
+        <updated>2023-02-11T17:36:27.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=1wSXCt-TJZM</id>
@@ -1500,15 +1527,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【初心者モンスト】ガンダムコラボ、ハマーン様強すぎない？？？/モンスターストライク【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=tCUlFAn_APw</id>
-        <link href="https://www.youtube.com/watch?v=tCUlFAn_APw"/>
-        <updated>2023-01-29T08:41:04.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆歌枠 /sing /  日曜の昼から" ダウナーボカロ "でキメたいのだ。初見歓迎だっ【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=SGRdOL6yAUE</id>
         <link href="https://www.youtube.com/watch?v=SGRdOL6yAUE"/>
@@ -1533,15 +1551,6 @@
         <updated>2023-01-28T18:54:32.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#20 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=a-8K0j8CCgM</id>
-        <link href="https://www.youtube.com/watch?v=a-8K0j8CCgM"/>
-        <updated>2023-01-28T18:28:49.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1749,15 +1758,6 @@
         <updated>2023-01-26T18:52:48.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ デビュー300日記念の歌 ✦ Singing Stream【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=NTBvQ1xPE6E</id>
-        <link href="https://www.youtube.com/watch?v=NTBvQ1xPE6E"/>
-        <updated>2023-01-26T16:23:23.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
