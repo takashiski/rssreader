@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T17:05:41.161Z</id>
+    <id>urn:2023-02-11T17:34:27.468Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T17:05:41.161Z</updated>
+    <updated>2023-02-11T17:34:27.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1wSXCt-TJZM</id>
+        <link href="https://www.youtube.com/watch?v=1wSXCt-TJZM"/>
+        <updated>2023-02-11T17:33:00.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツレガシー】ハリポタの世界へようこそ！祝入学！！【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=b9Z-lVy1cb4</id>
+        <link href="https://www.youtube.com/watch?v=b9Z-lVy1cb4"/>
+        <updated>2023-02-11T17:05:52.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【悲鳴注意】心拍数丸見え！深夜にヒトカラ？！ホラーゲーム/The Karaoke【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=RdBzbj8xiSY</id>
@@ -84,15 +102,6 @@
         <updated>2023-02-11T10:24:39.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ZyL5KubbDsE</id>
-        <link href="https://www.youtube.com/watch?v=ZyL5KubbDsE"/>
-        <updated>2023-02-11T10:19:33.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1104,15 +1113,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【シチュボ】1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Q4thVPofJxg</id>
-        <link href="https://www.youtube.com/watch?v=Q4thVPofJxg"/>
-        <updated>2023-02-01T23:00:59.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】初見さん歓迎♡２月一発目、夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=JQOieUye4wk</id>
         <link href="https://www.youtube.com/watch?v=JQOieUye4wk"/>
@@ -1752,6 +1752,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ デビュー300日記念の歌 ✦ Singing Stream【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=NTBvQ1xPE6E</id>
+        <link href="https://www.youtube.com/watch?v=NTBvQ1xPE6E"/>
+        <updated>2023-01-26T16:23:23.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#殺戮の天使】ザックを助けなきゃ！謎の神父になんか負けない！！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=629z98MzBMo</id>
         <link href="https://www.youtube.com/watch?v=629z98MzBMo"/>
@@ -2352,15 +2361,6 @@
         <updated>2023-01-18T11:00:17.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ウルトラ怪獣モンスターファーム】初見プレイ！戦う怪獣、躾ける美睡ｗｗｗ【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_tZ8zN185xI</id>
-        <link href="https://www.youtube.com/watch?v=_tZ8zN185xI"/>
-        <updated>2023-01-17T17:49:38.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
