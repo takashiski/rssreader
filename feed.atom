@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T11:34:27.791Z</id>
+    <id>urn:2023-02-11T12:07:10.464Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T11:34:27.791Z</updated>
+    <updated>2023-02-11T12:07:10.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで p.h. 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=uyufXd7DQA0</id>
+        <link href="https://www.youtube.com/watch?v=uyufXd7DQA0"/>
+        <updated>2023-02-11T12:00:44.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1wSXCt-TJZM</id>
+        <link href="https://www.youtube.com/watch?v=1wSXCt-TJZM"/>
+        <updated>2023-02-11T11:55:25.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】帰還！告知あり！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=QijCmS8M5Mk</id>
@@ -1083,15 +1101,6 @@
         <updated>2023-02-01T23:33:31.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【シチュボ】1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Q4thVPofJxg</id>
-        <link href="https://www.youtube.com/watch?v=Q4thVPofJxg"/>
-        <updated>2023-02-01T23:00:59.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
