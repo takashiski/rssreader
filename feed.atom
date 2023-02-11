@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T18:06:04.809Z</id>
+    <id>urn:2023-02-11T18:35:11.840Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T18:06:04.809Z</updated>
+    <updated>2023-02-11T18:35:11.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】おはようよりおやすみがしたいねむいから 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=meN-jVKGxlA</id>
+        <link href="https://www.youtube.com/watch?v=meN-jVKGxlA"/>
+        <updated>2023-02-11T18:33:52.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ZyL5KubbDsE</id>
@@ -129,15 +138,6 @@
         <updated>2023-02-11T10:24:39.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🐉ドラゴンクエスト11S 】最終回！？長き戦いを今、終わらせる！【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=r6z2o4oo4cI</id>
-        <link href="https://www.youtube.com/watch?v=r6z2o4oo4cI"/>
-        <updated>2023-02-11T06:56:42.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1716,6 +1716,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【👂ASMR】酔ってる同居人が本音を言っちゃうASMR【Binaural/Bed Sounds/Ear blowing】]]></title>
+        <id>https://www.youtube.com/watch?v=dLzWvPiS-aA</id>
+        <link href="https://www.youtube.com/watch?v=dLzWvPiS-aA"/>
+        <updated>2023-01-27T16:15:52.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=3jwiB-HkXe8</id>
         <link href="https://www.youtube.com/watch?v=3jwiB-HkXe8"/>
@@ -2361,15 +2370,6 @@
         <updated>2023-01-18T11:00:17.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #はのりさ 】天川はの先輩と！コラボ歌枠♬♬【 Re:AcT/天川はの/魔光リサ】]]></title>
-        <id>https://www.youtube.com/watch?v=IuzWs9-GmIc</id>
-        <link href="https://www.youtube.com/watch?v=IuzWs9-GmIc"/>
-        <updated>2023-01-17T14:22:22.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
