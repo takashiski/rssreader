@@ -945,6 +945,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QijCmS8M5Mk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QijCmS8M5Mk",
+          "publishedOn": "2023-02-11T11:29:58.000Z",
+          "wordCount": null,
+          "title": "【歌枠】帰還！告知あり！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yy6voSUZaQc",
           "author": null,
           "description": "",
@@ -1082,16 +1092,6 @@
           "publishedOn": "2023-01-17T14:22:22.000Z",
           "wordCount": null,
           "title": "【 #はのりさ 】天川はの先輩と！コラボ歌枠♬♬【 Re:AcT/天川はの/魔光リサ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=clBm8-2VgH8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=clBm8-2VgH8",
-          "publishedOn": "2023-01-15T06:10:36.000Z",
-          "wordCount": null,
-          "title": "【 #歌うまV歌枠リレー 】２日目２番手、魔光リサです【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
