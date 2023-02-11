@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SqLyKgQQwUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SqLyKgQQwUo",
+          "publishedOn": "2023-02-11T13:00:28.000Z",
+          "wordCount": null,
+          "title": "アカペラで Made You Look 歌ってみた #shorts #vsinger #cover",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZyL5KubbDsE",
           "author": null,
           "description": "",
@@ -1249,16 +1259,6 @@
           "publishedOn": "2023-01-28T18:28:49.000Z",
           "wordCount": null,
           "title": "#20 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NTBvQ1xPE6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NTBvQ1xPE6E",
-          "publishedOn": "2023-01-26T16:23:23.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！ デビュー300日記念の歌 ✦ Singing Stream【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
