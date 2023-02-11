@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T16:38:19.176Z</id>
+    <id>urn:2023-02-11T17:05:41.161Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T16:38:19.176Z</updated>
+    <updated>2023-02-11T17:05:41.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【悲鳴注意】心拍数丸見え！深夜にヒトカラ？！ホラーゲーム/The Karaoke【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=RdBzbj8xiSY</id>
+        <link href="https://www.youtube.com/watch?v=RdBzbj8xiSY"/>
+        <updated>2023-02-11T16:41:31.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/ドキドキする吐息/美容院【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=XnKZJoGhZoc</id>
+        <link href="https://www.youtube.com/watch?v=XnKZJoGhZoc"/>
+        <updated>2023-02-11T16:38:55.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】つきみママをべたべたに甘やかす日💛💛【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=ADNof9FC9Po</id>
@@ -39,15 +57,6 @@
         <updated>2023-02-11T12:00:44.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1wSXCt-TJZM</id>
-        <link href="https://www.youtube.com/watch?v=1wSXCt-TJZM"/>
-        <updated>2023-02-11T11:55:25.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1095,6 +1104,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【シチュボ】1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Q4thVPofJxg</id>
+        <link href="https://www.youtube.com/watch?v=Q4thVPofJxg"/>
+        <updated>2023-02-01T23:00:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠】初見さん歓迎♡２月一発目、夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=JQOieUye4wk</id>
         <link href="https://www.youtube.com/watch?v=JQOieUye4wk"/>
@@ -1533,15 +1551,6 @@
         <updated>2023-01-28T18:16:46.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】絶対眠れる♡あなたのための睡眠導入【耳かき・耳ふー・耳塞ぎ/Ear Cleaning/Ear Blowing/Binaural/Whispering睡眠導入/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=RCz6EzmiiOI</id>
-        <link href="https://www.youtube.com/watch?v=RCz6EzmiiOI"/>
-        <updated>2023-01-28T18:13:15.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2118,15 +2127,6 @@
         <updated>2023-01-21T19:21:02.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】初お披露目！ごりごり耳かきと囁き、ドキドキする吐息♡絶対気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=S3C3WuFlKtg</id>
-        <link href="https://www.youtube.com/watch?v=S3C3WuFlKtg"/>
-        <updated>2023-01-21T16:48:49.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
