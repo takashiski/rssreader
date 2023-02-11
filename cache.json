@@ -347,6 +347,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
+          "publishedOn": "2023-02-11T09:39:40.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】リスナーが選ぶ！？究極の二択｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=v9GkF55TwFc",
           "author": null,
           "description": "",
@@ -621,6 +631,16 @@
           "publishedOn": "2023-01-23T02:44:56.000Z",
           "wordCount": null,
           "title": "【雑談】ちょっぴりお話ししよ～❣【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JccHPc_S2L8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JccHPc_S2L8",
+          "publishedOn": "2023-01-21T22:38:35.000Z",
+          "wordCount": null,
+          "title": "【Lobotomy Corporation 】今日も楽しくお仕事するよ～✨優秀管理人になるっ❣【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T09:34:26.588Z</id>
+    <id>urn:2023-02-11T10:05:45.190Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T09:34:26.588Z</updated>
+    <updated>2023-02-11T10:05:45.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】リスナーが選ぶ！？究極の二択｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=S2ZlxIhlCxA</id>
+        <link href="https://www.youtube.com/watch?v=S2ZlxIhlCxA"/>
+        <updated>2023-02-11T09:39:40.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホグワーツレガシー】ハリポタの世界へようこそ！祝入学！！【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=b9Z-lVy1cb4</id>
@@ -2091,6 +2100,15 @@
         <updated>2023-01-22T02:28:49.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation 】今日も楽しくお仕事するよ～✨優秀管理人になるっ❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JccHPc_S2L8</id>
+        <link href="https://www.youtube.com/watch?v=JccHPc_S2L8"/>
+        <updated>2023-01-21T22:38:35.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
