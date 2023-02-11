@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T16:06:04.915Z</id>
+    <id>urn:2023-02-11T16:38:19.176Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T16:06:04.915Z</updated>
+    <updated>2023-02-11T16:38:19.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,15 +30,6 @@
         <updated>2023-02-11T13:00:28.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【悲鳴注意】心拍数丸見え！深夜にヒトカラ？！ホラーゲーム/The Karaoke【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=RdBzbj8xiSY</id>
-        <link href="https://www.youtube.com/watch?v=RdBzbj8xiSY"/>
-        <updated>2023-02-11T12:55:42.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -93,15 +84,6 @@
         <updated>2023-02-11T10:19:33.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホグワーツレガシー】ハリポタの世界へようこそ！祝入学！！【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=b9Z-lVy1cb4</id>
-        <link href="https://www.youtube.com/watch?v=b9Z-lVy1cb4"/>
-        <updated>2023-02-11T09:29:56.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -750,15 +732,6 @@
         <updated>2023-02-04T15:40:33.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/ドキドキする吐息/美容院【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=XnKZJoGhZoc</id>
-        <link href="https://www.youtube.com/watch?v=XnKZJoGhZoc"/>
-        <updated>2023-02-04T15:05:39.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1563,6 +1536,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】絶対眠れる♡あなたのための睡眠導入【耳かき・耳ふー・耳塞ぎ/Ear Cleaning/Ear Blowing/Binaural/Whispering睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=RCz6EzmiiOI</id>
+        <link href="https://www.youtube.com/watch?v=RCz6EzmiiOI"/>
+        <updated>2023-01-28T18:13:15.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ASMR】癖になるにゃ！ごりごり耳かきと囁き、ドキドキする吐息♡超絶気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=m5Fmqu-lRfY</id>
         <link href="https://www.youtube.com/watch?v=m5Fmqu-lRfY"/>
@@ -2139,6 +2121,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】初お披露目！ごりごり耳かきと囁き、ドキドキする吐息♡絶対気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=S3C3WuFlKtg</id>
+        <link href="https://www.youtube.com/watch?v=S3C3WuFlKtg"/>
+        <updated>2023-01-21T16:48:49.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=P794VIgk-y8</id>
         <link href="https://www.youtube.com/watch?v=P794VIgk-y8"/>
@@ -2361,6 +2352,15 @@
         <updated>2023-01-18T11:00:17.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ウルトラ怪獣モンスターファーム】初見プレイ！戦う怪獣、躾ける美睡ｗｗｗ【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_tZ8zN185xI</id>
+        <link href="https://www.youtube.com/watch?v=_tZ8zN185xI"/>
+        <updated>2023-01-17T17:49:38.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
