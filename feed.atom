@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T14:05:50.192Z</id>
+    <id>urn:2023-02-12T14:34:21.197Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T14:05:50.192Z</updated>
+    <updated>2023-02-12T14:34:21.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #アニメ 】#宇佐美ユノのおたと～く！今季アニメについて語る【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=vhky6_VX6vo</id>
+        <link href="https://www.youtube.com/watch?v=vhky6_VX6vo"/>
+        <updated>2023-02-12T14:22:04.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[方向音痴の天才によるミステリーツアー！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=pMa_k88yBFY</id>
@@ -75,15 +84,6 @@
         <updated>2023-02-12T12:04:21.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スパチャ読み】ぐぐっと近くでおしゃべりしましょ💛 【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=E5FlknWxcR8</id>
-        <link href="https://www.youtube.com/watch?v=E5FlknWxcR8"/>
-        <updated>2023-02-12T11:37:27.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1842,15 +1842,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#殺戮の天使】ザックを助けなきゃ！謎の神父になんか負けない！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=629z98MzBMo</id>
-        <link href="https://www.youtube.com/watch?v=629z98MzBMo"/>
-        <updated>2023-01-26T13:48:21.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】のんびりおはなししーまーしょっ💛【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=GmYMgDfvCdM</id>
         <link href="https://www.youtube.com/watch?v=GmYMgDfvCdM"/>
@@ -2343,6 +2334,15 @@
         <updated>2023-01-19T15:50:40.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【サンブレイク】再び狩猟におもむくうさぎ…お手柔らかにお願いします【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=eW4tBwp9-yo</id>
+        <link href="https://www.youtube.com/watch?v=eW4tBwp9-yo"/>
+        <updated>2023-01-19T15:33:22.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
