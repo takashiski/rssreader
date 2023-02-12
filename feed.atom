@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T16:06:13.360Z</id>
+    <id>urn:2023-02-12T16:38:18.684Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T16:06:13.360Z</updated>
+    <updated>2023-02-12T16:38:18.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【半年記念 | #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fDRDHXe6nCU</id>
+        <link href="https://www.youtube.com/watch?v=fDRDHXe6nCU"/>
+        <updated>2023-02-12T16:07:02.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ 盛り上がる曲を歌いたいカラオケ配信！✦ KARAOKE【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6ZWMym40zpY</id>
@@ -30,15 +39,6 @@
         <updated>2023-02-12T14:22:04.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[方向音痴の天才によるミステリーツアー！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=pMa_k88yBFY</id>
-        <link href="https://www.youtube.com/watch?v=pMa_k88yBFY"/>
-        <updated>2023-02-12T13:59:57.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -147,15 +147,6 @@
         <updated>2023-02-12T03:22:46.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Before the Night】デビュー半年記念❣かわいい動物さんたちの…ホラーアクションアドベンチャー…？いや、こんなに可愛いんだから大丈夫💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=NVo1ISUowaY</id>
-        <link href="https://www.youtube.com/watch?v=NVo1ISUowaY"/>
-        <updated>2023-02-12T02:01:12.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1581,6 +1572,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ロゴお披露目】眠れない夜もすやすやできるASMRらじお #すやらじ ♡4【ASMR Radio/Whisper】]]></title>
+        <id>https://www.youtube.com/watch?v=3dpveYUeYHo</id>
+        <link href="https://www.youtube.com/watch?v=3dpveYUeYHo"/>
+        <updated>2023-01-29T16:12:23.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 歌枠】新しい曲を覚えた予感がする🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xHY1fEkz2Kk</id>
         <link href="https://www.youtube.com/watch?v=xHY1fEkz2Kk"/>
@@ -2181,6 +2181,15 @@
         <updated>2023-01-22T02:28:49.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation 】今日も楽しくお仕事するよ～✨優秀管理人になるっ❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JccHPc_S2L8</id>
+        <link href="https://www.youtube.com/watch?v=JccHPc_S2L8"/>
+        <updated>2023-01-21T22:38:35.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
