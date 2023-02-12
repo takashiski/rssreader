@@ -347,16 +347,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=fDRDHXe6nCU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fDRDHXe6nCU",
-          "publishedOn": "2023-02-12T00:18:04.000Z",
-          "wordCount": null,
-          "title": "【半年記念 | #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
           "author": null,
           "description": "",
@@ -1924,6 +1914,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=E5FlknWxcR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E5FlknWxcR8",
+          "publishedOn": "2023-02-12T14:32:45.000Z",
+          "wordCount": null,
+          "title": "【スパチャ読み】ぐぐっと近くでおしゃべりしましょ💛 【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ADNof9FC9Po",
           "author": null,
           "description": "",
@@ -2061,16 +2061,6 @@
           "publishedOn": "2023-01-20T14:15:35.000Z",
           "wordCount": null,
           "title": "【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eW4tBwp9-yo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eW4tBwp9-yo",
-          "publishedOn": "2023-01-19T15:33:22.000Z",
-          "wordCount": null,
-          "title": "【サンブレイク】再び狩猟におもむくうさぎ…お手柔らかにお願いします【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
