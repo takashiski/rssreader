@@ -190,16 +190,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=9C3w4by8yN4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9C3w4by8yN4",
-          "publishedOn": "2023-02-12T09:15:55.000Z",
-          "wordCount": null,
-          "title": "【 半年記念🥂 】お披露目あり📣先着でアイコン企画！！【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=b9Z-lVy1cb4",
           "author": null,
           "description": "",
@@ -337,6 +327,16 @@
           "publishedOn": "2023-01-19T17:25:46.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／今週もあともう少し！楽しんでいこおお～【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=U8WPqROluKI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U8WPqROluKI",
+          "publishedOn": "2023-01-19T03:24:44.000Z",
+          "wordCount": null,
+          "title": "【おえかきの森/参加型】最強の絵を描く、ついてこい【#美睡の酒場/#新人Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cGzlIMURxLI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cGzlIMURxLI",
+          "publishedOn": "2023-02-12T13:00:32.000Z",
+          "wordCount": null,
+          "title": "稀羽すうが Overdose 歌ってみた  #shorts #cover #Vsinger",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
           "author": null,
           "description": "",
@@ -1128,7 +1138,7 @@
           "link": "https://www.youtube.com/watch?v=ZyL5KubbDsE",
           "publishedOn": "2023-02-11T18:00:10.000Z",
           "wordCount": null,
-          "title": "#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "title": "#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ 待ちに待った文化祭編【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -1249,16 +1259,6 @@
           "publishedOn": "2023-01-31T12:00:38.000Z",
           "wordCount": null,
           "title": "稀羽すう / 1st Single『Floating』Trailer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Hv5FWBSih_E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Hv5FWBSih_E",
-          "publishedOn": "2023-01-29T13:18:14.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見大歓迎✨『大きめのお知らせ』がある！！！！！！ ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2769,7 +2769,7 @@
           "link": "https://www.youtube.com/watch?v=80wXt9IiLX4",
           "publishedOn": "2023-02-12T12:04:21.000Z",
           "wordCount": null,
-          "title": "【歌枠】初見さん大歓迎期間♡告知あり雑談あり、sing and talk ！！【宇佐美ユノ / リアクト / vtuber】",
+          "title": "【歌枠】初見さん大歓迎♡告知あり雑談あり、英語タイトル曲縛りのsing and talk ！！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         },
         {
