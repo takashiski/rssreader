@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T13:34:25.725Z</id>
+    <id>urn:2023-02-12T14:05:50.192Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T13:34:25.725Z</updated>
+    <updated>2023-02-12T14:05:50.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[方向音痴の天才によるミステリーツアー！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=pMa_k88yBFY</id>
+        <link href="https://www.youtube.com/watch?v=pMa_k88yBFY"/>
+        <updated>2023-02-12T13:59:57.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】デビュー半年記念のお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=wIgEzEfPHBM</id>
+        <link href="https://www.youtube.com/watch?v=wIgEzEfPHBM"/>
+        <updated>2023-02-12T13:59:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#殺戮の天使】あと少し！ラストまで二人を見守り隊！！でも終わっちゃうの寂しい【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=1ANFGa2DmCo</id>
+        <link href="https://www.youtube.com/watch?v=1ANFGa2DmCo"/>
+        <updated>2023-02-12T13:54:41.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 半年記念🥂 】お披露目あり📣先着でアイコン企画！！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9C3w4by8yN4</id>
+        <link href="https://www.youtube.com/watch?v=9C3w4by8yN4"/>
+        <updated>2023-02-12T13:42:41.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【重大告知】初見さん大歓迎♡ハッピーバレンタイン、リクエスト承ります！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KaF-ip0WS54</id>
@@ -1086,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！今日の成果発表！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=FeJSQrmxQCw</id>
-        <link href="https://www.youtube.com/watch?v=FeJSQrmxQCw"/>
-        <updated>2023-02-02T19:33:49.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／木曜夜は深夜歌だぞおお～のんびりしてって！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=KNYqKPSzJYA</id>
         <link href="https://www.youtube.com/watch?v=KNYqKPSzJYA"/>
@@ -1554,15 +1581,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ロゴお披露目】眠れない夜もすやすやできるASMRらじお #すやらじ ♡4【ASMR Radio/Whisper】]]></title>
-        <id>https://www.youtube.com/watch?v=3dpveYUeYHo</id>
-        <link href="https://www.youtube.com/watch?v=3dpveYUeYHo"/>
-        <updated>2023-01-29T16:12:23.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】新しい曲を覚えた予感がする🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xHY1fEkz2Kk</id>
         <link href="https://www.youtube.com/watch?v=xHY1fEkz2Kk"/>
@@ -1959,15 +1977,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #ブルーロック 】凪誠士郎＆御影玲王＆剣城斬鉄→チームVについても語っておこうの回【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=yLBfJnCizKQ</id>
-        <link href="https://www.youtube.com/watch?v=yLBfJnCizKQ"/>
-        <updated>2023-01-25T13:43:41.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談/free talk】ひさしぶりにまったりざつだん【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=rYkWvaPyadk</id>
         <link href="https://www.youtube.com/watch?v=rYkWvaPyadk"/>
@@ -2316,15 +2325,6 @@
         <updated>2023-01-19T19:09:01.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今週もあともう少し！楽しんでいこおお～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yj8_cZeRaws</id>
-        <link href="https://www.youtube.com/watch?v=yj8_cZeRaws"/>
-        <updated>2023-01-19T17:25:46.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
