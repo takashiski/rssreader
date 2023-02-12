@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T11:05:24.676Z</id>
+    <id>urn:2023-02-12T11:34:16.109Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T11:05:24.676Z</updated>
+    <updated>2023-02-12T11:34:16.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】眠れないなら子守歌歌おうか？  sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ngKPtZSPw60</id>
+        <link href="https://www.youtube.com/watch?v=ngKPtZSPw60"/>
+        <updated>2023-02-12T11:22:01.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🗡️Dark and Darker🕯️】小さい子大好きなお姉さん悪魔とお宝さがし【天川はの/魔光リサ】]]></title>
         <id>https://www.youtube.com/watch?v=P1nWsMwaa2U</id>
@@ -2523,15 +2532,6 @@
         <updated>2023-01-15T18:02:18.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】うお～！うたいたいんだ～～！🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=lvgvg3eyeqA</id>
-        <link href="https://www.youtube.com/watch?v=lvgvg3eyeqA"/>
-        <updated>2023-01-15T15:30:57.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
