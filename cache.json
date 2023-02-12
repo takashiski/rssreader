@@ -1767,16 +1767,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AbUFdJ42xvI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AbUFdJ42xvI",
-          "publishedOn": "2023-02-12T06:41:36.000Z",
-          "wordCount": null,
-          "title": "【ASMR】安眠誘導💗耳かき/マッサージ💗気持ちよくねよ💗 ear cleaning/massage【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=NtcCE2KJ62Q",
           "author": null,
           "description": "",
@@ -1914,6 +1904,16 @@
           "publishedOn": "2023-01-28T15:17:02.000Z",
           "wordCount": null,
           "title": "【✨５万人記念✨】お披露目あり💜いっしょにお祝いしてくれるよねえ？🎉✨ over 50K thankyou💜please celebrate❕【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Mw46kSxkqrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mw46kSxkqrM",
+          "publishedOn": "2023-01-28T09:49:01.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見大歓迎✨ 土曜日おひるの最強かわいいおうた💜 karaoke【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2394,6 +2394,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WgsWO-rHGtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WgsWO-rHGtE",
+          "publishedOn": "2023-02-12T17:20:34.000Z",
+          "wordCount": null,
+          "title": "【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=MbDTaltQhZM",
           "author": null,

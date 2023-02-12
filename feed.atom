@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T17:05:34.159Z</id>
+    <id>urn:2023-02-12T17:34:23.803Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T17:05:34.159Z</updated>
+    <updated>2023-02-12T17:34:23.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=WgsWO-rHGtE</id>
+        <link href="https://www.youtube.com/watch?v=WgsWO-rHGtE"/>
+        <updated>2023-02-12T17:20:34.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[方向音痴の天才によるミステリーツアー！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=pMa_k88yBFY</id>
@@ -138,15 +147,6 @@
         <updated>2023-02-12T09:58:08.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗耳かき/マッサージ💗気持ちよくねよ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=AbUFdJ42xvI</id>
-        <link href="https://www.youtube.com/watch?v=AbUFdJ42xvI"/>
-        <updated>2023-02-12T06:41:36.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1740,6 +1740,15 @@
         <updated>2023-01-28T10:09:07.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨ 土曜日おひるの最強かわいいおうた💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Mw46kSxkqrM</id>
+        <link href="https://www.youtube.com/watch?v=Mw46kSxkqrM"/>
+        <updated>2023-01-28T09:49:01.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
