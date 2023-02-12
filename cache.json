@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
+          "publishedOn": "2023-02-12T10:14:30.000Z",
+          "wordCount": null,
+          "title": "チョコレートミルク - あぷえら (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZyL5KubbDsE",
           "author": null,
           "description": "",
@@ -1119,16 +1129,6 @@
           "publishedOn": "2023-02-11T18:00:10.000Z",
           "wordCount": null,
           "title": "#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6ZWMym40zpY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6ZWMym40zpY",
-          "publishedOn": "2023-02-11T17:43:45.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！ 盛り上がる曲をたくさん歌いたい！✦ KARAOKE【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -2763,6 +2763,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=80wXt9IiLX4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=80wXt9IiLX4",
+          "publishedOn": "2023-02-12T12:04:21.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見さん大歓迎期間♡告知あり雑談あり、sing and talk ！！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XnKZJoGhZoc",
           "author": null,
           "description": "",
@@ -2890,16 +2900,6 @@
           "publishedOn": "2023-01-22T10:49:47.000Z",
           "wordCount": null,
           "title": "【#初歌枠】初見さん大歓迎♡新年初の歌枠！！sing and talk【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S3C3WuFlKtg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S3C3WuFlKtg",
-          "publishedOn": "2023-01-21T16:48:49.000Z",
-          "wordCount": null,
-          "title": "【ASMR】初お披露目！ごりごり耳かきと囁き、ドキドキする吐息♡絶対気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
