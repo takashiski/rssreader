@@ -2532,16 +2532,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=ngKPtZSPw60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ngKPtZSPw60",
-          "publishedOn": "2023-02-12T11:22:01.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】眠れないなら子守歌歌おうか？  sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=GrBLaR3WCzI",
           "author": null,
           "description": "",
@@ -2679,6 +2669,16 @@
           "publishedOn": "2023-01-15T22:24:42.000Z",
           "wordCount": null,
           "title": "【 朝活】朝、それは素晴らしい朝。🌤【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lvgvg3eyeqA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lvgvg3eyeqA",
+          "publishedOn": "2023-01-15T15:30:57.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】うお～！うたいたいんだ～～！🎤  sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
