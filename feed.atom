@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T23:34:34.674Z</id>
+    <id>urn:2023-02-12T00:25:40.803Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-11T23:34:34.674Z</updated>
+    <updated>2023-02-12T00:25:40.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【半年記念 | #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fDRDHXe6nCU</id>
+        <link href="https://www.youtube.com/watch?v=fDRDHXe6nCU"/>
+        <updated>2023-02-12T00:18:04.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わたしだけ魔法使いになれないかもしれない？？？？【Free Talk/朝活雑談】]]></title>
         <id>https://www.youtube.com/watch?v=D7NsNNwvpqw</id>
@@ -2586,15 +2595,6 @@
         <updated>2023-01-13T14:40:11.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#shorts 】サイレントマジョリティー / 欅坂46【#花鋏キョウ / #歌ってみた 】]]></title>
-        <id>https://www.youtube.com/watch?v=6Za58-vyixg</id>
-        <link href="https://www.youtube.com/watch?v=6Za58-vyixg"/>
-        <updated>2023-01-13T12:00:04.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
 </feed>

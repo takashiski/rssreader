@@ -347,6 +347,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fDRDHXe6nCU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fDRDHXe6nCU",
+          "publishedOn": "2023-02-12T00:18:04.000Z",
+          "wordCount": null,
+          "title": "【半年記念 | #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
           "author": null,
           "description": "",
@@ -2773,16 +2783,6 @@
           "publishedOn": "2023-01-14T12:00:11.000Z",
           "wordCount": null,
           "title": "【#shorts 】 WAVE 【#花鋏キョウ / #歌ってみた 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6Za58-vyixg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6Za58-vyixg",
-          "publishedOn": "2023-01-13T12:00:04.000Z",
-          "wordCount": null,
-          "title": "【#shorts 】サイレントマジョリティー / 欅坂46【#花鋏キョウ / #歌ってみた 】",
           "imageUrl": null
         }
       ]
