@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T13:08:28.010Z</id>
+    <id>urn:2023-02-12T13:34:25.725Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T13:08:28.010Z</updated>
+    <updated>2023-02-12T13:34:25.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【重大告知】初見さん大歓迎♡ハッピーバレンタイン、リクエスト承ります！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=KaF-ip0WS54</id>
+        <link href="https://www.youtube.com/watch?v=KaF-ip0WS54"/>
+        <updated>2023-02-12T13:23:42.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】半年記念歌枠✨お知らせあり！初見さん大歓迎～／【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=pA3iHXal4ok</id>
+        <link href="https://www.youtube.com/watch?v=pA3iHXal4ok"/>
+        <updated>2023-02-12T13:10:20.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[稀羽すうが Overdose 歌ってみた  #shorts #cover #Vsinger]]></title>
         <id>https://www.youtube.com/watch?v=cGzlIMURxLI</id>
@@ -66,15 +84,6 @@
         <updated>2023-02-12T09:58:08.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【OverWatch2】ぐるるちゃんと初めてのオーバーウォッチ2！＃みこぐる【新人VTuber/神輿たらん/ジャングルキャット】]]></title>
-        <id>https://www.youtube.com/watch?v=a6_pkPmhbi4</id>
-        <link href="https://www.youtube.com/watch?v=a6_pkPmhbi4"/>
-        <updated>2023-02-12T09:51:05.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1074,6 +1083,15 @@
         <updated>2023-02-03T00:44:10.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！今日の成果発表！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FeJSQrmxQCw</id>
+        <link href="https://www.youtube.com/watch?v=FeJSQrmxQCw"/>
+        <updated>2023-02-02T19:33:49.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2139,15 +2157,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#初歌枠】初見さん大歓迎♡新年初の歌枠！！sing and talk【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=WtxCxoZGHgg</id>
-        <link href="https://www.youtube.com/watch?v=WtxCxoZGHgg"/>
-        <updated>2023-01-22T10:49:47.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【アニロイ】目指せモフ勝！めざせ生き残り！【水瓶ミア】]]></title>
         <id>https://www.youtube.com/watch?v=CcxRRf2pcHE</id>
         <link href="https://www.youtube.com/watch?v=CcxRRf2pcHE"/>
@@ -2343,15 +2352,6 @@
         <updated>2023-01-19T12:00:01.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【おえかきの森/参加型】最強の絵を描く、ついてこい【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=U8WPqROluKI</id>
-        <link href="https://www.youtube.com/watch?v=U8WPqROluKI"/>
-        <updated>2023-01-19T03:24:44.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
