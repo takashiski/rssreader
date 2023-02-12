@@ -667,7 +667,7 @@
           "link": "https://www.youtube.com/watch?v=a6_pkPmhbi4",
           "publishedOn": "2023-02-12T09:51:05.000Z",
           "wordCount": null,
-          "title": "【OverWatch2】ぐるるちゃんと初めてのオーバーウォッチ2！【新人VTuber/神輿たらん/ジャングルキャット】",
+          "title": "【OverWatch2】ぐるるちゃんと初めてのオーバーウォッチ2！＃みこぐる【新人VTuber/神輿たらん/ジャングルキャット】",
           "imageUrl": null
         },
         {
@@ -1924,6 +1924,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=E5FlknWxcR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E5FlknWxcR8",
+          "publishedOn": "2023-02-12T11:37:27.000Z",
+          "wordCount": null,
+          "title": "【スパチャ読み】ぐぐっと近くでおしゃべりしましょ💛 【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ADNof9FC9Po",
           "author": null,
           "description": "",
@@ -2061,16 +2071,6 @@
           "publishedOn": "2023-01-20T14:15:35.000Z",
           "wordCount": null,
           "title": "【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eW4tBwp9-yo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eW4tBwp9-yo",
-          "publishedOn": "2023-01-19T15:33:22.000Z",
-          "wordCount": null,
-          "title": "【サンブレイク】再び狩猟におもむくうさぎ…お手柔らかにお願いします【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
@@ -2773,16 +2773,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=80wXt9IiLX4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=80wXt9IiLX4",
-          "publishedOn": "2023-02-09T14:52:56.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見さん大歓迎期間♡告知あり雑談あり、sing and talk ！！【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=IN38A0UKEuI",
           "author": null,
           "description": "",
@@ -2900,6 +2890,16 @@
           "publishedOn": "2023-01-22T10:49:47.000Z",
           "wordCount": null,
           "title": "【#初歌枠】初見さん大歓迎♡新年初の歌枠！！sing and talk【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S3C3WuFlKtg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S3C3WuFlKtg",
+          "publishedOn": "2023-01-21T16:48:49.000Z",
+          "wordCount": null,
+          "title": "【ASMR】初お披露目！ごりごり耳かきと囁き、ドキドキする吐息♡絶対気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
