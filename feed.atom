@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T15:34:21.171Z</id>
+    <id>urn:2023-02-12T16:06:13.360Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T15:34:21.171Z</updated>
+    <updated>2023-02-12T16:06:13.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,15 +39,6 @@
         <updated>2023-02-12T13:59:57.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】デビュー半年記念のお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wIgEzEfPHBM</id>
-        <link href="https://www.youtube.com/watch?v=wIgEzEfPHBM"/>
-        <updated>2023-02-12T13:59:54.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1128,6 +1119,15 @@
         <updated>2023-02-03T00:44:10.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！今日の成果発表！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FeJSQrmxQCw</id>
+        <link href="https://www.youtube.com/watch?v=FeJSQrmxQCw"/>
+        <updated>2023-02-02T19:33:49.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
