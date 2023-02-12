@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T09:05:47.281Z</id>
+    <id>urn:2023-02-12T09:34:25.822Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-12T09:05:47.281Z</updated>
+    <updated>2023-02-12T09:34:25.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【半年記念】感謝のお手紙【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=EOL7CvH4izA</id>
-        <link href="https://www.youtube.com/watch?v=EOL7CvH4izA"/>
-        <updated>2023-02-12T06:41:56.000Z</updated>
+        <title type="html"><![CDATA[【 半年記念🥂 】お披露目あり📣先着でアイコン企画！！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9C3w4by8yN4</id>
+        <link href="https://www.youtube.com/watch?v=9C3w4by8yN4"/>
+        <updated>2023-02-12T09:15:55.000Z</updated>
         <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -1038,6 +1038,15 @@
         <updated>2023-02-03T00:44:10.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！今日の成果発表！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FeJSQrmxQCw</id>
+        <link href="https://www.youtube.com/watch?v=FeJSQrmxQCw"/>
+        <updated>2023-02-02T19:33:49.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2328,15 +2337,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【おえかきの森/参加型】最強の絵を描く、ついてこい【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=U8WPqROluKI</id>
-        <link href="https://www.youtube.com/watch?v=U8WPqROluKI"/>
-        <updated>2023-01-19T03:24:44.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠＆雑談】初見さん歓迎♡うたとざつだん【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KIXWSIumY9A</id>
         <link href="https://www.youtube.com/watch?v=KIXWSIumY9A"/>
@@ -2568,15 +2568,6 @@
         <updated>2023-01-14T12:00:11.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】一緒に盛り上がろ🎶アニソン縛り歌枠🎤anime song only karaoke【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=jYHUvo-TCWQ</id>
-        <link href="https://www.youtube.com/watch?v=jYHUvo-TCWQ"/>
-        <updated>2023-01-13T21:11:53.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
 </feed>
