@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T19:05:35.132Z</id>
+    <id>urn:2023-02-13T19:34:25.999Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T19:05:35.132Z</updated>
+    <updated>2023-02-13T19:34:25.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
+        <link href="https://www.youtube.com/watch?v=e9DKNs-hzA0"/>
+        <updated>2023-02-13T19:31:03.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】バレンタインの恋愛ソングできゅんきゅんして🍫💓໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Jxl0eUPowK4</id>
+        <link href="https://www.youtube.com/watch?v=Jxl0eUPowK4"/>
+        <updated>2023-02-13T19:20:18.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ダンガンロンパ / 第３章 #5】完全初見❕学級裁判に挑むための証拠集めから🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=2B_tbBMnSbI</id>
@@ -102,15 +120,6 @@
         <updated>2023-02-13T12:00:09.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
-        <link href="https://www.youtube.com/watch?v=e9DKNs-hzA0"/>
-        <updated>2023-02-13T11:32:15.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
