@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
+          "publishedOn": "2023-02-13T12:00:09.000Z",
+          "wordCount": null,
+          "title": "チョコレートミルク - あぷえら (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JCWQjblP7rY",
           "author": null,
           "description": "",
@@ -1139,16 +1149,6 @@
           "publishedOn": "2023-02-12T13:00:32.000Z",
           "wordCount": null,
           "title": "稀羽すうが Overdose 歌ってみた  #shorts #cover #Vsinger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
-          "publishedOn": "2023-02-12T10:14:30.000Z",
-          "wordCount": null,
-          "title": "チョコレートミルク - あぷえら (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         },
         {
@@ -2414,16 +2414,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=WgsWO-rHGtE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WgsWO-rHGtE",
-          "publishedOn": "2023-02-12T17:20:34.000Z",
-          "wordCount": null,
-          "title": "【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=MbDTaltQhZM",
           "author": null,
