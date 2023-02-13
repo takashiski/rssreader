@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JCWQjblP7rY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JCWQjblP7rY",
+          "publishedOn": "2023-02-13T15:02:17.000Z",
+          "wordCount": null,
+          "title": "今すぐチョコをくれ 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nfsrrgHKNTI",
           "author": null,
           "description": "",
@@ -1119,16 +1129,6 @@
           "publishedOn": "2023-02-13T12:00:09.000Z",
           "wordCount": null,
           "title": "チョコレートミルク - あぷえら (covered by 稀羽すう) 【歌ってみた】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JCWQjblP7rY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JCWQjblP7rY",
-          "publishedOn": "2023-02-13T10:59:15.000Z",
-          "wordCount": null,
-          "title": "今すぐチョコをくれ 【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -2783,6 +2783,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
+          "publishedOn": "2023-02-13T14:35:38.000Z",
+          "wordCount": null,
+          "title": "【重大告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vhky6_VX6vo",
           "author": null,
           "description": "",
@@ -2809,7 +2819,7 @@
           "link": "https://www.youtube.com/watch?v=KaF-ip0WS54",
           "publishedOn": "2023-02-12T13:23:42.000Z",
           "wordCount": null,
-          "title": "【重大告知】初見さん大歓迎♡ハッピーバレンタイン、リクエスト承ります！【宇佐美ユノ / リアクト / vtuber】",
+          "title": "【お知らせ】初見さん大歓迎♡バレンタイン記念リクエスト第一弾！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         },
         {
@@ -2910,16 +2920,6 @@
           "publishedOn": "2023-01-29T15:06:20.000Z",
           "wordCount": null,
           "title": "【参加型】悪役令嬢に転生したので破滅フラグ回避のため世界にVtuberを作ってみた！ #fingger 【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m5Fmqu-lRfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m5Fmqu-lRfY",
-          "publishedOn": "2023-01-28T17:13:02.000Z",
-          "wordCount": null,
-          "title": "【ASMR】癖になるにゃ！ごりごり耳かきと囁き、ドキドキする吐息♡超絶気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
