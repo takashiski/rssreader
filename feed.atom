@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T16:39:59.734Z</id>
+    <id>urn:2023-02-13T17:05:46.859Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T16:39:59.734Z</updated>
+    <updated>2023-02-13T17:05:46.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/KU100】気持ち良すぎて即寝できる！100万円超えの機材でぐっすり音圧強め耳かき。【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
+        <id>https://www.youtube.com/watch?v=-B8Q0UgHpsg</id>
+        <link href="https://www.youtube.com/watch?v=-B8Q0UgHpsg"/>
+        <updated>2023-02-13T17:02:01.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝チョコあげるから、会いに来て？💗ましゅまろもぐもぐ💗【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Z8P0enSygpM</id>
+        <link href="https://www.youtube.com/watch?v=Z8P0enSygpM"/>
+        <updated>2023-02-13T16:57:59.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】好き好き耐久💗た～っぷり甘々な囁き💗耳かきとマッサージで癒されちゃう💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8KBZPyT4XPY</id>
+        <link href="https://www.youtube.com/watch?v=8KBZPyT4XPY"/>
+        <updated>2023-02-13T16:55:16.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3EQ00AP4GLE</id>
@@ -48,15 +75,6 @@
         <updated>2023-02-13T14:35:38.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/KU100】気持ち良すぎて即寝できる！100万円超えの機材でぐっすり音圧強め耳かき。【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
-        <id>https://www.youtube.com/watch?v=-B8Q0UgHpsg</id>
-        <link href="https://www.youtube.com/watch?v=-B8Q0UgHpsg"/>
-        <updated>2023-02-13T13:20:23.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -163,15 +181,6 @@
         <id>https://www.youtube.com/watch?v=AbUFdJ42xvI</id>
         <link href="https://www.youtube.com/watch?v=AbUFdJ42xvI"/>
         <updated>2023-02-12T17:44:15.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 第３章 #5】完全初見❕学級裁判に挑むための証拠集めから🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2B_tbBMnSbI</id>
-        <link href="https://www.youtube.com/watch?v=2B_tbBMnSbI"/>
-        <updated>2023-02-12T17:34:22.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1522,15 +1531,6 @@
         <id>https://www.youtube.com/watch?v=LrodQyw2RNM</id>
         <link href="https://www.youtube.com/watch?v=LrodQyw2RNM"/>
         <updated>2023-01-31T12:33:24.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３Dで可愛くノリノリで歌っちゃお～💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=a9YWq2c9q4g</id>
-        <link href="https://www.youtube.com/watch?v=a9YWq2c9q4g"/>
-        <updated>2023-01-31T11:02:51.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
