@@ -661,6 +661,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wIgEzEfPHBM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wIgEzEfPHBM",
+          "publishedOn": "2023-02-13T03:46:56.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】デビュー半年記念のお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a6_pkPmhbi4",
           "author": null,
           "description": "",
@@ -798,16 +808,6 @@
           "publishedOn": "2023-02-04T02:44:39.000Z",
           "wordCount": null,
           "title": "【節分】大豆嫌いが30分ごとに『同接』×1食べる【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TDLkRlzvEqE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TDLkRlzvEqE",
-          "publishedOn": "2023-02-03T12:00:10.000Z",
-          "wordCount": null,
-          "title": "【初投稿】メントスコーラで検証！？【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]

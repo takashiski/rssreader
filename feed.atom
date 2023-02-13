@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T03:36:31.335Z</id>
+    <id>urn:2023-02-13T04:06:19.031Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T03:36:31.335Z</updated>
+    <updated>2023-02-13T04:06:19.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】デビュー半年記念のお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=wIgEzEfPHBM</id>
+        <link href="https://www.youtube.com/watch?v=wIgEzEfPHBM"/>
+        <updated>2023-02-13T03:46:56.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【OverWatch2】ぐるるちゃんと初めてのオーバーウォッチ2！＃みこぐる【新人VTuber/神輿たらん/ジャングルキャット】]]></title>
         <id>https://www.youtube.com/watch?v=a6_pkPmhbi4</id>
@@ -1137,15 +1146,6 @@
         <updated>2023-02-03T12:44:53.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初投稿】メントスコーラで検証！？【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TDLkRlzvEqE</id>
-        <link href="https://www.youtube.com/watch?v=TDLkRlzvEqE"/>
-        <updated>2023-02-03T12:00:10.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
