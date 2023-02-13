@@ -661,6 +661,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a6_pkPmhbi4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a6_pkPmhbi4",
+          "publishedOn": "2023-02-13T01:57:36.000Z",
+          "wordCount": null,
+          "title": "【OverWatch2】ぐるるちゃんと初めてのオーバーウォッチ2！＃みこぐる【新人VTuber/神輿たらん/ジャングルキャット】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EOL7CvH4izA",
           "author": null,
           "description": "",
@@ -798,16 +808,6 @@
           "publishedOn": "2023-02-03T12:00:10.000Z",
           "wordCount": null,
           "title": "【初投稿】メントスコーラで検証！？【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tGDAWggJedc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tGDAWggJedc",
-          "publishedOn": "2023-02-03T02:41:01.000Z",
-          "wordCount": null,
-          "title": "【GeoGuessr】方向音痴の意地見せる！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
