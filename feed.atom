@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T22:05:45.370Z</id>
+    <id>urn:2023-02-13T22:35:01.275Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T22:05:45.370Z</updated>
+    <updated>2023-02-13T22:35:01.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲリラ朝活】いっぱいおはよう言う！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gsWcj9uXzdk</id>
+        <link href="https://www.youtube.com/watch?v=gsWcj9uXzdk"/>
+        <updated>2023-02-13T22:14:57.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9TlChKY7UIg</id>
+        <link href="https://www.youtube.com/watch?v=9TlChKY7UIg"/>
+        <updated>2023-02-13T22:10:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
@@ -1077,15 +1095,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[メントスコーラを飲んで…　#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=yyBQMmyeccs</id>
-        <link href="https://www.youtube.com/watch?v=yyBQMmyeccs"/>
-        <updated>2023-02-04T15:00:43.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#音伽ねむ生誕祭2023】一緒に過ごす初めてのお誕生日🤍一緒に楽しい思い出作ろ～❣いつも一緒にいてくれてありがとう💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L4w5_rnq57k</id>
         <link href="https://www.youtube.com/watch?v=L4w5_rnq57k"/>
@@ -1128,15 +1137,6 @@
         <updated>2023-02-04T09:26:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！ランチタイム！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mJdq6C0L_gw</id>
-        <link href="https://www.youtube.com/watch?v=mJdq6C0L_gw"/>
-        <updated>2023-02-04T08:34:45.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
