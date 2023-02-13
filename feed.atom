@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T15:35:13.530Z</id>
+    <id>urn:2023-02-13T16:06:29.969Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T15:35:13.530Z</updated>
+    <updated>2023-02-13T16:06:29.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3EQ00AP4GLE</id>
+        <link href="https://www.youtube.com/watch?v=3EQ00AP4GLE"/>
+        <updated>2023-02-13T16:02:10.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=5lcRZ9BoMuk</id>
+        <link href="https://www.youtube.com/watch?v=5lcRZ9BoMuk"/>
+        <updated>2023-02-13T15:58:59.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 雑談配信🥂 】（半年記念だったから）ケーキ食べつつ振り返る🍰【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=eeqeUvpkzUM</id>
@@ -75,15 +93,6 @@
         <updated>2023-02-13T09:13:11.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3EQ00AP4GLE</id>
-        <link href="https://www.youtube.com/watch?v=3EQ00AP4GLE"/>
-        <updated>2023-02-13T08:53:35.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
@@ -1416,15 +1425,6 @@
         <updated>2023-02-01T15:00:44.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #32 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=QNAA5Uxd-c4</id>
-        <link href="https://www.youtube.com/watch?v=QNAA5Uxd-c4"/>
-        <updated>2023-02-01T13:23:54.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

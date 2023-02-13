@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5lcRZ9BoMuk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5lcRZ9BoMuk",
+          "publishedOn": "2023-02-13T15:58:59.000Z",
+          "wordCount": null,
+          "title": "【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JCWQjblP7rY",
           "author": null,
           "description": "",
@@ -1249,16 +1259,6 @@
           "publishedOn": "2023-02-02T12:29:49.000Z",
           "wordCount": null,
           "title": "この世で一番まったりエンジョイ勢  feat.夢川かなう / #原神 #リアクト原神部 【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QNAA5Uxd-c4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QNAA5Uxd-c4",
-          "publishedOn": "2023-02-01T13:23:54.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #32 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1527,7 +1527,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=3EQ00AP4GLE",
-          "publishedOn": "2023-02-13T08:53:35.000Z",
+          "publishedOn": "2023-02-13T16:02:10.000Z",
           "wordCount": null,
           "title": "#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】",
           "imageUrl": null
