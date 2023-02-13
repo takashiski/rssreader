@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JCWQjblP7rY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JCWQjblP7rY",
+          "publishedOn": "2023-02-13T10:59:15.000Z",
+          "wordCount": null,
+          "title": "今すぐチョコをくれ 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6ZWMym40zpY",
           "author": null,
           "description": "",
@@ -1249,16 +1259,6 @@
           "publishedOn": "2023-02-01T13:23:54.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #32 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NSaDMguu4zw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NSaDMguu4zw",
-          "publishedOn": "2023-01-31T15:08:46.000Z",
-          "wordCount": null,
-          "title": "【 祝 】1st Single「Floating」発売記念配信🎊🎉✨浮かれてます【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         }
       ]
