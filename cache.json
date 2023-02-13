@@ -661,6 +661,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=e9DKNs-hzA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e9DKNs-hzA0",
+          "publishedOn": "2023-02-13T11:32:15.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wIgEzEfPHBM",
           "author": null,
           "description": "",
@@ -798,16 +808,6 @@
           "publishedOn": "2023-02-04T08:34:45.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見歓迎！ランチタイム！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M0i_LQ3sVl4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M0i_LQ3sVl4",
-          "publishedOn": "2023-02-04T02:44:39.000Z",
-          "wordCount": null,
-          "title": "【節分】大豆嫌いが30分ごとに『同接』×1食べる【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
