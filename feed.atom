@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T16:06:17.825Z</id>
+    <id>urn:2023-02-14T16:40:06.186Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T16:06:17.825Z</updated>
+    <updated>2023-02-14T16:40:06.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【GeoGuessr】日本🗾のどこかに飛ばされました… 助けて❕歩き回ってどこか特定しよ✨【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=yy8iMoA6LFQ</id>
+        <link href="https://www.youtube.com/watch?v=yy8iMoA6LFQ"/>
+        <updated>2023-02-14T16:33:26.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きろ❕バレンタインはもう終わったんだよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Sz5okLFcbpQ</id>
+        <link href="https://www.youtube.com/watch?v=Sz5okLFcbpQ"/>
+        <updated>2023-02-14T16:25:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=O6674L7TiiY</id>
+        <link href="https://www.youtube.com/watch?v=O6674L7TiiY"/>
+        <updated>2023-02-14T16:21:46.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】好き好き耐久💗た～っぷり甘々な囁き💗耳かきとマッサージで癒されちゃう💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8KBZPyT4XPY</id>
+        <link href="https://www.youtube.com/watch?v=8KBZPyT4XPY"/>
+        <updated>2023-02-14T16:16:28.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Valentine's Day】愛情込めて作るから食べてね…♡【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=xW0cnqP7e6M</id>
+        <link href="https://www.youtube.com/watch?v=xW0cnqP7e6M"/>
+        <updated>2023-02-14T16:08:58.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #34 ✦ KARAOKE 🧸【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xC-7xZTEhPk</id>
@@ -48,15 +93,6 @@
         <updated>2023-02-14T14:14:58.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき2【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vA2Iig9OwIg</id>
-        <link href="https://www.youtube.com/watch?v=vA2Iig9OwIg"/>
-        <updated>2023-02-14T13:44:09.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -132,15 +168,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【👂ASMR】バレンタインのあまあま状態で幸せ耳かき【EarCleaning/ASMR for sleep/Whispering/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=6vAZszxovdY</id>
-        <link href="https://www.youtube.com/watch?v=6vAZszxovdY"/>
-        <updated>2023-02-14T08:37:12.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ばれんたいんでー？何それ美味しいの？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jGhiU3icaaA</id>
         <link href="https://www.youtube.com/watch?v=jGhiU3icaaA"/>
@@ -183,15 +210,6 @@
         <updated>2023-02-13T17:02:01.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】好き好き耐久💗た～っぷり甘々な囁き💗耳かきとマッサージで癒されちゃう💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8KBZPyT4XPY</id>
-        <link href="https://www.youtube.com/watch?v=8KBZPyT4XPY"/>
-        <updated>2023-02-13T16:55:16.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1482,15 +1500,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗ごりごり綿棒耳かきと癒しのマッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=PJfOe8mrIEw</id>
-        <link href="https://www.youtube.com/watch?v=PJfOe8mrIEw"/>
-        <updated>2023-02-01T17:47:29.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #雑談 🥂 】初見さん大歓迎～／ひさしぶりの飲酒雑談だぞおお～～🥂いっぱい話そ！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L5lR62M-C54</id>
         <link href="https://www.youtube.com/watch?v=L5lR62M-C54"/>
@@ -1551,15 +1560,6 @@
         <updated>2023-02-01T05:18:29.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎🌅 ２月最初の水曜日、気合い入れるしかないでしょ💜 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=UL5iWbBKomM</id>
-        <link href="https://www.youtube.com/watch?v=UL5iWbBKomM"/>
-        <updated>2023-02-01T00:19:21.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1626,15 +1626,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【初心者モンスト】ガンダムコラボ最終日。ハマーン様、運極狙い！！！/モンスターストライク【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=7vA3cIRD4YY</id>
-        <link href="https://www.youtube.com/watch?v=7vA3cIRD4YY"/>
-        <updated>2023-01-31T01:59:38.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【初見さん歓迎！】今月最後のお歌の時間！【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KTHcAZV_oto</id>
         <link href="https://www.youtube.com/watch?v=KTHcAZV_oto"/>
@@ -1675,6 +1666,15 @@
         <id>https://www.youtube.com/watch?v=ytgCRiW56mA</id>
         <link href="https://www.youtube.com/watch?v=ytgCRiW56mA"/>
         <updated>2023-01-30T15:21:40.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【👻つぐのひ】新作をプレイ！こ、怖いわけなくなぁ～い？【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=Ly1t1XuxxCU</id>
+        <link href="https://www.youtube.com/watch?v=Ly1t1XuxxCU"/>
+        <updated>2023-01-30T14:49:51.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
         </author>
