@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T18:36:21.156Z</id>
+    <id>urn:2023-02-14T19:05:39.734Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T18:36:21.156Z</updated>
+    <updated>2023-02-14T19:05:39.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[推し機しかいない！？シャア専用MSオンリー！ガンプラ素組してみた【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=5xOEzfgGESY</id>
+        <link href="https://www.youtube.com/watch?v=5xOEzfgGESY"/>
+        <updated>2023-02-14T19:05:00.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】好き好き囁き有り！睡眠導入♡あなただけの甘やかし耳かき♡【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
         <id>https://www.youtube.com/watch?v=PCDHX7gXkQs</id>
@@ -57,15 +66,6 @@
         <updated>2023-02-14T16:25:24.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=O6674L7TiiY</id>
-        <link href="https://www.youtube.com/watch?v=O6674L7TiiY"/>
-        <updated>2023-02-14T16:21:46.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1059,6 +1059,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【雑談】おすすめのゲーム教えて～！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=sevV-W93r2M</id>
+        <link href="https://www.youtube.com/watch?v=sevV-W93r2M"/>
+        <updated>2023-02-06T00:49:41.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=vL6crb23jjM</id>
         <link href="https://www.youtube.com/watch?v=vL6crb23jjM"/>
@@ -1578,15 +1587,6 @@
         <updated>2023-02-01T05:18:29.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ゾクゾクッ睡眠導入♡耳責めしちゃいます！/耳かき・囁き【睡眠導入/Ear Cleaning/Ear Blowing/Mouthsound】]]></title>
-        <id>https://www.youtube.com/watch?v=_E8UQPDgy2g</id>
-        <link href="https://www.youtube.com/watch?v=_E8UQPDgy2g"/>
-        <updated>2023-01-31T19:04:19.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
