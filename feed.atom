@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T13:11:09.284Z</id>
+    <id>urn:2023-02-14T13:37:30.658Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T13:11:09.284Z</updated>
+    <updated>2023-02-14T13:37:30.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#かしこまり5周年 記念ライブ! ゲストあり! 新曲弾き語りあり!【#かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=VG3g9tsSipI</id>
+        <link href="https://www.youtube.com/watch?v=VG3g9tsSipI"/>
+        <updated>2023-02-14T13:26:15.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Valentine's Day】愛情込めて作るから食べてね…♡【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=xW0cnqP7e6M</id>
+        <link href="https://www.youtube.com/watch?v=xW0cnqP7e6M"/>
+        <updated>2023-02-14T13:17:06.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】Happy Valentine❤マシュマロもぐもぐしながら飲酒雑談するよ🍹💕活動半年記念も振り返る❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AYD7k0MNhCU</id>
@@ -1014,15 +1032,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#かしこまり5周年 記念ライブ! ゲストあり! 新曲弾き語りあり!【#かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=VG3g9tsSipI</id>
-        <link href="https://www.youtube.com/watch?v=VG3g9tsSipI"/>
-        <updated>2023-02-06T12:23:29.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】おすすめのゲーム教えて～！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=sevV-W93r2M</id>
         <link href="https://www.youtube.com/watch?v=sevV-W93r2M"/>
@@ -1677,15 +1686,6 @@
         <updated>2023-01-30T23:57:51.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ぐっすり熟睡できる♡あなた専用の耳かき・マッサージ♡【睡眠導入/Ear Cleaninig/Binaural/Ear Blowing】]]></title>
-        <id>https://www.youtube.com/watch?v=aCh-k-fSvzY</id>
-        <link href="https://www.youtube.com/watch?v=aCh-k-fSvzY"/>
-        <updated>2023-01-30T19:13:52.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
