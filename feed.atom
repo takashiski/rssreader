@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T21:05:43.375Z</id>
+    <id>urn:2023-02-14T21:34:36.816Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T21:05:43.375Z</updated>
+    <updated>2023-02-14T21:34:36.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[⚠ 重大告知 ⚠ 同日に2つの超大型発表を持ってくる女。〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=TLiLxXnIFCw</id>
+        <link href="https://www.youtube.com/watch?v=TLiLxXnIFCw"/>
+        <updated>2023-02-14T21:18:17.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=O6674L7TiiY</id>
@@ -2127,15 +2136,6 @@
         <updated>2023-01-24T15:29:20.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆NeiR Replicant / #04 / 完全初見 / ついに大人になった僕。3人の旅が始まる。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=CSXlSvGKWdc</id>
-        <link href="https://www.youtube.com/watch?v=CSXlSvGKWdc"/>
-        <updated>2023-01-24T09:05:08.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
