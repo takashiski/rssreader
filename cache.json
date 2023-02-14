@@ -171,16 +171,6 @@
           "wordCount": null,
           "title": "【 #バイオハザードヴィレッジ 】バイオ８ドナ＆アンジーをさがす…！？  #5 【#紅龍イサナ /Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VmpCv76Dhmc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VmpCv76Dhmc",
-          "publishedOn": "2023-01-15T18:02:18.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】テンションがばぐった！SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
-          "imageUrl": null
         }
       ]
     },
@@ -189,6 +179,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY5jwnUvdsrsfqsMQWHau-w",
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jGhiU3icaaA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jGhiU3icaaA",
+          "publishedOn": "2023-02-14T05:43:34.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／ばれんたいんでー？何それ美味しいの？【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eeqeUvpkzUM",
           "author": null,
@@ -327,16 +327,6 @@
           "publishedOn": "2023-01-23T18:52:57.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／週初めから夜更かししちゃおおお！歌うよ【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2qTZbu77Yr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2qTZbu77Yr0",
-          "publishedOn": "2023-01-22T17:23:56.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／日曜ランチタイム！楽しんでいくぞおおお【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
