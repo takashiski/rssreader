@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T05:05:56.087Z</id>
+    <id>urn:2023-02-14T05:34:32.762Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T05:05:56.087Z</updated>
+    <updated>2023-02-14T05:34:32.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ばれんたいんでー？何それ美味しいの？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jGhiU3icaaA</id>
-        <link href="https://www.youtube.com/watch?v=jGhiU3icaaA"/>
-        <updated>2023-02-14T02:02:38.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【ゲリラ朝活】いっぱいおはよう言う！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=gsWcj9uXzdk</id>
@@ -2154,6 +2145,15 @@
         <updated>2023-01-22T23:20:42.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／日曜ランチタイム！楽しんでいくぞおおお【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2qTZbu77Yr0</id>
+        <link href="https://www.youtube.com/watch?v=2qTZbu77Yr0"/>
+        <updated>2023-01-22T17:23:56.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
