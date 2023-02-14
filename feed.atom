@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T12:45:52.519Z</id>
+    <id>urn:2023-02-14T13:11:09.284Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T12:45:52.519Z</updated>
+    <updated>2023-02-14T13:11:09.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】Happy Valentine❤マシュマロもぐもぐしながら飲酒雑談するよ🍹💕活動半年記念も振り返る❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AYD7k0MNhCU</id>
+        <link href="https://www.youtube.com/watch?v=AYD7k0MNhCU"/>
+        <updated>2023-02-14T13:00:33.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝クッキー🍪つくる❕チョコあげるから、会いに来て？💗ましゅまろｍｇ💗【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Z8P0enSygpM</id>
@@ -2181,15 +2190,6 @@
         <updated>2023-01-23T11:30:00.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】ちょっぴりお話ししよ～❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=YVg1SBrivnY</id>
-        <link href="https://www.youtube.com/watch?v=YVg1SBrivnY"/>
-        <updated>2023-01-23T02:44:56.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
