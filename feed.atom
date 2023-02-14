@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T18:06:21.606Z</id>
+    <id>urn:2023-02-14T18:36:21.156Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T18:06:21.606Z</updated>
+    <updated>2023-02-14T18:36:21.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】好き好き囁き有り！睡眠導入♡あなただけの甘やかし耳かき♡【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
+        <id>https://www.youtube.com/watch?v=PCDHX7gXkQs</id>
+        <link href="https://www.youtube.com/watch?v=PCDHX7gXkQs"/>
+        <updated>2023-02-14T18:05:14.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様 ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
@@ -366,7 +375,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【半年記念 | #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 半年記念 #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fDRDHXe6nCU</id>
         <link href="https://www.youtube.com/watch?v=fDRDHXe6nCU"/>
         <updated>2023-02-12T16:07:02.000Z</updated>
@@ -1632,15 +1641,6 @@
         <updated>2023-01-31T05:14:14.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者モンスト】ガンダムコラボ最終日。ハマーン様、運極狙い！！！/モンスターストライク【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=7vA3cIRD4YY</id>
-        <link href="https://www.youtube.com/watch?v=7vA3cIRD4YY"/>
-        <updated>2023-01-31T01:59:38.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
