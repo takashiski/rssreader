@@ -327,6 +327,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HkZzqX4UvOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HkZzqX4UvOU",
+          "publishedOn": "2023-02-14T10:20:15.000Z",
+          "wordCount": null,
+          "title": "【スクショ祭り】♡Valentine♡オンラインチェキ会【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fDRDHXe6nCU",
           "author": null,
           "description": "",
@@ -464,16 +474,6 @@
           "publishedOn": "2023-01-21T19:21:02.000Z",
           "wordCount": null,
           "title": "【#歌枠】Ch登録3500感謝‼️🎊【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U9c1xIbuhz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U9c1xIbuhz0",
-          "publishedOn": "2023-01-20T15:52:17.000Z",
-          "wordCount": null,
-          "title": "【5ヶ月＆復帰記念】声帯復活の歌枠 | Singing Stream【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1636,7 +1636,7 @@
           "link": "https://www.youtube.com/watch?v=LND_dmeXcBs",
           "publishedOn": "2023-02-14T00:43:30.000Z",
           "wordCount": null,
-          "title": "【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】",
+          "title": "【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
         },
         {
@@ -2679,16 +2679,6 @@
           "publishedOn": "2023-01-16T14:48:16.000Z",
           "wordCount": null,
           "title": "【ス二ッパーズ】オフコラボ🏠4年の仲なんだから協力くらい余裕だよね？⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=njZ2rjdXVeM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=njZ2rjdXVeM",
-          "publishedOn": "2023-01-15T22:24:42.000Z",
-          "wordCount": null,
-          "title": "【 朝活】朝、それは素晴らしい朝。🌤【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
