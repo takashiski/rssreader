@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T09:05:53.813Z</id>
+    <id>urn:2023-02-14T09:35:54.124Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T09:05:53.813Z</updated>
+    <updated>2023-02-14T09:35:54.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -96,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝チョコあげるから、会いに来て？💗ましゅまろもぐもぐ💗【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝クッキー🍪つくる❕チョコあげるから、会いに来て？💗ましゅまろｍｇ💗【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Z8P0enSygpM</id>
         <link href="https://www.youtube.com/watch?v=Z8P0enSygpM"/>
         <updated>2023-02-13T16:57:59.000Z</updated>
@@ -2559,15 +2559,6 @@
         <updated>2023-01-15T22:24:42.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #バイオハザードヴィレッジ 】バイオ８ドナ＆アンジーをさがす…！？  #5 【#紅龍イサナ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-SpjcRACdW0</id>
-        <link href="https://www.youtube.com/watch?v=-SpjcRACdW0"/>
-        <updated>2023-01-15T21:12:33.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
 </feed>
