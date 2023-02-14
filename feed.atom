@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T14:05:44.216Z</id>
+    <id>urn:2023-02-14T14:34:54.264Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T14:05:44.216Z</updated>
+    <updated>2023-02-14T14:34:54.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=5lcRZ9BoMuk</id>
+        <link href="https://www.youtube.com/watch?v=5lcRZ9BoMuk"/>
+        <updated>2023-02-14T14:33:19.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】初見さん大歓迎♡バレンタイン記念リクエスト第一弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=KaF-ip0WS54</id>
+        <link href="https://www.youtube.com/watch?v=KaF-ip0WS54"/>
+        <updated>2023-02-14T14:14:58.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき2【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vA2Iig9OwIg</id>
@@ -213,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=5lcRZ9BoMuk</id>
-        <link href="https://www.youtube.com/watch?v=5lcRZ9BoMuk"/>
-        <updated>2023-02-13T15:58:59.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 雑談配信🥂 】（半年記念だったから）ケーキ食べつつ振り返る🍰【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=eeqeUvpkzUM</id>
         <link href="https://www.youtube.com/watch?v=eeqeUvpkzUM"/>
@@ -408,15 +417,6 @@
         <updated>2023-02-12T13:42:41.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】初見さん大歓迎♡バレンタイン記念リクエスト第一弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=KaF-ip0WS54</id>
-        <link href="https://www.youtube.com/watch?v=KaF-ip0WS54"/>
-        <updated>2023-02-12T13:23:42.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
