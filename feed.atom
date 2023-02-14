@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T14:34:54.264Z</id>
+    <id>urn:2023-02-14T15:06:04.483Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T14:34:54.264Z</updated>
+    <updated>2023-02-14T15:06:04.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[きき〇〇に挑戦！？【公式切り抜き】#るっくあっとたらん #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=icKjwmLigFU</id>
+        <link href="https://www.youtube.com/watch?v=icKjwmLigFU"/>
+        <updated>2023-02-14T15:00:35.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=5lcRZ9BoMuk</id>
@@ -102,15 +111,6 @@
         <updated>2023-02-14T11:44:45.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バイノーラル雑談】のんびりひそひそお話しましょ♡【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=dERfTQ9GNC4</id>
-        <link href="https://www.youtube.com/watch?v=dERfTQ9GNC4"/>
-        <updated>2023-02-14T11:39:04.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1047,15 +1047,6 @@
         <updated>2023-02-06T13:43:00.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】おすすめのゲーム教えて～！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sevV-W93r2M</id>
-        <link href="https://www.youtube.com/watch?v=sevV-W93r2M"/>
-        <updated>2023-02-06T00:49:41.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2343,6 +2334,15 @@
         <updated>2023-01-20T17:31:10.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=BgJBs9z0Ejk</id>
+        <link href="https://www.youtube.com/watch?v=BgJBs9z0Ejk"/>
+        <updated>2023-01-20T14:15:35.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
