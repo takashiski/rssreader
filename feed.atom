@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T13:37:30.658Z</id>
+    <id>urn:2023-02-14T14:05:44.216Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T13:37:30.658Z</updated>
+    <updated>2023-02-14T14:05:44.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき2【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vA2Iig9OwIg</id>
+        <link href="https://www.youtube.com/watch?v=vA2Iig9OwIg"/>
+        <updated>2023-02-14T13:44:09.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】好き好き囁き有り！睡眠導入♡あなただけの甘やかし耳かき♡【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
+        <id>https://www.youtube.com/watch?v=PCDHX7gXkQs</id>
+        <link href="https://www.youtube.com/watch?v=PCDHX7gXkQs"/>
+        <updated>2023-02-14T13:35:59.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#かしこまり5周年 記念ライブ! ゲストあり! 新曲弾き語りあり!【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=VG3g9tsSipI</id>
@@ -1194,15 +1212,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[メントスコーラを飲んで…　#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=yyBQMmyeccs</id>
-        <link href="https://www.youtube.com/watch?v=yyBQMmyeccs"/>
-        <updated>2023-02-04T15:00:43.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#音伽ねむ生誕祭2023】一緒に過ごす初めてのお誕生日🤍一緒に楽しい思い出作ろ～❣いつも一緒にいてくれてありがとう💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L4w5_rnq57k</id>
         <link href="https://www.youtube.com/watch?v=L4w5_rnq57k"/>
@@ -1659,15 +1668,6 @@
         <updated>2023-01-31T05:14:14.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者モンスト】ガンダムコラボ最終日。ハマーン様、運極狙い！！！/モンスターストライク【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=7vA3cIRD4YY</id>
-        <link href="https://www.youtube.com/watch?v=7vA3cIRD4YY"/>
-        <updated>2023-01-31T01:59:38.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2559,15 +2559,6 @@
         <updated>2023-01-16T12:00:37.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初見さん歓迎】今日も一日がんばったので歌う！【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=dKk0Hu_XLxo</id>
-        <link href="https://www.youtube.com/watch?v=dKk0Hu_XLxo"/>
-        <updated>2023-01-16T01:49:18.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
