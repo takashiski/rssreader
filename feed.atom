@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T23:34:28.294Z</id>
+    <id>urn:2023-02-14T00:23:56.205Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T23:34:28.294Z</updated>
+    <updated>2023-02-14T00:23:56.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2586,15 +2586,6 @@
         <updated>2023-01-15T13:48:55.000Z</updated>
         <author>
             <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#shorts 】All Alone With You / EGOIST【#花鋏キョウ / #歌ってみた 】]]></title>
-        <id>https://www.youtube.com/watch?v=kwGeyL_Lmro</id>
-        <link href="https://www.youtube.com/watch?v=kwGeyL_Lmro"/>
-        <updated>2023-01-15T12:00:32.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
 </feed>
