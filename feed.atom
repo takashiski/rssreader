@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T19:05:39.734Z</id>
+    <id>urn:2023-02-14T19:34:17.698Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T19:05:39.734Z</updated>
+    <updated>2023-02-14T19:34:17.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=O6674L7TiiY</id>
+        <link href="https://www.youtube.com/watch?v=O6674L7TiiY"/>
+        <updated>2023-02-14T19:33:19.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】わしゃわしゃ梵天が気持ち良すぎるっ！耳かき責め♡睡眠導入【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
+        <id>https://www.youtube.com/watch?v=w2-ll3_3eTY</id>
+        <link href="https://www.youtube.com/watch?v=w2-ll3_3eTY"/>
+        <updated>2023-02-14T19:11:23.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推し機しかいない！？シャア専用MSオンリー！ガンプラ素組してみた【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=5xOEzfgGESY</id>
@@ -1059,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】おすすめのゲーム教えて～！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sevV-W93r2M</id>
-        <link href="https://www.youtube.com/watch?v=sevV-W93r2M"/>
-        <updated>2023-02-06T00:49:41.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=vL6crb23jjM</id>
         <link href="https://www.youtube.com/watch?v=vL6crb23jjM"/>
@@ -1479,15 +1488,6 @@
         <updated>2023-02-02T10:18:06.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ツインテールの日♡ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lOnkh_dCizY</id>
-        <link href="https://www.youtube.com/watch?v=lOnkh_dCizY"/>
-        <updated>2023-02-02T10:00:33.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
