@@ -1269,16 +1269,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=colP4ZnsqWU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=colP4ZnsqWU",
-          "publishedOn": "2023-02-14T08:07:41.000Z",
-          "wordCount": null,
-          "title": "ただいま / 雑談〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=5KQJcMDZgIc",
           "author": null,
           "description": "",
@@ -1406,6 +1396,16 @@
           "publishedOn": "2023-01-26T10:37:55.000Z",
           "wordCount": null,
           "title": "◆NeiR Replicant / #05 / 完全初見 / 新エンドを求めて。カイネ編スタート！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CSXlSvGKWdc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CSXlSvGKWdc",
+          "publishedOn": "2023-01-24T09:05:08.000Z",
+          "wordCount": null,
+          "title": "◆NeiR Replicant / #04 / 完全初見 / ついに大人になった僕。3人の旅が始まる。〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
@@ -2541,16 +2541,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=JWqSXZ_UyzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JWqSXZ_UyzQ",
-          "publishedOn": "2023-02-14T11:48:34.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】Happy Valentine🍫🧡かわいい曲でスイート気分⋆͛🎤⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=ngKPtZSPw60",
           "author": null,
