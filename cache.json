@@ -1259,6 +1259,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=colP4ZnsqWU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=colP4ZnsqWU",
+          "publishedOn": "2023-02-14T08:07:41.000Z",
+          "wordCount": null,
+          "title": "ただいま / 雑談〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5KQJcMDZgIc",
           "author": null,
           "description": "",
@@ -1386,16 +1396,6 @@
           "publishedOn": "2023-01-26T10:37:55.000Z",
           "wordCount": null,
           "title": "◆NeiR Replicant / #05 / 完全初見 / 新エンドを求めて。カイネ編スタート！〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CSXlSvGKWdc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CSXlSvGKWdc",
-          "publishedOn": "2023-01-24T09:05:08.000Z",
-          "wordCount": null,
-          "title": "◆NeiR Replicant / #04 / 完全初見 / ついに大人になった僕。3人の旅が始まる。〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
@@ -2091,6 +2091,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6vAZszxovdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6vAZszxovdY",
+          "publishedOn": "2023-02-14T08:37:12.000Z",
+          "wordCount": null,
+          "title": "【👂ASMR】バレンタインのあまあま状態で幸せ耳かき【EarCleaning/ASMR for sleep/Whispering/Binaural】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P1nWsMwaa2U",
           "author": null,
           "description": "",
@@ -2228,16 +2238,6 @@
           "publishedOn": "2023-01-30T15:21:40.000Z",
           "wordCount": null,
           "title": "【👂ASMR】息は～っ＆マッサージでお耳を暖めちゃう【Ear Blowing/Ear Massage/Binaural/Whispering】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ly1t1XuxxCU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ly1t1XuxxCU",
-          "publishedOn": "2023-01-30T14:49:51.000Z",
-          "wordCount": null,
-          "title": "【👻つぐのひ】新作をプレイ！こ、怖いわけなくなぁ～い？【天川はの】",
           "imageUrl": null
         }
       ]
