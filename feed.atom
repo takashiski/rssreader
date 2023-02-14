@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T15:35:14.900Z</id>
+    <id>urn:2023-02-14T16:06:17.825Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T15:35:14.900Z</updated>
+    <updated>2023-02-14T16:06:17.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #34 ✦ KARAOKE 🧸【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xC-7xZTEhPk</id>
+        <link href="https://www.youtube.com/watch?v=xC-7xZTEhPk"/>
+        <updated>2023-02-14T15:58:52.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】Happy Valentine🍫🧡かわいい曲でスイート気分⋆͛🎤⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JWqSXZ_UyzQ</id>
+        <link href="https://www.youtube.com/watch?v=JWqSXZ_UyzQ"/>
+        <updated>2023-02-14T15:50:41.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[きき〇〇に挑戦！？【公式切り抜き】#るっくあっとたらん #shorts]]></title>
         <id>https://www.youtube.com/watch?v=icKjwmLigFU</id>
@@ -60,15 +78,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Valentine's Day】愛情込めて作るから食べてね…♡【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=xW0cnqP7e6M</id>
-        <link href="https://www.youtube.com/watch?v=xW0cnqP7e6M"/>
-        <updated>2023-02-14T13:17:06.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】Happy Valentine❤マシュマロもぐもぐしながら飲酒雑談するよ🍹💕活動半年記念も振り返る❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AYD7k0MNhCU</id>
         <link href="https://www.youtube.com/watch?v=AYD7k0MNhCU"/>
@@ -96,15 +105,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】しゃ～～～ね～～～な～～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=SVeRRbCXh6Q</id>
-        <link href="https://www.youtube.com/watch?v=SVeRRbCXh6Q"/>
-        <updated>2023-02-14T11:44:45.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[バレンタインに チョコレートミルク 歌ってみた  #shorts #cover #Vsinger 稀羽すう]]></title>
         <id>https://www.youtube.com/watch?v=WeetYuqV0rw</id>
         <link href="https://www.youtube.com/watch?v=WeetYuqV0rw"/>
@@ -129,15 +129,6 @@
         <updated>2023-02-14T10:56:10.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スクショ祭り】♡Valentine♡オンラインチェキ会【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=HkZzqX4UvOU</id>
-        <link href="https://www.youtube.com/watch?v=HkZzqX4UvOU"/>
-        <updated>2023-02-14T10:20:15.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1266,15 +1257,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[恵方巻ゲリラ]]></title>
-        <id>https://www.youtube.com/watch?v=I4sKLAE_Hwo</id>
-        <link href="https://www.youtube.com/watch?v=I4sKLAE_Hwo"/>
-        <updated>2023-02-03T16:22:15.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【誕生日カウントダウン】みんなと過ごす初めてのお誕生日、一緒に迎えよう…🤍？お知らせもあるよ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=v2dy2uS7lDQ</id>
         <link href="https://www.youtube.com/watch?v=v2dy2uS7lDQ"/>
@@ -1641,6 +1623,15 @@
         <updated>2023-01-31T05:14:14.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【初心者モンスト】ガンダムコラボ最終日。ハマーン様、運極狙い！！！/モンスターストライク【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=7vA3cIRD4YY</id>
+        <link href="https://www.youtube.com/watch?v=7vA3cIRD4YY"/>
+        <updated>2023-01-31T01:59:38.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2325,6 +2316,15 @@
         <updated>2023-01-20T17:31:10.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【5ヶ月＆復帰記念】声帯復活の歌枠 | Singing Stream【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=U9c1xIbuhz0</id>
+        <link href="https://www.youtube.com/watch?v=U9c1xIbuhz0"/>
+        <updated>2023-01-20T15:52:17.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
