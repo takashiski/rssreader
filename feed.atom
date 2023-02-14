@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T11:34:33.349Z</id>
+    <id>urn:2023-02-14T12:08:26.737Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T11:34:33.349Z</updated>
+    <updated>2023-02-14T12:08:26.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=LND_dmeXcBs</id>
+        <link href="https://www.youtube.com/watch?v=LND_dmeXcBs"/>
+        <updated>2023-02-14T11:53:16.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】Happy Valentine🍫🧡かわいい曲でスイート気分⋆͛🎤⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JWqSXZ_UyzQ</id>
+        <link href="https://www.youtube.com/watch?v=JWqSXZ_UyzQ"/>
+        <updated>2023-02-14T11:48:34.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】しゃ～～～ね～～～な～～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=SVeRRbCXh6Q</id>
+        <link href="https://www.youtube.com/watch?v=SVeRRbCXh6Q"/>
+        <updated>2023-02-14T11:44:45.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バイノーラル雑談】のんびりひそひそお話しましょ♡【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=dERfTQ9GNC4</id>
+        <link href="https://www.youtube.com/watch?v=dERfTQ9GNC4"/>
+        <updated>2023-02-14T11:39:04.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バレンタインに チョコレートミルク を歌ってみた  #shorts #cover #Vsinger 稀羽すう]]></title>
         <id>https://www.youtube.com/watch?v=WeetYuqV0rw</id>
@@ -78,24 +114,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=LND_dmeXcBs</id>
-        <link href="https://www.youtube.com/watch?v=LND_dmeXcBs"/>
-        <updated>2023-02-14T00:43:30.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9TlChKY7UIg</id>
-        <link href="https://www.youtube.com/watch?v=9TlChKY7UIg"/>
-        <updated>2023-02-13T22:10:59.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
         <link href="https://www.youtube.com/watch?v=e9DKNs-hzA0"/>
@@ -120,15 +138,6 @@
         <updated>2023-02-13T17:02:01.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝クッキー🍪つくる❕チョコあげるから、会いに来て？💗ましゅまろｍｇ💗【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Z8P0enSygpM</id>
-        <link href="https://www.youtube.com/watch?v=Z8P0enSygpM"/>
-        <updated>2023-02-13T16:57:59.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1158,6 +1167,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[メントスコーラを飲んで…　#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=yyBQMmyeccs</id>
+        <link href="https://www.youtube.com/watch?v=yyBQMmyeccs"/>
+        <updated>2023-02-04T15:00:43.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#音伽ねむ生誕祭2023】一緒に過ごす初めてのお誕生日🤍一緒に楽しい思い出作ろ～❣いつも一緒にいてくれてありがとう💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L4w5_rnq57k</id>
         <link href="https://www.youtube.com/watch?v=L4w5_rnq57k"/>
@@ -1596,6 +1614,15 @@
         <updated>2023-01-31T13:20:36.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】コーデ紹介 #かわちい #うちゅくしい 【 #Vtuber / #月紫アリア 】]]></title>
+        <id>https://www.youtube.com/watch?v=LrodQyw2RNM</id>
+        <link href="https://www.youtube.com/watch?v=LrodQyw2RNM"/>
+        <updated>2023-01-31T12:33:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2316,15 +2343,6 @@
         <updated>2023-01-20T17:31:10.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=BgJBs9z0Ejk</id>
-        <link href="https://www.youtube.com/watch?v=BgJBs9z0Ejk"/>
-        <updated>2023-01-20T14:15:35.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
