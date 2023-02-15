@@ -641,16 +641,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=aC8lWpYU6dQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aC8lWpYU6dQ",
-          "publishedOn": "2023-02-15T19:37:12.000Z",
-          "wordCount": null,
-          "title": "【ゲリラ朝活】編集の息抜き～朝食を添えて～【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=PnRxmpa_uUY",
           "author": null,
           "description": "",
@@ -788,6 +778,16 @@
           "publishedOn": "2023-02-10T03:37:00.000Z",
           "wordCount": null,
           "title": "【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8MB-BRuNq64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8MB-BRuNq64",
+          "publishedOn": "2023-02-10T01:47:34.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】4000人記念＆4100人耐久【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
