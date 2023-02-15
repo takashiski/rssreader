@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T13:37:01.772Z</id>
+    <id>urn:2023-02-15T14:05:54.405Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T13:37:01.772Z</updated>
+    <updated>2023-02-15T14:05:54.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #アニメ 】#宇佐美ユノのおたと～く！今季アニメについて語る【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=vhky6_VX6vo</id>
+        <link href="https://www.youtube.com/watch?v=vhky6_VX6vo"/>
+        <updated>2023-02-15T13:48:37.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚠ 重大告知 ⚠ 同日に2つの超大型発表を持ってくる女。〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=TLiLxXnIFCw</id>
@@ -237,15 +246,6 @@
         <updated>2023-02-14T18:05:14.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様 ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
-        <link href="https://www.youtube.com/watch?v=F4GCfU_eX0o"/>
-        <updated>2023-02-14T17:57:15.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -597,15 +597,6 @@
         <updated>2023-02-12T14:32:45.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #アニメ 】#宇佐美ユノのおたと～く！今季アニメについて語る【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vhky6_VX6vo</id>
-        <link href="https://www.youtube.com/watch?v=vhky6_VX6vo"/>
-        <updated>2023-02-12T14:22:04.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -2370,6 +2361,15 @@
         <updated>2023-01-22T02:28:49.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】Ch登録3500感謝‼️🎊【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=6ygNl7ty2-s</id>
+        <link href="https://www.youtube.com/watch?v=6ygNl7ty2-s"/>
+        <updated>2023-01-21T19:21:02.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
