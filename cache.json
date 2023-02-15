@@ -949,7 +949,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=iSdnIgyf28g",
-          "publishedOn": "2023-02-15T12:16:16.000Z",
+          "publishedOn": "2023-02-15T16:38:05.000Z",
           "wordCount": null,
           "title": "【歌枠】たまには夜に ※睡眠には向いてません【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
@@ -1405,6 +1405,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbRXkQP-LumaBzfw-wsrrg",
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=8lQvj17ibcc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8lQvj17ibcc",
+          "publishedOn": "2023-02-15T16:28:16.000Z",
+          "wordCount": null,
+          "title": "【ノープラン】きっと歌うのであろうとは思う【皇ロゼ/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=whOkEpzBR2g",
           "author": null,
@@ -2061,13 +2071,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=TpfpVDlToYw",
+          "id": "https://www.youtube.com/watch?v=Ur9lhgCMpgA",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=TpfpVDlToYw",
-          "publishedOn": "2023-02-15T08:32:27.000Z",
+          "link": "https://www.youtube.com/watch?v=Ur9lhgCMpgA",
+          "publishedOn": "2023-02-15T16:17:26.000Z",
           "wordCount": null,
-          "title": "【🪄ホグワーツレガシー】子供入学したいで～す！【天川はの】",
+          "title": "【🔆朝活】ねぇなんでなんでなんで⛓️初見さん歓迎【天川はの】",
           "imageUrl": null
         },
         {
@@ -2218,6 +2228,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5xOEzfgGESY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5xOEzfgGESY",
+          "publishedOn": "2023-02-15T16:36:04.000Z",
+          "wordCount": null,
+          "title": "推し機しかいない！？シャア専用MSオンリー！ガンプラ素組してみた【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=w2-ll3_3eTY",
           "author": null,
           "description": "",
@@ -2355,16 +2375,6 @@
           "publishedOn": "2023-02-02T12:11:42.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん大歓迎♡美しい歌枠聴いてたら歌いたくなった熊さんです！/Singing Stream【VTuber/姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lOnkh_dCizY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lOnkh_dCizY",
-          "publishedOn": "2023-02-02T10:00:33.000Z",
-          "wordCount": null,
-          "title": "ツインテールの日♡ #shorts",
           "imageUrl": null
         }
       ]
