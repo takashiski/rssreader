@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vA2Iig9OwIg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vA2Iig9OwIg",
+          "publishedOn": "2023-02-15T04:38:17.000Z",
+          "wordCount": null,
+          "title": "【バレンタイン】チョコレートに植物のお名前かきかき2【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9TlChKY7UIg",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-09T02:00:31.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見歓迎！4100人目指す！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yXo2uLyHFMU",
-          "publishedOn": "2023-02-07T16:03:32.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見歓迎！新曲もあるよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2384,6 +2384,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=I3rNqW-8LDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I3rNqW-8LDY",
+          "publishedOn": "2023-02-15T04:38:34.000Z",
+          "wordCount": null,
+          "title": "【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Jxl0eUPowK4",
           "author": null,

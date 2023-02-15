@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T04:36:06.067Z</id>
+    <id>urn:2023-02-15T05:06:00.788Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T04:36:06.067Z</updated>
+    <updated>2023-02-15T05:06:00.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
+        <link href="https://www.youtube.com/watch?v=I3rNqW-8LDY"/>
+        <updated>2023-02-15T04:38:34.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき2【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vA2Iig9OwIg</id>
+        <link href="https://www.youtube.com/watch?v=vA2Iig9OwIg"/>
+        <updated>2023-02-15T04:38:17.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】しゃ～～～ね～～～な～～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=SVeRRbCXh6Q</id>
@@ -966,15 +984,6 @@
         <updated>2023-02-07T17:03:38.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！新曲もあるよ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yXo2uLyHFMU</id>
-        <link href="https://www.youtube.com/watch?v=yXo2uLyHFMU"/>
-        <updated>2023-02-07T16:03:32.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
