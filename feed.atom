@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T00:23:58.319Z</id>
+    <id>urn:2023-02-15T00:50:04.087Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T00:23:58.319Z</updated>
+    <updated>2023-02-15T00:50:04.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2532,15 +2532,6 @@
         <updated>2023-01-16T14:06:57.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】まだお正月…？あけおめ&慰めにきてええ！🎍【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vAR_3ZFnNX0</id>
-        <link href="https://www.youtube.com/watch?v=vAR_3ZFnNX0"/>
-        <updated>2023-01-16T12:31:05.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
 </feed>
