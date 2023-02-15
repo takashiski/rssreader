@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T14:05:54.405Z</id>
+    <id>urn:2023-02-15T14:34:59.306Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T14:05:54.405Z</updated>
+    <updated>2023-02-15T14:34:59.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -141,30 +141,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】消える可能性がとても高い！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PnRxmpa_uUY</id>
-        <link href="https://www.youtube.com/watch?v=PnRxmpa_uUY"/>
-        <updated>2023-02-15T10:24:11.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】子供入学したいで～す！【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=TpfpVDlToYw</id>
         <link href="https://www.youtube.com/watch?v=TpfpVDlToYw"/>
         <updated>2023-02-15T08:32:27.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
-        <link href="https://www.youtube.com/watch?v=I3rNqW-8LDY"/>
-        <updated>2023-02-15T04:38:34.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -975,6 +957,15 @@
         <updated>2023-02-09T05:10:40.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見歓迎！4100人目指す！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HhmLSKdnWtI</id>
+        <link href="https://www.youtube.com/watch?v=HhmLSKdnWtI"/>
+        <updated>2023-02-09T02:00:31.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
