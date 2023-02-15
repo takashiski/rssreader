@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-14T23:34:30.100Z</id>
+    <id>urn:2023-02-15T00:23:58.319Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-14T23:34:30.100Z</updated>
+    <updated>2023-02-15T00:23:58.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きろ❕バレンタインはもう終わったんだよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Sz5okLFcbpQ</id>
+        <link href="https://www.youtube.com/watch?v=Sz5okLFcbpQ"/>
+        <updated>2023-02-15T00:17:20.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9TlChKY7UIg</id>
+        <link href="https://www.youtube.com/watch?v=9TlChKY7UIg"/>
+        <updated>2023-02-15T00:01:11.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[⚠ 重大告知 ⚠ 同日に2つの超大型発表を持ってくる女。〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=TLiLxXnIFCw</id>
@@ -82,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=yy8iMoA6LFQ</id>
         <link href="https://www.youtube.com/watch?v=yy8iMoA6LFQ"/>
         <updated>2023-02-14T16:33:26.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きろ❕バレンタインはもう終わったんだよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Sz5okLFcbpQ</id>
-        <link href="https://www.youtube.com/watch?v=Sz5okLFcbpQ"/>
-        <updated>2023-02-14T16:25:24.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1011,15 +1020,6 @@
         <updated>2023-02-07T04:12:23.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ヒトカラ】チラズアートさんの新作やる。The Karaoke【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Dq-tyWgHEko</id>
-        <link href="https://www.youtube.com/watch?v=Dq-tyWgHEko"/>
-        <updated>2023-02-06T19:10:50.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2541,15 +2541,6 @@
         <updated>2023-01-16T12:31:05.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#shorts 】Deal with the devil/ Tia【#花鋏キョウ / #歌ってみた 】]]></title>
-        <id>https://www.youtube.com/watch?v=qnrrUgVUbWw</id>
-        <link href="https://www.youtube.com/watch?v=qnrrUgVUbWw"/>
-        <updated>2023-01-16T12:00:37.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
 </feed>
