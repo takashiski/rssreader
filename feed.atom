@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T11:34:32.280Z</id>
+    <id>urn:2023-02-15T12:08:14.512Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T11:34:32.280Z</updated>
+    <updated>2023-02-15T12:08:14.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで 可愛くてごめん 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=u5NMx_XEu-c</id>
+        <link href="https://www.youtube.com/watch?v=u5NMx_XEu-c"/>
+        <updated>2023-02-15T12:00:48.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アカペラで 「ちゅ、多様性。」 歌ってみた #shorts #vsinger #cover]]></title>
+        <id>https://www.youtube.com/watch?v=W5210KV8fPg</id>
+        <link href="https://www.youtube.com/watch?v=W5210KV8fPg"/>
+        <updated>2023-02-15T12:00:20.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【卒業までのカウントダウン2】]]></title>
+        <id>https://www.youtube.com/watch?v=fXfYDvfx6wY</id>
+        <link href="https://www.youtube.com/watch?v=fXfYDvfx6wY"/>
+        <updated>2023-02-15T12:00:08.000Z</updated>
+        <author>
+            <name>射貫まといちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昨日のライブ見ながら飲みまくるだけの配信 #かしこまり5周年【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2BeGYWOiWls</id>
@@ -201,15 +228,6 @@
         <updated>2023-02-14T16:08:58.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #34 ✦ KARAOKE 🧸【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xC-7xZTEhPk</id>
-        <link href="https://www.youtube.com/watch?v=xC-7xZTEhPk"/>
-        <updated>2023-02-14T15:58:52.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
