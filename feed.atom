@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T03:36:09.129Z</id>
+    <id>urn:2023-02-15T04:06:27.653Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T03:36:09.129Z</updated>
+    <updated>2023-02-15T04:06:27.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スクショ祭り】♡Valentine♡オンラインチェキ会【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HkZzqX4UvOU</id>
+        <link href="https://www.youtube.com/watch?v=HkZzqX4UvOU"/>
+        <updated>2023-02-15T04:01:35.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎🌅起きろ❕バレンタインはもう終わったんだよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Sz5okLFcbpQ</id>
@@ -2271,15 +2280,6 @@
         <updated>2023-01-22T02:28:49.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】Ch登録3500感謝‼️🎊【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=6ygNl7ty2-s</id>
-        <link href="https://www.youtube.com/watch?v=6ygNl7ty2-s"/>
-        <updated>2023-01-21T19:21:02.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
