@@ -170,16 +170,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=IKyuBYkYO1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IKyuBYkYO1M",
-          "publishedOn": "2023-02-15T05:29:49.000Z",
-          "wordCount": null,
-          "title": "【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=jGhiU3icaaA",
           "author": null,
           "description": "",
@@ -317,6 +307,16 @@
           "publishedOn": "2023-01-25T06:45:46.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／雪の日でも歌っちゃうぞおお～平日お昼の歌枠【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=WVdaWGSOuAI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WVdaWGSOuAI",
+          "publishedOn": "2023-01-23T18:52:57.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／週初めから夜更かししちゃおおお！歌うよ【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1259,6 +1259,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TLiLxXnIFCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TLiLxXnIFCw",
+          "publishedOn": "2023-02-15T13:16:12.000Z",
+          "wordCount": null,
+          "title": "⚠ 重大告知 ⚠ 同日に2つの超大型発表を持ってくる女。〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cmcJIZzks7A",
           "author": null,
           "description": "",
@@ -1386,16 +1396,6 @@
           "publishedOn": "2023-01-27T00:38:06.000Z",
           "wordCount": null,
           "title": "☀朝活雑談 / 初見歓迎 / 1月中に僕を見つけるチャンス？今！！！！/ morning freetalk【新人Vtuber/九楽ライ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Mi-68SIOp9k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Mi-68SIOp9k",
-          "publishedOn": "2023-01-26T10:37:55.000Z",
-          "wordCount": null,
-          "title": "◆NeiR Replicant / #05 / 完全初見 / 新エンドを求めて。カイネ編スタート！〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
