@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T05:34:30.589Z</id>
+    <id>urn:2023-02-15T06:06:49.359Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T05:34:30.589Z</updated>
+    <updated>2023-02-15T06:06:49.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IKyuBYkYO1M</id>
+        <link href="https://www.youtube.com/watch?v=IKyuBYkYO1M"/>
+        <updated>2023-02-15T05:29:49.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
@@ -2514,15 +2523,6 @@
         <updated>2023-01-17T01:07:11.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り 】深夜の弾き語り【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=sXlhfbtj3t0</id>
-        <link href="https://www.youtube.com/watch?v=sXlhfbtj3t0"/>
-        <updated>2023-01-16T17:57:56.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
 </feed>

@@ -161,16 +161,6 @@
           "wordCount": null,
           "title": "【 #歌枠 】かっけ～～きょくうたいたいよね🖤SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sXlhfbtj3t0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sXlhfbtj3t0",
-          "publishedOn": "2023-01-16T17:57:56.000Z",
-          "wordCount": null,
-          "title": "【 #弾き語り 】深夜の弾き語り【 #紅龍イサナ / Re:AcT 】",
-          "imageUrl": null
         }
       ]
     },
@@ -179,6 +169,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY5jwnUvdsrsfqsMQWHau-w",
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IKyuBYkYO1M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IKyuBYkYO1M",
+          "publishedOn": "2023-02-15T05:29:49.000Z",
+          "wordCount": null,
+          "title": "【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jGhiU3icaaA",
           "author": null,
