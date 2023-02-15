@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T12:45:13.941Z</id>
+    <id>urn:2023-02-15T13:10:39.881Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T12:45:13.941Z</updated>
+    <updated>2023-02-15T13:10:39.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,15 @@
         <updated>2023-02-15T12:42:57.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #34 ✦ KARAOKE 🧸【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xC-7xZTEhPk</id>
+        <link href="https://www.youtube.com/watch?v=xC-7xZTEhPk"/>
+        <updated>2023-02-15T12:39:37.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -192,15 +201,6 @@
         <updated>2023-02-15T00:01:11.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚠ 重大告知 ⚠ 同日に2つの超大型発表を持ってくる女。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=TLiLxXnIFCw</id>
-        <link href="https://www.youtube.com/watch?v=TLiLxXnIFCw"/>
-        <updated>2023-02-14T21:18:17.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1275,15 +1275,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】作業用BGM / トークなし、ノンストップで歌うエモい歌枠 ✦ Singing Stream 🦢【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yO14fb1ACyU</id>
-        <link href="https://www.youtube.com/watch?v=yO14fb1ACyU"/>
-        <updated>2023-02-05T14:46:50.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 DEVOUR 】ホラーなんてもうやらないと思ってました。無理【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Pcj4fwbZ-08</id>
         <link href="https://www.youtube.com/watch?v=Pcj4fwbZ-08"/>
@@ -2130,6 +2121,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆NeiR Replicant / #05 / 完全初見 / 新エンドを求めて。カイネ編スタート！〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=Mi-68SIOp9k</id>
+        <link href="https://www.youtube.com/watch?v=Mi-68SIOp9k"/>
+        <updated>2023-01-26T10:37:55.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#インターネット老人座談会】乙！＾＾ぽまいら集まれ～【ククルア・クレイユ/天日テラス/紅炎イザナミ/久遠なつめ】]]></title>
         <id>https://www.youtube.com/watch?v=B_70fkcH8no</id>
         <link href="https://www.youtube.com/watch?v=B_70fkcH8no"/>
@@ -2577,15 +2577,6 @@
         <updated>2023-01-17T08:19:11.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初見さん歓迎！】まったりゆったりマイペースに歌おう【皇ロゼ】]]></title>
-        <id>https://www.youtube.com/watch?v=sJqdbdiZwQg</id>
-        <link href="https://www.youtube.com/watch?v=sJqdbdiZwQg"/>
-        <updated>2023-01-17T01:07:11.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
