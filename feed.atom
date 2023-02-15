@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T18:06:18.407Z</id>
+    <id>urn:2023-02-15T18:36:40.917Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T18:06:18.407Z</updated>
+    <updated>2023-02-15T18:36:40.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,15 +66,6 @@
         <updated>2023-02-15T16:36:04.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ノープラン】きっと歌うのであろうとは思う【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8lQvj17ibcc</id>
-        <link href="https://www.youtube.com/watch?v=8lQvj17ibcc"/>
-        <updated>2023-02-15T16:28:16.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
@@ -282,15 +273,6 @@
         <updated>2023-02-14T16:47:35.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【GeoGuessr】日本🗾のどこかに飛ばされました… 助けて❕歩き回ってどこか特定しよ✨【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=yy8iMoA6LFQ</id>
-        <link href="https://www.youtube.com/watch?v=yy8iMoA6LFQ"/>
-        <updated>2023-02-14T16:33:26.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1677,6 +1659,15 @@
         <updated>2023-02-01T18:35:29.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗ごりごり綿棒耳かきと癒しのマッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=PJfOe8mrIEw</id>
+        <link href="https://www.youtube.com/watch?v=PJfOe8mrIEw"/>
+        <updated>2023-02-01T17:47:29.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
