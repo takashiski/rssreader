@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-15T17:34:49.122Z</id>
+    <id>urn:2023-02-15T18:06:18.407Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T17:34:49.122Z</updated>
+    <updated>2023-02-15T18:06:18.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】子供入学したいで～す！【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=TpfpVDlToYw</id>
+        <link href="https://www.youtube.com/watch?v=TpfpVDlToYw"/>
+        <updated>2023-02-15T17:56:19.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】今夜もご安全にお仕事❣久しぶりだから気を引き締めて挑むっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=GnRZcGsQXeM</id>
+        <link href="https://www.youtube.com/watch?v=GnRZcGsQXeM"/>
+        <updated>2023-02-15T17:47:00.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】わしゃわしゃ梵天が気持ち良すぎるっ！耳かき責め♡睡眠導入【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
         <id>https://www.youtube.com/watch?v=w2-ll3_3eTY</id>
@@ -1698,15 +1716,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【📢重大告知】すっごい事告知します🍛みんなとカレー食べながら【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=1nemm0fPAi0</id>
-        <link href="https://www.youtube.com/watch?v=1nemm0fPAi0"/>
-        <updated>2023-02-01T12:44:22.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】夕方にまったりおうた聞いてみて！癒しかわいいおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=SlEZ-YueXeU</id>
         <link href="https://www.youtube.com/watch?v=SlEZ-YueXeU"/>
@@ -2217,15 +2226,6 @@
         <updated>2023-01-24T16:01:40.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】今夜はどんな子に出会えるかな…💖？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PbCtPLNokHc</id>
-        <link href="https://www.youtube.com/watch?v=PbCtPLNokHc"/>
-        <updated>2023-01-24T15:29:20.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
