@@ -1737,6 +1737,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YM7KXqYrE1k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YM7KXqYrE1k",
+          "publishedOn": "2023-02-16T07:51:44.000Z",
+          "wordCount": null,
+          "title": "【ダンガンロンパ / 第４章 #6】完全初見❕人数が少なくなってきた…黒幕に近づいてる🔥🔥 Danganronpa【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yy8iMoA6LFQ",
           "author": null,
           "description": "",
@@ -1874,16 +1884,6 @@
           "publishedOn": "2023-02-03T16:53:09.000Z",
           "wordCount": null,
           "title": "【ASMR】安眠誘導💗可愛いメイドさんの全肯定寝かしつけ💗 ear cleaning/massage【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ROJ-_MQhAlI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ROJ-_MQhAlI",
-          "publishedOn": "2023-02-02T18:18:16.000Z",
-          "wordCount": null,
-          "title": "【ダンガンロンパ / 第２章 #3】完全初見❕完全論破してやる🔥🔥 Danganronpa【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T07:34:27.891Z</id>
+    <id>urn:2023-02-16T08:06:38.992Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T07:34:27.891Z</updated>
+    <updated>2023-02-16T08:06:38.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ダンガンロンパ / 第４章 #6】完全初見❕人数が少なくなってきた…黒幕に近づいてる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YM7KXqYrE1k</id>
+        <link href="https://www.youtube.com/watch?v=YM7KXqYrE1k"/>
+        <updated>2023-02-16T07:51:44.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ノープラン】きっと歌うのであろうとは思う【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8lQvj17ibcc</id>
@@ -1560,15 +1569,6 @@
         <updated>2023-02-02T19:22:05.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 第２章 #3】完全初見❕完全論破してやる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ROJ-_MQhAlI</id>
-        <link href="https://www.youtube.com/watch?v=ROJ-_MQhAlI"/>
-        <updated>2023-02-02T18:18:16.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
