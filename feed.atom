@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T12:44:33.711Z</id>
+    <id>urn:2023-02-16T13:10:18.792Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T12:44:33.712Z</updated>
+    <updated>2023-02-16T13:10:18.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜にのんびり歌っちゃお～～～🎤【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=hXzFL9Je9pE</id>
+        <link href="https://www.youtube.com/watch?v=hXzFL9Je9pE"/>
+        <updated>2023-02-16T13:06:33.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アカペラで さよならの夏～コクリコ坂から～ 歌ってみた #shorts #vsinger #cover]]></title>
+        <id>https://www.youtube.com/watch?v=rTG-AH4BV0w</id>
+        <link href="https://www.youtube.com/watch?v=rTG-AH4BV0w"/>
+        <updated>2023-02-16T13:00:37.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【つぐのひ】ビジネスキャーポイントを見逃すな！！！つきみにもできる！？つぐのひ 【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=lky28iue2lY</id>
@@ -1329,15 +1347,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#21 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=O-LXg0iP9nc</id>
-        <link href="https://www.youtube.com/watch?v=O-LXg0iP9nc"/>
-        <updated>2023-02-05T18:09:34.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【原神】海灯祭終了間近！にぎわいポイントを貯めます。～ヨォーヨお迎えしたい編～【Genshin Impact/VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=EBncfLspT0A</id>
         <link href="https://www.youtube.com/watch?v=EBncfLspT0A"/>
@@ -2271,15 +2280,6 @@
         <updated>2023-01-25T10:11:03.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／雪の日でも歌っちゃうぞおお～平日お昼の歌枠【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=KsbCwIV0oFA</id>
-        <link href="https://www.youtube.com/watch?v=KsbCwIV0oFA"/>
-        <updated>2023-01-25T06:45:46.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
