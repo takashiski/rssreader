@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IozAkW11eoE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IozAkW11eoE",
+          "publishedOn": "2023-02-16T10:58:58.000Z",
+          "wordCount": null,
+          "title": "【雑談】元気もりもりの女の子【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PnRxmpa_uUY",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-10T03:37:00.000Z",
           "wordCount": null,
           "title": "【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8MB-BRuNq64",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8MB-BRuNq64",
-          "publishedOn": "2023-02-10T01:47:34.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】4000人記念＆4100人耐久【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1512,6 +1512,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=IYj8t6sd8Ro",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IYj8t6sd8Ro",
+          "publishedOn": "2023-02-16T11:00:22.000Z",
+          "wordCount": null,
+          "title": "トウキョウ・シャンディ・ランデヴー / MAISONdes #shorts #かしこまり",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l3qGLzaqHfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l3qGLzaqHfY",
+          "publishedOn": "2023-02-16T10:41:58.000Z",
+          "wordCount": null,
+          "title": "昨日アップしたかったライブ後のかしこまりと猫宮ひなた",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VG3g9tsSipI",
           "author": null,
