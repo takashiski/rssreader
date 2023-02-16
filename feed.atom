@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T01:34:54.100Z</id>
+    <id>urn:2023-02-16T02:30:02.693Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T01:34:54.100Z</updated>
+    <updated>2023-02-16T02:30:02.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
+        <link href="https://www.youtube.com/watch?v=F4GCfU_eX0o"/>
+        <updated>2023-02-16T02:22:56.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🔆朝活】ねぇなんでなんでなんで⛓️初見さん歓迎【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=Ur9lhgCMpgA</id>
@@ -2265,15 +2274,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】睡眠導入ピアノオケオンリー | Singing Stream【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=dqVhbaS1ryE</id>
-        <link href="https://www.youtube.com/watch?v=dqVhbaS1ryE"/>
-        <updated>2023-01-22T16:05:49.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【お誕生日】生誕カウントダウン！！一緒にお祝いしてくれるよね？【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=AVLVtrV6Edc</id>
         <link href="https://www.youtube.com/watch?v=AVLVtrV6Edc"/>
@@ -2523,15 +2523,6 @@
         <updated>2023-01-18T11:00:17.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=gJx2hJZjCTs</id>
-        <link href="https://www.youtube.com/watch?v=gJx2hJZjCTs"/>
-        <updated>2023-01-17T13:42:20.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
