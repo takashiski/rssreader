@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T16:06:30.912Z</id>
+    <id>urn:2023-02-16T16:39:56.138Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T16:06:30.912Z</updated>
+    <updated>2023-02-16T16:39:56.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,24 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】指の調子、よさげ⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=qpses-u0aF0</id>
-        <link href="https://www.youtube.com/watch?v=qpses-u0aF0"/>
-        <updated>2023-02-16T09:13:23.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 第４章 #6】完全初見❕人数が少なくなってきた…黒幕に近づいてる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YM7KXqYrE1k</id>
-        <link href="https://www.youtube.com/watch?v=YM7KXqYrE1k"/>
-        <updated>2023-02-16T07:51:44.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ノープラン】きっと歌うのであろうとは思う【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8lQvj17ibcc</id>
         <link href="https://www.youtube.com/watch?v=8lQvj17ibcc"/>
@@ -183,15 +165,6 @@
         <updated>2023-02-15T17:16:34.000Z</updated>
         <author>
             <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】絵と酒と雑談｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=9zEzM_42ODY</id>
-        <link href="https://www.youtube.com/watch?v=9zEzM_42ODY"/>
-        <updated>2023-02-15T17:07:59.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1644,6 +1617,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ダンガンロンパ / 第２章 #3】完全初見❕完全論破してやる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ROJ-_MQhAlI</id>
+        <link href="https://www.youtube.com/watch?v=ROJ-_MQhAlI"/>
+        <updated>2023-02-02T18:18:16.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【🐉ドラゴンクエスト11S 】ヨッチ村とレベルあげで鍛えるぞ！【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=Vd9gPTe-ozE</id>
         <link href="https://www.youtube.com/watch?v=Vd9gPTe-ozE"/>
@@ -2316,6 +2298,15 @@
         <updated>2023-01-22T23:20:42.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】睡眠導入ピアノオケオンリー | Singing Stream【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=dqVhbaS1ryE</id>
+        <link href="https://www.youtube.com/watch?v=dqVhbaS1ryE"/>
+        <updated>2023-01-22T16:05:49.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
