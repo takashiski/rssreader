@@ -955,16 +955,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=0OaqI9mFoeA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0OaqI9mFoeA",
-          "publishedOn": "2023-02-16T09:06:00.000Z",
-          "wordCount": null,
-          "title": "【ホラゲ】ひとりでからおけ＝ヒトカラ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=iSdnIgyf28g",
           "author": null,
           "description": "",
@@ -1102,6 +1092,16 @@
           "publishedOn": "2023-01-21T11:15:25.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♬定期歌枠の時間！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NxFWZku9heY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NxFWZku9heY",
+          "publishedOn": "2023-01-20T13:36:06.000Z",
+          "wordCount": null,
+          "title": "【天才故】テスト問題解く【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1924,6 +1924,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lky28iue2lY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lky28iue2lY",
+          "publishedOn": "2023-02-16T14:47:34.000Z",
+          "wordCount": null,
+          "title": "【つぐのひ】ビジネスキャーポイントを見逃すな！！！つきみにもできる！？つぐのひ 【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E5FlknWxcR8",
           "author": null,
           "description": "",
@@ -2061,16 +2071,6 @@
           "publishedOn": "2023-01-21T15:35:28.000Z",
           "wordCount": null,
           "title": "【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
-          "publishedOn": "2023-01-20T14:15:35.000Z",
-          "wordCount": null,
-          "title": "【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
@@ -2880,16 +2880,6 @@
           "publishedOn": "2023-02-01T13:11:56.000Z",
           "wordCount": null,
           "title": "【ASMR】#ユノりぼ姉妹 / 初！ユノりぼ姉妹でASMRコラボ！【宇佐美ユノ / 姫熊りぼん / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ib-7rPz9jeE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ib-7rPz9jeE",
-          "publishedOn": "2023-01-30T16:24:05.000Z",
-          "wordCount": null,
-          "title": "【ASMR】にゃにゅにょ！ぞわぞわ耳かきと囁き、ドキドキする吐息♡超絶気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
