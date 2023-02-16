@@ -494,16 +494,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=cfllBwC3_iI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cfllBwC3_iI",
-          "publishedOn": "2023-02-16T09:38:42.000Z",
-          "wordCount": null,
-          "title": "【Lobotomy Corporation】今夜はミッションDay!?成長のためにがんばりたいっ❣【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=GnRZcGsQXeM",
           "author": null,
           "description": "",
@@ -641,6 +631,16 @@
           "publishedOn": "2023-01-27T18:02:51.000Z",
           "wordCount": null,
           "title": "【ライザのアトリエ】初見プレイ❣まったりと『ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜』で遊ぶよ～💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5QoukvxjKTU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5QoukvxjKTU",
+          "publishedOn": "2023-01-25T18:28:42.000Z",
+          "wordCount": null,
+          "title": "【ASMR/睡眠導入】一緒にぬくぬくして寝よ…？いっぱい癒やしてあげるからおいで🤍【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1286,6 +1286,16 @@
           "publishedOn": "2023-02-15T12:00:48.000Z",
           "wordCount": null,
           "title": "九楽ライ/1stSingle『白と枷』Trailer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zXgEcMHg-lQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zXgEcMHg-lQ",
+          "publishedOn": "2023-02-09T17:08:10.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / 250人におはようって言うまで終わらない朝🔥見つけて～～っ！ / morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         },
         {
