@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aC8lWpYU6dQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aC8lWpYU6dQ",
+          "publishedOn": "2023-02-16T11:24:50.000Z",
+          "wordCount": null,
+          "title": "【ゲリラ朝活】編集の息抜き～朝食を添えて～【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IozAkW11eoE",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-10T11:50:07.000Z",
           "wordCount": null,
           "title": "【激ムズ！？】コンビニのピザまんで『ききピザまん』してみた【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OJ60ZbYOXPw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OJ60ZbYOXPw",
-          "publishedOn": "2023-02-10T03:37:00.000Z",
-          "wordCount": null,
-          "title": "【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
