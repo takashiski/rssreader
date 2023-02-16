@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T02:30:02.693Z</id>
+    <id>urn:2023-02-16T02:52:17.696Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-16T02:30:02.693Z</updated>
+    <updated>2023-02-16T02:52:17.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IKyuBYkYO1M</id>
+        <link href="https://www.youtube.com/watch?v=IKyuBYkYO1M"/>
+        <updated>2023-02-16T02:34:56.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
@@ -2226,15 +2235,6 @@
         <updated>2023-01-24T16:01:40.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週初めから夜更かししちゃおおお！歌うよ【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WVdaWGSOuAI</id>
-        <link href="https://www.youtube.com/watch?v=WVdaWGSOuAI"/>
-        <updated>2023-01-23T18:52:57.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
