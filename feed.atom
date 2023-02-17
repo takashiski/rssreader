@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T07:34:28.401Z</id>
+    <id>urn:2023-02-17T08:06:48.424Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T07:34:28.402Z</updated>
+    <updated>2023-02-17T08:06:48.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【射貫まとい卒業スペシャル】5人で最後のコラボ！お絵描き伝言ゲームで大混乱！？ #シンキロウ5【Gartic Phone/sinkirow】]]></title>
+        <id>https://www.youtube.com/watch?v=OyO2W0zVbRI</id>
+        <link href="https://www.youtube.com/watch?v=OyO2W0zVbRI"/>
+        <updated>2023-02-17T07:55:46.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】の～ぷらん雑談❣脱線しながらお話しする💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=p1p1m5Vkz8k</id>
+        <link href="https://www.youtube.com/watch?v=p1p1m5Vkz8k"/>
+        <updated>2023-02-17T07:39:33.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【リスナー参加型】オレに恋文よこせ～～～～～～～～～ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=hT3yHqGSu3c</id>
@@ -273,6 +291,15 @@
         <updated>2023-02-15T16:36:04.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【シャンプー】超絶気持ちいいASMR♡寝落ち確実/囁き/ドキドキする吐息/美容院【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=W0jeFQCcZZc</id>
+        <link href="https://www.youtube.com/watch?v=W0jeFQCcZZc"/>
+        <updated>2023-02-15T15:55:44.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1590,15 +1617,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】ゾクゾク指耳かき♡睡眠導入【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
-        <id>https://www.youtube.com/watch?v=H-XWq7gRVNA</id>
-        <link href="https://www.youtube.com/watch?v=H-XWq7gRVNA"/>
-        <updated>2023-02-03T17:28:35.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗可愛いメイドさんの全肯定寝かしつけ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=yynIbEERyas</id>
         <link href="https://www.youtube.com/watch?v=yynIbEERyas"/>
@@ -2118,15 +2136,6 @@
         <updated>2023-01-27T22:07:34.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣まったりと『ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜』で遊ぶよ～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=lZoaJVAcv7w</id>
-        <link href="https://www.youtube.com/watch?v=lZoaJVAcv7w"/>
-        <updated>2023-01-27T18:02:51.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
