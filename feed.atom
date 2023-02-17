@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T01:34:46.978Z</id>
+    <id>urn:2023-02-17T02:31:49.884Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T01:34:46.978Z</updated>
+    <updated>2023-02-17T02:31:49.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】元気もりもりの女の子【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IozAkW11eoE</id>
+        <link href="https://www.youtube.com/watch?v=IozAkW11eoE"/>
+        <updated>2023-02-17T01:48:00.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☀朝活雑談 / 250人におはようって言うまで終わらない朝🔥見つけて～～っ！ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=zXgEcMHg-lQ</id>
@@ -1011,15 +1020,6 @@
         <updated>2023-02-10T05:52:03.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】歌枠×3コのスパチャ読みとフリートーク【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=OJ60ZbYOXPw</id>
-        <link href="https://www.youtube.com/watch?v=OJ60ZbYOXPw"/>
-        <updated>2023-02-10T03:37:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
