@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sIctyBnzPn0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sIctyBnzPn0",
+          "publishedOn": "2023-02-16T23:59:36.000Z",
+          "wordCount": null,
+          "title": "【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9zEzM_42ODY",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2023-01-26T03:21:29.000Z",
           "wordCount": null,
           "title": "【#インターネット老人座談会】乙！＾＾ぽまいら集まれ～【ククルア・クレイユ/天日テラス/紅炎イザナミ/久遠なつめ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N8MyqpyFG7c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N8MyqpyFG7c",
-          "publishedOn": "2023-01-25T03:48:56.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】PSYCHO-PASS 縛り【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2743,16 +2743,6 @@
           "publishedOn": "2023-01-19T12:00:01.000Z",
           "wordCount": null,
           "title": "【#shorts 】LOVE&ROLL / supercell【#花鋏キョウ / #歌ってみた 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mfjoxsuAQPA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mfjoxsuAQPA",
-          "publishedOn": "2023-01-18T12:00:40.000Z",
-          "wordCount": null,
-          "title": "【#shorts 】Ghost of a smile / EGOIST【#花鋏キョウ / #歌ってみた 】",
           "imageUrl": null
         }
       ]
