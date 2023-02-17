@@ -661,16 +661,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=VPzxyKlQ_aA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VPzxyKlQ_aA",
-          "publishedOn": "2023-02-17T08:31:37.000Z",
-          "wordCount": null,
-          "title": "【ホグワーツ・レガシー】新しい授業受ける！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=IozAkW11eoE",
           "author": null,
           "description": "",
@@ -798,6 +788,16 @@
           "publishedOn": "2023-02-11T17:33:00.000Z",
           "wordCount": null,
           "title": "【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DCKSHzznOkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DCKSHzznOkc",
+          "publishedOn": "2023-02-10T19:39:16.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見歓迎！消えちゃったアーカイブのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
