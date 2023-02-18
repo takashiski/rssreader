@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=js0fZzdk5lM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=js0fZzdk5lM",
+          "publishedOn": "2023-02-18T21:27:59.000Z",
+          "wordCount": null,
+          "title": "【歌枠/プリキュア】プリキュア縛り歌枠！無敵なんだから🤍singing【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VPzxyKlQ_aA",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-02-12T21:26:36.000Z",
           "wordCount": null,
           "title": "【半年記念】感謝のお手紙【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1wSXCt-TJZM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1wSXCt-TJZM",
-          "publishedOn": "2023-02-11T17:33:00.000Z",
-          "wordCount": null,
-          "title": "【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]

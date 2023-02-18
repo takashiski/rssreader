@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T21:05:39.078Z</id>
+    <id>urn:2023-02-18T21:34:24.415Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T21:05:39.079Z</updated>
+    <updated>2023-02-18T21:34:24.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/プリキュア】プリキュア縛り歌枠！無敵なんだから🤍singing【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=js0fZzdk5lM</id>
+        <link href="https://www.youtube.com/watch?v=js0fZzdk5lM"/>
+        <updated>2023-02-18T21:27:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
@@ -1083,15 +1092,6 @@
         <updated>2023-02-11T18:00:10.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1wSXCt-TJZM</id>
-        <link href="https://www.youtube.com/watch?v=1wSXCt-TJZM"/>
-        <updated>2023-02-11T17:33:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
