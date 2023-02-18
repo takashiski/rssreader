@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T15:05:51.643Z</id>
+    <id>urn:2023-02-18T15:34:25.899Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T15:05:51.643Z</updated>
+    <updated>2023-02-18T15:34:25.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】今夜もつきみをべた褒めなさい♡【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=AcRk9QoDodw</id>
+        <link href="https://www.youtube.com/watch?v=AcRk9QoDodw"/>
+        <updated>2023-02-18T15:09:16.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌＆告知】初見さん大歓迎期間♡歌＆バレンタイングッズ今日販売告知ー！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=pIMFYCRu_F4</id>
@@ -75,15 +84,6 @@
         <updated>2023-02-18T03:24:28.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
-        <link href="https://www.youtube.com/watch?v=LldOq-wLAZ8"/>
-        <updated>2023-02-18T02:32:31.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -2085,6 +2085,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】前回出会ったあの子、どんな子かなぁ…💕？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=kEy0qM12t_8</id>
+        <link href="https://www.youtube.com/watch?v=kEy0qM12t_8"/>
+        <updated>2023-01-28T19:52:58.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#歌枠】高評価300感謝‼️🎊【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-e-yZhltC3k</id>
         <link href="https://www.youtube.com/watch?v=-e-yZhltC3k"/>
@@ -2505,15 +2514,6 @@
         <updated>2023-01-20T17:31:10.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=BgJBs9z0Ejk</id>
-        <link href="https://www.youtube.com/watch?v=BgJBs9z0Ejk"/>
-        <updated>2023-01-20T14:15:35.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>

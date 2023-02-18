@@ -484,16 +484,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=LldOq-wLAZ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LldOq-wLAZ8",
-          "publishedOn": "2023-02-18T02:32:31.000Z",
-          "wordCount": null,
-          "title": "【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=p1p1m5Vkz8k",
           "author": null,
           "description": "",
@@ -631,6 +621,16 @@
           "publishedOn": "2023-01-29T15:16:06.000Z",
           "wordCount": null,
           "title": "【雑談】ゲーミングチェアとPCデスク組み立てる❣見守って💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kEy0qM12t_8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kEy0qM12t_8",
+          "publishedOn": "2023-01-28T19:52:58.000Z",
+          "wordCount": null,
+          "title": "【Lobotomy Corporation】前回出会ったあの子、どんな子かなぁ…💕？【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1914,6 +1914,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AcRk9QoDodw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AcRk9QoDodw",
+          "publishedOn": "2023-02-18T15:09:16.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】今夜もつきみをべた褒めなさい♡【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E5FlknWxcR8",
           "author": null,
           "description": "",
@@ -2051,16 +2061,6 @@
           "publishedOn": "2023-01-21T15:35:28.000Z",
           "wordCount": null,
           "title": "【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
-          "publishedOn": "2023-01-20T14:15:35.000Z",
-          "wordCount": null,
-          "title": "【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
