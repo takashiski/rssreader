@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-17T23:34:29.308Z</id>
+    <id>urn:2023-02-18T00:24:27.170Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T23:34:29.308Z</updated>
+    <updated>2023-02-18T00:24:27.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-02-17T16:29:37.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝から何でも答えてくれるアイドルがいるらしい。【Free Talk/朝活雑談】]]></title>
-        <id>https://www.youtube.com/watch?v=BGZ6HKHx-SA</id>
-        <link href="https://www.youtube.com/watch?v=BGZ6HKHx-SA"/>
-        <updated>2023-02-17T16:16:17.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1536,6 +1527,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】ゴシゴシ気持ち良すぎる！音圧強め♡雑オイルマッサージ♡【Oil Ear Massage/Ear Blowing/睡眠導入】]]></title>
+        <id>https://www.youtube.com/watch?v=cvaBEKHp4xs</id>
+        <link href="https://www.youtube.com/watch?v=cvaBEKHp4xs"/>
+        <updated>2023-02-04T17:56:13.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【🐉ドラゴンクエスト11S 】いよいよ終盤!?レベルあげて進んじゃえ【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=lyPeuwzrQ2k</id>
         <link href="https://www.youtube.com/watch?v=lyPeuwzrQ2k"/>
@@ -2568,15 +2568,6 @@
         <updated>2023-01-19T15:50:40.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#shorts 】LOVE&ROLL / supercell【#花鋏キョウ / #歌ってみた 】]]></title>
-        <id>https://www.youtube.com/watch?v=2wG5m7KaJ4o</id>
-        <link href="https://www.youtube.com/watch?v=2wG5m7KaJ4o"/>
-        <updated>2023-01-19T12:00:01.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
 </feed>
