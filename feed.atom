@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T08:35:39.675Z</id>
+    <id>urn:2023-02-18T09:05:56.949Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T08:35:39.675Z</updated>
+    <updated>2023-02-18T09:05:56.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【SINGING 歌枠】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HMndtIJBmfU</id>
+        <link href="https://www.youtube.com/watch?v=HMndtIJBmfU"/>
+        <updated>2023-02-18T08:39:13.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🚫限定ASMR】腕・足・頬・胸💕どきどきASMR♡【はのを飼いたい♡プランメンバー】]]></title>
         <id>https://www.youtube.com/watch?v=nOYZVGlQLSQ</id>
@@ -2262,15 +2271,6 @@
         <updated>2023-01-26T11:00:34.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#インターネット老人座談会】乙！＾＾ぽまいら集まれ～【ククルア・クレイユ/天日テラス/紅炎イザナミ/久遠なつめ】]]></title>
-        <id>https://www.youtube.com/watch?v=B_70fkcH8no</id>
-        <link href="https://www.youtube.com/watch?v=B_70fkcH8no"/>
-        <updated>2023-01-26T03:21:29.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>

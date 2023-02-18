@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HMndtIJBmfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HMndtIJBmfU",
+          "publishedOn": "2023-02-18T08:39:13.000Z",
+          "wordCount": null,
+          "title": "【SINGING 歌枠】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sIctyBnzPn0",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2023-01-28T18:54:32.000Z",
           "wordCount": null,
           "title": "【#歌枠】高評価300感謝‼️🎊【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B_70fkcH8no",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B_70fkcH8no",
-          "publishedOn": "2023-01-26T03:21:29.000Z",
-          "wordCount": null,
-          "title": "【#インターネット老人座談会】乙！＾＾ぽまいら集まれ～【ククルア・クレイユ/天日テラス/紅炎イザナミ/久遠なつめ】",
           "imageUrl": null
         }
       ]
