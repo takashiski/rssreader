@@ -1914,16 +1914,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AcRk9QoDodw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AcRk9QoDodw",
-          "publishedOn": "2023-02-18T10:40:49.000Z",
-          "wordCount": null,
-          "title": "【スナックつきみ】今夜もつきみをべた褒めなさい♡【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=E5FlknWxcR8",
           "author": null,
           "description": "",
@@ -2061,6 +2051,16 @@
           "publishedOn": "2023-01-21T15:35:28.000Z",
           "wordCount": null,
           "title": "【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
+          "publishedOn": "2023-01-20T14:15:35.000Z",
+          "wordCount": null,
+          "title": "【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
@@ -2723,6 +2723,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pIMFYCRu_F4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pIMFYCRu_F4",
+          "publishedOn": "2023-02-18T14:42:38.000Z",
+          "wordCount": null,
+          "title": "【歌＆告知】初見さん大歓迎期間♡歌＆バレンタイングッズ今日販売告知ー！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W0jeFQCcZZc",
           "author": null,
           "description": "",
@@ -2779,7 +2789,7 @@
           "link": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
           "publishedOn": "2023-02-13T14:35:38.000Z",
           "wordCount": null,
-          "title": "【重大告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】",
+          "title": "【告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         },
         {
@@ -2850,16 +2860,6 @@
           "publishedOn": "2023-02-02T12:15:06.000Z",
           "wordCount": null,
           "title": "【 歌枠】レオちゃんとお歌のコラボ～！🌻🎀 sing and talk 第二弾！！【宇佐美ユノ / 獅子神レオナ / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NDyInaqvNjo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NDyInaqvNjo",
-          "publishedOn": "2023-02-01T13:11:56.000Z",
-          "wordCount": null,
-          "title": "【ASMR】#ユノりぼ姉妹 / 初！ユノりぼ姉妹でASMRコラボ！【宇佐美ユノ / 姫熊りぼん / vtuber】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T14:34:24.978Z</id>
+    <id>urn:2023-02-18T15:05:51.643Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T14:34:24.978Z</updated>
+    <updated>2023-02-18T15:05:51.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌＆告知】初見さん大歓迎期間♡歌＆バレンタイングッズ今日販売告知ー！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=pIMFYCRu_F4</id>
+        <link href="https://www.youtube.com/watch?v=pIMFYCRu_F4"/>
+        <updated>2023-02-18T14:42:38.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【SINGING 歌枠】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=HMndtIJBmfU</id>
@@ -39,15 +48,6 @@
         <updated>2023-02-18T11:00:29.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】今夜もつきみをべた褒めなさい♡【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=AcRk9QoDodw</id>
-        <link href="https://www.youtube.com/watch?v=AcRk9QoDodw"/>
-        <updated>2023-02-18T10:40:49.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -807,7 +807,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【重大告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <title type="html"><![CDATA[【告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=uyX0Hkqns0o</id>
         <link href="https://www.youtube.com/watch?v=uyX0Hkqns0o"/>
         <updated>2023-02-13T14:35:38.000Z</updated>
@@ -1923,15 +1923,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】#ユノりぼ姉妹 / 初！ユノりぼ姉妹でASMRコラボ！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NDyInaqvNjo</id>
-        <link href="https://www.youtube.com/watch?v=NDyInaqvNjo"/>
-        <updated>2023-02-01T13:11:56.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】夕方にまったりおうた聞いてみて！癒しかわいいおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=SlEZ-YueXeU</id>
         <link href="https://www.youtube.com/watch?v=SlEZ-YueXeU"/>
@@ -2514,6 +2505,15 @@
         <updated>2023-01-20T17:31:10.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=BgJBs9z0Ejk</id>
+        <link href="https://www.youtube.com/watch?v=BgJBs9z0Ejk"/>
+        <updated>2023-01-20T14:15:35.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
