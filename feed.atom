@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T22:34:26.847Z</id>
+    <id>urn:2023-02-18T23:05:56.059Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T22:34:26.847Z</updated>
+    <updated>2023-02-18T23:05:56.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2541,15 +2541,6 @@
         <updated>2023-01-20T13:25:55.000Z</updated>
         <author>
             <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チェンソーマンOP】KICK BACK / Covered by 獅子神レオナ 【歌ってみた】#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=YABs9if5P4E</id>
-        <link href="https://www.youtube.com/watch?v=YABs9if5P4E"/>
-        <updated>2023-01-20T11:00:23.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
