@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T11:34:25.430Z</id>
+    <id>urn:2023-02-18T12:07:14.987Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T11:34:25.430Z</updated>
+    <updated>2023-02-18T12:07:14.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡早く春夏になってほしいね【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qEl7Rdk0iwY</id>
+        <link href="https://www.youtube.com/watch?v=qEl7Rdk0iwY"/>
+        <updated>2023-02-18T11:54:11.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【盗撮】ライブ中にこたつから登場したVtuber本番後もずっとくつろぐ　#shorts]]></title>
         <id>https://www.youtube.com/watch?v=W9sHNuZlFpU</id>
@@ -2469,15 +2478,6 @@
         <updated>2023-01-22T02:35:25.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】OHAYOUGOZAIMASU 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=CGuTajOocUo</id>
-        <link href="https://www.youtube.com/watch?v=CGuTajOocUo"/>
-        <updated>2023-01-22T02:28:49.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
