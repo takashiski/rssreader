@@ -1259,6 +1259,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WQLm7EsO7QY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WQLm7EsO7QY",
+          "publishedOn": "2023-02-18T16:27:46.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing /  日曜昼の元気なアニソン回✨初見歓迎だっ/karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zXgEcMHg-lQ",
           "author": null,
           "description": "",
@@ -1396,16 +1406,6 @@
           "publishedOn": "2023-01-28T10:42:43.000Z",
           "wordCount": null,
           "title": "◆NeiR Replicant / #06 / 完全初見 / Bエンドみるぞ...！マモノの声が分かるようになったんだ。〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LtRHzvnCO60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LtRHzvnCO60",
-          "publishedOn": "2023-01-27T00:38:06.000Z",
-          "wordCount": null,
-          "title": "☀朝活雑談 / 初見歓迎 / 1月中に僕を見つけるチャンス？今！！！！/ morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
@@ -2384,6 +2384,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6m5J6oufupY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6m5J6oufupY",
+          "publishedOn": "2023-02-18T16:35:33.000Z",
+          "wordCount": null,
+          "title": "【原神#36】伝説任務⌇天下人の章 第一幕「泡影照らし浮世の風流」⚔【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=6ig48hOt4NI",
           "author": null,
