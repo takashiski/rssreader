@@ -1934,16 +1934,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=lky28iue2lY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lky28iue2lY",
-          "publishedOn": "2023-02-16T14:47:34.000Z",
-          "wordCount": null,
-          "title": "【つぐのひ】ビジネスキャーポイントを見逃すな！！！つきみにもできる！？つぐのひ 【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=E5FlknWxcR8",
           "author": null,
           "description": "",
@@ -2081,6 +2071,16 @@
           "publishedOn": "2023-01-21T15:35:28.000Z",
           "wordCount": null,
           "title": "【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BgJBs9z0Ejk",
+          "publishedOn": "2023-01-20T14:15:35.000Z",
+          "wordCount": null,
+          "title": "【黄泉～悪夢のアイランド～】実写ホラーをキチンと楽しむ！？正しいリアクションを心掛けるうさぎ【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
