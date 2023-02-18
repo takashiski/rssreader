@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T17:34:28.568Z</id>
+    <id>urn:2023-02-18T18:06:00.113Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T17:34:28.568Z</updated>
+    <updated>2023-02-18T18:06:00.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
+        <link href="https://www.youtube.com/watch?v=LldOq-wLAZ8"/>
+        <updated>2023-02-18T17:40:20.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=bjROOdOvgIo</id>
@@ -2118,15 +2127,6 @@
         <updated>2023-01-29T06:58:17.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】前回出会ったあの子、どんな子かなぁ…💕？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=kEy0qM12t_8</id>
-        <link href="https://www.youtube.com/watch?v=kEy0qM12t_8"/>
-        <updated>2023-01-28T19:52:58.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
