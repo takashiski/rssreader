@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T07:05:58.252Z</id>
+    <id>urn:2023-02-19T07:34:21.585Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T07:05:58.252Z</updated>
+    <updated>2023-02-19T07:34:21.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】ククルア絵かき歌かんがえる｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=egRzr0U3eiY</id>
+        <link href="https://www.youtube.com/watch?v=egRzr0U3eiY"/>
+        <updated>2023-02-19T07:20:48.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🐈Stray】ねこちゃんになるにゃ【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=Z1EcUlfoJEA</id>
@@ -102,15 +111,6 @@
         <updated>2023-02-18T17:22:18.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】ククルア絵かき歌かんがえる｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=egRzr0U3eiY</id>
-        <link href="https://www.youtube.com/watch?v=egRzr0U3eiY"/>
-        <updated>2023-02-18T16:59:03.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
