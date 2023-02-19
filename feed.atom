@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T02:30:47.760Z</id>
+    <id>urn:2023-02-19T03:09:22.284Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T02:30:47.760Z</updated>
+    <updated>2023-02-19T03:09:22.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/プリキュア】プリキュア縛り歌枠！無敵なんだから🤍singing【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=js0fZzdk5lM</id>
+        <link href="https://www.youtube.com/watch?v=js0fZzdk5lM"/>
+        <updated>2023-02-19T02:38:27.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
@@ -30,15 +39,6 @@
         <updated>2023-02-18T16:59:03.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】喉をいたわる優しい朝 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=TN3_foVXEaw</id>
-        <link href="https://www.youtube.com/watch?v=TN3_foVXEaw"/>
-        <updated>2023-02-18T16:58:48.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1083,15 +1083,6 @@
         <updated>2023-02-11T18:00:10.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホグワーツ・レガシー】出来るか分からない枠【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1wSXCt-TJZM</id>
-        <link href="https://www.youtube.com/watch?v=1wSXCt-TJZM"/>
-        <updated>2023-02-11T17:33:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2370,6 +2361,15 @@
         <updated>2023-01-25T12:50:06.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡めちゃくちゃさむいです【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=nvh6HL_Up6M</id>
+        <link href="https://www.youtube.com/watch?v=nvh6HL_Up6M"/>
+        <updated>2023-01-25T10:11:03.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
