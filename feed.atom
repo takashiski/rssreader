@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T17:05:35.834Z</id>
+    <id>urn:2023-02-19T17:34:26.647Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T17:05:35.834Z</updated>
+    <updated>2023-02-19T17:34:26.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】えもめの曲⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=-B1R32B0nmM</id>
+        <link href="https://www.youtube.com/watch?v=-B1R32B0nmM"/>
+        <updated>2023-02-19T17:31:26.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】ぎゅっと離さない♡ゼロ距離で心音/囁き耐久♡睡眠導入【Heart Beat/Binaural/Ear Massage/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=mwNgmGLvXGY</id>
+        <link href="https://www.youtube.com/watch?v=mwNgmGLvXGY"/>
+        <updated>2023-02-19T17:27:03.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=4vIEArkjEV0</id>
@@ -12,15 +30,6 @@
         <updated>2023-02-19T15:02:42.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週末深夜の歌枠だあああ【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nBMsW5J1IWI</id>
-        <link href="https://www.youtube.com/watch?v=nBMsW5J1IWI"/>
-        <updated>2023-02-19T14:40:02.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -111,15 +120,6 @@
         <updated>2023-02-19T06:54:43.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ぎゅっと離さない♡ゼロ距離で心音/囁き耐久♡睡眠導入【Heart Beat/Binaural/Ear Massage/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=mwNgmGLvXGY</id>
-        <link href="https://www.youtube.com/watch?v=mwNgmGLvXGY"/>
-        <updated>2023-02-19T06:40:22.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2244,6 +2244,15 @@
         <updated>2023-01-28T04:13:56.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／初の夕方お歌だあああ～楽しんでこおおお【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZWXQ8-Q2huA</id>
+        <link href="https://www.youtube.com/watch?v=ZWXQ8-Q2huA"/>
+        <updated>2023-01-27T22:17:48.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
