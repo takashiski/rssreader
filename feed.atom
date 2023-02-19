@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T06:35:48.095Z</id>
+    <id>urn:2023-02-19T07:05:58.252Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T06:35:48.095Z</updated>
+    <updated>2023-02-19T07:05:58.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🐈Stray】ねこちゃんになるにゃ【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=Z1EcUlfoJEA</id>
+        <link href="https://www.youtube.com/watch?v=Z1EcUlfoJEA"/>
+        <updated>2023-02-19T07:02:16.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing /  日曜昼の元気なアニソン回✨初見歓迎だっ/karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=WQLm7EsO7QY</id>
+        <link href="https://www.youtube.com/watch?v=WQLm7EsO7QY"/>
+        <updated>2023-02-19T06:54:43.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】ぎゅっと離さない♡ゼロ距離で心音/囁き耐久♡睡眠導入【Heart Beat/Binaural/Ear Massage/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=mwNgmGLvXGY</id>
+        <link href="https://www.youtube.com/watch?v=mwNgmGLvXGY"/>
+        <updated>2023-02-19T06:40:22.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #弾き語り / #歌枠 】えもめの曲⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=-B1R32B0nmM</id>
@@ -1581,15 +1608,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【原神】海灯祭終了間近！にぎわいポイントを貯めます。～ヨォーヨお迎えしたい編～【Genshin Impact/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=EBncfLspT0A</id>
-        <link href="https://www.youtube.com/watch?v=EBncfLspT0A"/>
-        <updated>2023-02-05T17:21:45.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】深夜だけど気にせず好きな曲歌う🌸SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=_YWTMnMZeYo</id>
         <link href="https://www.youtube.com/watch?v=_YWTMnMZeYo"/>
@@ -1848,15 +1866,6 @@
         <updated>2023-02-02T19:22:05.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🐉ドラゴンクエスト11S 】ヨッチ村とレベルあげで鍛えるぞ！【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=Vd9gPTe-ozE</id>
-        <link href="https://www.youtube.com/watch?v=Vd9gPTe-ozE"/>
-        <updated>2023-02-02T17:52:08.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2280,15 +2289,6 @@
         <updated>2023-01-27T00:56:15.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☀朝活雑談 / 初見歓迎 / 1月中に僕を見つけるチャンス？今！！！！/ morning freetalk【新人Vtuber/九楽ライ】]]></title>
-        <id>https://www.youtube.com/watch?v=LtRHzvnCO60</id>
-        <link href="https://www.youtube.com/watch?v=LtRHzvnCO60"/>
-        <updated>2023-01-27T00:38:06.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
