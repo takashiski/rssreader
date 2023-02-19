@@ -1934,16 +1934,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=J_hC12STSNs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J_hC12STSNs",
-          "publishedOn": "2023-02-19T09:52:48.000Z",
-          "wordCount": null,
-          "title": "【マッチョを××】ドキドキ☆マッチョながし ほか　【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=AcRk9QoDodw",
           "author": null,
           "description": "",
@@ -2081,6 +2071,16 @@
           "publishedOn": "2023-01-22T14:01:13.000Z",
           "wordCount": null,
           "title": "【ドッキリ殺人計画～閉ざされたペンション～】つきみ荘はミステリーの精鋭わよ！真実はたぶんひとつ！！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=P794VIgk-y8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P794VIgk-y8",
+          "publishedOn": "2023-01-21T15:35:28.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
@@ -2743,6 +2743,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
+          "publishedOn": "2023-02-19T13:42:28.000Z",
+          "wordCount": null,
+          "title": "【告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pIMFYCRu_F4",
           "author": null,
           "description": "",
@@ -2800,16 +2810,6 @@
           "publishedOn": "2023-02-14T14:14:58.000Z",
           "wordCount": null,
           "title": "【お知らせ】初見さん大歓迎♡バレンタイン記念リクエスト第一弾！【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uyX0Hkqns0o",
-          "publishedOn": "2023-02-13T14:35:38.000Z",
-          "wordCount": null,
-          "title": "【告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         },
         {

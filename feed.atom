@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T13:34:23.248Z</id>
+    <id>urn:2023-02-19T14:05:50.060Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T13:34:23.248Z</updated>
+    <updated>2023-02-19T14:05:50.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=uyX0Hkqns0o</id>
+        <link href="https://www.youtube.com/watch?v=uyX0Hkqns0o"/>
+        <updated>2023-02-19T13:42:28.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #もふもふらわぁ 】Ben and Ed - Blood Party！頭だけになってもゴールしたい🧠【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=5y-yDpth8bw</id>
@@ -48,15 +57,6 @@
         <updated>2023-02-19T10:05:20.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【マッチョを××】ドキドキ☆マッチョながし ほか　【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=J_hC12STSNs</id>
-        <link href="https://www.youtube.com/watch?v=J_hC12STSNs"/>
-        <updated>2023-02-19T09:52:48.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -939,15 +939,6 @@
         <updated>2023-02-13T15:02:17.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【告知】初見さん大歓迎♡バレンタイン記念リクエスト第二弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=uyX0Hkqns0o</id>
-        <link href="https://www.youtube.com/watch?v=uyX0Hkqns0o"/>
-        <updated>2023-02-13T14:35:38.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -2532,6 +2523,15 @@
         <updated>2023-01-22T02:35:25.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=P794VIgk-y8</id>
+        <link href="https://www.youtube.com/watch?v=P794VIgk-y8"/>
+        <updated>2023-01-21T15:35:28.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
