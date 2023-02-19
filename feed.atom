@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T03:35:26.591Z</id>
+    <id>urn:2023-02-19T04:06:13.573Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T03:35:26.591Z</updated>
+    <updated>2023-02-19T04:06:13.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】喉をいたわる優しい朝 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=TN3_foVXEaw</id>
+        <link href="https://www.youtube.com/watch?v=TN3_foVXEaw"/>
+        <updated>2023-02-19T03:39:02.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/プリキュア】プリキュア縛り歌枠！無敵なんだから🤍singing【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=js0fZzdk5lM</id>
@@ -2361,15 +2370,6 @@
         <updated>2023-01-25T12:50:06.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡めちゃくちゃさむいです【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=nvh6HL_Up6M</id>
-        <link href="https://www.youtube.com/watch?v=nvh6HL_Up6M"/>
-        <updated>2023-01-25T10:11:03.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
