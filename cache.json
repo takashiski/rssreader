@@ -43,16 +43,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=WxHhZz4aITk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WxHhZz4aITk",
-          "publishedOn": "2023-02-19T05:20:19.000Z",
-          "wordCount": null,
-          "title": "【 #バイオハザードヴィレッジ 】バイオ８ なんか最後のラスボス的な奴たおす！！ #7 【#紅龍イサナ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=pSLPgv0BDr4",
           "author": null,
           "description": "",
@@ -817,6 +807,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=gGa0Om-zdBs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gGa0Om-zdBs",
+          "publishedOn": "2023-02-19T09:37:24.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing stream】環境音とウィスパー歌枠で癒されませんか？🌙【#彩雲のの/ #新人Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DRbSK2krU28",
           "author": null,
@@ -1924,6 +1924,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=J_hC12STSNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=J_hC12STSNs",
+          "publishedOn": "2023-02-19T09:52:48.000Z",
+          "wordCount": null,
+          "title": "【マッチョを××】ドキドキ☆マッチョながし ほか　【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AcRk9QoDodw",
           "author": null,
           "description": "",
@@ -2061,16 +2071,6 @@
           "publishedOn": "2023-01-22T14:01:13.000Z",
           "wordCount": null,
           "title": "【ドッキリ殺人計画～閉ざされたペンション～】つきみ荘はミステリーの精鋭わよ！真実はたぶんひとつ！！【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P794VIgk-y8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P794VIgk-y8",
-          "publishedOn": "2023-01-21T15:35:28.000Z",
-          "wordCount": null,
-          "title": "【スナックつきみ】スナック初営業は変態自慢☆☆【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
