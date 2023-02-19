@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T10:34:54.023Z</id>
+    <id>urn:2023-02-19T11:05:32.275Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-19T10:34:54.023Z</updated>
+    <updated>2023-02-19T11:05:32.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 彩雲のの 】 人見知りがリスナーの力だけで仲良し度をあげる⭐️雑談コラボ【 天川はの 】]]></title>
+        <id>https://www.youtube.com/watch?v=-Fs6odbspIU</id>
+        <link href="https://www.youtube.com/watch?v=-Fs6odbspIU"/>
+        <updated>2023-02-19T10:42:14.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #バイオハザードヴィレッジ 】バイオ８ なんか最後のラスボス的な奴たおす！！ #7 【#紅龍イサナ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=WxHhZz4aITk</id>
@@ -78,15 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨アイドルソング縛り🎤💗昔～最近💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2xdma3fJ7S4</id>
-        <link href="https://www.youtube.com/watch?v=2xdma3fJ7S4"/>
-        <updated>2023-02-19T06:00:31.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #もふもふらわぁ 】Ben and Ed - Blood Party！頭だけになってもゴールしたい🧠【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=5y-yDpth8bw</id>
         <link href="https://www.youtube.com/watch?v=5y-yDpth8bw"/>
@@ -147,15 +147,6 @@
         <updated>2023-02-18T15:09:16.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌＆告知】初見さん大歓迎期間♡歌＆バレンタイングッズ今日販売告知ー！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=pIMFYCRu_F4</id>
-        <link href="https://www.youtube.com/watch?v=pIMFYCRu_F4"/>
-        <updated>2023-02-18T14:42:38.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1806,6 +1797,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗可愛いメイドさんの全肯定寝かしつけ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=yynIbEERyas</id>
+        <link href="https://www.youtube.com/watch?v=yynIbEERyas"/>
+        <updated>2023-02-03T16:53:09.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【誕生日カウントダウン】みんなと過ごす初めてのお誕生日、一緒に迎えよう…🤍？お知らせもあるよ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=v2dy2uS7lDQ</id>
         <link href="https://www.youtube.com/watch?v=v2dy2uS7lDQ"/>
@@ -1857,15 +1857,6 @@
         <updated>2023-02-03T12:44:53.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大鶏ホラーゲーム中の子供 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=nMGv-RpnwEM</id>
-        <link href="https://www.youtube.com/watch?v=nMGv-RpnwEM"/>
-        <updated>2023-02-03T11:34:06.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2010,6 +2001,15 @@
         <updated>2023-02-01T15:00:44.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】#ユノりぼ姉妹 / 初！ユノりぼ姉妹でASMRコラボ！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NDyInaqvNjo</id>
+        <link href="https://www.youtube.com/watch?v=NDyInaqvNjo"/>
+        <updated>2023-02-01T13:11:56.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
