@@ -1102,6 +1102,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0L23q9POUqo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0L23q9POUqo",
+          "publishedOn": "2023-02-19T19:41:31.000Z",
+          "wordCount": null,
+          "title": "#23.5 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XAXTXJJ5czY",
           "author": null,
           "description": "",
@@ -1239,16 +1249,6 @@
           "publishedOn": "2023-02-10T11:00:09.000Z",
           "wordCount": null,
           "title": "アイタリナイ / MAISONdes 歌ってみた 稀羽すう #cover  #shorts #vsinger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AgGSrrlfWS0",
-          "publishedOn": "2023-02-08T12:50:55.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #33 ✦ KARAOKE 🦢【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
