@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WxHhZz4aITk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WxHhZz4aITk",
+          "publishedOn": "2023-02-19T05:20:19.000Z",
+          "wordCount": null,
+          "title": "【 #バイオハザードヴィレッジ 】バイオ８ なんか最後のラスボス的な奴たおす！！ #7 【#紅龍イサナ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pSLPgv0BDr4",
           "author": null,
           "description": "",
@@ -926,16 +936,6 @@
           "wordCount": null,
           "title": "【 #shorts 】Vsingerが一発録りでトウキョウ・シャンディ・ランデヴ　歌ってみた【#彩雲のの / #新人vtuber 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ib1RT5lmaeM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ib1RT5lmaeM",
-          "publishedOn": "2023-01-20T17:31:10.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing stream】一緒に夜更かししませんか？環境音と深夜歌枠🌙 karaoke【#彩雲のの/ #新人Vtuber】",
-          "imageUrl": null
         }
       ]
     },
@@ -1639,6 +1639,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoFEbNyIRUS26-hf2AucwFw",
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5y-yDpth8bw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5y-yDpth8bw",
+          "publishedOn": "2023-02-19T05:02:47.000Z",
+          "wordCount": null,
+          "title": "【 #もふもふらわぁ 】Ben and Ed - Blood Party！頭だけになってもゴールしたい🧠【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LND_dmeXcBs",
           "author": null,
