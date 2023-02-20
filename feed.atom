@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T02:31:42.802Z</id>
+    <id>urn:2023-02-20T03:10:37.421Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T02:31:42.802Z</updated>
+    <updated>2023-02-20T03:10:37.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing stream】環境音とウィスパー歌枠で癒されませんか？🌙【#彩雲のの/ #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gGa0Om-zdBs</id>
+        <link href="https://www.youtube.com/watch?v=gGa0Om-zdBs"/>
+        <updated>2023-02-20T02:47:00.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=4vIEArkjEV0</id>
