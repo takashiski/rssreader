@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T22:34:33.499Z</id>
+    <id>urn:2023-02-20T23:05:58.217Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T22:34:33.499Z</updated>
+    <updated>2023-02-20T23:05:58.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2568,24 +2568,6 @@
         <updated>2023-01-22T12:00:08.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】ちゃんと歌えるかな...！癒しかわいいおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=JPIilh6ur0o</id>
-        <link href="https://www.youtube.com/watch?v=JPIilh6ur0o"/>
-        <updated>2023-01-22T11:04:59.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アニロイ】目指せモフ勝！めざせ生き残り！【水瓶ミア】]]></title>
-        <id>https://www.youtube.com/watch?v=CcxRRf2pcHE</id>
-        <link href="https://www.youtube.com/watch?v=CcxRRf2pcHE"/>
-        <updated>2023-01-22T10:41:20.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
 </feed>
