@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T12:08:00.981Z</id>
+    <id>urn:2023-02-20T12:44:35.005Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T12:08:00.981Z</updated>
+    <updated>2023-02-20T12:44:35.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[迷子達人の技を見よ！！！！！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=tovXBfXP-NM</id>
+        <link href="https://www.youtube.com/watch?v=tovXBfXP-NM"/>
+        <updated>2023-02-20T12:42:25.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【SINGING 歌枠】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=FxPdONkVXfg</id>
@@ -1641,15 +1650,6 @@
         <updated>2023-02-06T14:40:53.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神ガチャ】アルハイゼンをお迎えして長身男性編成してみたい！ #リアクト原神部 見守り【姫熊りぼん/夢川かなう/稀羽すう】]]></title>
-        <id>https://www.youtube.com/watch?v=pN8_bh9WNiU</id>
-        <link href="https://www.youtube.com/watch?v=pN8_bh9WNiU"/>
-        <updated>2023-02-06T13:43:00.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
