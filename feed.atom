@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T14:34:45.803Z</id>
+    <id>urn:2023-02-20T15:06:12.462Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T14:34:45.803Z</updated>
+    <updated>2023-02-20T15:06:12.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【SINGING 歌枠】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FxPdONkVXfg</id>
+        <link href="https://www.youtube.com/watch?v=FxPdONkVXfg"/>
+        <updated>2023-02-20T14:39:44.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】かっこいい曲はかっこよく歌いたいよね ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=B8QJOgo32rA</id>
@@ -39,15 +48,6 @@
         <updated>2023-02-20T12:49:54.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷子達人の技を見よ！！！！！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=tovXBfXP-NM</id>
-        <link href="https://www.youtube.com/watch?v=tovXBfXP-NM"/>
-        <updated>2023-02-20T12:42:25.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1671,6 +1671,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【原神ガチャ】アルハイゼンをお迎えして長身男性編成してみたい！ #リアクト原神部 見守り【姫熊りぼん/夢川かなう/稀羽すう】]]></title>
+        <id>https://www.youtube.com/watch?v=pN8_bh9WNiU</id>
+        <link href="https://www.youtube.com/watch?v=pN8_bh9WNiU"/>
+        <updated>2023-02-06T13:43:00.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=vL6crb23jjM</id>
         <link href="https://www.youtube.com/watch?v=vL6crb23jjM"/>
@@ -1938,15 +1947,6 @@
         <updated>2023-02-02T16:12:20.000Z</updated>
         <author>
             <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】あれから10年｜VOCALOID ONLY KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=bxSbzlW-Yw4</id>
-        <link href="https://www.youtube.com/watch?v=bxSbzlW-Yw4"/>
-        <updated>2023-02-02T16:01:19.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2559,15 +2559,6 @@
         <updated>2023-01-22T10:41:20.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】aikoさん縛り歌枠🎤✨ karaoke【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=bxWkkN6QElo</id>
-        <link href="https://www.youtube.com/watch?v=bxWkkN6QElo"/>
-        <updated>2023-01-22T02:35:25.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
 </feed>
