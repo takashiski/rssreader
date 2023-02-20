@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T15:06:12.462Z</id>
+    <id>urn:2023-02-20T15:35:04.712Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T15:06:12.462Z</updated>
+    <updated>2023-02-20T15:35:04.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #テニプリ 】#宇佐美ユノのおたと～く！ゲストは稀羽すうちゃん！氷帝について語る【宇佐美ユノ / 稀羽すう / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=IB9HEF8auwE</id>
+        <link href="https://www.youtube.com/watch?v=IB9HEF8auwE"/>
+        <updated>2023-02-20T15:32:33.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【睡眠導入/singing】しっとりうらんの歌枠。KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1c7n1fmHFBk</id>
+        <link href="https://www.youtube.com/watch?v=1c7n1fmHFBk"/>
+        <updated>2023-02-20T15:31:06.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷子達人の技を見よ！！！！！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=tovXBfXP-NM</id>
+        <link href="https://www.youtube.com/watch?v=tovXBfXP-NM"/>
+        <updated>2023-02-20T15:19:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【SINGING 歌枠】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=FxPdONkVXfg</id>
@@ -1050,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【半年記念】感謝のお手紙【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=EOL7CvH4izA</id>
-        <link href="https://www.youtube.com/watch?v=EOL7CvH4izA"/>
-        <updated>2023-02-12T21:26:36.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】眠れないなら子守歌歌おうか？  sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ngKPtZSPw60</id>
         <link href="https://www.youtube.com/watch?v=ngKPtZSPw60"/>
@@ -1671,15 +1689,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【原神ガチャ】アルハイゼンをお迎えして長身男性編成してみたい！ #リアクト原神部 見守り【姫熊りぼん/夢川かなう/稀羽すう】]]></title>
-        <id>https://www.youtube.com/watch?v=pN8_bh9WNiU</id>
-        <link href="https://www.youtube.com/watch?v=pN8_bh9WNiU"/>
-        <updated>2023-02-06T13:43:00.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=vL6crb23jjM</id>
         <link href="https://www.youtube.com/watch?v=vL6crb23jjM"/>
@@ -1965,15 +1974,6 @@
         <updated>2023-02-02T12:34:17.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】レオちゃんとお歌のコラボ～！🌻🎀 sing and talk 第二弾！！【宇佐美ユノ / 獅子神レオナ / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=dZYakrFxCA0</id>
-        <link href="https://www.youtube.com/watch?v=dZYakrFxCA0"/>
-        <updated>2023-02-02T12:15:06.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
