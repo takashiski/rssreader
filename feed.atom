@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-20T07:06:06.863Z</id>
+    <id>urn:2023-02-20T07:34:28.928Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-20T07:06:06.863Z</updated>
+    <updated>2023-02-20T07:34:28.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【SINGING 歌枠】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FxPdONkVXfg</id>
+        <link href="https://www.youtube.com/watch?v=FxPdONkVXfg"/>
+        <updated>2023-02-20T07:30:45.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing stream】環境音とウィスパー歌枠で癒されませんか？🌙【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=gGa0Om-zdBs</id>
@@ -1911,15 +1920,6 @@
         <updated>2023-02-02T16:12:20.000Z</updated>
         <author>
             <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】あれから10年｜VOCALOID ONLY KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=bxSbzlW-Yw4</id>
-        <link href="https://www.youtube.com/watch?v=bxSbzlW-Yw4"/>
-        <updated>2023-02-02T16:01:19.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>

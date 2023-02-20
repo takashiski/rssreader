@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FxPdONkVXfg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FxPdONkVXfg",
+          "publishedOn": "2023-02-20T07:30:45.000Z",
+          "wordCount": null,
+          "title": "【SINGING 歌枠】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=egRzr0U3eiY",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2023-02-03T12:44:53.000Z",
           "wordCount": null,
           "title": "【飲酒解禁】豪華メンツで節分飲酒パーティ！【 #ククルアクレイユ | Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bxSbzlW-Yw4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bxSbzlW-Yw4",
-          "publishedOn": "2023-02-02T16:01:19.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】あれから10年｜VOCALOID ONLY KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
