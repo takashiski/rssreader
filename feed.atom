@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T15:35:07.803Z</id>
+    <id>urn:2023-02-21T16:06:14.920Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T15:35:07.803Z</updated>
+    <updated>2023-02-21T16:06:14.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠/singing】かわちいお歌🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=azaeyiKeYDE</id>
+        <link href="https://www.youtube.com/watch?v=azaeyiKeYDE"/>
+        <updated>2023-02-21T16:00:40.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】かっこいい曲はかっこよく歌いたいよね ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=B8QJOgo32rA</id>
+        <link href="https://www.youtube.com/watch?v=B8QJOgo32rA"/>
+        <updated>2023-02-21T15:36:22.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もしも～し ちょっと話そうや]]></title>
         <id>https://www.youtube.com/watch?v=_tvt3_vQDTs</id>
@@ -84,15 +102,6 @@
         <updated>2023-02-21T11:21:46.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】かわちいお歌🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=azaeyiKeYDE</id>
-        <link href="https://www.youtube.com/watch?v=azaeyiKeYDE"/>
-        <updated>2023-02-21T11:17:24.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
