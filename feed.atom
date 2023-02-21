@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T14:34:42.538Z</id>
+    <id>urn:2023-02-21T15:05:54.821Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T14:34:42.538Z</updated>
+    <updated>2023-02-21T15:05:54.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
+        <link href="https://www.youtube.com/watch?v=eQtSGdpiBVU"/>
+        <updated>2023-02-21T14:27:31.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗癒したっぷりのおやすみ時間💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=p2cSOmvmfL0</id>
@@ -78,15 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[もしも～し ちょっと話そうや]]></title>
-        <id>https://www.youtube.com/watch?v=_tvt3_vQDTs</id>
-        <link href="https://www.youtube.com/watch?v=_tvt3_vQDTs"/>
-        <updated>2023-02-21T11:04:24.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆Minecraft / #05 / 全ロスリベンジしてやっからよぉ...🔥〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=NbdWKFFxlMo</id>
         <link href="https://www.youtube.com/watch?v=NbdWKFFxlMo"/>
@@ -147,15 +147,6 @@
         <updated>2023-02-20T14:39:44.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】かっこいい曲はかっこよく歌いたいよね ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=B8QJOgo32rA</id>
-        <link href="https://www.youtube.com/watch?v=B8QJOgo32rA"/>
-        <updated>2023-02-20T13:41:30.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -1437,6 +1428,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[アイタリナイ / MAISONdes 歌ってみた 稀羽すう #cover  #shorts #vsinger]]></title>
+        <id>https://www.youtube.com/watch?v=CFxTYYnLcDI</id>
+        <link href="https://www.youtube.com/watch?v=CFxTYYnLcDI"/>
+        <updated>2023-02-10T11:00:09.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨楽しく歌うから盛り上げて～っ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NtcCE2KJ62Q</id>
         <link href="https://www.youtube.com/watch?v=NtcCE2KJ62Q"/>
@@ -1704,15 +1704,6 @@
         <updated>2023-02-07T04:12:23.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【GeoGuessr】日本中🗾どこにいるのかわからない… ココはドコ❔場所当てちゃお✨【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ZvPf86vYWUE</id>
-        <link href="https://www.youtube.com/watch?v=ZvPf86vYWUE"/>
-        <updated>2023-02-06T17:17:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
