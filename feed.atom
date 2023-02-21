@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T12:44:31.031Z</id>
+    <id>urn:2023-02-21T13:10:03.934Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T12:44:31.031Z</updated>
+    <updated>2023-02-21T13:10:03.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2023-02-20T18:23:27.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=mYQj1CUMHF0</id>
-        <link href="https://www.youtube.com/watch?v=mYQj1CUMHF0"/>
-        <updated>2023-02-20T16:15:37.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
