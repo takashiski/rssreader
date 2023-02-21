@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T14:05:44.803Z</id>
+    <id>urn:2023-02-21T14:34:42.538Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T14:05:44.803Z</updated>
+    <updated>2023-02-21T14:34:42.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗癒したっぷりのおやすみ時間💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=p2cSOmvmfL0</id>
+        <link href="https://www.youtube.com/watch?v=p2cSOmvmfL0"/>
+        <updated>2023-02-21T14:09:08.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨おっはよ～💜アリアに挨拶しにきてよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NkwebjoT7I0</id>
+        <link href="https://www.youtube.com/watch?v=NkwebjoT7I0"/>
+        <updated>2023-02-21T14:07:17.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=mYQj1CUMHF0</id>
@@ -1779,15 +1797,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【DEVOUR】先輩たちと楽しくヤギ🐐燃やす、最高の夜…🔥🔥【月紫アリア/獅子神レオナ/天川はの/丸餅つきみ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kDbIet48GXc</id>
-        <link href="https://www.youtube.com/watch?v=kDbIet48GXc"/>
-        <updated>2023-02-05T14:02:29.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【👻DEVOUR🐐】リベンジの時!!仲間と怖さを乗り越える【天川はの/獅子神レオナ/丸餅つきみ/月紫アリア】]]></title>
         <id>https://www.youtube.com/watch?v=S6jRz8gu20Y</id>
         <link href="https://www.youtube.com/watch?v=S6jRz8gu20Y"/>
@@ -1902,15 +1911,6 @@
         <updated>2023-02-04T10:56:10.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨可愛くて元気に歌うとこ、見て～💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=J_r00T3-L0M</id>
-        <link href="https://www.youtube.com/watch?v=J_r00T3-L0M"/>
-        <updated>2023-02-04T09:26:02.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
