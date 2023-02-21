@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T05:05:57.324Z</id>
+    <id>urn:2023-02-21T05:34:34.376Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T05:05:57.324Z</updated>
+    <updated>2023-02-21T05:34:34.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
+        <link href="https://www.youtube.com/watch?v=eQtSGdpiBVU"/>
+        <updated>2023-02-21T05:06:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】はじめての朝活！おはよう【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xDaBggJ-ijc</id>
@@ -1884,15 +1893,6 @@
         <updated>2023-02-04T10:56:10.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨可愛くて元気に歌うとこ、見て～💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=J_r00T3-L0M</id>
-        <link href="https://www.youtube.com/watch?v=J_r00T3-L0M"/>
-        <updated>2023-02-04T09:26:02.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>

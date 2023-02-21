@@ -1767,6 +1767,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eQtSGdpiBVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eQtSGdpiBVU",
+          "publishedOn": "2023-02-21T05:06:24.000Z",
+          "wordCount": null,
+          "title": "【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2xdma3fJ7S4",
           "author": null,
           "description": "",
@@ -1904,16 +1914,6 @@
           "publishedOn": "2023-02-05T14:02:29.000Z",
           "wordCount": null,
           "title": "【DEVOUR】先輩たちと楽しくヤギ🐐燃やす、最高の夜…🔥🔥【月紫アリア/獅子神レオナ/天川はの/丸餅つきみ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J_r00T3-L0M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J_r00T3-L0M",
-          "publishedOn": "2023-02-04T09:26:02.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨可愛くて元気に歌うとこ、見て～💜 karaoke【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
