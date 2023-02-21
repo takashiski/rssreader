@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T15:05:54.821Z</id>
+    <id>urn:2023-02-21T15:35:07.803Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T15:05:54.821Z</updated>
+    <updated>2023-02-21T15:35:07.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[もしも～し ちょっと話そうや]]></title>
+        <id>https://www.youtube.com/watch?v=_tvt3_vQDTs</id>
+        <link href="https://www.youtube.com/watch?v=_tvt3_vQDTs"/>
+        <updated>2023-02-21T15:06:52.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
@@ -1425,15 +1434,6 @@
         <updated>2023-02-10T13:27:11.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイタリナイ / MAISONdes 歌ってみた 稀羽すう #cover  #shorts #vsinger]]></title>
-        <id>https://www.youtube.com/watch?v=CFxTYYnLcDI</id>
-        <link href="https://www.youtube.com/watch?v=CFxTYYnLcDI"/>
-        <updated>2023-02-10T11:00:09.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
