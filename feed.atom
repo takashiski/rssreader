@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T23:05:54.618Z</id>
+    <id>urn:2023-02-21T23:34:42.827Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T23:05:54.618Z</updated>
+    <updated>2023-02-21T23:34:42.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2505,15 +2505,6 @@
         <updated>2023-01-23T13:57:46.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Re:AcT 3Dライブ】 ユメニミタカラvol.0～Dream Box～ ダイジェスト]]></title>
-        <id>https://www.youtube.com/watch?v=aU2E6fFvYLY</id>
-        <link href="https://www.youtube.com/watch?v=aU2E6fFvYLY"/>
-        <updated>2023-01-23T11:30:00.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
 </feed>
