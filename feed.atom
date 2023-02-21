@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T00:25:55.691Z</id>
+    <id>urn:2023-02-21T00:51:15.663Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T00:25:55.691Z</updated>
+    <updated>2023-02-21T00:51:15.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】はじめての朝活！おはよう【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xDaBggJ-ijc</id>
+        <link href="https://www.youtube.com/watch?v=xDaBggJ-ijc"/>
+        <updated>2023-02-21T00:37:36.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【睡眠導入/singing】しっとりうらんの歌枠。KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=1c7n1fmHFBk</id>
@@ -21,15 +30,6 @@
         <updated>2023-02-20T18:23:27.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】おはようカウント中！ぜひおはようしに来て～～！！【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xDaBggJ-ijc</id>
-        <link href="https://www.youtube.com/watch?v=xDaBggJ-ijc"/>
-        <updated>2023-02-20T16:54:56.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
