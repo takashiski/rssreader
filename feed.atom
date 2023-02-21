@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T03:35:59.891Z</id>
+    <id>urn:2023-02-21T04:06:24.218Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T03:35:59.891Z</updated>
+    <updated>2023-02-21T04:06:24.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2523,24 +2523,6 @@
         <updated>2023-01-22T23:20:42.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お誕生日】生誕カウントダウン！！一緒にお祝いしてくれるよね？【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=AVLVtrV6Edc</id>
-        <link href="https://www.youtube.com/watch?v=AVLVtrV6Edc"/>
-        <updated>2023-01-22T15:48:38.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】喉の復活、幸せの歌🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=A4YutPTEIR0</id>
-        <link href="https://www.youtube.com/watch?v=A4YutPTEIR0"/>
-        <updated>2023-01-22T15:36:47.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
