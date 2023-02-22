@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T11:34:32.369Z</id>
+    <id>urn:2023-02-22T12:08:30.917Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T11:34:32.369Z</updated>
+    <updated>2023-02-22T12:08:30.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,6 +39,15 @@
         <updated>2023-02-22T09:59:28.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【冒頭無料配信】天川はの1stワンマンライブ「ばぶってもライブできるもん！」 #天川はのばぶライブ]]></title>
+        <id>https://www.youtube.com/watch?v=OKxofKKpy0M</id>
+        <link href="https://www.youtube.com/watch?v=OKxofKKpy0M"/>
+        <updated>2023-02-22T08:37:34.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -606,6 +615,15 @@
         <updated>2023-02-17T12:00:07.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#VirtualonMusic】新企画！3D音楽番組「Vritual on Music」ゲスト 富士葵【リアクト／Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RzJX2NwXrUk</id>
+        <link href="https://www.youtube.com/watch?v=RzJX2NwXrUk"/>
+        <updated>2023-02-17T07:15:05.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
