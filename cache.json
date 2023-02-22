@@ -2198,6 +2198,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UzteAqxtsA0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UzteAqxtsA0",
+          "publishedOn": "2023-02-22T16:45:57.000Z",
+          "wordCount": null,
+          "title": "猫に貢ぐためにコンビニで働くことにしました！【ニャー次郎/Meowjiro】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6667f0N-Bqo",
           "author": null,
           "description": "",
@@ -2335,16 +2345,6 @@
           "publishedOn": "2023-02-11T16:41:31.000Z",
           "wordCount": null,
           "title": "【悲鳴注意】心拍数丸見え！深夜にヒトカラ？！ホラーゲーム/The Karaoke【VTuber/姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VvZXJAI3UxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VvZXJAI3UxQ",
-          "publishedOn": "2023-02-10T01:04:32.000Z",
-          "wordCount": null,
-          "title": "社畜になります…【Free Talk/朝活雑談】",
           "imageUrl": null
         }
       ]
@@ -2511,6 +2511,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eIXFiLf-tlA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eIXFiLf-tlA",
+          "publishedOn": "2023-02-22T16:50:49.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】ランクのお時間ですにゃ⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=B8QJOgo32rA",
           "author": null,
