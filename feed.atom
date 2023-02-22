@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T18:06:10.136Z</id>
+    <id>urn:2023-02-22T18:36:29.316Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T18:06:10.136Z</updated>
+    <updated>2023-02-22T18:36:29.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 広告なし! / とろけるように眠れる僕っ娘の耳かき♡耳ふぅ/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=DlpXEjmzB-o</id>
+        <link href="https://www.youtube.com/watch?v=DlpXEjmzB-o"/>
+        <updated>2023-02-22T18:31:39.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】ランクのお時間ですにゃ⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=eIXFiLf-tlA</id>
@@ -120,15 +129,6 @@
         <updated>2023-02-22T11:01:57.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆ASMR / 広告なし! / とろけるように眠れる僕っ娘の耳かき♡耳ふぅ/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=DlpXEjmzB-o</id>
-        <link href="https://www.youtube.com/watch?v=DlpXEjmzB-o"/>
-        <updated>2023-02-22T09:59:28.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
