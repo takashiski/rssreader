@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T11:05:48.491Z</id>
+    <id>urn:2023-02-22T11:34:32.369Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T11:05:48.491Z</updated>
+    <updated>2023-02-22T11:34:32.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠/singing】深夜でも楽しく！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BTlyYA9Fq-U</id>
+        <link href="https://www.youtube.com/watch?v=BTlyYA9Fq-U"/>
+        <updated>2023-02-22T11:13:41.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠 | singing】アニソン歌姫オンリー︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gNdofgt2zIM</id>
+        <link href="https://www.youtube.com/watch?v=gNdofgt2zIM"/>
+        <updated>2023-02-22T11:12:17.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #35 ✦ KARAOKE 🐈【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L2ml0ctzUU8</id>
@@ -1203,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】デビュー半年記念のお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wIgEzEfPHBM</id>
-        <link href="https://www.youtube.com/watch?v=wIgEzEfPHBM"/>
-        <updated>2023-02-13T03:46:56.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=_7-vgGji04Q</id>
         <link href="https://www.youtube.com/watch?v=_7-vgGji04Q"/>
@@ -1884,15 +1893,6 @@
         <updated>2023-02-04T15:51:43.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】あのアニメから20年｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=_gCs1wcgmuM</id>
-        <link href="https://www.youtube.com/watch?v=_gCs1wcgmuM"/>
-        <updated>2023-02-04T15:40:33.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
