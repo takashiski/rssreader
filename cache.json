@@ -661,16 +661,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=BTlyYA9Fq-U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BTlyYA9Fq-U",
-          "publishedOn": "2023-02-22T11:13:41.000Z",
-          "wordCount": null,
-          "title": "【#歌枠/singing】初見大歓迎！深夜でも楽しく！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=azaeyiKeYDE",
           "author": null,
           "description": "",
@@ -808,6 +798,16 @@
           "publishedOn": "2023-02-13T19:31:03.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wIgEzEfPHBM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wIgEzEfPHBM",
+          "publishedOn": "2023-02-13T03:46:56.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】デビュー半年記念のお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
