@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-21T23:34:42.827Z</id>
+    <id>urn:2023-02-22T00:21:42.723Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T23:34:42.827Z</updated>
+    <updated>2023-02-22T00:21:42.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -91,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=p2cSOmvmfL0</id>
         <link href="https://www.youtube.com/watch?v=p2cSOmvmfL0"/>
         <updated>2023-02-21T14:09:08.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨おっはよ～💜アリにゃに挨拶しにきてにゃん💜 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NkwebjoT7I0</id>
-        <link href="https://www.youtube.com/watch?v=NkwebjoT7I0"/>
-        <updated>2023-02-21T14:07:17.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
