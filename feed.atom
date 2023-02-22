@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T10:35:58.714Z</id>
+    <id>urn:2023-02-22T11:05:48.491Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T10:35:58.714Z</updated>
+    <updated>2023-02-22T11:05:48.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #35 ✦ KARAOKE 🐈【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=L2ml0ctzUU8</id>
+        <link href="https://www.youtube.com/watch?v=L2ml0ctzUU8"/>
+        <updated>2023-02-22T11:01:57.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / とろけるように眠れる僕っ娘の耳かき♡耳ふぅ/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=DlpXEjmzB-o</id>
@@ -21,15 +30,6 @@
         <updated>2023-02-22T07:57:55.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #35 ✦ KARAOKE 🐈【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=L2ml0ctzUU8</id>
-        <link href="https://www.youtube.com/watch?v=L2ml0ctzUU8"/>
-        <updated>2023-02-22T07:37:39.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
