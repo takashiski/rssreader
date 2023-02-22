@@ -190,6 +190,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TxzN2b-qbEM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TxzN2b-qbEM",
+          "publishedOn": "2023-02-22T12:39:30.000Z",
+          "wordCount": null,
+          "title": "【ホグワーツレガシー】魔法少女ビスイシュカ、もう叫びたくない【#美睡の酒場/#新人Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9HLhjid55P4",
           "author": null,
           "description": "",
@@ -327,16 +337,6 @@
           "publishedOn": "2023-02-01T05:18:29.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／寒さからの帰還🤧歌の時間だぞおお【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5gL1V9hYeIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5gL1V9hYeIo",
-          "publishedOn": "2023-01-31T05:14:14.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／月曜夜の夜更かしさん！歌うぞおお【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -817,6 +817,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hPWMC074nbI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hPWMC074nbI",
+          "publishedOn": "2023-02-22T12:00:24.000Z",
+          "wordCount": null,
+          "title": "【 #shorts 】Vsingerが一発録りで アイタリナイ 歌ってみた【#彩雲のの / #新人vtuber 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CPZHoFtyKcw",
           "author": null,
