@@ -945,6 +945,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CV8W_xRcNUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CV8W_xRcNUY",
+          "publishedOn": "2023-02-22T05:43:32.000Z",
+          "wordCount": null,
+          "title": "【歌枠】歌と雑談、ゆっくりめ【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TN3_foVXEaw",
           "author": null,
           "description": "",
@@ -1082,16 +1092,6 @@
           "publishedOn": "2023-01-28T04:13:56.000Z",
           "wordCount": null,
           "title": "【VALORANT】そそそそそそそそそろらんく 【 #生リサ /Rre:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JA88w0XBCzA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JA88w0XBCzA",
-          "publishedOn": "2023-01-26T11:58:07.000Z",
-          "wordCount": null,
-          "title": "【 歌枠 】今日でデビューして３００日だって 【 #生リサ /新人Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1743,7 +1743,7 @@
           "link": "https://www.youtube.com/watch?v=p2cSOmvmfL0",
           "publishedOn": "2023-02-21T14:09:08.000Z",
           "wordCount": null,
-          "title": "【ASMR】安眠誘導💗癒したっぷりのおやすみ時間💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】",
+          "title": "【ASMR】安眠誘導💗猫の日🐈癒しをお届けにゃ💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】",
           "imageUrl": null
         },
         {

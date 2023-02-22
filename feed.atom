@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T05:34:18.006Z</id>
+    <id>urn:2023-02-22T06:06:53.953Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T05:34:18.006Z</updated>
+    <updated>2023-02-22T06:06:53.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】歌と雑談、ゆっくりめ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=CV8W_xRcNUY</id>
+        <link href="https://www.youtube.com/watch?v=CV8W_xRcNUY"/>
+        <updated>2023-02-22T05:43:32.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】おやすみ前のピアノ多めなおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=LCn-TBIffZQ</id>
@@ -96,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗癒したっぷりのおやすみ時間💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗猫の日🐈癒しをお届けにゃ💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=p2cSOmvmfL0</id>
         <link href="https://www.youtube.com/watch?v=p2cSOmvmfL0"/>
         <updated>2023-02-21T14:09:08.000Z</updated>
@@ -2397,15 +2406,6 @@
         <updated>2023-01-26T12:00:03.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 】今日でデビューして３００日だって 【 #生リサ /新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JA88w0XBCzA</id>
-        <link href="https://www.youtube.com/watch?v=JA88w0XBCzA"/>
-        <updated>2023-01-26T11:58:07.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
