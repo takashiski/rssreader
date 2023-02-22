@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T20:34:51.315Z</id>
+    <id>urn:2023-02-22T21:05:42.534Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T20:34:51.315Z</updated>
+    <updated>2023-02-22T21:05:42.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ゲリラ深夜歌枠だああ！明日は祝日！？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DG2B9R4ytMQ</id>
+        <link href="https://www.youtube.com/watch?v=DG2B9R4ytMQ"/>
+        <updated>2023-02-22T20:49:10.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎！深夜でも楽しく！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=BTlyYA9Fq-U</id>
@@ -2163,15 +2172,6 @@
         <updated>2023-02-01T10:19:21.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／寒さからの帰還🤧歌の時間だぞおお【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=P-CapJhngX4</id>
-        <link href="https://www.youtube.com/watch?v=P-CapJhngX4"/>
-        <updated>2023-02-01T05:18:29.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
