@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-22T22:05:29.143Z</id>
+    <id>urn:2023-02-22T22:34:44.049Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-22T22:05:29.143Z</updated>
+    <updated>2023-02-22T22:34:44.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】歌と雑談、ゆっくりめ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=CV8W_xRcNUY</id>
+        <link href="https://www.youtube.com/watch?v=CV8W_xRcNUY"/>
+        <updated>2023-02-22T22:06:59.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ゲリラ深夜歌枠だああ！明日は祝日！？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=DG2B9R4ytMQ</id>
@@ -2424,15 +2433,6 @@
         <updated>2023-01-26T12:00:03.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 】今日でデビューして３００日だって 【 #生リサ /新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JA88w0XBCzA</id>
-        <link href="https://www.youtube.com/watch?v=JA88w0XBCzA"/>
-        <updated>2023-01-26T11:58:07.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
