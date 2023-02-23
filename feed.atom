@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T11:05:53.011Z</id>
+    <id>urn:2023-02-23T11:34:31.750Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T11:05:53.011Z</updated>
+    <updated>2023-02-23T11:34:31.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZQNe0YfWVr0</id>
+        <link href="https://www.youtube.com/watch?v=ZQNe0YfWVr0"/>
+        <updated>2023-02-23T11:07:27.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【中難度!ハモリにつられるな】アイタリナイ一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=vR5iox829T8</id>
@@ -12,6 +21,15 @@
         <updated>2023-02-23T11:00:45.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】NEWスタンプ｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Dsf8Zm_JDbM</id>
+        <link href="https://www.youtube.com/watch?v=Dsf8Zm_JDbM"/>
+        <updated>2023-02-23T10:55:17.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -699,15 +717,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#VirtualonMusic】新企画！3D音楽番組「Vritual on Music」ゲスト 富士葵【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=RzJX2NwXrUk</id>
-        <link href="https://www.youtube.com/watch?v=RzJX2NwXrUk"/>
-        <updated>2023-02-17T07:15:05.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ホラゲ】ひとりでからおけ＝ヒトカラ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=0OaqI9mFoeA</id>
         <link href="https://www.youtube.com/watch?v=0OaqI9mFoeA"/>
@@ -1225,15 +1234,6 @@
         <id>https://www.youtube.com/watch?v=gsWcj9uXzdk</id>
         <link href="https://www.youtube.com/watch?v=gsWcj9uXzdk"/>
         <updated>2023-02-14T01:28:35.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
-        <link href="https://www.youtube.com/watch?v=e9DKNs-hzA0"/>
-        <updated>2023-02-13T19:31:03.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1857,15 +1857,6 @@
         <updated>2023-02-06T15:10:39.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】DECO*27さん縛り｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=j3d8WXlUqgs</id>
-        <link href="https://www.youtube.com/watch?v=j3d8WXlUqgs"/>
-        <updated>2023-02-06T14:40:53.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
