@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T05:34:25.636Z</id>
+    <id>urn:2023-02-23T06:06:34.773Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T05:34:25.636Z</updated>
+    <updated>2023-02-23T06:06:34.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LOVE DIVE / IVE 아이브 歌ってみた coverd.水瓶ミア]]></title>
+        <title type="html"><![CDATA[【日本語字幕・和訳】LOVE DIVE / IVE 아이브 歌ってみた coverd.水瓶ミア]]></title>
         <id>https://www.youtube.com/watch?v=97Oo9IvTDcQ</id>
         <link href="https://www.youtube.com/watch?v=97Oo9IvTDcQ"/>
         <updated>2023-02-23T03:24:20.000Z</updated>
