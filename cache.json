@@ -975,6 +975,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7_CLku61Dnk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7_CLku61Dnk",
+          "publishedOn": "2023-02-23T18:44:02.000Z",
+          "wordCount": null,
+          "title": "【歌枠】今日は１７時から！定期歌枠だよ～！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7nTUYBDZ0mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7nTUYBDZ0mQ",
+          "publishedOn": "2023-02-23T18:42:34.000Z",
+          "wordCount": null,
+          "title": "【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
           "author": null,
           "description": "",
@@ -1102,26 +1122,6 @@
           "publishedOn": "2023-02-02T12:34:17.000Z",
           "wordCount": null,
           "title": "【雑談】心のノートを読む、道徳を学ぶ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JQOieUye4wk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JQOieUye4wk",
-          "publishedOn": "2023-02-01T22:04:39.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見さん歓迎♡２月一発目、夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KtRbq5AeRzA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KtRbq5AeRzA",
-          "publishedOn": "2023-01-29T14:28:14.000Z",
-          "wordCount": null,
-          "title": "【朝活】最近ホットドックにハマっている 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2365,6 +2365,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hQJ_38klnOQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hQJ_38klnOQ",
+          "publishedOn": "2023-02-23T19:03:56.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】平日終わりのお疲れさまおうた✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kKU4hl69ie4",
           "author": null,
           "description": "",
@@ -2502,16 +2512,6 @@
           "publishedOn": "2023-01-29T11:33:04.000Z",
           "wordCount": null,
           "title": "【#歌枠】いっぱい歌お～！癒しかわいいおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lnCTTsmOscg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lnCTTsmOscg",
-          "publishedOn": "2023-01-28T18:16:46.000Z",
-          "wordCount": null,
-          "title": "【原神#35】イベント⌇「華舞う夜の旋律」どんなお話か全く知らないゆえたのしみ！⚔【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]

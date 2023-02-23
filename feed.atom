@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T18:37:11.260Z</id>
+    <id>urn:2023-02-23T19:05:34.832Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T18:37:11.260Z</updated>
+    <updated>2023-02-23T19:05:34.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】平日終わりのお疲れさまおうた✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=hQJ_38klnOQ</id>
+        <link href="https://www.youtube.com/watch?v=hQJ_38klnOQ"/>
+        <updated>2023-02-23T19:03:56.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】今日は１７時から！定期歌枠だよ～！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=7_CLku61Dnk</id>
+        <link href="https://www.youtube.com/watch?v=7_CLku61Dnk"/>
+        <updated>2023-02-23T18:44:02.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=7nTUYBDZ0mQ</id>
+        <link href="https://www.youtube.com/watch?v=7nTUYBDZ0mQ"/>
+        <updated>2023-02-23T18:42:34.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 朝活】もーにんぐあさでい🌤【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vCH5UcRY5Xc</id>
@@ -2166,15 +2193,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡２月一発目、夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=JQOieUye4wk</id>
-        <link href="https://www.youtube.com/watch?v=JQOieUye4wk"/>
-        <updated>2023-02-01T22:04:39.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #雑談 🥂 】初見さん大歓迎～／ひさしぶりの飲酒雑談だぞおお～～🥂いっぱい話そ！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L5lR62M-C54</id>
         <link href="https://www.youtube.com/watch?v=L5lR62M-C54"/>
@@ -2292,28 +2310,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】最近ホットドックにハマっている 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=KtRbq5AeRzA</id>
-        <link href="https://www.youtube.com/watch?v=KtRbq5AeRzA"/>
-        <updated>2023-01-29T14:28:14.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】いっぱい歌お～！癒しかわいいおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1oxvhpRhubY</id>
         <link href="https://www.youtube.com/watch?v=1oxvhpRhubY"/>
         <updated>2023-01-29T11:33:04.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#35】イベント⌇「華舞う夜の旋律」どんなお話か全く知らないゆえたのしみ！⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=lnCTTsmOscg</id>
-        <link href="https://www.youtube.com/watch?v=lnCTTsmOscg"/>
-        <updated>2023-01-28T18:16:46.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
         </author>
