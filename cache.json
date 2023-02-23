@@ -190,6 +190,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YXy3JKg5-Dk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YXy3JKg5-Dk",
+          "publishedOn": "2023-02-23T15:24:44.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／ほろ酔いでもいいですか？祝日深夜のお歌枠🎤【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DG2B9R4ytMQ",
           "author": null,
           "description": "",
@@ -327,16 +337,6 @@
           "publishedOn": "2023-02-02T19:22:05.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／木曜夜は深夜歌だぞおお～のんびりしてって！【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L5lR62M-C54",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L5lR62M-C54",
-          "publishedOn": "2023-02-01T15:57:33.000Z",
-          "wordCount": null,
-          "title": "【 #雑談 🥂 】初見さん大歓迎～／ひさしぶりの飲酒雑談だぞおお～～🥂いっぱい話そ！【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1122,6 +1122,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mtmmUEin7pk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mtmmUEin7pk",
+          "publishedOn": "2023-02-23T15:26:43.000Z",
+          "wordCount": null,
+          "title": "ずっと欲しかったあれをプチお披露目！ & 幻の撮影会 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Al2B7puf9zM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Al2B7puf9zM",
+          "publishedOn": "2023-02-23T15:24:20.000Z",
+          "wordCount": null,
+          "title": "#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=e7HDs2YZwJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e7HDs2YZwJo",
+          "publishedOn": "2023-02-23T15:22:49.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です ランチタイムにまったり歌枠 📚 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L2ml0ctzUU8",
           "author": null,
           "description": "",
@@ -1240,36 +1270,6 @@
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です！ 盛り上がる曲を歌いたいカラオケ配信！✦ KARAOKE【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cGzlIMURxLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cGzlIMURxLI",
-          "publishedOn": "2023-02-12T13:00:32.000Z",
-          "wordCount": null,
-          "title": "稀羽すうが Overdose 歌ってみた  #shorts #cover #Vsinger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZyL5KubbDsE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZyL5KubbDsE",
-          "publishedOn": "2023-02-11T18:00:10.000Z",
-          "wordCount": null,
-          "title": "#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ 待ちに待った文化祭編【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SqLyKgQQwUo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SqLyKgQQwUo",
-          "publishedOn": "2023-02-11T13:00:28.000Z",
-          "wordCount": null,
-          "title": "アカペラで Made You Look 歌ってみた #shorts #vsinger #cover",
-          "imageUrl": null
         }
       ]
     },
@@ -1278,6 +1278,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxLgvntienV0kwNLxrbcmyQ",
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
+          "publishedOn": "2023-02-23T15:27:17.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / 300人におはようって言うまで終わらない朝🔥おはようって言っちゃう？ / morning freetalk【新人Vtuber/九楽ライ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
           "author": null,
@@ -1416,16 +1426,6 @@
           "publishedOn": "2023-02-02T10:18:06.000Z",
           "wordCount": null,
           "title": "◆NeiR Replicant / 最終回 / 完全初見 / ついに終焉。全エンド回収。〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yFYPiR2K0P8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yFYPiR2K0P8",
-          "publishedOn": "2023-02-01T18:35:29.000Z",
-          "wordCount": null,
-          "title": "◆ASMR / 睡眠導入 / カメラ有 / パチパチ音のなるキャンドルとタッピング、囁き声でよく眠れる。追記：後半映画紹介囁き〖candle / binaural / JapaneseVtuber〗",
           "imageUrl": null
         }
       ]
@@ -2355,6 +2355,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kKU4hl69ie4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kKU4hl69ie4",
+          "publishedOn": "2023-02-23T15:26:23.000Z",
+          "wordCount": null,
+          "title": "【朝活】久しぶりの朝活！ねむねむじゃけどおはなしするぞ☀【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LCn-TBIffZQ",
           "author": null,
           "description": "",
@@ -2492,16 +2502,6 @@
           "publishedOn": "2023-01-28T18:16:46.000Z",
           "wordCount": null,
           "title": "【原神#35】イベント⌇「華舞う夜の旋律」どんなお話か全く知らないゆえたのしみ！⚔【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dbf3T399QCo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dbf3T399QCo",
-          "publishedOn": "2023-01-25T17:45:55.000Z",
-          "wordCount": null,
-          "title": "【原神#34】初心者の七聖召喚！まったり慣れていきたい⚔【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]

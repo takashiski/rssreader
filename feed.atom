@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T15:06:13.237Z</id>
+    <id>urn:2023-02-23T15:35:17.606Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T15:06:13.237Z</updated>
+    <updated>2023-02-23T15:35:17.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[☀朝活雑談 / 300人におはようって言うまで終わらない朝🔥おはようって言っちゃう？ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=xDEVzJJ1R80</id>
+        <link href="https://www.youtube.com/watch?v=xDEVzJJ1R80"/>
+        <updated>2023-02-23T15:27:17.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ずっと欲しかったあれをプチお披露目！ & 幻の撮影会 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=mtmmUEin7pk</id>
+        <link href="https://www.youtube.com/watch?v=mtmmUEin7pk"/>
+        <updated>2023-02-23T15:26:43.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】久しぶりの朝活！ねむねむじゃけどおはなしするぞ☀【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=kKU4hl69ie4</id>
+        <link href="https://www.youtube.com/watch?v=kKU4hl69ie4"/>
+        <updated>2023-02-23T15:26:23.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ほろ酔いでもいいですか？祝日深夜のお歌枠🎤【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=YXy3JKg5-Dk</id>
+        <link href="https://www.youtube.com/watch?v=YXy3JKg5-Dk"/>
+        <updated>2023-02-23T15:24:44.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Al2B7puf9zM</id>
+        <link href="https://www.youtube.com/watch?v=Al2B7puf9zM"/>
+        <updated>2023-02-23T15:24:20.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です ランチタイムにまったり歌枠 📚 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=e7HDs2YZwJo</id>
+        <link href="https://www.youtube.com/watch?v=e7HDs2YZwJo"/>
+        <updated>2023-02-23T15:22:49.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】]]></title>
         <id>https://www.youtube.com/watch?v=bHmHn4MDD3s</id>
@@ -1410,15 +1464,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[稀羽すうが Overdose 歌ってみた  #shorts #cover #Vsinger]]></title>
-        <id>https://www.youtube.com/watch?v=cGzlIMURxLI</id>
-        <link href="https://www.youtube.com/watch?v=cGzlIMURxLI"/>
-        <updated>2023-02-12T13:00:32.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】初見さん大歓迎♡告知あり雑談あり、英語タイトル曲縛りのsing and talk ！！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=80wXt9IiLX4</id>
         <link href="https://www.youtube.com/watch?v=80wXt9IiLX4"/>
@@ -1482,15 +1527,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ 待ちに待った文化祭編【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ZyL5KubbDsE</id>
-        <link href="https://www.youtube.com/watch?v=ZyL5KubbDsE"/>
-        <updated>2023-02-11T18:00:10.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ホグワーツレガシー】ハリポタの世界へようこそ！祝入学！！【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=b9Z-lVy1cb4</id>
         <link href="https://www.youtube.com/watch?v=b9Z-lVy1cb4"/>
@@ -1533,15 +1569,6 @@
         <updated>2023-02-11T13:37:38.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アカペラで Made You Look 歌ってみた #shorts #vsinger #cover]]></title>
-        <id>https://www.youtube.com/watch?v=SqLyKgQQwUo</id>
-        <link href="https://www.youtube.com/watch?v=SqLyKgQQwUo"/>
-        <updated>2023-02-11T13:00:28.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2130,24 +2157,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[◆ASMR / 睡眠導入 / カメラ有 / パチパチ音のなるキャンドルとタッピング、囁き声でよく眠れる。追記：後半映画紹介囁き〖candle / binaural / JapaneseVtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=yFYPiR2K0P8</id>
-        <link href="https://www.youtube.com/watch?v=yFYPiR2K0P8"/>
-        <updated>2023-02-01T18:35:29.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #雑談 🥂 】初見さん大歓迎～／ひさしぶりの飲酒雑談だぞおお～～🥂いっぱい話そ！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=L5lR62M-C54</id>
-        <link href="https://www.youtube.com/watch?v=L5lR62M-C54"/>
-        <updated>2023-02-01T15:57:33.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【いまさら犯人じゃないと言われても】自由奔放ミステリーバカゲー最新作をプレイ✨✨【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=WboKlleSaO0</id>
         <link href="https://www.youtube.com/watch?v=WboKlleSaO0"/>
@@ -2415,15 +2424,6 @@
         <updated>2023-01-25T23:14:25.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#34】初心者の七聖召喚！まったり慣れていきたい⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Dbf3T399QCo</id>
-        <link href="https://www.youtube.com/watch?v=Dbf3T399QCo"/>
-        <updated>2023-01-25T17:45:55.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
