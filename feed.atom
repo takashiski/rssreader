@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T13:39:42.164Z</id>
+    <id>urn:2023-02-23T14:05:43.607Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T13:39:42.164Z</updated>
+    <updated>2023-02-23T14:05:43.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【日本語字幕・和訳】LOVE DIVE / IVE 아이브 歌ってみた coverd.水瓶ミア]]></title>
+        <id>https://www.youtube.com/watch?v=97Oo9IvTDcQ</id>
+        <link href="https://www.youtube.com/watch?v=97Oo9IvTDcQ"/>
+        <updated>2023-02-23T14:00:10.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】眠れないの？癒してあげるから一緒にうとうとしよ…🤍【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=N7LHMwfwpZY</id>
@@ -48,24 +57,6 @@
         <updated>2023-02-23T10:55:17.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム】登場人物全員陰キャのラブコメ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=fhnLC4AjUhc</id>
-        <link href="https://www.youtube.com/watch?v=fhnLC4AjUhc"/>
-        <updated>2023-02-23T09:43:21.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【日本語字幕・和訳】LOVE DIVE / IVE 아이브 歌ってみた coverd.水瓶ミア]]></title>
-        <id>https://www.youtube.com/watch?v=97Oo9IvTDcQ</id>
-        <link href="https://www.youtube.com/watch?v=97Oo9IvTDcQ"/>
-        <updated>2023-02-23T03:24:20.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -174,15 +165,6 @@
         <updated>2023-02-22T13:53:30.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】]]></title>
-        <id>https://www.youtube.com/watch?v=bHmHn4MDD3s</id>
-        <link href="https://www.youtube.com/watch?v=bHmHn4MDD3s"/>
-        <updated>2023-02-22T13:02:59.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -2211,6 +2193,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆NeiR Replicant / #07 / 完全初見 / 武器全回収RTA？でCエンドみたい！〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=gBn6q71GfUM</id>
+        <link href="https://www.youtube.com/watch?v=gBn6q71GfUM"/>
+        <updated>2023-01-31T10:50:12.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【初見さん歓迎！】今月最後のお歌の時間！【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KTHcAZV_oto</id>
         <link href="https://www.youtube.com/watch?v=KTHcAZV_oto"/>
@@ -2316,6 +2307,15 @@
         <updated>2023-01-28T10:09:07.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【VALORANT】そそそそそそそそそろらんく 【 #生リサ /Rre:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8Wu2ov0cWPg</id>
+        <link href="https://www.youtube.com/watch?v=8Wu2ov0cWPg"/>
+        <updated>2023-01-28T04:13:56.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
