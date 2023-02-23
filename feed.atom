@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T16:06:12.328Z</id>
+    <id>urn:2023-02-23T16:40:33.732Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T16:06:12.328Z</updated>
+    <updated>2023-02-23T16:40:33.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 朝活】もーにんぐあさでい🌤【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vCH5UcRY5Xc</id>
+        <link href="https://www.youtube.com/watch?v=vCH5UcRY5Xc"/>
+        <updated>2023-02-23T16:31:44.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【勇者の選択肢がおかしい】おかしな選択肢には慣れてますからっ！！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=bncdrlb-CvU</id>
+        <link href="https://www.youtube.com/watch?v=bncdrlb-CvU"/>
+        <updated>2023-02-23T16:18:11.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=l7Yi1RiwATU</id>
@@ -120,15 +138,6 @@
         <updated>2023-02-23T11:57:43.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】びゃ⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=neEihto5mNw</id>
-        <link href="https://www.youtube.com/watch?v=neEihto5mNw"/>
-        <updated>2023-02-23T11:53:00.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -2085,6 +2094,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 💥復帰配信💥 】お待たせしましたの歌雑⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】#歌枠]]></title>
+        <id>https://www.youtube.com/watch?v=cqTc1iYa2e4</id>
+        <link href="https://www.youtube.com/watch?v=cqTc1iYa2e4"/>
+        <updated>2023-02-03T14:32:33.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[☀朝活雑談 / 初見歓迎 / 2月はじめての朝かちゅ！恵方巻きもぐりしゃす/ morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=YLnDmM-c9ow</id>
         <link href="https://www.youtube.com/watch?v=YLnDmM-c9ow"/>
@@ -2388,15 +2406,6 @@
         <updated>2023-01-27T00:56:15.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】のんびりおはなししーまーしょっ💛【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=GmYMgDfvCdM</id>
-        <link href="https://www.youtube.com/watch?v=GmYMgDfvCdM"/>
-        <updated>2023-01-26T13:20:17.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
