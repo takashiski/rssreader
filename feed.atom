@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T13:10:42.628Z</id>
+    <id>urn:2023-02-23T13:39:42.164Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T13:10:42.628Z</updated>
+    <updated>2023-02-23T13:39:42.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】眠れないの？癒してあげるから一緒にうとうとしよ…🤍【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=N7LHMwfwpZY</id>
+        <link href="https://www.youtube.com/watch?v=N7LHMwfwpZY"/>
+        <updated>2023-02-23T13:33:05.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#VirtualonMusic】新企画！3D音楽番組「Vritual on Music」ゲスト 富士葵【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RzJX2NwXrUk</id>
@@ -21,15 +30,6 @@
         <updated>2023-02-23T11:53:00.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ZQNe0YfWVr0</id>
-        <link href="https://www.youtube.com/watch?v=ZQNe0YfWVr0"/>
-        <updated>2023-02-23T11:07:27.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1257,6 +1257,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
+        <link href="https://www.youtube.com/watch?v=e9DKNs-hzA0"/>
+        <updated>2023-02-13T19:31:03.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ダンガンロンパ / 第３章 #5】完全初見❕学級裁判に挑むための証拠集めから🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=2B_tbBMnSbI</id>
         <link href="https://www.youtube.com/watch?v=2B_tbBMnSbI"/>
@@ -2244,15 +2253,6 @@
         <updated>2023-01-29T15:23:54.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】ゲーミングチェアとPCデスク組み立てる❣見守って💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=hCP661nv448</id>
-        <link href="https://www.youtube.com/watch?v=hCP661nv448"/>
-        <updated>2023-01-29T15:16:06.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
