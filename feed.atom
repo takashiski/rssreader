@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T15:35:17.606Z</id>
+    <id>urn:2023-02-23T16:06:12.328Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T15:35:17.606Z</updated>
+    <updated>2023-02-23T16:06:12.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=l7Yi1RiwATU</id>
+        <link href="https://www.youtube.com/watch?v=l7Yi1RiwATU"/>
+        <updated>2023-02-23T15:53:17.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing stream】初見さん歓迎✨深夜のゲリラ歌枠🌙 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=nxA5oTmcD0Q</id>
+        <link href="https://www.youtube.com/watch?v=nxA5oTmcD0Q"/>
+        <updated>2023-02-23T15:52:31.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☀朝活雑談 / 300人におはようって言うまで終わらない朝🔥おはようって言っちゃう？ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=xDEVzJJ1R80</id>
@@ -1794,15 +1812,6 @@
         <updated>2023-02-08T11:35:38.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きた？挨拶しにきてよ～💜 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FiQ0_VyP8oc</id>
-        <link href="https://www.youtube.com/watch?v=FiQ0_VyP8oc"/>
-        <updated>2023-02-08T00:41:09.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
