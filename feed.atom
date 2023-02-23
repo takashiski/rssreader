@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T19:34:27.506Z</id>
+    <id>urn:2023-02-23T20:06:07.566Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T19:34:27.506Z</updated>
+    <updated>2023-02-23T20:06:07.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】眠れないの？癒してあげるから一緒にうとうとしよ…🤍【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=N7LHMwfwpZY</id>
+        <link href="https://www.youtube.com/watch?v=N7LHMwfwpZY"/>
+        <updated>2023-02-23T20:00:11.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【販売促進】 今ならなんと！・・・・【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=CwHtSRf-kHE</id>
@@ -75,15 +84,6 @@
         <updated>2023-02-23T15:53:17.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】初見さん歓迎✨深夜のゲリラ歌枠🌙 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=nxA5oTmcD0Q</id>
-        <link href="https://www.youtube.com/watch?v=nxA5oTmcD0Q"/>
-        <updated>2023-02-23T15:52:31.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -2298,15 +2298,6 @@
         <updated>2023-01-29T15:23:54.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】ゲーミングチェアとPCデスク組み立てる❣見守って💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=hCP661nv448</id>
-        <link href="https://www.youtube.com/watch?v=hCP661nv448"/>
-        <updated>2023-01-29T15:16:06.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
