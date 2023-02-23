@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-23T21:34:31.604Z</id>
+    <id>urn:2023-02-23T22:05:54.234Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-23T21:34:31.604Z</updated>
+    <updated>2023-02-23T22:05:54.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -93,15 +93,6 @@
         <updated>2023-02-23T15:53:17.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☀朝活雑談 / 300人におはようって言うまで終わらない朝🔥おはようって言っちゃう？ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
-        <id>https://www.youtube.com/watch?v=xDEVzJJ1R80</id>
-        <link href="https://www.youtube.com/watch?v=xDEVzJJ1R80"/>
-        <updated>2023-02-23T15:27:17.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
