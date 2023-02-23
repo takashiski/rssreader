@@ -1122,16 +1122,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=mtmmUEin7pk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mtmmUEin7pk",
-          "publishedOn": "2023-02-22T15:24:42.000Z",
-          "wordCount": null,
-          "title": "ずっと欲しかったあれをプチお披露目！ & 幻の撮影会 【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=L2ml0ctzUU8",
           "author": null,
           "description": "",
@@ -1270,6 +1260,16 @@
           "wordCount": null,
           "title": "#23 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！実況プレイ 待ちに待った文化祭編【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SqLyKgQQwUo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SqLyKgQQwUo",
+          "publishedOn": "2023-02-11T13:00:28.000Z",
+          "wordCount": null,
+          "title": "アカペラで Made You Look 歌ってみた #shorts #vsinger #cover",
+          "imageUrl": null
         }
       ]
     },
@@ -1278,6 +1278,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxLgvntienV0kwNLxrbcmyQ",
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
+          "publishedOn": "2023-02-23T14:38:33.000Z",
+          "wordCount": null,
+          "title": "＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DlpXEjmzB-o",
           "author": null,
@@ -1416,16 +1426,6 @@
           "publishedOn": "2023-02-01T18:35:29.000Z",
           "wordCount": null,
           "title": "◆ASMR / 睡眠導入 / カメラ有 / パチパチ音のなるキャンドルとタッピング、囁き声でよく眠れる。追記：後半映画紹介囁き〖candle / binaural / JapaneseVtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gBn6q71GfUM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gBn6q71GfUM",
-          "publishedOn": "2023-01-31T10:50:12.000Z",
-          "wordCount": null,
-          "title": "◆NeiR Replicant / #07 / 完全初見 / 武器全回収RTA？でCエンドみたい！〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
