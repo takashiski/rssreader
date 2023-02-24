@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T07:34:41.821Z</id>
+    <id>urn:2023-02-24T08:07:07.427Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T07:34:41.821Z</updated>
+    <updated>2023-02-24T08:07:07.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です ランチタイムにまったり歌枠 📚 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=e7HDs2YZwJo</id>
+        <link href="https://www.youtube.com/watch?v=e7HDs2YZwJo"/>
+        <updated>2023-02-24T07:48:12.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[menngenn]]></title>
         <id>https://www.youtube.com/watch?v=0U7GKKhaGgI</id>
@@ -1524,15 +1533,6 @@
         <updated>2023-02-12T13:42:41.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稀羽すうが Overdose 歌ってみた  #shorts #cover #Vsinger]]></title>
-        <id>https://www.youtube.com/watch?v=cGzlIMURxLI</id>
-        <link href="https://www.youtube.com/watch?v=cGzlIMURxLI"/>
-        <updated>2023-02-12T13:00:32.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
