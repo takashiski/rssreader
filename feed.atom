@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T03:35:42.982Z</id>
+    <id>urn:2023-02-24T04:06:18.130Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T03:35:42.982Z</updated>
+    <updated>2023-02-24T04:06:18.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -177,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#VirtualonMusic】新企画！3D音楽番組「Vritual on Music」ゲスト 富士葵【リアクト／Re:AcT】]]></title>
+        <title type="html"><![CDATA[【#VirtualonMusic】新企画！3D音楽番組「Virtual on Music」ゲスト 富士葵【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RzJX2NwXrUk</id>
         <link href="https://www.youtube.com/watch?v=RzJX2NwXrUk"/>
         <updated>2023-02-23T11:57:43.000Z</updated>
