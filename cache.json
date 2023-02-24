@@ -504,6 +504,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ydt5UyvxBlk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ydt5UyvxBlk",
+          "publishedOn": "2023-02-24T19:33:49.000Z",
+          "wordCount": null,
+          "title": "【ライザのアトリエ】▸素材を集める？💎ゆるゆる素材を集める～💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=N7LHMwfwpZY",
           "author": null,
           "description": "",
@@ -641,16 +651,6 @@
           "publishedOn": "2023-01-31T13:38:28.000Z",
           "wordCount": null,
           "title": "【Lobotomy Corporation】ついに最強クラスの子をお迎えしてしまった…❣どんなことが起きるのかドキドキ💕【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B45xCXrRJII",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B45xCXrRJII",
-          "publishedOn": "2023-01-30T23:57:51.000Z",
-          "wordCount": null,
-          "title": "【#歌枠 】ずっとやりたかったおうたを歌うよ…❣楽しも～💕singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
