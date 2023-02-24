@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T22:35:18.289Z</id>
+    <id>urn:2023-02-24T23:06:13.167Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T22:35:18.289Z</updated>
+    <updated>2023-02-24T23:06:13.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2442,15 +2442,6 @@
         <updated>2023-01-26T12:00:03.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ハモリにつられるな】#かしこまり のルーティン歌える？#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mlOsQomyVhs</id>
-        <link href="https://www.youtube.com/watch?v=mlOsQomyVhs"/>
-        <updated>2023-01-26T11:00:34.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
