@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T02:51:32.160Z</id>
+    <id>urn:2023-02-24T03:08:33.805Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T02:51:32.160Z</updated>
+    <updated>2023-02-24T03:08:33.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2433,15 +2433,6 @@
         <updated>2023-01-25T23:14:25.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久歌枠】お慈悲をくれえ！何しても登録者減るVtuber！【かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=KTdfkIKcsAI</id>
-        <link href="https://www.youtube.com/watch?v=KTdfkIKcsAI"/>
-        <updated>2023-01-25T14:54:25.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
