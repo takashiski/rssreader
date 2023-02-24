@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T01:33:27.824Z</id>
+    <id>urn:2023-02-24T02:29:17.998Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T01:33:27.824Z</updated>
+    <updated>2023-02-24T02:29:17.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】久しぶりの朝活！ねむねむじゃけどおはなしするぞ☀【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=kKU4hl69ie4</id>
+        <link href="https://www.youtube.com/watch?v=kKU4hl69ie4"/>
+        <updated>2023-02-24T02:10:05.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZQNe0YfWVr0</id>
+        <link href="https://www.youtube.com/watch?v=ZQNe0YfWVr0"/>
+        <updated>2023-02-24T01:48:03.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 朝活】もーにんぐあさでい🌤【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vCH5UcRY5Xc</id>
@@ -102,15 +120,6 @@
         <updated>2023-02-23T15:26:43.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】久しぶりの朝活！ねむねむじゃけどおはなしするぞ☀【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kKU4hl69ie4</id>
-        <link href="https://www.youtube.com/watch?v=kKU4hl69ie4"/>
-        <updated>2023-02-23T15:26:23.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1351,15 +1360,6 @@
         <id>https://www.youtube.com/watch?v=gsWcj9uXzdk</id>
         <link href="https://www.youtube.com/watch?v=gsWcj9uXzdk"/>
         <updated>2023-02-14T01:28:35.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】お歌覚えるよ~！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=e9DKNs-hzA0</id>
-        <link href="https://www.youtube.com/watch?v=e9DKNs-hzA0"/>
-        <updated>2023-02-13T19:31:03.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
