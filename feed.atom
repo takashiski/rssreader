@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T16:39:58.238Z</id>
+    <id>urn:2023-02-24T17:05:51.410Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T16:39:58.238Z</updated>
+    <updated>2023-02-24T17:05:51.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ホグワーツレガシー 】授業授業授業#3【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=U__--QuEOI4</id>
+        <link href="https://www.youtube.com/watch?v=U__--QuEOI4"/>
+        <updated>2023-02-24T17:03:46.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Phasmophobia】4人もいれば怖くないね…！！【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】]]></title>
+        <id>https://www.youtube.com/watch?v=5gWt5Brn7G4</id>
+        <link href="https://www.youtube.com/watch?v=5gWt5Brn7G4"/>
+        <updated>2023-02-24T17:03:12.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】samusugi⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=1HwwpYidi7c</id>
+        <link href="https://www.youtube.com/watch?v=1HwwpYidi7c"/>
+        <updated>2023-02-24T17:00:31.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Rh5xkzxDM9M</id>
+        <link href="https://www.youtube.com/watch?v=Rh5xkzxDM9M"/>
+        <updated>2023-02-24T16:54:49.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=KvdcPLbINfM</id>
@@ -57,15 +93,6 @@
         <updated>2023-02-24T13:47:39.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】samusugi⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=1HwwpYidi7c</id>
-        <link href="https://www.youtube.com/watch?v=1HwwpYidi7c"/>
-        <updated>2023-02-24T13:42:09.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -1293,15 +1320,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=O6674L7TiiY</id>
-        <link href="https://www.youtube.com/watch?v=O6674L7TiiY"/>
-        <updated>2023-02-14T19:33:19.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】好き好き囁き有り！睡眠導入♡あなただけの甘やかし耳かき♡【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
         <id>https://www.youtube.com/watch?v=PCDHX7gXkQs</id>
         <link href="https://www.youtube.com/watch?v=PCDHX7gXkQs"/>
@@ -2037,15 +2055,6 @@
         <updated>2023-02-05T23:38:35.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】深夜だけど気にせず好きな曲歌う🌸SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=_YWTMnMZeYo</id>
-        <link href="https://www.youtube.com/watch?v=_YWTMnMZeYo"/>
-        <updated>2023-02-05T17:21:14.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
