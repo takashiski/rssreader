@@ -661,6 +661,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wvtBdCasYuc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wvtBdCasYuc",
+          "publishedOn": "2023-02-24T15:27:03.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見大歓迎！夜更かしさん集まれ！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
           "author": null,
           "description": "",
@@ -798,16 +808,6 @@
           "publishedOn": "2023-02-14T19:33:19.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=icKjwmLigFU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=icKjwmLigFU",
-          "publishedOn": "2023-02-14T15:00:35.000Z",
-          "wordCount": null,
-          "title": "きき〇〇に挑戦！？【公式切り抜き】#るっくあっとたらん #shorts",
           "imageUrl": null
         }
       ]
