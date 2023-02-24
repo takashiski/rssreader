@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T16:06:15.731Z</id>
+    <id>urn:2023-02-24T16:39:58.238Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T16:06:15.731Z</updated>
+    <updated>2023-02-24T16:39:58.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2023-02-24T13:08:32.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🎤歌枠/初見さん歓迎】ライブ前日マイペース歌枠～SingingStream/karaoke【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=yLmBmc5VvW4</id>
-        <link href="https://www.youtube.com/watch?v=yLmBmc5VvW4"/>
-        <updated>2023-02-24T13:02:06.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2019,6 +2010,15 @@
         <updated>2023-02-06T16:28:25.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【👻ヒトカラ🎤】一人でカラオケ行けるもんっっ【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=rF-LSL6p5FQ</id>
+        <link href="https://www.youtube.com/watch?v=rF-LSL6p5FQ"/>
+        <updated>2023-02-06T15:14:31.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
