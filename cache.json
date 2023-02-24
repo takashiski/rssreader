@@ -1864,6 +1864,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bncdrlb-CvU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bncdrlb-CvU",
+          "publishedOn": "2023-02-24T13:15:04.000Z",
+          "wordCount": null,
+          "title": "【勇者の選択肢がおかしい】おかしな選択肢には慣れてますからっ！！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pRHEHVJnWcI",
           "author": null,
           "description": "",
@@ -2001,16 +2011,6 @@
           "publishedOn": "2023-01-27T16:27:14.000Z",
           "wordCount": null,
           "title": "【零 ～濡鴉ノ巫女～】やり残した事があるんっちゃ…【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GmYMgDfvCdM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GmYMgDfvCdM",
-          "publishedOn": "2023-01-26T13:20:17.000Z",
-          "wordCount": null,
-          "title": "【雑談】のんびりおはなししーまーしょっ💛【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
