@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T12:44:36.869Z</id>
+    <id>urn:2023-02-24T13:10:04.503Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T12:44:36.869Z</updated>
+    <updated>2023-02-24T13:10:04.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=7nTUYBDZ0mQ</id>
+        <link href="https://www.youtube.com/watch?v=7nTUYBDZ0mQ"/>
+        <updated>2023-02-24T13:08:32.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🎤歌枠/初見さん歓迎】ライブ前日マイペース歌枠～SingingStream/karaoke【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=yLmBmc5VvW4</id>
+        <link href="https://www.youtube.com/watch?v=yLmBmc5VvW4"/>
+        <updated>2023-02-24T13:02:06.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=l7Yi1RiwATU</id>
+        <link href="https://www.youtube.com/watch?v=l7Yi1RiwATU"/>
+        <updated>2023-02-24T13:01:19.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[はのとキミの物語のはじまり]]></title>
         <id>https://www.youtube.com/watch?v=JYH5-ATdT1w</id>
@@ -48,15 +75,6 @@
         <updated>2023-02-24T07:48:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=46VL3Lz2f1o</id>
-        <link href="https://www.youtube.com/watch?v=46VL3Lz2f1o"/>
-        <updated>2023-02-24T03:28:51.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -129,15 +147,6 @@
         <updated>2023-02-23T18:44:02.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【勇者の選択肢がおかしい】おかしな選択肢には慣れてますからっ！！【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=bncdrlb-CvU</id>
-        <link href="https://www.youtube.com/watch?v=bncdrlb-CvU"/>
-        <updated>2023-02-23T16:18:11.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1869,15 +1878,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きた？挨拶しにきてよ～💜 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FiQ0_VyP8oc</id>
-        <link href="https://www.youtube.com/watch?v=FiQ0_VyP8oc"/>
-        <updated>2023-02-08T00:41:09.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】歌！⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=fbywHoermt0</id>
         <link href="https://www.youtube.com/watch?v=fbywHoermt0"/>
@@ -1965,15 +1965,6 @@
         <updated>2023-02-06T16:28:25.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【👻ヒトカラ🎤】一人でカラオケ行けるもんっっ【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=rF-LSL6p5FQ</id>
-        <link href="https://www.youtube.com/watch?v=rF-LSL6p5FQ"/>
-        <updated>2023-02-06T15:14:31.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2163,15 +2154,6 @@
         <updated>2023-02-02T14:19:11.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】心のノートを読む、道徳を学ぶ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=c-82sdthev8</id>
-        <link href="https://www.youtube.com/watch?v=c-82sdthev8"/>
-        <updated>2023-02-02T12:34:17.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2415,6 +2397,15 @@
         <updated>2023-01-27T00:56:15.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】のんびりおはなししーまーしょっ💛【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=GmYMgDfvCdM</id>
+        <link href="https://www.youtube.com/watch?v=GmYMgDfvCdM"/>
+        <updated>2023-01-26T13:20:17.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
