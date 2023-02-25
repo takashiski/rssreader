@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T18:35:48.157Z</id>
+    <id>urn:2023-02-25T19:05:25.614Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T18:35:48.157Z</updated>
+    <updated>2023-02-25T19:05:25.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=GgnDlaazoQA</id>
+        <link href="https://www.youtube.com/watch?v=GgnDlaazoQA"/>
+        <updated>2023-02-25T18:44:25.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【爆弾解除】ひかりとわらわならテレパシーで爆弾解除できます(諸説あり) #ひかなう【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1qocOZG4lcM</id>
@@ -2208,15 +2217,6 @@
         <updated>2023-02-03T15:20:31.000Z</updated>
         <author>
             <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☀朝活雑談 / 初見歓迎 / 2月はじめての朝かちゅ！恵方巻きもぐりしゃす/ morning freetalk【新人Vtuber/九楽ライ】]]></title>
-        <id>https://www.youtube.com/watch?v=YLnDmM-c9ow</id>
-        <link href="https://www.youtube.com/watch?v=YLnDmM-c9ow"/>
-        <updated>2023-02-03T00:44:10.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

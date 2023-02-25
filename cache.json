@@ -1279,6 +1279,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GgnDlaazoQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GgnDlaazoQA",
+          "publishedOn": "2023-02-25T18:44:25.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YMbClWP1OxE",
           "author": null,
           "description": "",
@@ -1406,16 +1416,6 @@
           "publishedOn": "2023-02-05T12:09:43.000Z",
           "wordCount": null,
           "title": "◆ The Karaoke | ヒトカラ🎤/ チラズさんの最新作がきた！引きニートが一人でカラオケ来たら大変なことになった...〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YLnDmM-c9ow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YLnDmM-c9ow",
-          "publishedOn": "2023-02-03T00:44:10.000Z",
-          "wordCount": null,
-          "title": "☀朝活雑談 / 初見歓迎 / 2月はじめての朝かちゅ！恵方巻きもぐりしゃす/ morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
