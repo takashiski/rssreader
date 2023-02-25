@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T10:05:48.798Z</id>
+    <id>urn:2023-02-25T10:34:59.733Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T10:05:48.798Z</updated>
+    <updated>2023-02-25T10:34:59.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【冒頭無料配信】天川はの1stワンマンライブ「ばぶってもライブできるもん！」 #天川はのばぶライブ]]></title>
+        <id>https://www.youtube.com/watch?v=OKxofKKpy0M</id>
+        <link href="https://www.youtube.com/watch?v=OKxofKKpy0M"/>
+        <updated>2023-02-25T10:32:31.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】今日は１７時から！定期歌枠だよ～！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=7_CLku61Dnk</id>
+        <link href="https://www.youtube.com/watch?v=7_CLku61Dnk"/>
+        <updated>2023-02-25T10:13:01.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】今年最初の愚痴会スナックでほろ苦いお酒を🥂【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=uQWqKbZmYU4</id>
@@ -453,15 +471,6 @@
         <updated>2023-02-22T11:01:57.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【冒頭無料配信】天川はの1stワンマンライブ「ばぶってもライブできるもん！」 #天川はのばぶライブ]]></title>
-        <id>https://www.youtube.com/watch?v=OKxofKKpy0M</id>
-        <link href="https://www.youtube.com/watch?v=OKxofKKpy0M"/>
-        <updated>2023-02-22T08:37:34.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2199,15 +2208,6 @@
         <updated>2023-02-02T14:19:11.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】心のノートを読む、道徳を学ぶ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=c-82sdthev8</id>
-        <link href="https://www.youtube.com/watch?v=c-82sdthev8"/>
-        <updated>2023-02-02T12:34:17.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
