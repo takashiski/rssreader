@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mvCOcMUmbGg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mvCOcMUmbGg",
+          "publishedOn": "2023-02-25T12:00:27.000Z",
+          "wordCount": null,
+          "title": "【 #shorts 】死ぬな！ / #こっちのけんと【アカペラハモリで歌ってみた #るーとも 】【 #紅龍イサナ / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U__--QuEOI4",
           "author": null,
           "description": "",
@@ -170,16 +180,6 @@
           "publishedOn": "2023-02-07T17:07:11.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】歌！⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pgQAGIRm07Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pgQAGIRm07Q",
-          "publishedOn": "2023-02-07T04:12:23.000Z",
-          "wordCount": null,
-          "title": "【 #弾き語り / #歌枠 】久しぶりの弾き語り⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -667,7 +667,7 @@
           "link": "https://www.youtube.com/watch?v=5gWt5Brn7G4",
           "publishedOn": "2023-02-24T17:03:12.000Z",
           "wordCount": null,
-          "title": "【Phasmophobia】4人もいれば怖くないね…！！【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】",
+          "title": "【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】",
           "imageUrl": null
         },
         {
@@ -807,6 +807,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=It_ZhwuwIrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=It_ZhwuwIrM",
+          "publishedOn": "2023-02-25T12:00:09.000Z",
+          "wordCount": null,
+          "title": "【 #shorts 】Vsingerが一発録りで 逆光 歌ってみた【#彩雲のの / #新人vtuber 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Rh5xkzxDM9M",
           "author": null,
