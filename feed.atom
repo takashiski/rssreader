@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T08:35:37.580Z</id>
+    <id>urn:2023-02-25T09:05:52.629Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T08:35:37.580Z</updated>
+    <updated>2023-02-25T09:05:52.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ホグワーツレガシー 】授業授業授業#3【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=U__--QuEOI4</id>
+        <link href="https://www.youtube.com/watch?v=U__--QuEOI4"/>
+        <updated>2023-02-25T08:45:48.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠 | singing】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=klMsVcSdPRU</id>
@@ -2037,15 +2046,6 @@
         <updated>2023-02-05T23:38:35.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】深夜だけど気にせず好きな曲歌う🌸SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=_YWTMnMZeYo</id>
-        <link href="https://www.youtube.com/watch?v=_YWTMnMZeYo"/>
-        <updated>2023-02-05T17:21:14.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
