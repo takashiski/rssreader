@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T02:52:52.214Z</id>
+    <id>urn:2023-02-25T03:09:05.719Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T02:52:52.215Z</updated>
+    <updated>2023-02-25T03:09:05.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,15 +10,6 @@
         <id>https://www.youtube.com/watch?v=wvtBdCasYuc</id>
         <link href="https://www.youtube.com/watch?v=wvtBdCasYuc"/>
         <updated>2023-02-25T02:34:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さくせんねるねるねるね【メン限】]]></title>
-        <id>https://www.youtube.com/watch?v=7v9GPiSBpYs</id>
-        <link href="https://www.youtube.com/watch?v=7v9GPiSBpYs"/>
-        <updated>2023-02-25T01:06:01.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1326,6 +1317,15 @@
         <updated>2023-02-15T00:17:20.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9TlChKY7UIg</id>
+        <link href="https://www.youtube.com/watch?v=9TlChKY7UIg"/>
+        <updated>2023-02-15T00:01:11.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
