@@ -347,16 +347,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=klMsVcSdPRU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=klMsVcSdPRU",
-          "publishedOn": "2023-02-24T19:56:39.000Z",
-          "wordCount": null,
-          "title": "【歌枠 | singing】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Dsf8Zm_JDbM",
           "author": null,
           "description": "",
@@ -494,6 +484,16 @@
           "publishedOn": "2023-02-09T15:04:10.000Z",
           "wordCount": null,
           "title": "【#歌枠】おまいら15年前何してたよ｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ORVrMrJU8-Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ORVrMrJU8-Y",
+          "publishedOn": "2023-02-07T14:40:16.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】“愛”縛り歌枠♡｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -661,16 +661,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=UcMYO8N8F4k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UcMYO8N8F4k",
-          "publishedOn": "2023-02-25T04:59:12.000Z",
-          "wordCount": null,
-          "title": "【歌雑/sing&talk】初見大歓迎！たすけてほしい。【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=wvtBdCasYuc",
           "author": null,
           "description": "",
@@ -808,6 +798,16 @@
           "publishedOn": "2023-02-15T04:38:17.000Z",
           "wordCount": null,
           "title": "【バレンタイン】チョコレートに植物のお名前かきかき2【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9TlChKY7UIg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9TlChKY7UIg",
+          "publishedOn": "2023-02-15T00:01:11.000Z",
+          "wordCount": null,
+          "title": "【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
