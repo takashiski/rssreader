@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T13:34:27.285Z</id>
+    <id>urn:2023-02-25T14:05:46.829Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T13:34:27.285Z</updated>
+    <updated>2023-02-25T14:05:46.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アイワナムチュー / MAISONdes 歌ってみた 水瓶ミア feat.獅子神レオナ]]></title>
+        <id>https://www.youtube.com/watch?v=Qov2j2_40tU</id>
+        <link href="https://www.youtube.com/watch?v=Qov2j2_40tU"/>
+        <updated>2023-02-25T13:40:58.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #shorts 】死ぬな！ / #こっちのけんと【アカペラハモリで歌ってみた #るーとも 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=mvCOcMUmbGg</id>
@@ -120,15 +129,6 @@
         <updated>2023-02-24T17:38:49.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】]]></title>
-        <id>https://www.youtube.com/watch?v=5gWt5Brn7G4</id>
-        <link href="https://www.youtube.com/watch?v=5gWt5Brn7G4"/>
-        <updated>2023-02-24T17:03:12.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1369,6 +1369,15 @@
         <id>https://www.youtube.com/watch?v=9TlChKY7UIg</id>
         <link href="https://www.youtube.com/watch?v=9TlChKY7UIg"/>
         <updated>2023-02-15T00:01:11.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=O6674L7TiiY</id>
+        <link href="https://www.youtube.com/watch?v=O6674L7TiiY"/>
+        <updated>2023-02-14T19:33:19.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>

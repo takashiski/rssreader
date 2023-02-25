@@ -671,16 +671,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=5gWt5Brn7G4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5gWt5Brn7G4",
-          "publishedOn": "2023-02-24T17:03:12.000Z",
-          "wordCount": null,
-          "title": "【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
           "author": null,
           "description": "",
@@ -808,6 +798,16 @@
           "publishedOn": "2023-02-15T00:01:11.000Z",
           "wordCount": null,
           "title": "【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O6674L7TiiY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O6674L7TiiY",
+          "publishedOn": "2023-02-14T19:33:19.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】深夜に歌う～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2628,6 +2628,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Qov2j2_40tU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Qov2j2_40tU",
+          "publishedOn": "2023-02-25T13:40:58.000Z",
+          "wordCount": null,
+          "title": "アイワナムチュー / MAISONdes 歌ってみた 水瓶ミア feat.獅子神レオナ",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gfDUM4x1CnA",
           "author": null,
