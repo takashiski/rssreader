@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T09:34:29.347Z</id>
+    <id>urn:2023-02-25T10:05:48.798Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T09:34:29.347Z</updated>
+    <updated>2023-02-25T10:05:48.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】今年最初の愚痴会スナックでほろ苦いお酒を🥂【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=uQWqKbZmYU4</id>
+        <link href="https://www.youtube.com/watch?v=uQWqKbZmYU4"/>
+        <updated>2023-02-25T09:50:08.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆Minecraft / #06 / 豆腐回避倉庫キボンヌ。建築うおおおおお🔥〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=YMbClWP1OxE</id>
+        <link href="https://www.youtube.com/watch?v=YMbClWP1OxE"/>
+        <updated>2023-02-25T09:37:51.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ホグワーツレガシー 】授業授業授業#3【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=U__--QuEOI4</id>
@@ -246,15 +264,6 @@
         <updated>2023-02-23T18:57:18.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】今日は１７時から！定期歌枠だよ～！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=7_CLku61Dnk</id>
-        <link href="https://www.youtube.com/watch?v=7_CLku61Dnk"/>
-        <updated>2023-02-23T18:44:02.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2193,6 +2202,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【雑談】心のノートを読む、道徳を学ぶ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=c-82sdthev8</id>
+        <link href="https://www.youtube.com/watch?v=c-82sdthev8"/>
+        <updated>2023-02-02T12:34:17.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで アイワナムチュー 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
         <id>https://www.youtube.com/watch?v=ONzJRg9xXYs</id>
         <link href="https://www.youtube.com/watch?v=ONzJRg9xXYs"/>
@@ -2208,15 +2226,6 @@
         <updated>2023-02-02T11:00:03.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆NeiR Replicant / 最終回 / 完全初見 / ついに終焉。全エンド回収。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=TL7G-F4wl6s</id>
-        <link href="https://www.youtube.com/watch?v=TL7G-F4wl6s"/>
-        <updated>2023-02-02T10:18:06.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -2388,15 +2397,6 @@
         <updated>2023-01-27T22:07:34.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】やり残した事があるんっちゃ…【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=r3huAC-1OcM</id>
-        <link href="https://www.youtube.com/watch?v=r3huAC-1OcM"/>
-        <updated>2023-01-27T16:27:14.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
