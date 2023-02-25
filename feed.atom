@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T20:06:04.451Z</id>
+    <id>urn:2023-02-25T20:34:27.324Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-25T20:06:04.451Z</updated>
+    <updated>2023-02-25T20:34:27.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
+        <link href="https://www.youtube.com/watch?v=zqyXDYBYLpI"/>
+        <updated>2023-02-25T20:06:25.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】花粉やべえって 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=D1z-nimckcs</id>
