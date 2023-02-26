@@ -2442,6 +2442,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_Og1Z4x2jWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_Og1Z4x2jWM",
+          "publishedOn": "2023-02-26T11:00:32.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zqyXDYBYLpI",
           "author": null,
           "description": "",
@@ -2579,16 +2589,6 @@
           "publishedOn": "2023-01-30T17:58:24.000Z",
           "wordCount": null,
           "title": "【 PowerWash Simulator 】掃除のお時間です！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xHY1fEkz2Kk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xHY1fEkz2Kk",
-          "publishedOn": "2023-01-29T15:23:54.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】新しい曲を覚えた予感がする🎤  sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
