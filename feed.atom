@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T01:34:36.738Z</id>
+    <id>urn:2023-02-26T02:33:27.620Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T01:34:36.738Z</updated>
+    <updated>2023-02-26T02:33:27.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】]]></title>
+        <id>https://www.youtube.com/watch?v=5gWt5Brn7G4</id>
+        <link href="https://www.youtube.com/watch?v=5gWt5Brn7G4"/>
+        <updated>2023-02-26T02:03:19.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
@@ -12,15 +21,6 @@
         <updated>2023-02-25T20:06:25.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】花粉やべえって 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=D1z-nimckcs</id>
-        <link href="https://www.youtube.com/watch?v=D1z-nimckcs"/>
-        <updated>2023-02-25T19:36:09.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1428,15 +1428,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【バレンタイン】チョコレートに植物のお名前かきかき🤍【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9TlChKY7UIg</id>
-        <link href="https://www.youtube.com/watch?v=9TlChKY7UIg"/>
-        <updated>2023-02-15T00:01:11.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】好き好き囁き有り！睡眠導入♡あなただけの甘やかし耳かき♡【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
         <id>https://www.youtube.com/watch?v=PCDHX7gXkQs</id>
         <link href="https://www.youtube.com/watch?v=PCDHX7gXkQs"/>
@@ -2247,6 +2238,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【雑談】心のノートを読む、道徳を学ぶ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=c-82sdthev8</id>
+        <link href="https://www.youtube.com/watch?v=c-82sdthev8"/>
+        <updated>2023-02-02T12:34:17.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで アイワナムチュー 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
         <id>https://www.youtube.com/watch?v=ONzJRg9xXYs</id>
         <link href="https://www.youtube.com/watch?v=ONzJRg9xXYs"/>
@@ -2424,15 +2424,6 @@
         <updated>2023-01-27T22:07:34.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=3jwiB-HkXe8</id>
-        <link href="https://www.youtube.com/watch?v=3jwiB-HkXe8"/>
-        <updated>2023-01-27T14:04:21.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
