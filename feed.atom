@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T18:05:56.660Z</id>
+    <id>urn:2023-02-26T18:35:29.940Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T18:05:56.660Z</updated>
+    <updated>2023-02-26T18:35:29.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ライザのアトリエ】今日はストーリーをいっぱい進める📖💕物語の続きを早く見たい～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=khWACXOD0pE</id>
+        <link href="https://www.youtube.com/watch?v=khWACXOD0pE"/>
+        <updated>2023-02-26T18:23:37.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/咀嚼音】オフコラボ💗可愛いお菓子を食べる音🍭🍪💗 #つくつくぴっち 【月紫アリア/夢川かなう/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-ydWSRf9pXY</id>
@@ -2352,15 +2361,6 @@
         <updated>2023-01-31T14:26:05.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】ついに最強クラスの子をお迎えしてしまった…❣どんなことが起きるのかドキドキ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mEpaxG_s39E</id>
-        <link href="https://www.youtube.com/watch?v=mEpaxG_s39E"/>
-        <updated>2023-01-31T13:38:28.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
