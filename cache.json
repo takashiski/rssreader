@@ -1677,16 +1677,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Wodag4psP2A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wodag4psP2A",
-          "publishedOn": "2023-02-25T18:10:28.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨３D💜かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=p2cSOmvmfL0",
           "author": null,
           "description": "",
@@ -1814,6 +1804,16 @@
           "publishedOn": "2023-02-10T10:25:29.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎✨楽しく歌うから盛り上げて～っ💜 karaoke【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=s3exgwZLDKw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s3exgwZLDKw",
+          "publishedOn": "2023-02-09T14:22:54.000Z",
+          "wordCount": null,
+          "title": "【ダンガンロンパ  / 第３章 #4】完全初見❕謎を解き明かす🔥🔥 Danganronpa【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
