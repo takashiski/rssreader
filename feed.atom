@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T12:43:40.024Z</id>
+    <id>urn:2023-02-26T13:08:54.694Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T12:43:40.024Z</updated>
+    <updated>2023-02-26T13:08:54.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[稀羽すうが なにやってもうまくいかない 歌ってみた  #shorts #cover #Vsinger]]></title>
+        <id>https://www.youtube.com/watch?v=NXczecWCWZM</id>
+        <link href="https://www.youtube.com/watch?v=NXczecWCWZM"/>
+        <updated>2023-02-26T13:00:11.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【爆弾解除】ひかりとわらわならテレパシーで爆弾解除できます(諸説あり) #ひかなう【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1qocOZG4lcM</id>
@@ -42,6 +51,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【囁き】眠れない夜もすやすやできるASMRらじお #すやらじ ♡5【ASMR Radio/Whisper】]]></title>
+        <id>https://www.youtube.com/watch?v=TpAyn1pES6g</id>
+        <link href="https://www.youtube.com/watch?v=TpAyn1pES6g"/>
+        <updated>2023-02-26T09:53:24.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ホグワーツ・レガシー】さいきょーにたのしむ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=BquolWxvshc</id>
         <link href="https://www.youtube.com/watch?v=BquolWxvshc"/>
@@ -57,15 +75,6 @@
         <updated>2023-02-26T08:07:20.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=F1WMA0ir0VY</id>
-        <link href="https://www.youtube.com/watch?v=F1WMA0ir0VY"/>
-        <updated>2023-02-26T06:24:41.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1734,15 +1743,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ 盛り上がる曲を歌いたいカラオケ配信！✦ KARAOKE【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6ZWMym40zpY</id>
-        <link href="https://www.youtube.com/watch?v=6ZWMym40zpY"/>
-        <updated>2023-02-12T15:10:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【スパチャ読み】ぐぐっと近くでおしゃべりしましょ💛 【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=E5FlknWxcR8</id>
         <link href="https://www.youtube.com/watch?v=E5FlknWxcR8"/>
@@ -2121,15 +2121,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】癖になるにゃ！ぞわぞわ耳かきと囁き、ドキドキする吐息♡超絶気持ちいい時間をあげる♡【Ear Cleaning/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=6Gyh6Af505w</id>
-        <link href="https://www.youtube.com/watch?v=6Gyh6Af505w"/>
-        <updated>2023-02-06T16:28:25.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#かしこまり5周年 記念のバースデーイラストがかわいいからみてほしい【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xffM8m-1MFA</id>
         <link href="https://www.youtube.com/watch?v=xffM8m-1MFA"/>
@@ -2199,6 +2190,15 @@
         <updated>2023-02-04T15:51:43.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【参加型】まったく何もわかっていないゲームだけどなんか楽しそう！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=wUw9QGH-XzY</id>
+        <link href="https://www.youtube.com/watch?v=wUw9QGH-XzY"/>
+        <updated>2023-02-04T13:09:17.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
