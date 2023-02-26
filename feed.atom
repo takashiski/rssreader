@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T10:05:58.233Z</id>
+    <id>urn:2023-02-26T10:35:07.022Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T10:05:58.233Z</updated>
+    <updated>2023-02-26T10:35:07.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！新曲覚える！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=A4dAKnX9J-Y</id>
+        <link href="https://www.youtube.com/watch?v=A4dAKnX9J-Y"/>
+        <updated>2023-02-26T10:21:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホグワーツ・レガシー】さいきょーにたのしむ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=BquolWxvshc</id>
@@ -1365,15 +1374,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】消える可能性がとても高い！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PnRxmpa_uUY</id>
-        <link href="https://www.youtube.com/watch?v=PnRxmpa_uUY"/>
-        <updated>2023-02-15T14:58:39.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
         <link href="https://www.youtube.com/watch?v=I3rNqW-8LDY"/>
@@ -1632,15 +1632,6 @@
         <updated>2023-02-13T18:47:13.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/KU100】気持ち良すぎて即寝できる！100万円超えの機材でぐっすり音圧強め耳かき。【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
-        <id>https://www.youtube.com/watch?v=-B8Q0UgHpsg</id>
-        <link href="https://www.youtube.com/watch?v=-B8Q0UgHpsg"/>
-        <updated>2023-02-13T17:02:01.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2413,24 +2404,6 @@
         <id>https://www.youtube.com/watch?v=XybG0bNOIfA</id>
         <link href="https://www.youtube.com/watch?v=XybG0bNOIfA"/>
         <updated>2023-01-28T10:09:07.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌雑/sing and talk】引っ越し前ラスト配信なり！会いに来て～～！【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Z4qPujQ2hOM</id>
-        <link href="https://www.youtube.com/watch?v=Z4qPujQ2hOM"/>
-        <updated>2023-01-27T22:11:02.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【祝８０００人】宴じゃ～！！！【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=U6YGSKfd4k8</id>
-        <link href="https://www.youtube.com/watch?v=U6YGSKfd4k8"/>
-        <updated>2023-01-27T22:07:34.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
         </author>
