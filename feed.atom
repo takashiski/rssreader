@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T14:05:40.079Z</id>
+    <id>urn:2023-02-26T14:34:20.665Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T14:05:40.079Z</updated>
+    <updated>2023-02-26T14:34:20.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【バトオペ2】新MAP『コロニー落下地域』行く！！/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=WflRLHyR4xU</id>
+        <link href="https://www.youtube.com/watch?v=WflRLHyR4xU"/>
+        <updated>2023-02-26T14:20:01.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【参加型】まったく何もわかっていないゲームだけどなんか楽しそう！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=wUw9QGH-XzY</id>
+        <link href="https://www.youtube.com/watch?v=wUw9QGH-XzY"/>
+        <updated>2023-02-26T14:14:55.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1oDEF1DTRAc</id>
@@ -1635,15 +1653,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR/KU100】気持ち良すぎて即寝できる！100万円超えの機材でぐっすり音圧強め耳かき。【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
-        <id>https://www.youtube.com/watch?v=-B8Q0UgHpsg</id>
-        <link href="https://www.youtube.com/watch?v=-B8Q0UgHpsg"/>
-        <updated>2023-02-13T17:02:01.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3EQ00AP4GLE</id>
         <link href="https://www.youtube.com/watch?v=3EQ00AP4GLE"/>
@@ -2199,15 +2208,6 @@
         <updated>2023-02-04T15:51:43.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加型】まったく何もわかっていないゲームだけどなんか楽しそう！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=wUw9QGH-XzY</id>
-        <link href="https://www.youtube.com/watch?v=wUw9QGH-XzY"/>
-        <updated>2023-02-04T13:09:17.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
