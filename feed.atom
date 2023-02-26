@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T09:34:25.127Z</id>
+    <id>urn:2023-02-26T10:05:58.233Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T09:34:25.127Z</updated>
+    <updated>2023-02-26T10:05:58.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツ・レガシー】さいきょーにたのしむ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BquolWxvshc</id>
+        <link href="https://www.youtube.com/watch?v=BquolWxvshc"/>
+        <updated>2023-02-26T09:44:37.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 sing & talk🥂 】新企画スタート！美睡すぽっと！初回ゲスト：風吹スサノオ【#美睡すぽっと！/#新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=im6hs9t6cIY</id>
@@ -30,15 +39,6 @@
         <updated>2023-02-26T06:59:25.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！新曲覚える！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=A4dAKnX9J-Y</id>
-        <link href="https://www.youtube.com/watch?v=A4dAKnX9J-Y"/>
-        <updated>2023-02-26T06:31:12.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
