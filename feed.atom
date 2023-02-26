@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T14:34:20.665Z</id>
+    <id>urn:2023-02-26T15:06:08.510Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T14:34:20.665Z</updated>
+    <updated>2023-02-26T15:06:08.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！これはまったく知らないけど面白い気配がする！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=tvfXwJUt32I</id>
+        <link href="https://www.youtube.com/watch?v=tvfXwJUt32I"/>
+        <updated>2023-02-26T14:50:02.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストはブルーロック好きな全人類！【宇佐美ユノ / 全人類 / vtuber】～このサムネ可愛くない？？を添えて～]]></title>
+        <id>https://www.youtube.com/watch?v=zis5aGxJiYM</id>
+        <link href="https://www.youtube.com/watch?v=zis5aGxJiYM"/>
+        <updated>2023-02-26T14:45:45.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Rh5xkzxDM9M</id>
+        <link href="https://www.youtube.com/watch?v=Rh5xkzxDM9M"/>
+        <updated>2023-02-26T14:37:36.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【バトオペ2】新MAP『コロニー落下地域』行く！！/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=WflRLHyR4xU</id>
@@ -24,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke　＃２【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1oDEF1DTRAc</id>
         <link href="https://www.youtube.com/watch?v=1oDEF1DTRAc"/>
         <updated>2023-02-26T13:37:54.000Z</updated>
@@ -138,15 +165,6 @@
         <updated>2023-02-26T02:03:19.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
-        <link href="https://www.youtube.com/watch?v=zqyXDYBYLpI"/>
-        <updated>2023-02-25T20:06:25.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -1968,15 +1986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#殺戮の天使】あと少し！！ラストまで二人を見守り隊！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=IN38A0UKEuI</id>
-        <link href="https://www.youtube.com/watch?v=IN38A0UKEuI"/>
-        <updated>2023-02-09T13:54:51.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【高難度!ハモリにつられるな】トウキョウ・シャンディ・ランデヴ一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=4NpwRgO1Bb0</id>
         <link href="https://www.youtube.com/watch?v=4NpwRgO1Bb0"/>
@@ -2028,15 +2037,6 @@
         <updated>2023-02-08T16:12:08.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストは九楽ライちゃん！蜂楽くんを布教する！【宇佐美ユノ / 九楽ライ / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=1fU8Xdh_rng</id>
-        <link href="https://www.youtube.com/watch?v=1fU8Xdh_rng"/>
-        <updated>2023-02-08T14:12:31.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -2379,6 +2379,15 @@
         <updated>2023-01-29T23:12:50.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】新しい曲を覚えた予感がする🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xHY1fEkz2Kk</id>
+        <link href="https://www.youtube.com/watch?v=xHY1fEkz2Kk"/>
+        <updated>2023-01-29T15:23:54.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
