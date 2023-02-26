@@ -1269,16 +1269,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=GgnDlaazoQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GgnDlaazoQA",
-          "publishedOn": "2023-02-25T18:44:25.000Z",
-          "wordCount": null,
-          "title": "◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=YMbClWP1OxE",
           "author": null,
           "description": "",
@@ -1406,6 +1396,16 @@
           "publishedOn": "2023-02-05T12:09:43.000Z",
           "wordCount": null,
           "title": "◆ The Karaoke | ヒトカラ🎤/ チラズさんの最新作がきた！引きニートが一人でカラオケ来たら大変なことになった...〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YLnDmM-c9ow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YLnDmM-c9ow",
+          "publishedOn": "2023-02-03T00:44:10.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / 初見歓迎 / 2月はじめての朝かちゅ！恵方巻きもぐりしゃす/ morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
@@ -2158,6 +2158,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WflRLHyR4xU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WflRLHyR4xU",
+          "publishedOn": "2023-02-26T06:59:25.000Z",
+          "wordCount": null,
+          "title": "【バトオペ2】新MAP『コロニー落下地域』行く！！/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cURClVUiCw0",
           "author": null,
           "description": "",
@@ -2295,16 +2305,6 @@
           "publishedOn": "2023-02-13T17:02:01.000Z",
           "wordCount": null,
           "title": "【ASMR/KU100】気持ち良すぎて即寝できる！100万円超えの機材でぐっすり音圧強め耳かき。【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pMa_k88yBFY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pMa_k88yBFY",
-          "publishedOn": "2023-02-12T16:44:35.000Z",
-          "wordCount": null,
-          "title": "方向音痴の天才によるミステリーツアー！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】",
           "imageUrl": null
         }
       ]
