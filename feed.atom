@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T12:07:27.192Z</id>
+    <id>urn:2023-02-26T12:43:40.024Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T12:07:27.192Z</updated>
+    <updated>2023-02-26T12:43:40.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【爆弾解除】ひかりとわらわならテレパシーで爆弾解除できます(諸説あり) #ひかなう【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=1qocOZG4lcM</id>
+        <link href="https://www.youtube.com/watch?v=1qocOZG4lcM"/>
+        <updated>2023-02-26T12:36:59.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Wodag4psP2A</id>
+        <link href="https://www.youtube.com/watch?v=Wodag4psP2A"/>
+        <updated>2023-02-26T12:24:44.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ]]></title>
         <id>https://www.youtube.com/watch?v=_Og1Z4x2jWM</id>
@@ -33,30 +51,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 sing & talk🥂 】新企画スタート！美睡すぽっと！初回ゲスト：風吹スサノオ【#美睡すぽっと！/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=im6hs9t6cIY</id>
-        <link href="https://www.youtube.com/watch?v=im6hs9t6cIY"/>
-        <updated>2023-02-26T08:43:57.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=GgnDlaazoQA</id>
         <link href="https://www.youtube.com/watch?v=GgnDlaazoQA"/>
         <updated>2023-02-26T08:07:20.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バトオペ2】新MAP『コロニー落下地域』行く！！/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=WflRLHyR4xU</id>
-        <link href="https://www.youtube.com/watch?v=WflRLHyR4xU"/>
-        <updated>2023-02-26T06:59:25.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -129,15 +129,6 @@
         <updated>2023-02-25T19:25:32.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爆弾解除】ひかりとわらわならテレパシーで爆弾解除できます(諸説あり) #ひかなう【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=1qocOZG4lcM</id>
-        <link href="https://www.youtube.com/watch?v=1qocOZG4lcM"/>
-        <updated>2023-02-25T18:31:13.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1635,6 +1626,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR/KU100】気持ち良すぎて即寝できる！100万円超えの機材でぐっすり音圧強め耳かき。【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
+        <id>https://www.youtube.com/watch?v=-B8Q0UgHpsg</id>
+        <link href="https://www.youtube.com/watch?v=-B8Q0UgHpsg"/>
+        <updated>2023-02-13T17:02:01.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3EQ00AP4GLE</id>
         <link href="https://www.youtube.com/watch?v=3EQ00AP4GLE"/>
@@ -1905,6 +1905,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／復帰配信だよおお～！君たちひさしぶり！！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cWIKQFqCMR0</id>
+        <link href="https://www.youtube.com/watch?v=cWIKQFqCMR0"/>
+        <updated>2023-02-10T05:52:03.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【🔆朝活/初見さん歓迎】アイドル子供のモーニングルーティン🪞GoodMorning【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=cYTiHpnP5u0</id>
         <link href="https://www.youtube.com/watch?v=cYTiHpnP5u0"/>
@@ -1947,15 +1956,6 @@
         <updated>2023-02-09T15:04:10.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ  / 第３章 #4】完全初見❕謎を解き明かす🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=s3exgwZLDKw</id>
-        <link href="https://www.youtube.com/watch?v=s3exgwZLDKw"/>
-        <updated>2023-02-09T14:22:54.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
