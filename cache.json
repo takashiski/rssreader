@@ -818,16 +818,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=1oDEF1DTRAc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1oDEF1DTRAc",
-          "publishedOn": "2023-02-26T13:37:54.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke　＃２【#彩雲のの/ #新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=It_ZhwuwIrM",
           "author": null,
           "description": "",
@@ -2001,6 +1991,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=of-tscDzaxU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=of-tscDzaxU",
+          "publishedOn": "2023-02-26T16:09:02.000Z",
+          "wordCount": null,
+          "title": "初🎊ワンマンライブ🎤後の振り返りおしゃべり【天川はの】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OKxofKKpy0M",
           "author": null,
           "description": "",
@@ -2138,16 +2138,6 @@
           "publishedOn": "2023-02-08T16:12:08.000Z",
           "wordCount": null,
           "title": "【⭐️雑談コラボ🦇】久しぶりの2人きりでゆったりお話ししよ【天川はの/月紫アリア】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_gF8Xw29N9w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_gF8Xw29N9w",
-          "publishedOn": "2023-02-07T14:42:56.000Z",
-          "wordCount": null,
-          "title": "【🗡️Dark and Darker🕯️】あの話題のゲームでトレジャー!!【天川はの/花京院ちえり/雲母ミミ】",
           "imageUrl": null
         }
       ]
