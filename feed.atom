@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T08:35:53.642Z</id>
+    <id>urn:2023-02-26T09:05:46.007Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T08:35:53.642Z</updated>
+    <updated>2023-02-26T09:05:46.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 sing & talk🥂 】新企画スタート！美睡すぽっと！初回ゲスト：風吹スサノオ【#美睡すぽっと/#新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=im6hs9t6cIY</id>
+        <link href="https://www.youtube.com/watch?v=im6hs9t6cIY"/>
+        <updated>2023-02-26T08:43:57.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=GgnDlaazoQA</id>
@@ -114,7 +123,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Wodag4psP2A</id>
         <link href="https://www.youtube.com/watch?v=Wodag4psP2A"/>
         <updated>2023-02-25T18:10:28.000Z</updated>
@@ -1902,15 +1911,6 @@
         <updated>2023-02-10T10:25:29.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／復帰配信だよおお～！君たちひさしぶり！！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cWIKQFqCMR0</id>
-        <link href="https://www.youtube.com/watch?v=cWIKQFqCMR0"/>
-        <updated>2023-02-10T05:52:03.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
