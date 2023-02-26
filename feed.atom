@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T15:06:08.510Z</id>
+    <id>urn:2023-02-26T15:34:28.216Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-26T15:06:08.510Z</updated>
+    <updated>2023-02-26T15:34:28.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
+        <link href="https://www.youtube.com/watch?v=zqyXDYBYLpI"/>
+        <updated>2023-02-26T15:25:27.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツ・レガシー】さいきょーにたのしむ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BquolWxvshc</id>
+        <link href="https://www.youtube.com/watch?v=BquolWxvshc"/>
+        <updated>2023-02-26T15:19:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！これはまったく知らないけど面白い気配がする！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=tvfXwJUt32I</id>
@@ -129,15 +147,6 @@
         <updated>2023-02-26T08:07:20.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライザのアトリエ】今日はストーリーをいっぱい進める📖💕物語の続きを早く見たい～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=khWACXOD0pE</id>
-        <link href="https://www.youtube.com/watch?v=khWACXOD0pE"/>
-        <updated>2023-02-26T06:16:01.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1401,15 +1410,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】消える可能性がとても高い！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PnRxmpa_uUY</id>
-        <link href="https://www.youtube.com/watch?v=PnRxmpa_uUY"/>
-        <updated>2023-02-15T14:58:39.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
         <link href="https://www.youtube.com/watch?v=I3rNqW-8LDY"/>
@@ -2346,6 +2346,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】ついに最強クラスの子をお迎えしてしまった…❣どんなことが起きるのかドキドキ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=mEpaxG_s39E</id>
+        <link href="https://www.youtube.com/watch?v=mEpaxG_s39E"/>
+        <updated>2023-01-31T13:38:28.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【🍚ご飯&凸待ち】緊急凸待ちになったけどいっしょにもぐもぐしながらお話もした！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=EdyQvWF8IQw</id>
         <link href="https://www.youtube.com/watch?v=EdyQvWF8IQw"/>
@@ -2379,15 +2388,6 @@
         <updated>2023-01-29T23:12:50.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】新しい曲を覚えた予感がする🎤  sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xHY1fEkz2Kk</id>
-        <link href="https://www.youtube.com/watch?v=xHY1fEkz2Kk"/>
-        <updated>2023-01-29T15:23:54.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
