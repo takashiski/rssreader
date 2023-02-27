@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T10:36:37.557Z</id>
+    <id>urn:2023-02-27T11:05:47.203Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T10:36:37.557Z</updated>
+    <updated>2023-02-27T11:05:47.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！元気が出るよ～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nl0ljUDAgfY</id>
+        <link href="https://www.youtube.com/watch?v=nl0ljUDAgfY"/>
+        <updated>2023-02-27T10:33:03.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【membership】ほにゃめげ【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=oTwcuvZDjQU</id>
@@ -1353,15 +1362,6 @@
         <updated>2023-02-16T13:00:37.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲリラ朝活】編集の息抜き～朝食を添えて～【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=aC8lWpYU6dQ</id>
-        <link href="https://www.youtube.com/watch?v=aC8lWpYU6dQ"/>
-        <updated>2023-02-16T11:24:50.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
