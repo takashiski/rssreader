@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T13:37:25.095Z</id>
+    <id>urn:2023-02-27T14:05:50.835Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T13:37:25.095Z</updated>
+    <updated>2023-02-27T14:05:50.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ガチャ尽くしの夜…見守ってくれないか…？【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=V5wUO9rnJBU</id>
+        <link href="https://www.youtube.com/watch?v=V5wUO9rnJBU"/>
+        <updated>2023-02-27T13:46:43.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/咀嚼音】オフコラボ💗可愛いお菓子を食べる音🍭🍪💗 #つくつくぴっち 【月紫アリア/夢川かなう/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-ydWSRf9pXY</id>
@@ -1623,15 +1632,6 @@
         <updated>2023-02-14T16:16:28.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Valentine's Day】愛情込めて作るから食べてね…♡【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=xW0cnqP7e6M</id>
-        <link href="https://www.youtube.com/watch?v=xW0cnqP7e6M"/>
-        <updated>2023-02-14T16:08:58.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
