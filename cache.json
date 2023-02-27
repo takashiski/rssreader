@@ -1259,6 +1259,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=coyqLVnw6go",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=coyqLVnw6go",
+          "publishedOn": "2023-02-27T16:24:51.000Z",
+          "wordCount": null,
+          "title": "◆ 朝歌枠 ◆ 初見さん歓迎✨/ 僕と一緒に二度寝しちゃう？♡い～や、歌う。【九楽ライ/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GgnDlaazoQA",
           "author": null,
           "description": "",
@@ -1386,16 +1396,6 @@
           "publishedOn": "2023-02-06T17:09:42.000Z",
           "wordCount": null,
           "title": "◆melatonin / emoでchillなリズム天国があると聞いて...♡〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XFsdfvVSICs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XFsdfvVSICs",
-          "publishedOn": "2023-02-05T12:09:43.000Z",
-          "wordCount": null,
-          "title": "◆ The Karaoke | ヒトカラ🎤/ チラズさんの最新作がきた！引きニートが一人でカラオケ来たら大変なことになった...〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
