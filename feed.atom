@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T16:40:15.789Z</id>
+    <id>urn:2023-02-27T17:05:51.969Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T16:40:15.789Z</updated>
+    <updated>2023-02-27T17:05:51.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 | singing 】デビュー200日記念︙Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2C4KdxJ3dnM</id>
+        <link href="https://www.youtube.com/watch?v=2C4KdxJ3dnM"/>
+        <updated>2023-02-27T16:40:33.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ 朝歌枠 ◆ 初見さん歓迎✨/ 僕と一緒に二度寝しちゃう？♡い～や、歌う。【九楽ライ/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=coyqLVnw6go</id>
@@ -219,15 +228,6 @@
         <updated>2023-02-26T10:21:54.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【囁き】眠れない夜もすやすやできるASMRらじお #すやらじ ♡5【ASMR Radio/Whisper】]]></title>
-        <id>https://www.youtube.com/watch?v=TpAyn1pES6g</id>
-        <link href="https://www.youtube.com/watch?v=TpAyn1pES6g"/>
-        <updated>2023-02-26T09:53:24.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1644,6 +1644,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Valentine's Day】愛情込めて作るから食べてね…♡【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=xW0cnqP7e6M</id>
+        <link href="https://www.youtube.com/watch?v=xW0cnqP7e6M"/>
+        <updated>2023-02-14T16:08:58.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 歌枠】Happy Valentine🍫🧡かわいい曲でスイート気分⋆͛🎤⋆͛【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JWqSXZ_UyzQ</id>
         <link href="https://www.youtube.com/watch?v=JWqSXZ_UyzQ"/>
@@ -2019,15 +2028,6 @@
         <updated>2023-02-09T15:46:38.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】おまいら15年前何してたよ｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2dIfxj0RRbk</id>
-        <link href="https://www.youtube.com/watch?v=2dIfxj0RRbk"/>
-        <updated>2023-02-09T15:04:10.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
