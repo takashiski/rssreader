@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T17:05:51.969Z</id>
+    <id>urn:2023-02-27T17:35:02.127Z</id>
     <title>osmos::feed</title>
-    <updated>2023-02-27T17:05:51.969Z</updated>
+    <updated>2023-02-27T17:35:02.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【囁き】眠れない夜もすやすやできるASMRらじお #すやらじ ♡5【ASMR Radio/Whisper】]]></title>
+        <id>https://www.youtube.com/watch?v=TpAyn1pES6g</id>
+        <link href="https://www.youtube.com/watch?v=TpAyn1pES6g"/>
+        <updated>2023-02-27T17:16:17.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 | singing 】デビュー200日記念︙Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2C4KdxJ3dnM</id>
@@ -1641,15 +1650,6 @@
         <updated>2023-02-14T16:16:28.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Valentine's Day】愛情込めて作るから食べてね…♡【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=xW0cnqP7e6M</id>
-        <link href="https://www.youtube.com/watch?v=xW0cnqP7e6M"/>
-        <updated>2023-02-14T16:08:58.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
