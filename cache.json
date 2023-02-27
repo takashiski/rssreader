@@ -651,16 +651,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=nl0ljUDAgfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nl0ljUDAgfY",
-          "publishedOn": "2023-02-27T10:33:03.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎！元気が出るよ～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=BquolWxvshc",
           "author": null,
           "description": "",
@@ -798,6 +788,16 @@
           "publishedOn": "2023-02-17T01:48:00.000Z",
           "wordCount": null,
           "title": "【雑談】元気もりもりの女の子【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aC8lWpYU6dQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aC8lWpYU6dQ",
+          "publishedOn": "2023-02-16T11:24:50.000Z",
+          "wordCount": null,
+          "title": "【ゲリラ朝活】編集の息抜き～朝食を添えて～【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2132,7 +2132,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=V5wUO9rnJBU",
-          "publishedOn": "2023-02-27T13:46:43.000Z",
+          "publishedOn": "2023-02-27T15:04:39.000Z",
           "wordCount": null,
           "title": "ガチャ尽くしの夜…見守ってくれないか…？【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】",
           "imageUrl": null
