@@ -2820,6 +2820,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCFrH3bfn7gDeV29wrHHM80g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jQkAtdrgbfw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jQkAtdrgbfw",
+          "publishedOn": "2023-02-28T13:00:23.000Z",
+          "wordCount": null,
+          "title": "ヴィータ 【歌ってみた】射貫まとい",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XSurQpDTvNk",
           "author": null,
           "description": "",
