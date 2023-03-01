@@ -1444,16 +1444,6 @@
           "wordCount": null,
           "title": "【初見さん歓迎！】深夜に歌の練習しまする【皇ロゼ/Vtuber】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KTHcAZV_oto",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KTHcAZV_oto",
-          "publishedOn": "2023-01-31T01:17:30.000Z",
-          "wordCount": null,
-          "title": "【初見さん歓迎！】今月最後のお歌の時間！【皇ロゼ/Vtuber】",
-          "imageUrl": null
         }
       ]
     },
@@ -1833,6 +1823,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W5kcfvJKdjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W5kcfvJKdjc",
+          "publishedOn": "2023-03-01T13:15:56.000Z",
+          "wordCount": null,
+          "title": "【勇者の選択肢がおかしい】勇者・山田ツキヒコ!! さらなる冒険へ！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uQWqKbZmYU4",
           "author": null,

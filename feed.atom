@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T13:10:28.724Z</id>
+    <id>urn:2023-03-01T13:37:21.953Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T13:10:28.724Z</updated>
+    <updated>2023-03-01T13:37:21.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【勇者の選択肢がおかしい】勇者・山田ツキヒコ!! さらなる冒険へ！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=W5kcfvJKdjc</id>
+        <link href="https://www.youtube.com/watch?v=W5kcfvJKdjc"/>
+        <updated>2023-03-01T13:15:56.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing stream】３月最初のおうた！春の歌とかうたいたいな🌸【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=lO9Sb8KrWyY</id>
@@ -2406,15 +2415,6 @@
         <updated>2023-01-31T13:20:36.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初見さん歓迎！】今月最後のお歌の時間！【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=KTHcAZV_oto</id>
-        <link href="https://www.youtube.com/watch?v=KTHcAZV_oto"/>
-        <updated>2023-01-31T01:17:30.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
