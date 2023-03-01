@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T16:40:38.643Z</id>
+    <id>urn:2023-03-01T17:05:44.866Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T16:40:38.643Z</updated>
+    <updated>2023-03-01T17:05:44.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【 #朝活 】初見歓迎！おはよう言いにきて～！【 #ククルアクレイユ | Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！寝る前においで！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=wPVetu0ITKU</id>
+        <link href="https://www.youtube.com/watch?v=wPVetu0ITKU"/>
+        <updated>2023-03-01T16:53:04.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎！おはよう言いにきて～！【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=hrQfEKjQzW4</id>
         <link href="https://www.youtube.com/watch?v=hrQfEKjQzW4"/>
         <updated>2023-03-01T16:32:53.000Z</updated>
@@ -57,15 +66,6 @@
         <updated>2023-03-01T13:51:28.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熊なのに「サーモン卒業」ってどういうコト…！？【Free Talk/雑談】]]></title>
-        <id>https://www.youtube.com/watch?v=FW1BYd5ep-U</id>
-        <link href="https://www.youtube.com/watch?v=FW1BYd5ep-U"/>
-        <updated>2023-03-01T13:44:38.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1419,15 +1419,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【最強】宇宙食たべてみた！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=maRnxMGg4qs</id>
-        <link href="https://www.youtube.com/watch?v=maRnxMGg4qs"/>
-        <updated>2023-02-17T12:00:07.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ホラゲ】ひとりでからおけ＝ヒトカラ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=0OaqI9mFoeA</id>
         <link href="https://www.youtube.com/watch?v=0OaqI9mFoeA"/>
@@ -1740,6 +1731,15 @@
         <updated>2023-02-15T00:17:20.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】好き好き囁き有り！睡眠導入♡あなただけの甘やかし耳かき♡【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
+        <id>https://www.youtube.com/watch?v=PCDHX7gXkQs</id>
+        <link href="https://www.youtube.com/watch?v=PCDHX7gXkQs"/>
+        <updated>2023-02-14T18:05:14.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
