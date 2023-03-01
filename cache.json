@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_5B5lVuL_Ac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_5B5lVuL_Ac",
+          "publishedOn": "2023-03-01T08:37:27.000Z",
+          "wordCount": null,
+          "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nl0ljUDAgfY",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-17T12:00:07.000Z",
           "wordCount": null,
           "title": "【最強】宇宙食たべてみた！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IozAkW11eoE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IozAkW11eoE",
-          "publishedOn": "2023-02-17T01:48:00.000Z",
-          "wordCount": null,
-          "title": "【雑談】元気もりもりの女の子【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1971,6 +1971,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7bzFi1tNFbg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7bzFi1tNFbg",
+          "publishedOn": "2023-03-01T08:33:45.000Z",
+          "wordCount": null,
+          "title": "【🪄ホグワーツレガシー】あ～また厄介ごとに巻き込まれちゃぁったぁ【天川はの】#03",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aJ6wsJvDSwQ",
           "author": null,
           "description": "",
@@ -2108,16 +2118,6 @@
           "publishedOn": "2023-02-11T19:43:51.000Z",
           "wordCount": null,
           "title": "【🐉ドラゴンクエスト11S 】最終回！？長き戦いを今、終わらせる！【天川はの】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cYTiHpnP5u0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cYTiHpnP5u0",
-          "publishedOn": "2023-02-10T00:36:42.000Z",
-          "wordCount": null,
-          "title": "【🔆朝活/初見さん歓迎】アイドル子供のモーニングルーティン🪞GoodMorning【天川はの】",
           "imageUrl": null
         }
       ]
