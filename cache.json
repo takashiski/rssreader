@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wPVetu0ITKU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wPVetu0ITKU",
+          "publishedOn": "2023-03-01T08:57:08.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見大歓迎！寝る前においで！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_5B5lVuL_Ac",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-17T20:41:33.000Z",
           "wordCount": null,
           "title": "【ホグワーツ・レガシー】新しい授業受ける！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=maRnxMGg4qs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=maRnxMGg4qs",
-          "publishedOn": "2023-02-17T12:00:07.000Z",
-          "wordCount": null,
-          "title": "【最強】宇宙食たべてみた！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
