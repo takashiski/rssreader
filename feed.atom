@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T09:34:49.856Z</id>
+    <id>urn:2023-03-01T10:06:20.248Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T09:34:49.856Z</updated>
+    <updated>2023-03-01T10:06:20.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2023-03-01T06:12:43.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】今日から３月、花粉でダウン中【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=5OJhRFOID18</id>
-        <link href="https://www.youtube.com/watch?v=5OJhRFOID18"/>
-        <updated>2023-03-01T04:02:26.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2262,6 +2253,15 @@
         <updated>2023-02-05T14:21:01.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】ねむい、次会うのは土曜日です。 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=bKRVGC10btg</id>
+        <link href="https://www.youtube.com/watch?v=bKRVGC10btg"/>
+        <updated>2023-02-05T03:48:36.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
