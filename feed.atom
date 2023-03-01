@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T14:35:11.952Z</id>
+    <id>urn:2023-03-01T15:05:56.487Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T14:35:11.952Z</updated>
+    <updated>2023-03-01T15:05:56.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】あ～また厄介ごとに巻き込まれちゃぁったぁ【天川はの】#03]]></title>
+        <id>https://www.youtube.com/watch?v=7bzFi1tNFbg</id>
+        <link href="https://www.youtube.com/watch?v=7bzFi1tNFbg"/>
+        <updated>2023-03-01T14:57:19.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】ついに下層部…❣かっこいい＆かわいい新人ちゃんたちもたくさんだから育成したい💕つよつよかんぱにー目指す💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7EH-Gv64BuE</id>
+        <link href="https://www.youtube.com/watch?v=7EH-Gv64BuE"/>
+        <updated>2023-03-01T14:40:55.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇宙食レポ！？#新人vtuber  #神輿たらん #るっくあっとたらん #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Zv0hiVkyrBA</id>
@@ -2067,15 +2085,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【🔆朝活/初見さん歓迎】アイドル子供のモーニングルーティン🪞GoodMorning【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=cYTiHpnP5u0</id>
-        <link href="https://www.youtube.com/watch?v=cYTiHpnP5u0"/>
-        <updated>2023-02-10T00:36:42.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆ホグワーツ・レガシー / #01 / おや...フクロウ便が届いたようだ...✉ハリポタオタクによるレガシーが今始まる！〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=5KQJcMDZgIc</id>
         <link href="https://www.youtube.com/watch?v=5KQJcMDZgIc"/>
@@ -2314,15 +2323,6 @@
         <id>https://www.youtube.com/watch?v=6fclOzhM2RE</id>
         <link href="https://www.youtube.com/watch?v=6fclOzhM2RE"/>
         <updated>2023-02-04T00:40:40.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【誕生日カウントダウン】みんなと過ごす初めてのお誕生日、一緒に迎えよう…🤍？お知らせもあるよ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=v2dy2uS7lDQ</id>
-        <link href="https://www.youtube.com/watch?v=v2dy2uS7lDQ"/>
-        <updated>2023-02-03T16:18:03.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
