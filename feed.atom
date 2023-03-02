@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T10:36:03.729Z</id>
+    <id>urn:2023-03-02T11:05:49.611Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T10:36:03.729Z</updated>
+    <updated>2023-03-02T11:05:49.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アイタリナイ / MAISONdes #shorts #かしこまり]]></title>
+        <id>https://www.youtube.com/watch?v=e1F4B72UhfE</id>
+        <link href="https://www.youtube.com/watch?v=e1F4B72UhfE"/>
+        <updated>2023-03-02T11:00:33.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VTuber友達にドッキリ仕掛けたらwwww　#新人vtuber  #神輿たらん #玉ノ井もなか #るっくあっとたらん #ブルアカ #ドッキリ #宇宙旅行 #shorts]]></title>
         <id>https://www.youtube.com/watch?v=JB_WWcoQh2k</id>
@@ -145,15 +154,6 @@
         <id>https://www.youtube.com/watch?v=JeVyjxDD804</id>
         <link href="https://www.youtube.com/watch?v=JeVyjxDD804"/>
         <updated>2023-03-01T17:48:11.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】デビュー１１か月記念日❤❤❤【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NwJOPkGgRtk</id>
-        <link href="https://www.youtube.com/watch?v=NwJOPkGgRtk"/>
-        <updated>2023-03-01T17:45:59.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
         </author>
@@ -2334,6 +2334,15 @@
         <updated>2023-02-04T12:18:02.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで ホワイトノイズ 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=ZAbdZkZqmEc</id>
+        <link href="https://www.youtube.com/watch?v=ZAbdZkZqmEc"/>
+        <updated>2023-02-04T12:00:19.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
