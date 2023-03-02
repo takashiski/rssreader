@@ -343,7 +343,7 @@
           "link": "https://www.youtube.com/watch?v=hrQfEKjQzW4",
           "publishedOn": "2023-03-02T01:04:09.000Z",
           "wordCount": null,
-          "title": "【朝活】初見歓迎！おはよう言いにきて～！【#ククルアクレイユ | Re:AcT】",
+          "title": "【朝活】初見歓迎！おはよう言いにきて～！【 #ククルアクレイユ┊︎Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -353,7 +353,7 @@
           "link": "https://www.youtube.com/watch?v=2C4KdxJ3dnM",
           "publishedOn": "2023-03-01T00:10:35.000Z",
           "wordCount": null,
-          "title": "【 #歌枠 | singing 】デビュー200日記念︙Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "title": "【 #歌枠┊︎singing 】デビュー200日記念｜Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -363,7 +363,7 @@
           "link": "https://www.youtube.com/watch?v=klMsVcSdPRU",
           "publishedOn": "2023-02-25T06:34:40.000Z",
           "wordCount": null,
-          "title": "【歌枠 | singing】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "title": "【 #歌枠┊︎singing 】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         },
         {
@@ -383,7 +383,7 @@
           "link": "https://www.youtube.com/watch?v=gNdofgt2zIM",
           "publishedOn": "2023-02-22T14:24:34.000Z",
           "wordCount": null,
-          "title": "【歌枠 | singing】アニソン歌姫オンリー︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "title": "【 #歌枠┊︎singing 】アニソン歌姫オンリー︙KARAOKE【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         },
         {
@@ -403,7 +403,7 @@
           "link": "https://www.youtube.com/watch?v=FxPdONkVXfg",
           "publishedOn": "2023-02-20T14:39:44.000Z",
           "wordCount": null,
-          "title": "【SINGING 歌枠】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "title": "【 #歌枠┊︎singing 】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         },
         {
@@ -423,7 +423,7 @@
           "link": "https://www.youtube.com/watch?v=HMndtIJBmfU",
           "publishedOn": "2023-02-18T13:49:25.000Z",
           "wordCount": null,
-          "title": "【SINGING 歌枠】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "title": "【 #歌枠┊︎singing 】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         },
         {
@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_2258_YIazw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_2258_YIazw",
+          "publishedOn": "2023-03-02T09:10:08.000Z",
+          "wordCount": null,
+          "title": "【ひな祭り】みんなのちらし寿司見ながら食べる！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_5B5lVuL_Ac",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-20T21:33:04.000Z",
           "wordCount": null,
           "title": "【睡眠導入/singing】しっとりうらんの歌枠。KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=js0fZzdk5lM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=js0fZzdk5lM",
-          "publishedOn": "2023-02-19T02:38:27.000Z",
-          "wordCount": null,
-          "title": "【歌枠/プリキュア】プリキュア縛り歌枠！無敵なんだから🤍singing【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
