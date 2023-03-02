@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T13:39:50.629Z</id>
+    <id>urn:2023-03-02T14:06:05.520Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T13:39:50.629Z</updated>
+    <updated>2023-03-02T14:06:05.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -93,15 +93,6 @@
         <updated>2023-03-02T08:56:45.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】魔光リサ、歌コラボしに来たらしい ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3m_e5E4lHec</id>
-        <link href="https://www.youtube.com/watch?v=3m_e5E4lHec"/>
-        <updated>2023-03-02T08:30:23.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -435,15 +426,6 @@
         <updated>2023-02-26T15:19:59.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！これはまったく知らないけど面白い気配がする！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=tvfXwJUt32I</id>
-        <link href="https://www.youtube.com/watch?v=tvfXwJUt32I"/>
-        <updated>2023-02-26T14:50:02.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -2073,6 +2055,15 @@
         <updated>2023-02-11T20:58:41.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/ドキドキする吐息/美容院【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=XnKZJoGhZoc</id>
+        <link href="https://www.youtube.com/watch?v=XnKZJoGhZoc"/>
+        <updated>2023-02-11T16:38:55.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>

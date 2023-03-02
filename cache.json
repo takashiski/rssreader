@@ -2452,16 +2452,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=3m_e5E4lHec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3m_e5E4lHec",
-          "publishedOn": "2023-03-02T08:30:23.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】魔光リサ、歌コラボしに来たらしい ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=zqyXDYBYLpI",
           "author": null,
           "description": "",
@@ -2703,16 +2693,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=tvfXwJUt32I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tvfXwJUt32I",
-          "publishedOn": "2023-02-26T14:50:02.000Z",
-          "wordCount": null,
-          "title": "【#クロエのレクイエム】初めてやるよ！これはまったく知らないけど面白い気配がする！【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=wUw9QGH-XzY",
           "author": null,
           "description": "",
@@ -2820,6 +2800,16 @@
           "publishedOn": "2023-02-12T12:04:21.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん大歓迎♡告知あり雑談あり、英語タイトル曲縛りのsing and talk ！！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XnKZJoGhZoc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XnKZJoGhZoc",
+          "publishedOn": "2023-02-11T16:38:55.000Z",
+          "wordCount": null,
+          "title": "【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/ドキドキする吐息/美容院【Ear Cleaning/shampoo/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
