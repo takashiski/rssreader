@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T19:05:43.051Z</id>
+    <id>urn:2023-03-02T19:34:24.141Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T19:05:43.051Z</updated>
+    <updated>2023-03-02T19:34:24.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【無謀企画】333人にお祝いされるまで終わらない耐久配信。生誕カウントダウン！【 #姫熊りぼん生誕2023 】]]></title>
+        <id>https://www.youtube.com/watch?v=nNeJeEEesTI</id>
+        <link href="https://www.youtube.com/watch?v=nNeJeEEesTI"/>
+        <updated>2023-03-02T19:17:47.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も深夜お歌の時間です🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jJkcioAnX7k</id>
@@ -1731,15 +1740,6 @@
         <updated>2023-02-15T17:47:00.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】わしゃわしゃ梵天が気持ち良すぎるっ！耳かき責め♡睡眠導入【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
-        <id>https://www.youtube.com/watch?v=w2-ll3_3eTY</id>
-        <link href="https://www.youtube.com/watch?v=w2-ll3_3eTY"/>
-        <updated>2023-02-15T17:33:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
