@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T10:06:22.154Z</id>
+    <id>urn:2023-03-02T10:36:03.729Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T10:06:22.154Z</updated>
+    <updated>2023-03-02T10:36:03.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,6 +12,15 @@
         <updated>2023-03-02T10:00:11.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】ガチャガチャきゅ～っと・ふぃぎゅ@メイト【covered by 姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=FiYmIbOXzzc</id>
+        <link href="https://www.youtube.com/watch?v=FiYmIbOXzzc"/>
+        <updated>2023-03-02T09:58:46.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1695,15 +1704,6 @@
         <updated>2023-02-15T17:47:00.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】わしゃわしゃ梵天が気持ち良すぎるっ！耳かき責め♡睡眠導入【Ear Cleaning/Ear Blowing/Binaural/Whisper Voice】]]></title>
-        <id>https://www.youtube.com/watch?v=w2-ll3_3eTY</id>
-        <link href="https://www.youtube.com/watch?v=w2-ll3_3eTY"/>
-        <updated>2023-02-15T17:33:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
