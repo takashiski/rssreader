@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T13:10:14.931Z</id>
+    <id>urn:2023-03-02T13:39:50.629Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T13:10:14.931Z</updated>
+    <updated>2023-03-02T13:39:50.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ひな祭り】みんなのちらし寿司見ながら食べる！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_2258_YIazw</id>
+        <link href="https://www.youtube.com/watch?v=_2258_YIazw"/>
+        <updated>2023-03-02T13:38:08.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【👂ASMR】近所に住む幼馴染のお姉ちゃんが寝かしつけてくれそう【EarCleaning/ASMR for sleep/Whispering/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=vQcoPeUvO0g</id>
+        <link href="https://www.youtube.com/watch?v=vQcoPeUvO0g"/>
+        <updated>2023-03-02T13:16:41.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】おかえりおうた🎤いっぱい楽しむぞ！✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=lccyRfhtqv8</id>
+        <link href="https://www.youtube.com/watch?v=lccyRfhtqv8"/>
+        <updated>2023-03-02T13:12:34.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌ってみた】Subtitle／Official髭男dism(cover)【#彩雲のの/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JeVyjxDD804</id>
@@ -57,15 +84,6 @@
         <updated>2023-03-02T09:43:43.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ひな祭り】みんなのちらし寿司見ながら食べる！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_2258_YIazw</id>
-        <link href="https://www.youtube.com/watch?v=_2258_YIazw"/>
-        <updated>2023-03-02T09:10:08.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2055,15 +2073,6 @@
         <updated>2023-02-11T20:58:41.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🐉ドラゴンクエスト11S 】最終回！？長き戦いを今、終わらせる！【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=r6z2o4oo4cI</id>
-        <link href="https://www.youtube.com/watch?v=r6z2o4oo4cI"/>
-        <updated>2023-02-11T19:43:51.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
