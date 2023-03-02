@@ -1122,6 +1122,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V0Km9HQWYt8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V0Km9HQWYt8",
+          "publishedOn": "2023-03-02T08:19:12.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎 「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MKhs03xh6oI",
           "author": null,
           "description": "",
@@ -1259,16 +1269,6 @@
           "publishedOn": "2023-02-14T11:00:22.000Z",
           "wordCount": null,
           "title": "バレンタインに チョコレートミルク 歌ってみた  #shorts #cover #Vsinger 稀羽すう",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JCWQjblP7rY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JCWQjblP7rY",
-          "publishedOn": "2023-02-13T15:02:17.000Z",
-          "wordCount": null,
-          "title": "今すぐチョコをくれ 【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -2431,6 +2431,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3m_e5E4lHec",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3m_e5E4lHec",
+          "publishedOn": "2023-03-02T08:30:23.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】魔光リサ、歌コラボしに来たらしい ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zqyXDYBYLpI",
           "author": null,
