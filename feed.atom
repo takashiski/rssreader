@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T11:34:28.537Z</id>
+    <id>urn:2023-03-02T12:08:38.743Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T11:34:28.537Z</updated>
+    <updated>2023-03-02T12:08:38.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】Subtitle／Official髭男dism(cover)【#彩雲のの/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JeVyjxDD804</id>
+        <link href="https://www.youtube.com/watch?v=JeVyjxDD804"/>
+        <updated>2023-03-02T12:00:07.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】20年以上前のゲーム！？戦わない勇者の冒険…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=OVXjoZiEnas</id>
+        <link href="https://www.youtube.com/watch?v=OVXjoZiEnas"/>
+        <updated>2023-03-02T11:41:55.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイタリナイ / MAISONdes #shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=e1F4B72UhfE</id>
@@ -96,15 +114,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】おかえりおうた🎤いっぱい楽しむぞ！✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=lccyRfhtqv8</id>
-        <link href="https://www.youtube.com/watch?v=lccyRfhtqv8"/>
-        <updated>2023-03-02T01:58:53.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎！おはよう言いにきて～！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=hrQfEKjQzW4</id>
         <link href="https://www.youtube.com/watch?v=hrQfEKjQzW4"/>
@@ -147,15 +156,6 @@
         <updated>2023-03-01T18:09:18.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】Subtitle／Official髭男dism(cover)【#彩雲のの/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JeVyjxDD804</id>
-        <link href="https://www.youtube.com/watch?v=JeVyjxDD804"/>
-        <updated>2023-03-01T17:48:11.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
