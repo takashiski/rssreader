@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T08:37:31.911Z</id>
+    <id>urn:2023-03-02T09:06:04.018Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T08:37:31.911Z</updated>
+    <updated>2023-03-02T09:06:04.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】なんか、久しぶり…だね💜会いに来て💜  Lets Talk【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=91XWiDEk_ns</id>
+        <link href="https://www.youtube.com/watch?v=91XWiDEk_ns"/>
+        <updated>2023-03-02T08:56:45.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】魔光リサ、歌コラボしに来たらしい ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3m_e5E4lHec</id>
@@ -1992,15 +2001,6 @@
         <updated>2023-02-12T17:49:11.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗耳かき/マッサージ💗気持ちよくねよ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=AbUFdJ42xvI</id>
-        <link href="https://www.youtube.com/watch?v=AbUFdJ42xvI"/>
-        <updated>2023-02-12T17:44:15.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
