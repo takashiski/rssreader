@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T15:35:22.241Z</id>
+    <id>urn:2023-03-02T16:06:11.427Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T15:35:22.241Z</updated>
+    <updated>2023-03-02T16:06:11.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【👂ASMR】近所に住む幼馴染のお姉ちゃんが寝かしつけてくれそう【EarCleaning/ASMR for sleep/Whispering/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=vQcoPeUvO0g</id>
+        <link href="https://www.youtube.com/watch?v=vQcoPeUvO0g"/>
+        <updated>2023-03-02T15:49:13.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】20年以上前のゲーム！？戦わない勇者の冒険…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=OVXjoZiEnas</id>
+        <link href="https://www.youtube.com/watch?v=OVXjoZiEnas"/>
+        <updated>2023-03-02T15:42:53.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も深夜お歌の時間です🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jJkcioAnX7k</id>
@@ -114,28 +132,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】なんか、久しぶり…だね💜会いに来て💜  Lets Talk【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=91XWiDEk_ns</id>
-        <link href="https://www.youtube.com/watch?v=91XWiDEk_ns"/>
-        <updated>2023-03-02T08:56:45.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V0Km9HQWYt8</id>
         <link href="https://www.youtube.com/watch?v=V0Km9HQWYt8"/>
         <updated>2023-03-02T08:19:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅行いってきたんだわ]]></title>
-        <id>https://www.youtube.com/watch?v=MKhs03xh6oI</id>
-        <link href="https://www.youtube.com/watch?v=MKhs03xh6oI"/>
-        <updated>2023-03-02T06:41:24.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
@@ -1977,6 +1977,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[今すぐチョコをくれ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=JCWQjblP7rY</id>
+        <link href="https://www.youtube.com/watch?v=JCWQjblP7rY"/>
+        <updated>2023-02-13T15:02:17.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=WgsWO-rHGtE</id>
         <link href="https://www.youtube.com/watch?v=WgsWO-rHGtE"/>
@@ -2013,6 +2022,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗耳かき/マッサージ💗気持ちよくねよ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=AbUFdJ42xvI</id>
+        <link href="https://www.youtube.com/watch?v=AbUFdJ42xvI"/>
+        <updated>2023-02-12T17:44:15.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 半年記念 #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fDRDHXe6nCU</id>
         <link href="https://www.youtube.com/watch?v=fDRDHXe6nCU"/>
@@ -2028,15 +2046,6 @@
         <updated>2023-02-12T14:32:45.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🗡️Dark and Darker🕯️】小さい子大好きなお姉さん悪魔とお宝さがし【天川はの/魔光リサ】]]></title>
-        <id>https://www.youtube.com/watch?v=P1nWsMwaa2U</id>
-        <link href="https://www.youtube.com/watch?v=P1nWsMwaa2U"/>
-        <updated>2023-02-12T10:29:44.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
