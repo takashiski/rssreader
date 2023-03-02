@@ -180,16 +180,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=jJkcioAnX7k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jJkcioAnX7k",
-          "publishedOn": "2023-03-02T15:08:16.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／今日も深夜お歌の時間です🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=2jlqb790dPE",
           "author": null,
           "description": "",
@@ -327,6 +317,16 @@
           "publishedOn": "2023-02-14T05:43:34.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／ばれんたいんでー？何それ美味しいの？【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eeqeUvpkzUM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eeqeUvpkzUM",
+          "publishedOn": "2023-02-13T15:06:52.000Z",
+          "wordCount": null,
+          "title": "【 雑談配信🥂 】（半年記念だったから）ケーキ食べつつ振り返る🍰【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1279,6 +1279,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OsD42C29tdc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OsD42C29tdc",
+          "publishedOn": "2023-03-02T18:30:28.000Z",
+          "wordCount": null,
+          "title": "◆Minecraft / #07 / 村人たちのお家つくっぞ🔥だからさ...ダイヤ...よこしなよ...￥〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=coyqLVnw6go",
           "author": null,
           "description": "",
@@ -1406,16 +1416,6 @@
           "publishedOn": "2023-02-07T12:58:58.000Z",
           "wordCount": null,
           "title": "◆口笛歌枠 /whistle song /  90％の初見さんに \" 思ったよりうまくて草 \" と言われます。たぶん。【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uPyL89gADjA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uPyL89gADjA",
-          "publishedOn": "2023-02-06T17:09:42.000Z",
-          "wordCount": null,
-          "title": "◆melatonin / emoでchillなリズム天国があると聞いて...♡〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
@@ -2154,7 +2154,7 @@
           "link": "https://www.youtube.com/watch?v=FiYmIbOXzzc",
           "publishedOn": "2023-03-02T09:58:46.000Z",
           "wordCount": null,
-          "title": "【歌ってみた】ガチャガチャきゅ～っと・ふぃぎゅ@メイト【covered by 姫熊りぼん】",
+          "title": "【歌ってみた】ガチャガチャきゅ～と・ふぃぎゅ@メイト【covered by 姫熊りぼん】",
           "imageUrl": null
         },
         {
