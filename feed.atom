@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-02T05:34:42.782Z</id>
+    <id>urn:2023-03-02T06:07:01.132Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-02T05:34:42.782Z</updated>
+    <updated>2023-03-02T06:07:01.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2395,15 +2395,6 @@
         <id>https://www.youtube.com/watch?v=SlEZ-YueXeU</id>
         <link href="https://www.youtube.com/watch?v=SlEZ-YueXeU"/>
         <updated>2023-02-01T10:19:21.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꒰ ふりーちゃっと ꒱宣伝とかおしらせとかするふりーだむ𓂃 𓈒𓏸]]></title>
-        <id>https://www.youtube.com/watch?v=jKVfZn_NP6s</id>
-        <link href="https://www.youtube.com/watch?v=jKVfZn_NP6s"/>
-        <updated>2023-01-31T17:42:09.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
         </author>
