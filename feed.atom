@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T14:34:47.949Z</id>
+    <id>urn:2023-03-03T15:05:47.264Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T14:34:47.949Z</updated>
+    <updated>2023-03-03T15:05:47.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【membership】美睡とお酒と君たち【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=D3QBi4wPLks</id>
+        <link href="https://www.youtube.com/watch?v=D3QBi4wPLks"/>
+        <updated>2023-03-03T15:05:04.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！じゃかじゃか⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=6g5My69_pgE</id>
@@ -1767,15 +1776,6 @@
         <updated>2023-02-16T06:34:32.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=IKyuBYkYO1M</id>
-        <link href="https://www.youtube.com/watch?v=IKyuBYkYO1M"/>
-        <updated>2023-02-16T02:34:56.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
