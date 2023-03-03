@@ -1,24 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T11:34:36.285Z</id>
+    <id>urn:2023-03-03T12:08:10.400Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T11:34:36.285Z</updated>
+    <updated>2023-03-03T12:08:10.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1_NGMJvFVsw</id>
-        <link href="https://www.youtube.com/watch?v=1_NGMJvFVsw"/>
-        <updated>2023-03-03T11:33:27.000Z</updated>
+        <title type="html"><![CDATA[【moon】夜の街にはラブがいっぱい💛💛【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=uR6T6IGqESA</id>
+        <link href="https://www.youtube.com/watch?v=uR6T6IGqESA"/>
+        <updated>2023-03-03T11:59:45.000Z</updated>
         <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Biped】ロボットになって協力して世界救っちゃう❔ #ねころまんさー 【月紫アリア/猫乃ユキノ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZSe3LPj749g</id>
+        <link href="https://www.youtube.com/watch?v=ZSe3LPj749g"/>
+        <updated>2023-03-03T11:54:07.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗お疲れ様の金曜日に最高の癒しを💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=XJPfuKiYzLM</id>
+        <link href="https://www.youtube.com/watch?v=XJPfuKiYzLM"/>
+        <updated>2023-03-03T11:49:49.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[人工雪を作って遊んでみたい！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=HXxPrbSRq9Q</id>
         <link href="https://www.youtube.com/watch?v=HXxPrbSRq9Q"/>
-        <updated>2023-03-03T11:09:15.000Z</updated>
+        <updated>2023-03-03T11:45:07.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1_NGMJvFVsw</id>
+        <link href="https://www.youtube.com/watch?v=1_NGMJvFVsw"/>
+        <updated>2023-03-03T11:33:27.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -42,39 +69,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【moon】夜の街にはラブがいっぱい💛💛【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=uR6T6IGqESA</id>
-        <link href="https://www.youtube.com/watch?v=uR6T6IGqESA"/>
-        <updated>2023-03-03T09:38:19.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【キミガシネ #2】今日もストーリーを進めていくぞ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vE-Z6eNCaKg</id>
-        <link href="https://www.youtube.com/watch?v=vE-Z6eNCaKg"/>
-        <updated>2023-03-03T08:11:53.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／おひさしぶりなお昼歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=XhQCLvZe6DY</id>
         <link href="https://www.youtube.com/watch?v=XhQCLvZe6DY"/>
         <updated>2023-03-03T06:36:19.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=53mmiMCdBQw</id>
-        <link href="https://www.youtube.com/watch?v=53mmiMCdBQw"/>
-        <updated>2023-03-03T05:21:47.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1977,15 +1977,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝クッキー🍪つくる❕チョコあげるから、会いに来て？💗ましゅまろｍｇ💗【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Z8P0enSygpM</id>
-        <link href="https://www.youtube.com/watch?v=Z8P0enSygpM"/>
-        <updated>2023-02-14T12:15:35.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=LND_dmeXcBs</id>
         <link href="https://www.youtube.com/watch?v=LND_dmeXcBs"/>
@@ -2010,15 +2001,6 @@
         <updated>2023-02-14T10:56:10.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 第３章 #5】完全初見❕学級裁判に挑むための証拠集めから🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2B_tbBMnSbI</id>
-        <link href="https://www.youtube.com/watch?v=2B_tbBMnSbI"/>
-        <updated>2023-02-13T18:47:13.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2143,6 +2125,15 @@
         <id>https://www.youtube.com/watch?v=QijCmS8M5Mk</id>
         <link href="https://www.youtube.com/watch?v=QijCmS8M5Mk"/>
         <updated>2023-02-11T11:29:58.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】のびしろ by魔光リサ]]></title>
+        <id>https://www.youtube.com/watch?v=yy6voSUZaQc</id>
+        <link href="https://www.youtube.com/watch?v=yy6voSUZaQc"/>
+        <updated>2023-02-11T11:00:06.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
         </author>
@@ -2406,15 +2397,6 @@
         <updated>2023-02-02T11:00:03.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 公認ミラー配信 】おはよう！さあ、モンスターハンターライズ：サンブレイク最新情報ちぇっく！【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rB9NxSC4ugY</id>
-        <link href="https://www.youtube.com/watch?v=rB9NxSC4ugY"/>
-        <updated>2023-02-01T23:49:46.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
