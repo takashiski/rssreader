@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XhQCLvZe6DY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XhQCLvZe6DY",
+          "publishedOn": "2023-03-03T03:39:51.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／おひさしぶりなお昼歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jJkcioAnX7k",
           "author": null,
           "description": "",
@@ -317,16 +327,6 @@
           "publishedOn": "2023-02-16T02:34:56.000Z",
           "wordCount": null,
           "title": "【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jGhiU3icaaA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jGhiU3icaaA",
-          "publishedOn": "2023-02-14T05:43:34.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／ばれんたいんでー？何それ美味しいの？【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1668,16 +1668,6 @@
           "wordCount": null,
           "title": "【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=P_hkcitqo8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P_hkcitqo8o",
-          "publishedOn": "2023-02-01T15:00:44.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
         }
       ]
     },
@@ -1971,16 +1961,6 @@
           "publishedOn": "2023-02-02T14:19:11.000Z",
           "wordCount": null,
           "title": "【推色】switch版発売おめでたいっ！！HARDモードクリアできるかな！？【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WboKlleSaO0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WboKlleSaO0",
-          "publishedOn": "2023-02-01T15:30:02.000Z",
-          "wordCount": null,
-          "title": "【いまさら犯人じゃないと言われても】自由奔放ミステリーバカゲー最新作をプレイ✨✨【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
