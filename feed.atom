@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T16:39:30.984Z</id>
+    <id>urn:2023-03-03T17:05:51.858Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T16:39:30.984Z</updated>
+    <updated>2023-03-03T17:05:51.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1_NGMJvFVsw</id>
+        <link href="https://www.youtube.com/watch?v=1_NGMJvFVsw"/>
+        <updated>2023-03-03T16:44:40.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【参加型】楽しかったじゃんけんをもう一度！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FQHsdjF0j5w</id>
+        <link href="https://www.youtube.com/watch?v=FQHsdjF0j5w"/>
+        <updated>2023-03-03T16:40:09.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】来てくれたリスナー描く｜DRAWING【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=7ThySE6EdNg</id>
+        <link href="https://www.youtube.com/watch?v=7ThySE6EdNg"/>
+        <updated>2023-03-03T16:39:39.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=KhKXojU4HNQ</id>
@@ -12,15 +39,6 @@
         <updated>2023-03-03T16:36:43.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【membership】美睡とお酒と君たち【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=D3QBi4wPLks</id>
-        <link href="https://www.youtube.com/watch?v=D3QBi4wPLks"/>
-        <updated>2023-03-03T15:05:04.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -39,15 +57,6 @@
         <updated>2023-03-03T14:02:46.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【同時視聴】今日は映画「怪物くん」！【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=gXDbIbvn0tg</id>
-        <link href="https://www.youtube.com/watch?v=gXDbIbvn0tg"/>
-        <updated>2023-03-03T13:51:03.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1095,15 +1104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎！深夜でも楽しく！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=BTlyYA9Fq-U</id>
-        <link href="https://www.youtube.com/watch?v=BTlyYA9Fq-U"/>
-        <updated>2023-02-22T20:13:18.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / とろけるように眠れる僕っ娘の耳かき♡耳ふぅ/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=DlpXEjmzB-o</id>
         <link href="https://www.youtube.com/watch?v=DlpXEjmzB-o"/>
@@ -1779,6 +1779,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IKyuBYkYO1M</id>
+        <link href="https://www.youtube.com/watch?v=IKyuBYkYO1M"/>
+        <updated>2023-02-16T02:34:56.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
         <link href="https://www.youtube.com/watch?v=F4GCfU_eX0o"/>
@@ -1986,15 +1995,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【お知らせ】初見さん大歓迎♡バレンタイン記念リクエスト第一弾！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=KaF-ip0WS54</id>
-        <link href="https://www.youtube.com/watch?v=KaF-ip0WS54"/>
-        <updated>2023-02-14T14:14:58.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#かしこまり5周年 記念ライブ! ゲストあり! 新曲弾き語りあり!【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=VG3g9tsSipI</id>
         <link href="https://www.youtube.com/watch?v=VG3g9tsSipI"/>
@@ -2163,15 +2163,6 @@
         <updated>2023-02-11T11:00:06.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】40mP縛り｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=v9GkF55TwFc</id>
-        <link href="https://www.youtube.com/watch?v=v9GkF55TwFc"/>
-        <updated>2023-02-11T00:03:50.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
