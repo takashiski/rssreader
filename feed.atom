@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T11:05:39.371Z</id>
+    <id>urn:2023-03-03T11:34:36.285Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T11:05:39.371Z</updated>
+    <updated>2023-03-03T11:34:36.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1_NGMJvFVsw</id>
+        <link href="https://www.youtube.com/watch?v=1_NGMJvFVsw"/>
+        <updated>2023-03-03T11:33:27.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工雪を作って遊んでみたい！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HXxPrbSRq9Q</id>
+        <link href="https://www.youtube.com/watch?v=HXxPrbSRq9Q"/>
+        <updated>2023-03-03T11:09:15.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=V0Km9HQWYt8</id>
+        <link href="https://www.youtube.com/watch?v=V0Km9HQWYt8"/>
+        <updated>2023-03-03T11:00:10.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_qJQgQosomQ</id>
@@ -1041,15 +1068,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎！深夜でも楽しく！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=BTlyYA9Fq-U</id>
-        <link href="https://www.youtube.com/watch?v=BTlyYA9Fq-U"/>
-        <updated>2023-02-22T20:13:18.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / とろけるように眠れる僕っ娘の耳かき♡耳ふぅ/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=DlpXEjmzB-o</id>
         <link href="https://www.youtube.com/watch?v=DlpXEjmzB-o"/>
@@ -1182,15 +1200,6 @@
         <updated>2023-02-21T17:13:55.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】かわちいお歌🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=azaeyiKeYDE</id>
-        <link href="https://www.youtube.com/watch?v=azaeyiKeYDE"/>
-        <updated>2023-02-21T16:00:40.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1983,15 +1992,6 @@
         <updated>2023-02-14T11:53:16.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バレンタインに チョコレートミルク 歌ってみた  #shorts #cover #Vsinger 稀羽すう]]></title>
-        <id>https://www.youtube.com/watch?v=WeetYuqV0rw</id>
-        <link href="https://www.youtube.com/watch?v=WeetYuqV0rw"/>
-        <updated>2023-02-14T11:00:22.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
