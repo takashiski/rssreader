@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T06:06:43.231Z</id>
+    <id>urn:2023-03-03T06:36:53.677Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T06:06:43.231Z</updated>
+    <updated>2023-03-03T06:36:53.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／おひさしぶりなお昼歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XhQCLvZe6DY</id>
+        <link href="https://www.youtube.com/watch?v=XhQCLvZe6DY"/>
+        <updated>2023-03-03T06:36:19.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=53mmiMCdBQw</id>
@@ -12,15 +21,6 @@
         <updated>2023-03-03T05:21:47.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／おひさしぶりなお昼歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XhQCLvZe6DY</id>
-        <link href="https://www.youtube.com/watch?v=XhQCLvZe6DY"/>
-        <updated>2023-03-03T03:39:51.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
