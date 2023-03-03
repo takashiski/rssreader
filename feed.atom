@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T10:35:51.349Z</id>
+    <id>urn:2023-03-03T11:05:39.371Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T10:35:51.349Z</updated>
+    <updated>2023-03-03T11:05:39.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_qJQgQosomQ</id>
+        <link href="https://www.youtube.com/watch?v=_qJQgQosomQ"/>
+        <updated>2023-03-03T10:48:42.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【moon】夜の街にはラブがいっぱい💛💛【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=uR6T6IGqESA</id>
@@ -201,15 +210,6 @@
         <updated>2023-03-02T09:58:46.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=V0Km9HQWYt8</id>
-        <link href="https://www.youtube.com/watch?v=V0Km9HQWYt8"/>
-        <updated>2023-03-02T08:19:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
