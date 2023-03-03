@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T09:34:35.638Z</id>
+    <id>urn:2023-03-03T10:06:05.001Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T09:34:35.638Z</updated>
+    <updated>2023-03-03T10:06:05.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【moon】夜の街にはラブがいっぱい💛💛【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=uR6T6IGqESA</id>
+        <link href="https://www.youtube.com/watch?v=uR6T6IGqESA"/>
+        <updated>2023-03-03T09:38:19.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【キミガシネ #2】今日もストーリーを進めていくぞ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=vE-Z6eNCaKg</id>
