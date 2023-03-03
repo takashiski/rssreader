@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T14:06:03.087Z</id>
+    <id>urn:2023-03-03T14:34:47.949Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T14:06:03.087Z</updated>
+    <updated>2023-03-03T14:34:47.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！じゃかじゃか⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=6g5My69_pgE</id>
+        <link href="https://www.youtube.com/watch?v=6g5My69_pgE"/>
+        <updated>2023-03-03T14:27:22.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豪華ゲスト有！ 歌って踊る宇宙熊バーチャルアイドルの誕生日 #姫熊りぼん生誕2023【120歳】]]></title>
         <id>https://www.youtube.com/watch?v=045_HWUc1Yc</id>
@@ -2226,15 +2235,6 @@
         <updated>2023-02-09T05:10:40.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り 】ひきがたり～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=yiLxt_SwY6g</id>
-        <link href="https://www.youtube.com/watch?v=yiLxt_SwY6g"/>
-        <updated>2023-02-08T18:07:34.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
