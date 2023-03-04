@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T17:05:37.307Z</id>
+    <id>urn:2023-03-04T17:34:28.260Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T17:05:37.307Z</updated>
+    <updated>2023-03-04T17:34:28.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！おい酒とじゃがりこあんだけど⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=lVex9G-TpWA</id>
+        <link href="https://www.youtube.com/watch?v=lVex9G-TpWA"/>
+        <updated>2023-03-04T17:28:06.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】長め/超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=3w3ulF-0Zs4</id>
+        <link href="https://www.youtube.com/watch?v=3w3ulF-0Zs4"/>
+        <updated>2023-03-04T17:11:04.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[うたげ]]></title>
+        <id>https://www.youtube.com/watch?v=F1wxUyLnvkU</id>
+        <link href="https://www.youtube.com/watch?v=F1wxUyLnvkU"/>
+        <updated>2023-03-04T17:10:10.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】日曜の朝にわらわとまったりするのはどう？☀【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iXdGyEMiHHs</id>
+        <link href="https://www.youtube.com/watch?v=iXdGyEMiHHs"/>
+        <updated>2023-03-04T16:55:32.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】空飛べる才能だけはある【天川はの】#04]]></title>
         <id>https://www.youtube.com/watch?v=rNQ0tbFvPNo</id>
@@ -66,15 +102,6 @@
         <updated>2023-03-04T14:48:41.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！おい酒とじゃがりこあんだけど⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=lVex9G-TpWA</id>
-        <link href="https://www.youtube.com/watch?v=lVex9G-TpWA"/>
-        <updated>2023-03-04T12:31:29.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -2109,24 +2136,6 @@
         <updated>2023-02-12T14:32:45.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん大歓迎♡告知あり雑談あり、英語タイトル曲縛りのsing and talk ！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=80wXt9IiLX4</id>
-        <link href="https://www.youtube.com/watch?v=80wXt9IiLX4"/>
-        <updated>2023-02-12T12:04:21.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 初見歓迎！ 】【 #耐久 / #歌枠 】告知アリ！半年記念！6500人登録者耐久！SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=IYQ7oHp4XcU</id>
-        <link href="https://www.youtube.com/watch?v=IYQ7oHp4XcU"/>
-        <updated>2023-02-12T09:58:08.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
