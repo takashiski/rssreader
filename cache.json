@@ -23,6 +23,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RoZwBrJds3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RoZwBrJds3s",
+          "publishedOn": "2023-03-04T23:08:00.000Z",
+          "wordCount": null,
+          "title": "【 #バイオハザードヴィレッジ 】バイオ８ 工場内探検！！ #8 【#紅龍イサナ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lVex9G-TpWA",
           "author": null,
           "description": "",
@@ -160,16 +170,6 @@
           "publishedOn": "2023-02-14T10:56:10.000Z",
           "wordCount": null,
           "title": "【 #shorts 】怪獣の花唄 / #vaundy 【アカペラハモリで歌ってみた #るーとも 】【 #紅龍イサナ / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IYQ7oHp4XcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IYQ7oHp4XcU",
-          "publishedOn": "2023-02-12T09:58:08.000Z",
-          "wordCount": null,
-          "title": "【 初見歓迎！ 】【 #耐久 / #歌枠 】告知アリ！半年記念！6500人登録者耐久！SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -965,6 +965,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
+          "publishedOn": "2023-03-04T23:29:24.000Z",
+          "wordCount": null,
+          "title": "【歌枠】定期歌枠、本格的花粉【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OkxncN8r69A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OkxncN8r69A",
+          "publishedOn": "2023-03-04T23:17:30.000Z",
+          "wordCount": null,
+          "title": "【朝活】目、かゆ 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vE-Z6eNCaKg",
           "author": null,
           "description": "",
@@ -1092,26 +1112,6 @@
           "publishedOn": "2023-02-15T16:38:05.000Z",
           "wordCount": null,
           "title": "【歌枠】たまには夜に ※睡眠には向いてません【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=meN-jVKGxlA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=meN-jVKGxlA",
-          "publishedOn": "2023-02-12T03:22:46.000Z",
-          "wordCount": null,
-          "title": "【朝活】おはようよりおやすみがしたいねむいから 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QijCmS8M5Mk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QijCmS8M5Mk",
-          "publishedOn": "2023-02-11T11:29:58.000Z",
-          "wordCount": null,
-          "title": "【歌枠】帰還！告知あり！【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
