@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T10:05:58.447Z</id>
+    <id>urn:2023-03-04T10:35:04.300Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T10:05:58.447Z</updated>
+    <updated>2023-03-04T10:35:04.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「11ヶ月記念歌枠 Anniversary」🎈 KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HXALdPnVyE4</id>
+        <link href="https://www.youtube.com/watch?v=HXALdPnVyE4"/>
+        <updated>2023-03-04T10:18:10.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】愚痴だってたくさんある。だってニンゲンだもの🥂【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=hcwwQpe8HRk</id>
@@ -159,19 +168,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 一週間まいにち #歌枠 】「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V0Km9HQWYt8</id>
         <link href="https://www.youtube.com/watch?v=V0Km9HQWYt8"/>
         <updated>2023-03-03T11:00:10.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_qJQgQosomQ</id>
-        <link href="https://www.youtube.com/watch?v=_qJQgQosomQ"/>
-        <updated>2023-03-03T10:48:42.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>

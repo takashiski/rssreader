@@ -1122,6 +1122,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HXALdPnVyE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HXALdPnVyE4",
+          "publishedOn": "2023-03-04T10:18:10.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎 「11ヶ月記念歌枠 Anniversary」🎈 KARAOKE 【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2GwakHpgElY",
           "author": null,
           "description": "",
@@ -1138,17 +1148,7 @@
           "link": "https://www.youtube.com/watch?v=V0Km9HQWYt8",
           "publishedOn": "2023-03-03T11:00:10.000Z",
           "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎 「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_qJQgQosomQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_qJQgQosomQ",
-          "publishedOn": "2023-03-03T10:48:42.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】",
+          "title": "【 一週間まいにち #歌枠 】「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】",
           "imageUrl": null
         },
         {
