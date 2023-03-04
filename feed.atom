@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T15:34:30.149Z</id>
+    <id>urn:2023-03-04T16:06:08.542Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T15:34:30.149Z</updated>
+    <updated>2023-03-04T16:06:08.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】来てくれたリスナー描く｜DRAWING【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=7ThySE6EdNg</id>
+        <link href="https://www.youtube.com/watch?v=7ThySE6EdNg"/>
+        <updated>2023-03-04T16:05:12.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】99.9%の人が眠れるかもしれないリラックスできる睡眠導入♡【Ear Cleaning/Whispering/耳かき/耳ふー】]]></title>
+        <id>https://www.youtube.com/watch?v=FAObRbh5VD4</id>
+        <link href="https://www.youtube.com/watch?v=FAObRbh5VD4"/>
+        <updated>2023-03-04T15:34:41.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】愚痴だってたくさんある。だってニンゲンだもの🥂【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=hcwwQpe8HRk</id>
@@ -66,15 +84,6 @@
         <updated>2023-03-04T11:05:39.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】空飛べる才能だけはある【天川はの】#04]]></title>
-        <id>https://www.youtube.com/watch?v=rNQ0tbFvPNo</id>
-        <link href="https://www.youtube.com/watch?v=rNQ0tbFvPNo"/>
-        <updated>2023-03-04T11:00:50.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1743,15 +1752,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】思わず甘えたくなる♡たっぷり母性感じる寝かしつけ/耳かき・マッサージ・睡眠導入。【Ear Cleaning/Massage/Hug/Binaural/Heart Beat】]]></title>
-        <id>https://www.youtube.com/watch?v=dW_MjXHo0To</id>
-        <link href="https://www.youtube.com/watch?v=dW_MjXHo0To"/>
-        <updated>2023-02-16T18:13:50.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ch登録4200人いけたらいいなぁ～深夜にのんびり歌っちゃお～～～🎤【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=hXzFL9Je9pE</id>
         <link href="https://www.youtube.com/watch?v=hXzFL9Je9pE"/>
@@ -1857,6 +1857,15 @@
         <updated>2023-02-15T19:12:23.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】子供入学したいで～す！【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=TpfpVDlToYw</id>
+        <link href="https://www.youtube.com/watch?v=TpfpVDlToYw"/>
+        <updated>2023-02-15T17:56:19.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2163,15 +2172,6 @@
         <updated>2023-02-11T11:29:58.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】40mP縛り｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=v9GkF55TwFc</id>
-        <link href="https://www.youtube.com/watch?v=v9GkF55TwFc"/>
-        <updated>2023-02-11T00:03:50.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
