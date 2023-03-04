@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=44mfLxJJHRo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=44mfLxJJHRo",
+          "publishedOn": "2023-03-04T14:48:41.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／明日は日曜日！な深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XhQCLvZe6DY",
           "author": null,
           "description": "",
@@ -317,16 +327,6 @@
           "publishedOn": "2023-02-16T18:01:20.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／ch登録4200人いけたらいいなぁ～深夜にのんびり歌っちゃお～～～🎤【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IKyuBYkYO1M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IKyuBYkYO1M",
-          "publishedOn": "2023-02-16T02:34:56.000Z",
-          "wordCount": null,
-          "title": "【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
+          "publishedOn": "2023-03-04T15:01:33.000Z",
+          "wordCount": null,
+          "title": "【ホグワーツ・レガシー】4つの試練…！？【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oSm72PPjqok",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-25T02:34:58.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎！12時まで歌う！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
-          "publishedOn": "2023-02-24T12:00:08.000Z",
-          "wordCount": null,
-          "title": "【苦戦】ペットボトルフリップにペットと挑戦！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
