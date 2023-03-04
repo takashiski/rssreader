@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T20:34:27.642Z</id>
+    <id>urn:2023-03-04T21:05:29.499Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T20:34:27.642Z</updated>
+    <updated>2023-03-04T21:05:29.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#25 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=A6TIlh_a4Yo</id>
+        <link href="https://www.youtube.com/watch?v=A6TIlh_a4Yo"/>
+        <updated>2023-03-04T20:34:40.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=Al2B7puf9zM</id>
@@ -1956,15 +1965,6 @@
         <updated>2023-02-15T12:42:57.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #34 ✦ KARAOKE 🧸【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xC-7xZTEhPk</id>
-        <link href="https://www.youtube.com/watch?v=xC-7xZTEhPk"/>
-        <updated>2023-02-15T12:39:37.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
