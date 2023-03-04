@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oSm72PPjqok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oSm72PPjqok",
+          "publishedOn": "2023-03-04T05:56:51.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見大歓迎！おやつの時間！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1_NGMJvFVsw",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-24T12:00:08.000Z",
           "wordCount": null,
           "title": "【苦戦】ペットボトルフリップにペットと挑戦！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZQNe0YfWVr0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZQNe0YfWVr0",
-          "publishedOn": "2023-02-24T01:48:03.000Z",
-          "wordCount": null,
-          "title": "【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
