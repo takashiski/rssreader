@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T12:07:13.254Z</id>
+    <id>urn:2023-03-04T12:42:59.416Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T12:07:13.254Z</updated>
+    <updated>2023-03-04T12:42:59.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！おい酒とじゃがりこあんだけど⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=lVex9G-TpWA</id>
+        <link href="https://www.youtube.com/watch?v=lVex9G-TpWA"/>
+        <updated>2023-03-04T12:31:29.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服のセンスをバカにされる#shorts]]></title>
         <id>https://www.youtube.com/watch?v=LmKJf6iIBwA</id>
@@ -2145,15 +2154,6 @@
         <updated>2023-02-12T03:22:46.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ホグワーツレガシー 】ついに入学！！！！スリザリンに入りたい！！！！！#1【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=XAhOPSHIEL8</id>
-        <link href="https://www.youtube.com/watch?v=XAhOPSHIEL8"/>
-        <updated>2023-02-11T20:58:41.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
