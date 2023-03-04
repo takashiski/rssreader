@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T09:34:28.411Z</id>
+    <id>urn:2023-03-04T10:05:58.447Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T09:34:28.411Z</updated>
+    <updated>2023-03-04T10:05:58.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】愚痴だってたくさんある。だってニンゲンだもの🥂【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=hcwwQpe8HRk</id>
+        <link href="https://www.youtube.com/watch?v=hcwwQpe8HRk"/>
+        <updated>2023-03-04T09:38:36.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】]]></title>
+        <id>https://www.youtube.com/watch?v=2GwakHpgElY</id>
+        <link href="https://www.youtube.com/watch?v=2GwakHpgElY"/>
+        <updated>2023-03-04T07:20:35.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談/FreeTalk】回線復活したぞーーーッ！！！【水瓶ミア / VTuber】]]></title>
         <id>https://www.youtube.com/watch?v=vLbBRcyeCwo</id>
@@ -12,15 +30,6 @@
         <updated>2023-03-04T07:07:26.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！おやつの時間！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=oSm72PPjqok</id>
-        <link href="https://www.youtube.com/watch?v=oSm72PPjqok"/>
-        <updated>2023-03-04T05:56:51.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1002,6 +1011,15 @@
         <updated>2023-02-24T02:10:05.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZQNe0YfWVr0</id>
+        <link href="https://www.youtube.com/watch?v=ZQNe0YfWVr0"/>
+        <updated>2023-02-24T01:48:03.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2010,15 +2028,6 @@
         <updated>2023-02-14T15:50:41.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=5lcRZ9BoMuk</id>
-        <link href="https://www.youtube.com/watch?v=5lcRZ9BoMuk"/>
-        <updated>2023-02-14T14:33:19.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

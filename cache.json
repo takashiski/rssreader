@@ -651,16 +651,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=oSm72PPjqok",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oSm72PPjqok",
-          "publishedOn": "2023-03-04T05:56:51.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎！おやつの時間！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=1_NGMJvFVsw",
           "author": null,
           "description": "",
@@ -798,6 +788,16 @@
           "publishedOn": "2023-02-24T12:00:08.000Z",
           "wordCount": null,
           "title": "【苦戦】ペットボトルフリップにペットと挑戦！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ZQNe0YfWVr0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZQNe0YfWVr0",
+          "publishedOn": "2023-02-24T01:48:03.000Z",
+          "wordCount": null,
+          "title": "【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1122,6 +1122,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2GwakHpgElY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2GwakHpgElY",
+          "publishedOn": "2023-03-04T07:20:35.000Z",
+          "wordCount": null,
+          "title": "キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V0Km9HQWYt8",
           "author": null,
           "description": "",
@@ -1259,16 +1269,6 @@
           "publishedOn": "2023-02-15T12:00:20.000Z",
           "wordCount": null,
           "title": "アカペラで 「ちゅ、多様性。」 歌ってみた #shorts #vsinger #cover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5lcRZ9BoMuk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5lcRZ9BoMuk",
-          "publishedOn": "2023-02-14T14:33:19.000Z",
-          "wordCount": null,
-          "title": "【 販促 】あなたの…テレビに…【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -1823,6 +1823,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hcwwQpe8HRk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hcwwQpe8HRk",
+          "publishedOn": "2023-03-04T09:38:36.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】愚痴だってたくさんある。だってニンゲンだもの🥂【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uR6T6IGqESA",
           "author": null,
