@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T19:05:37.196Z</id>
+    <id>urn:2023-03-04T19:34:15.581Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T19:05:37.196Z</updated>
+    <updated>2023-03-04T19:34:15.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / 日曜の昼下がりに元気なお歌が聞ける枠はここです！✨ /karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=y3Lqil6Nak8</id>
+        <link href="https://www.youtube.com/watch?v=y3Lqil6Nak8"/>
+        <updated>2023-03-04T19:22:08.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／明日は日曜日！な深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=44mfLxJJHRo</id>
+        <link href="https://www.youtube.com/watch?v=44mfLxJJHRo"/>
+        <updated>2023-03-04T18:59:54.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】99.9%の人が眠れるかもしれないリラックスできる睡眠導入♡【Ear Cleaning/Whispering/耳かき/耳ふー】]]></title>
         <id>https://www.youtube.com/watch?v=FAObRbh5VD4</id>
@@ -1104,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=Al2B7puf9zM</id>
-        <link href="https://www.youtube.com/watch?v=Al2B7puf9zM"/>
-        <updated>2023-02-23T15:24:20.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】]]></title>
         <id>https://www.youtube.com/watch?v=bHmHn4MDD3s</id>
         <link href="https://www.youtube.com/watch?v=bHmHn4MDD3s"/>
@@ -1851,15 +1860,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 アラサーがVTuberになった話。 】2巻発売間近！魅力を語るぞおお～～！！👀✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=IKyuBYkYO1M</id>
-        <link href="https://www.youtube.com/watch?v=IKyuBYkYO1M"/>
-        <updated>2023-02-16T02:34:56.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
         <link href="https://www.youtube.com/watch?v=F4GCfU_eX0o"/>
@@ -1983,6 +1983,15 @@
         <updated>2023-02-15T12:00:48.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アカペラで 「ちゅ、多様性。」 歌ってみた #shorts #vsinger #cover]]></title>
+        <id>https://www.youtube.com/watch?v=W5210KV8fPg</id>
+        <link href="https://www.youtube.com/watch?v=W5210KV8fPg"/>
+        <updated>2023-02-15T12:00:20.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2298,15 +2307,6 @@
         <updated>2023-02-07T15:34:14.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆口笛歌枠 /whistle song /  90％の初見さんに " 思ったよりうまくて草 " と言われます。たぶん。【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=LX5sBkTmoDI</id>
-        <link href="https://www.youtube.com/watch?v=LX5sBkTmoDI"/>
-        <updated>2023-02-07T12:58:58.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
