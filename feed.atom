@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T11:05:26.384Z</id>
+    <id>urn:2023-03-04T11:34:15.095Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T11:05:26.384Z</updated>
+    <updated>2023-03-04T11:34:15.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 一週間まいにち歌枠 】 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_qJQgQosomQ</id>
+        <link href="https://www.youtube.com/watch?v=_qJQgQosomQ"/>
+        <updated>2023-03-04T11:05:39.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】空飛べる才能だけはある【天川はの】#04]]></title>
         <id>https://www.youtube.com/watch?v=rNQ0tbFvPNo</id>
@@ -1965,15 +1974,6 @@
         <updated>2023-02-15T12:00:48.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アカペラで 「ちゅ、多様性。」 歌ってみた #shorts #vsinger #cover]]></title>
-        <id>https://www.youtube.com/watch?v=W5210KV8fPg</id>
-        <link href="https://www.youtube.com/watch?v=W5210KV8fPg"/>
-        <updated>2023-02-15T12:00:20.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
