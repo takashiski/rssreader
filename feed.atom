@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T15:05:42.974Z</id>
+    <id>urn:2023-03-04T15:34:30.149Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T15:05:42.974Z</updated>
+    <updated>2023-03-04T15:34:30.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】愚痴だってたくさんある。だってニンゲンだもの🥂【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=hcwwQpe8HRk</id>
+        <link href="https://www.youtube.com/watch?v=hcwwQpe8HRk"/>
+        <updated>2023-03-04T15:33:21.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Biped】ロボットになって協力して世界救っちゃう❔ #ねころまんさー 【月紫アリア/猫乃ユキノ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZSe3LPj749g</id>
+        <link href="https://www.youtube.com/watch?v=ZSe3LPj749g"/>
+        <updated>2023-03-04T15:10:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホグワーツ・レガシー】4つの試練…！？【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=XrsC3bYm5t8</id>
@@ -87,15 +105,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【スナックつきみ】愚痴だってたくさんある。だってニンゲンだもの🥂【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=hcwwQpe8HRk</id>
-        <link href="https://www.youtube.com/watch?v=hcwwQpe8HRk"/>
-        <updated>2023-03-04T09:38:36.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】]]></title>
         <id>https://www.youtube.com/watch?v=2GwakHpgElY</id>
         <link href="https://www.youtube.com/watch?v=2GwakHpgElY"/>
@@ -147,15 +156,6 @@
         <updated>2023-03-03T16:40:09.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】来てくれたリスナー描く｜DRAWING【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=7ThySE6EdNg</id>
-        <link href="https://www.youtube.com/watch?v=7ThySE6EdNg"/>
-        <updated>2023-03-03T16:39:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -516,24 +516,6 @@
         <updated>2023-02-28T14:30:16.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Last】ズッキューンの意味はね…【Matoi】]]></title>
-        <id>https://www.youtube.com/watch?v=XSurQpDTvNk</id>
-        <link href="https://www.youtube.com/watch?v=XSurQpDTvNk"/>
-        <updated>2023-02-28T13:30:55.000Z</updated>
-        <author>
-            <name>射貫まといちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィータ 【歌ってみた】射貫まとい]]></title>
-        <id>https://www.youtube.com/watch?v=jQkAtdrgbfw</id>
-        <link href="https://www.youtube.com/watch?v=jQkAtdrgbfw"/>
-        <updated>2023-02-28T13:00:23.000Z</updated>
-        <author>
-            <name>射貫まといちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2040,15 +2022,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】Happy Valentine🍫💝クッキー🍪つくる❕チョコあげるから、会いに来て？💗ましゅまろｍｇ💗【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Z8P0enSygpM</id>
-        <link href="https://www.youtube.com/watch?v=Z8P0enSygpM"/>
-        <updated>2023-02-14T12:15:35.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=LND_dmeXcBs</id>
         <link href="https://www.youtube.com/watch?v=LND_dmeXcBs"/>
@@ -2190,6 +2163,15 @@
         <updated>2023-02-11T11:29:58.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】40mP縛り｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=v9GkF55TwFc</id>
+        <link href="https://www.youtube.com/watch?v=v9GkF55TwFc"/>
+        <updated>2023-02-11T00:03:50.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
