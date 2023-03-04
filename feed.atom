@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-04T10:35:04.300Z</id>
+    <id>urn:2023-03-04T11:05:26.384Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T10:35:04.300Z</updated>
+    <updated>2023-03-04T11:05:26.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】空飛べる才能だけはある【天川はの】#04]]></title>
+        <id>https://www.youtube.com/watch?v=rNQ0tbFvPNo</id>
+        <link href="https://www.youtube.com/watch?v=rNQ0tbFvPNo"/>
+        <updated>2023-03-04T11:00:50.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談/FreeTalk】回線復活したぞーーーッ！！！【水瓶ミア / VTuber】]]></title>
+        <id>https://www.youtube.com/watch?v=vLbBRcyeCwo</id>
+        <link href="https://www.youtube.com/watch?v=vLbBRcyeCwo"/>
+        <updated>2023-03-04T10:51:01.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！おやつの時間！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=oSm72PPjqok</id>
+        <link href="https://www.youtube.com/watch?v=oSm72PPjqok"/>
+        <updated>2023-03-04T10:37:05.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「11ヶ月記念歌枠 Anniversary」🎈 KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=HXALdPnVyE4</id>
@@ -30,24 +57,6 @@
         <updated>2023-03-04T07:20:35.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/FreeTalk】回線復活したぞーーーッ！！！【水瓶ミア / VTuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vLbBRcyeCwo</id>
-        <link href="https://www.youtube.com/watch?v=vLbBRcyeCwo"/>
-        <updated>2023-03-04T07:07:26.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】定期歌枠、本格的花粉【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YN-Gvq2goGM</id>
-        <link href="https://www.youtube.com/watch?v=YN-Gvq2goGM"/>
-        <updated>2023-03-04T00:22:45.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -168,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 一週間まいにち #歌枠 】「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 一週間まいにち歌枠 】「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V0Km9HQWYt8</id>
         <link href="https://www.youtube.com/watch?v=V0Km9HQWYt8"/>
         <updated>2023-03-03T11:00:10.000Z</updated>
@@ -1011,15 +1020,6 @@
         <updated>2023-02-24T02:10:05.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【地獄】節分リベンジ！ぽん菓子大食い配信！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ZQNe0YfWVr0</id>
-        <link href="https://www.youtube.com/watch?v=ZQNe0YfWVr0"/>
-        <updated>2023-02-24T01:48:03.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2004,15 +2004,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【👂ASMR】バレンタインのあまあま状態で幸せ耳かき【EarCleaning/ASMR for sleep/Whispering/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=6vAZszxovdY</id>
-        <link href="https://www.youtube.com/watch?v=6vAZszxovdY"/>
-        <updated>2023-02-14T16:47:35.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】好き好き耐久💗た～っぷり甘々な囁き💗耳かきとマッサージで癒されちゃう💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8KBZPyT4XPY</id>
         <link href="https://www.youtube.com/watch?v=8KBZPyT4XPY"/>
@@ -2190,6 +2181,15 @@
         <updated>2023-02-11T12:00:44.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】帰還！告知あり！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=QijCmS8M5Mk</id>
+        <link href="https://www.youtube.com/watch?v=QijCmS8M5Mk"/>
+        <updated>2023-02-11T11:29:58.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
