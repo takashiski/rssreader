@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
+          "publishedOn": "2023-03-05T15:46:13.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠┊︎singing 】覚えたて楽曲 and more！Karaoke【 #ククルアクレイユ┊︎Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7ThySE6EdNg",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2023-02-12T16:07:02.000Z",
           "wordCount": null,
           "title": "【 半年記念 #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
-          "publishedOn": "2023-02-11T13:37:38.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】リスナーが選ぶ！？究極の二択｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2158,16 +2158,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Bdflmd8wyeA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bdflmd8wyeA",
-          "publishedOn": "2023-03-05T13:32:35.000Z",
-          "wordCount": null,
-          "title": "【KU100/ASMR】耳奥まで届く12万人耐久♡ゴリゴリ至高の耳かき・マッサージ【睡眠導入/Relaxing/Ear Cleaning/Massage】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=GCBagQnJ1gU",
           "author": null,
           "description": "",
@@ -2305,6 +2295,16 @@
           "publishedOn": "2023-02-19T17:27:03.000Z",
           "wordCount": null,
           "title": "【ASMR】ぎゅっと離さない♡ゼロ距離で心音/囁き耐久♡睡眠導入【Heart Beat/Binaural/Ear Massage/Whispering】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BGZ6HKHx-SA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BGZ6HKHx-SA",
+          "publishedOn": "2023-02-18T00:41:48.000Z",
+          "wordCount": null,
+          "title": "朝から何でも答えてくれるアイドルがいるらしい。【Free Talk/朝活雑談】",
           "imageUrl": null
         }
       ]
@@ -2618,6 +2618,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4BOnQiPWEl4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4BOnQiPWEl4",
+          "publishedOn": "2023-03-05T15:38:07.000Z",
+          "wordCount": null,
+          "title": "【日本語字幕・和訳】LOVE DIVE / IVE 아이브 歌ってみた covered.水瓶ミア",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vLbBRcyeCwo",
           "author": null,
