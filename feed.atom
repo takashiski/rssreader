@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T11:34:12.583Z</id>
+    <id>urn:2023-03-05T12:07:19.469Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T11:34:12.583Z</updated>
+    <updated>2023-03-05T12:07:19.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【完全栄養食】視聴者参加型！最強のご飯選手権！！！【#ユノりぼ姉妹/Huel (ヒュエル)】]]></title>
+        <id>https://www.youtube.com/watch?v=GCBagQnJ1gU</id>
+        <link href="https://www.youtube.com/watch?v=GCBagQnJ1gU"/>
+        <updated>2023-03-05T11:58:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】]]></title>
         <id>https://www.youtube.com/watch?v=2GwakHpgElY</id>
@@ -201,15 +210,6 @@
         <updated>2023-03-04T15:10:04.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【完全栄養食】視聴者参加型！最強のご飯選手権！！！【#ユノりぼ姉妹/Huel (ヒュエル)】]]></title>
-        <id>https://www.youtube.com/watch?v=GCBagQnJ1gU</id>
-        <link href="https://www.youtube.com/watch?v=GCBagQnJ1gU"/>
-        <updated>2023-03-04T15:07:10.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
