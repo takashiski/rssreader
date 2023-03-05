@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T07:05:57.468Z</id>
+    <id>urn:2023-03-05T07:34:20.617Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T07:05:57.468Z</updated>
+    <updated>2023-03-05T07:34:20.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】うお～～！やるぞ～～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2kh8rDQjkxM</id>
+        <link href="https://www.youtube.com/watch?v=2kh8rDQjkxM"/>
+        <updated>2023-03-05T07:18:14.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=guL_y56WWCs</id>
@@ -147,6 +156,15 @@
         <updated>2023-03-04T15:10:04.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完全栄養食】視聴者参加型！最強のご飯選手権！！！【#ユノりぼ姉妹/Huel (ヒュエル)】]]></title>
+        <id>https://www.youtube.com/watch?v=GCBagQnJ1gU</id>
+        <link href="https://www.youtube.com/watch?v=GCBagQnJ1gU"/>
+        <updated>2023-03-04T15:07:10.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1776,15 +1794,6 @@
         <updated>2023-02-17T15:17:23.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【射貫まとい卒業スペシャル】5人で最後のコラボ！お絵描き伝言ゲームで大混乱！？ #シンキロウ5【Gartic Phone/sinkirow】]]></title>
-        <id>https://www.youtube.com/watch?v=OyO2W0zVbRI</id>
-        <link href="https://www.youtube.com/watch?v=OyO2W0zVbRI"/>
-        <updated>2023-02-17T13:43:43.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
