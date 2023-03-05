@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T15:05:40.611Z</id>
+    <id>urn:2023-03-05T15:34:22.682Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T15:05:40.611Z</updated>
+    <updated>2023-03-05T15:34:22.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】目、かゆ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OkxncN8r69A</id>
+        <link href="https://www.youtube.com/watch?v=OkxncN8r69A"/>
+        <updated>2023-03-05T15:28:27.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】うお～～！やるぞ～～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2kh8rDQjkxM</id>
+        <link href="https://www.youtube.com/watch?v=2kh8rDQjkxM"/>
+        <updated>2023-03-05T15:19:41.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 雑談🥂※アーカイブなし 】初見さん大歓迎～／しゃべるるるる！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_BLyn34UFPw</id>
+        <link href="https://www.youtube.com/watch?v=_BLyn34UFPw"/>
+        <updated>2023-03-05T15:09:37.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「Official髭男dism歌枠」👏 KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=h2Kvkr5GZwI</id>
+        <link href="https://www.youtube.com/watch?v=h2Kvkr5GZwI"/>
+        <updated>2023-03-05T15:07:55.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=1gFFkKwzVQo</id>
@@ -1869,15 +1905,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ch登録4200人いけたらいいなぁ～深夜にのんびり歌っちゃお～～～🎤【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=hXzFL9Je9pE</id>
-        <link href="https://www.youtube.com/watch?v=hXzFL9Je9pE"/>
-        <updated>2023-02-16T18:01:20.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ダンガンロンパ / 第４章 #6】完全初見❕人数が少なくなってきた…黒幕に近づいてる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YM7KXqYrE1k</id>
         <link href="https://www.youtube.com/watch?v=YM7KXqYrE1k"/>
@@ -1911,15 +1938,6 @@
         <updated>2023-02-16T13:44:17.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アカペラで さよならの夏～コクリコ坂から～ 歌ってみた #shorts #vsinger #cover]]></title>
-        <id>https://www.youtube.com/watch?v=rTG-AH4BV0w</id>
-        <link href="https://www.youtube.com/watch?v=rTG-AH4BV0w"/>
-        <updated>2023-02-16T13:00:37.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2208,15 +2226,6 @@
         <updated>2023-02-12T14:32:45.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】おはようよりおやすみがしたいねむいから 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=meN-jVKGxlA</id>
-        <link href="https://www.youtube.com/watch?v=meN-jVKGxlA"/>
-        <updated>2023-02-12T03:22:46.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
