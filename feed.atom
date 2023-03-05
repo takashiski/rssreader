@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T17:34:30.689Z</id>
+    <id>urn:2023-03-05T18:06:06.506Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T17:34:30.689Z</updated>
+    <updated>2023-03-05T18:06:06.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見歓迎！ひさびさうたわく！！⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=hn2vBhss1Xg</id>
+        <link href="https://www.youtube.com/watch?v=hn2vBhss1Xg"/>
+        <updated>2023-03-05T17:39:33.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ダンガンロンパ / 最終章 #8】完全初見❕これで最後…❔完全論破で終わらせてやる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=vqXA-JtVlFY</id>
@@ -2163,15 +2172,6 @@
         <updated>2023-02-14T10:56:13.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #shorts 】怪獣の花唄 / #vaundy 【アカペラハモリで歌ってみた #るーとも 】【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=7f-hehwOv0w</id>
-        <link href="https://www.youtube.com/watch?v=7f-hehwOv0w"/>
-        <updated>2023-02-14T10:56:10.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
