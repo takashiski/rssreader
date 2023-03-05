@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T05:34:27.309Z</id>
+    <id>urn:2023-03-05T06:06:12.083Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T05:34:27.309Z</updated>
+    <updated>2023-03-05T06:06:12.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=guL_y56WWCs</id>
-        <link href="https://www.youtube.com/watch?v=guL_y56WWCs"/>
-        <updated>2023-03-05T03:44:01.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=OnDSf3n9wU8</id>
@@ -2217,6 +2208,15 @@
         <updated>2023-02-10T13:27:11.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆ホグワーツ・レガシー / #01 / おや...フクロウ便が届いたようだ...✉ハリポタオタクによるレガシーが今始まる！〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=5KQJcMDZgIc</id>
+        <link href="https://www.youtube.com/watch?v=5KQJcMDZgIc"/>
+        <updated>2023-02-09T16:28:12.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
