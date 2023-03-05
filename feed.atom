@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T13:34:35.332Z</id>
+    <id>urn:2023-03-05T14:05:42.264Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T13:34:35.332Z</updated>
+    <updated>2023-03-05T14:05:42.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見歓迎！ひさびさうたわく！！⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=hn2vBhss1Xg</id>
+        <link href="https://www.youtube.com/watch?v=hn2vBhss1Xg"/>
+        <updated>2023-03-05T13:40:40.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100/ASMR】耳奥まで届く12万人耐久♡ゴリゴリ至高の耳かき・マッサージ【睡眠導入/Relaxing/Ear Cleaning/Massage】]]></title>
+        <id>https://www.youtube.com/watch?v=Bdflmd8wyeA</id>
+        <link href="https://www.youtube.com/watch?v=Bdflmd8wyeA"/>
+        <updated>2023-03-05T13:32:35.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「11ヶ月記念歌枠 Anniversary」🎈 KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=HXALdPnVyE4</id>
@@ -42,30 +60,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠┊︎singing 】覚えたて楽曲 and more！Karaoke【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=I6O8OuqxBzU</id>
-        <link href="https://www.youtube.com/watch?v=I6O8OuqxBzU"/>
-        <updated>2023-03-05T11:01:48.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Undertale】完全初見アンダーテール 01【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=iz35aN6BSdY</id>
         <link href="https://www.youtube.com/watch?v=iz35aN6BSdY"/>
         <updated>2023-03-05T10:52:43.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】愛のレベルアップをめざせ✨✨【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=4wFMkSzRdQA</id>
-        <link href="https://www.youtube.com/watch?v=4wFMkSzRdQA"/>
-        <updated>2023-03-05T10:20:08.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1761,15 +1761,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[朝から何でも答えてくれるアイドルがいるらしい。【Free Talk/朝活雑談】]]></title>
-        <id>https://www.youtube.com/watch?v=BGZ6HKHx-SA</id>
-        <link href="https://www.youtube.com/watch?v=BGZ6HKHx-SA"/>
-        <updated>2023-02-18T00:41:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【復帰配信/talking stream】姫のご帰還です。【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=DRbSK2krU28</id>
         <link href="https://www.youtube.com/watch?v=DRbSK2krU28"/>
@@ -2148,15 +2139,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #shorts 】怪獣の花唄 / #vaundy 【アカペラハモリで歌ってみた #るーとも 】【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=7f-hehwOv0w</id>
-        <link href="https://www.youtube.com/watch?v=7f-hehwOv0w"/>
-        <updated>2023-02-14T10:56:10.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#かしこまり5周年 カウントダウンでケーキ食べよう!!【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3EQ00AP4GLE</id>
         <link href="https://www.youtube.com/watch?v=3EQ00AP4GLE"/>
@@ -2235,6 +2217,15 @@
         <updated>2023-02-11T16:01:27.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】リスナーが選ぶ！？究極の二択｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=S2ZlxIhlCxA</id>
+        <link href="https://www.youtube.com/watch?v=S2ZlxIhlCxA"/>
+        <updated>2023-02-11T13:37:38.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2406,6 +2397,15 @@
         <updated>2023-02-04T17:02:01.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】日常の一コマを 5・7・5 で切り取って！！！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=MfYSpNcsdi8</id>
+        <link href="https://www.youtube.com/watch?v=MfYSpNcsdi8"/>
+        <updated>2023-02-04T15:51:43.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
