@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
+          "publishedOn": "2023-03-05T11:01:48.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠┊︎singing 】デビュー200日記念 ✧ Karaoke【 #ククルアクレイユ┊︎Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7ThySE6EdNg",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2023-02-12T16:07:02.000Z",
           "wordCount": null,
           "title": "【 半年記念 #歌枠 】ゲストあり！プチLIVE✧特盛！！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S2ZlxIhlCxA",
-          "publishedOn": "2023-02-11T13:37:38.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】リスナーが選ぶ！？究極の二択｜KARAOKE【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1452,6 +1452,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iz35aN6BSdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iz35aN6BSdY",
+          "publishedOn": "2023-03-05T10:52:43.000Z",
+          "wordCount": null,
+          "title": "【Undertale】完全初見アンダーテール 01【#かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=e1F4B72UhfE",
           "author": null,
