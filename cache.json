@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
+          "publishedOn": "2023-03-05T14:32:19.000Z",
+          "wordCount": null,
+          "title": "【ホグワーツ・レガシー】ウィンガーディアム・レヴィオーサ覚えたい！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oSm72PPjqok",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-02-25T02:34:58.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎！12時まで歌う！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
-          "publishedOn": "2023-02-24T12:00:08.000Z",
-          "wordCount": null,
-          "title": "【苦戦】ペットボトルフリップにペットと挑戦！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1579,6 +1579,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoFEbNyIRUS26-hf2AucwFw",
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1gFFkKwzVQo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1gFFkKwzVQo",
+          "publishedOn": "2023-03-05T15:02:42.000Z",
+          "wordCount": null,
+          "title": "【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=53mmiMCdBQw",
           "author": null,
