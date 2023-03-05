@@ -651,16 +651,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
-          "publishedOn": "2023-03-04T15:01:33.000Z",
-          "wordCount": null,
-          "title": "【ホグワーツ・レガシー】ウィンガーディアム・レヴィオーサ覚えたい！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=oSm72PPjqok",
           "author": null,
           "description": "",
@@ -798,6 +788,16 @@
           "publishedOn": "2023-02-25T02:34:58.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎！12時まで歌う！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aaUaAmiQ3gg",
+          "publishedOn": "2023-02-24T12:00:08.000Z",
+          "wordCount": null,
+          "title": "【苦戦】ペットボトルフリップにペットと挑戦！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1122,6 +1122,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HXALdPnVyE4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HXALdPnVyE4",
+          "publishedOn": "2023-03-05T13:24:25.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎 「11ヶ月記念歌枠 Anniversary」🎈 KARAOKE 【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2GwakHpgElY",
           "author": null,
           "description": "",
@@ -1259,16 +1269,6 @@
           "publishedOn": "2023-02-16T13:00:37.000Z",
           "wordCount": null,
           "title": "アカペラで さよならの夏～コクリコ坂から～ 歌ってみた #shorts #vsinger #cover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xC-7xZTEhPk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xC-7xZTEhPk",
-          "publishedOn": "2023-02-15T12:39:37.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #34 ✦ KARAOKE 🧸【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
