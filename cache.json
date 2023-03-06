@@ -631,6 +631,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UzO2T4tSqPM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UzO2T4tSqPM",
+          "publishedOn": "2023-03-06T11:15:32.000Z",
+          "wordCount": null,
+          "title": "【雑談/free talk】たらん、先輩になるのか…？【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
           "author": null,
           "description": "",
@@ -768,16 +778,6 @@
           "publishedOn": "2023-02-25T19:25:32.000Z",
           "wordCount": null,
           "title": "【歌雑/sing&talk】初見大歓迎！たすけてほしい。【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wvtBdCasYuc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wvtBdCasYuc",
-          "publishedOn": "2023-02-25T02:34:58.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎！12時まで歌う！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1102,16 +1102,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=h2Kvkr5GZwI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h2Kvkr5GZwI",
-          "publishedOn": "2023-03-05T15:07:55.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎 「Official髭男dism歌枠」👏 KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=HXALdPnVyE4",
           "author": null,
           "description": "",
@@ -1249,6 +1239,16 @@
           "publishedOn": "2023-02-18T07:47:11.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添う歌枠 ☕ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rTG-AH4BV0w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rTG-AH4BV0w",
+          "publishedOn": "2023-02-16T13:00:37.000Z",
+          "wordCount": null,
+          "title": "アカペラで さよならの夏～コクリコ坂から～ 歌ってみた #shorts #vsinger #cover",
           "imageUrl": null
         }
       ]
@@ -2294,6 +2294,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DFq2lTXqNhI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DFq2lTXqNhI",
+          "publishedOn": "2023-03-06T11:19:49.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】癒しとかわいいのおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iXdGyEMiHHs",
           "author": null,

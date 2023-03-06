@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T11:05:48.131Z</id>
+    <id>urn:2023-03-06T11:34:35.568Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T11:05:48.131Z</updated>
+    <updated>2023-03-06T11:34:35.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】癒しとかわいいのおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DFq2lTXqNhI</id>
+        <link href="https://www.youtube.com/watch?v=DFq2lTXqNhI"/>
+        <updated>2023-03-06T11:19:49.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談/free talk】たらん、先輩になるのか…？【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=UzO2T4tSqPM</id>
+        <link href="https://www.youtube.com/watch?v=UzO2T4tSqPM"/>
+        <updated>2023-03-06T11:15:32.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【睡眠導入】ピアノオケ縛り #歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=k3uIEjjyrBU</id>
@@ -111,15 +129,6 @@
         <updated>2023-03-05T15:19:41.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎 「Official髭男dism歌枠」👏 KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h2Kvkr5GZwI</id>
-        <link href="https://www.youtube.com/watch?v=h2Kvkr5GZwI"/>
-        <updated>2023-03-05T15:07:55.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1131,15 +1140,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！12時まで歌う！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wvtBdCasYuc</id>
-        <link href="https://www.youtube.com/watch?v=wvtBdCasYuc"/>
-        <updated>2023-02-25T02:34:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ライザのアトリエ】▸素材を集める？💎ゆるゆる素材を集める～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ydt5UyvxBlk</id>
         <link href="https://www.youtube.com/watch?v=Ydt5UyvxBlk"/>
@@ -1992,6 +1992,15 @@
         <updated>2023-02-16T13:44:17.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アカペラで さよならの夏～コクリコ坂から～ 歌ってみた #shorts #vsinger #cover]]></title>
+        <id>https://www.youtube.com/watch?v=rTG-AH4BV0w</id>
+        <link href="https://www.youtube.com/watch?v=rTG-AH4BV0w"/>
+        <updated>2023-02-16T13:00:37.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
