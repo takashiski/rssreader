@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T15:06:02.251Z</id>
+    <id>urn:2023-03-06T15:35:30.996Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T15:06:02.251Z</updated>
+    <updated>2023-03-06T15:35:30.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見歓迎！ばらーどうたわく⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #歌枠 】初見歓迎！すきなきょく！ｗ⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=XwXydmskJdQ</id>
         <link href="https://www.youtube.com/watch?v=XwXydmskJdQ"/>
         <updated>2023-03-06T13:14:43.000Z</updated>
@@ -96,15 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2vtgZh4fhuA</id>
-        <link href="https://www.youtube.com/watch?v=2vtgZh4fhuA"/>
-        <updated>2023-03-06T09:45:25.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=1gFFkKwzVQo</id>
         <link href="https://www.youtube.com/watch?v=1gFFkKwzVQo"/>
@@ -123,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【KU100/ASMR】登録者12万人耐久♡ゴリゴリ至高の耳かき・マッサージ【睡眠導入/Relaxing/Ear Cleaning/Massage】]]></title>
+        <title type="html"><![CDATA[【KU100/ASMR】登録者12万人耐久♡ゴリゴリ至高の耳かき・マッサージ　#姫熊りぼん耐久中【睡眠導入/Relaxing/Ear Cleaning/Massage】]]></title>
         <id>https://www.youtube.com/watch?v=B_jsUadMrbo</id>
         <link href="https://www.youtube.com/watch?v=B_jsUadMrbo"/>
         <updated>2023-03-05T18:00:39.000Z</updated>
@@ -138,15 +129,6 @@
         <updated>2023-03-05T17:39:33.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 最終章 #8】完全初見❕これで最後…❔完全論破で終わらせてやる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vqXA-JtVlFY</id>
-        <link href="https://www.youtube.com/watch?v=vqXA-JtVlFY"/>
-        <updated>2023-03-05T16:12:15.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2172,6 +2154,15 @@
         <updated>2023-02-14T17:43:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】好き好き耐久💗た～っぷり甘々な囁き💗耳かきとマッサージで癒されちゃう💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8KBZPyT4XPY</id>
+        <link href="https://www.youtube.com/watch?v=8KBZPyT4XPY"/>
+        <updated>2023-02-14T16:16:28.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
