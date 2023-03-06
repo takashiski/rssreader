@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=63E9txNdVMs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=63E9txNdVMs",
+          "publishedOn": "2023-03-06T13:45:47.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／週始めから夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=44mfLxJJHRo",
           "author": null,
           "description": "",
@@ -317,16 +327,6 @@
           "publishedOn": "2023-02-18T03:24:28.000Z",
           "wordCount": null,
           "title": "【ホグワーツレガシー】友達たくさ…ん…魔法いっぱい覚えるぞ！！！【#美睡の酒場/#新人Vtuber/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hXzFL9Je9pE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hXzFL9Je9pE",
-          "publishedOn": "2023-02-16T18:01:20.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／ch登録4200人いけたらいいなぁ～深夜にのんびり歌っちゃお～～～🎤【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
