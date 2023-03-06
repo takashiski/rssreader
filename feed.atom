@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T14:35:11.219Z</id>
+    <id>urn:2023-03-06T15:06:02.251Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T14:35:11.219Z</updated>
+    <updated>2023-03-06T15:06:02.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談/free talk】たらん、先輩になるのか…？【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=UzO2T4tSqPM</id>
+        <link href="https://www.youtube.com/watch?v=UzO2T4tSqPM"/>
+        <updated>2023-03-06T14:57:34.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[さぎょ【メン限】]]></title>
         <id>https://www.youtube.com/watch?v=iT-hw_0T_Mo</id>
@@ -1063,15 +1072,6 @@
         <id>https://www.youtube.com/watch?v=5gWt5Brn7G4</id>
         <link href="https://www.youtube.com/watch?v=5gWt5Brn7G4"/>
         <updated>2023-02-26T02:03:19.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌雑/sing&talk】初見大歓迎！たすけてほしい。【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=UcMYO8N8F4k</id>
-        <link href="https://www.youtube.com/watch?v=UcMYO8N8F4k"/>
-        <updated>2023-02-25T19:25:32.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
