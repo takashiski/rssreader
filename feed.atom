@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T20:34:49.009Z</id>
+    <id>urn:2023-03-06T21:05:53.700Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T20:34:49.009Z</updated>
+    <updated>2023-03-06T21:05:53.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！寝かせないよ！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3swk_KrU7x8</id>
+        <link href="https://www.youtube.com/watch?v=3swk_KrU7x8"/>
+        <updated>2023-03-06T20:59:07.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【KU100/ASMR】登録者12万人耐久♡ゴリゴリ至高の耳かき・マッサージ　#姫熊りぼん耐久中【睡眠導入/Relaxing/Ear Cleaning/Massage】]]></title>
         <id>https://www.youtube.com/watch?v=B_jsUadMrbo</id>
@@ -1045,15 +1054,6 @@
         <id>https://www.youtube.com/watch?v=5gWt5Brn7G4</id>
         <link href="https://www.youtube.com/watch?v=5gWt5Brn7G4"/>
         <updated>2023-02-26T02:03:19.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌雑/sing&talk】初見大歓迎！たすけてほしい。【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=UcMYO8N8F4k</id>
-        <link href="https://www.youtube.com/watch?v=UcMYO8N8F4k"/>
-        <updated>2023-02-25T19:25:32.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
