@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T14:06:15.803Z</id>
+    <id>urn:2023-03-06T14:35:11.219Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T14:06:15.803Z</updated>
+    <updated>2023-03-06T14:35:11.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[さぎょ【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=iT-hw_0T_Mo</id>
+        <link href="https://www.youtube.com/watch?v=iT-hw_0T_Mo"/>
+        <updated>2023-03-06T14:15:12.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週始めから夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=63E9txNdVMs</id>
@@ -57,15 +66,6 @@
         <updated>2023-03-06T11:19:49.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/free talk】たらん、先輩になるのか…？【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=UzO2T4tSqPM</id>
-        <link href="https://www.youtube.com/watch?v=UzO2T4tSqPM"/>
-        <updated>2023-03-06T11:15:32.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
