@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T09:34:44.555Z</id>
+    <id>urn:2023-03-06T10:06:09.155Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T09:34:44.555Z</updated>
+    <updated>2023-03-06T10:06:09.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】久しぶりのピアノ弾き語り🎹~sing with the piano~【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=scUdvm3L8L0</id>
-        <link href="https://www.youtube.com/watch?v=scUdvm3L8L0"/>
-        <updated>2023-03-06T06:27:26.000Z</updated>
+        <title type="html"><![CDATA[【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2vtgZh4fhuA</id>
+        <link href="https://www.youtube.com/watch?v=2vtgZh4fhuA"/>
+        <updated>2023-03-06T09:45:25.000Z</updated>
         <author>
-            <name>彩雲のの - Nono Ayamo -</name>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2352,6 +2352,15 @@
         <updated>2023-02-08T12:49:23.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで ちゅ、多様性。 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=dKQUGHndDBE</id>
+        <link href="https://www.youtube.com/watch?v=dKQUGHndDBE"/>
+        <updated>2023-02-08T12:00:28.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
