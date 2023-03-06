@@ -631,16 +631,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=3swk_KrU7x8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3swk_KrU7x8",
-          "publishedOn": "2023-03-06T16:40:43.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎！寝かせないよ！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=UzO2T4tSqPM",
           "author": null,
           "description": "",
@@ -778,6 +768,16 @@
           "publishedOn": "2023-02-26T02:03:19.000Z",
           "wordCount": null,
           "title": "【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=UcMYO8N8F4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UcMYO8N8F4k",
+          "publishedOn": "2023-02-25T19:25:32.000Z",
+          "wordCount": null,
+          "title": "【歌雑/sing&talk】初見大歓迎！たすけてほしい。【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
