@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T15:35:30.996Z</id>
+    <id>urn:2023-03-06T16:06:18.973Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T15:35:30.996Z</updated>
+    <updated>2023-03-06T16:06:18.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,15 +39,6 @@
         <updated>2023-03-06T13:14:43.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【menber only】におわせたい近況報告など【めんげん】]]></title>
-        <id>https://www.youtube.com/watch?v=IqHuTVo1nj0</id>
-        <link href="https://www.youtube.com/watch?v=IqHuTVo1nj0"/>
-        <updated>2023-03-06T13:11:57.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -2136,6 +2127,15 @@
         <updated>2023-02-15T12:00:48.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九楽ライ/1stSingle『白と枷』Trailer]]></title>
+        <id>https://www.youtube.com/watch?v=cmcJIZzks7A</id>
+        <link href="https://www.youtube.com/watch?v=cmcJIZzks7A"/>
+        <updated>2023-02-15T12:00:48.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
