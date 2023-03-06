@@ -651,16 +651,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=iT-hw_0T_Mo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iT-hw_0T_Mo",
-          "publishedOn": "2023-03-06T14:15:12.000Z",
-          "wordCount": null,
-          "title": "さぎょ【メン限】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
           "author": null,
           "description": "",
@@ -778,6 +768,16 @@
           "publishedOn": "2023-02-26T10:21:54.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎！新曲覚える！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5gWt5Brn7G4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5gWt5Brn7G4",
+          "publishedOn": "2023-02-26T02:03:19.000Z",
+          "wordCount": null,
+          "title": "【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】",
           "imageUrl": null
         }
       ]
@@ -2451,6 +2451,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
+          "publishedOn": "2023-03-06T16:58:22.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2kh8rDQjkxM",
           "author": null,
