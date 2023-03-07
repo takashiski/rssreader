@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T09:34:58.076Z</id>
+    <id>urn:2023-03-07T10:06:16.355Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T09:34:58.076Z</updated>
+    <updated>2023-03-07T10:06:16.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[紙吹雪を変えたい新人VTuber wwww #新人vtuber #神輿たらん #るっくあっとたらん #unicorn #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i5RXtsFD-tg</id>
+        <link href="https://www.youtube.com/watch?v=i5RXtsFD-tg"/>
+        <updated>2023-03-07T10:00:33.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#狐宵いなり デビュー！】3月10日(金)19:00よりデビュー初配信！【Re:AcT Gaming】]]></title>
+        <id>https://www.youtube.com/watch?v=YPkzBjQnl9k</id>
+        <link href="https://www.youtube.com/watch?v=YPkzBjQnl9k"/>
+        <updated>2023-03-07T10:00:31.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！おやつの時間！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=PE8QmG75rG0</id>
+        <link href="https://www.youtube.com/watch?v=PE8QmG75rG0"/>
+        <updated>2023-03-07T09:58:13.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100/ASMR】100万円機材壊れてないか確認してください…【メン限/高級非常食】]]></title>
+        <id>https://www.youtube.com/watch?v=1JEvV1C2zYk</id>
+        <link href="https://www.youtube.com/watch?v=1JEvV1C2zYk"/>
+        <updated>2023-03-07T09:51:44.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100/ASMR】ヤンデレ彼女からは逃れられない♡ゾクゾクする囁き/耳かき【Binaural/Ear Cleaning/Ear Blowing/Whispering/Yandere/睡眠導入】]]></title>
+        <id>https://www.youtube.com/watch?v=r-20eQbjWWw</id>
+        <link href="https://www.youtube.com/watch?v=r-20eQbjWWw"/>
+        <updated>2023-03-07T09:49:52.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠┊︎SINGING 】リスナーの名前を奪う配信｜KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=qi7H18Km_5Y</id>
@@ -159,7 +204,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠┊︎singing 】覚えたて楽曲 and more！Karaoke【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 歌枠┊︎SINGING 】覚えたて楽曲 and more！KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=I6O8OuqxBzU</id>
         <link href="https://www.youtube.com/watch?v=I6O8OuqxBzU"/>
         <updated>2023-03-05T15:46:13.000Z</updated>
@@ -1041,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！新曲覚える！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=A4dAKnX9J-Y</id>
-        <link href="https://www.youtube.com/watch?v=A4dAKnX9J-Y"/>
-        <updated>2023-02-26T10:21:54.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=GgnDlaazoQA</id>
         <link href="https://www.youtube.com/watch?v=GgnDlaazoQA"/>
@@ -1074,15 +1110,6 @@
         <updated>2023-02-26T02:32:52.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Phasmophobia】4人もいれば怖くないね…！！#すだかん【シマリス/玉ノ井もなか/天音なみだ/神輿たらん】]]></title>
-        <id>https://www.youtube.com/watch?v=5gWt5Brn7G4</id>
-        <link href="https://www.youtube.com/watch?v=5gWt5Brn7G4"/>
-        <updated>2023-02-26T02:03:19.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1635,15 +1662,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[迷子達人の技を見よ！！！！！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=tovXBfXP-NM</id>
-        <link href="https://www.youtube.com/watch?v=tovXBfXP-NM"/>
-        <updated>2023-02-20T15:19:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠┊︎singing 】覚えたて楽曲 and more︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=FxPdONkVXfg</id>
         <link href="https://www.youtube.com/watch?v=FxPdONkVXfg"/>
@@ -1713,15 +1731,6 @@
         <updated>2023-02-19T17:31:26.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ぎゅっと離さない♡ゼロ距離で心音/囁き耐久♡睡眠導入【Heart Beat/Binaural/Ear Massage/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=mwNgmGLvXGY</id>
-        <link href="https://www.youtube.com/watch?v=mwNgmGLvXGY"/>
-        <updated>2023-02-19T17:27:03.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
