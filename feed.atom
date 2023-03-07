@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T15:06:00.572Z</id>
+    <id>urn:2023-03-07T15:35:12.306Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T15:06:00.572Z</updated>
+    <updated>2023-03-07T15:35:12.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【membership】今日はおつまみがある、めげ【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=0RmqtWetGJg</id>
+        <link href="https://www.youtube.com/watch?v=0RmqtWetGJg"/>
+        <updated>2023-03-07T15:31:20.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！maipe---su⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=ghWigF7LctI</id>
+        <link href="https://www.youtube.com/watch?v=ghWigF7LctI"/>
+        <updated>2023-03-07T15:16:28.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】最強の魔女になるのが夢なんだからさ【天川はの】#05]]></title>
         <id>https://www.youtube.com/watch?v=_RtskRTiFzo</id>
@@ -1923,15 +1941,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ホグワーツレガシー】友達たくさ…ん…魔法いっぱい覚えるぞ！！！【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=U8VWpMORR0Y</id>
-        <link href="https://www.youtube.com/watch?v=U8VWpMORR0Y"/>
-        <updated>2023-02-18T03:24:28.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【復帰配信/talking stream】姫のご帰還です。【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=DRbSK2krU28</id>
         <link href="https://www.youtube.com/watch?v=DRbSK2krU28"/>
@@ -2037,15 +2046,6 @@
         <updated>2023-02-16T17:02:42.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】指の調子、よさげ⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=qpses-u0aF0</id>
-        <link href="https://www.youtube.com/watch?v=qpses-u0aF0"/>
-        <updated>2023-02-16T17:02:06.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
