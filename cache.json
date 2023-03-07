@@ -2128,6 +2128,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=19Afz6GP43I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=19Afz6GP43I",
+          "publishedOn": "2023-03-07T10:32:29.000Z",
+          "wordCount": null,
+          "title": "【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1JEvV1C2zYk",
           "author": null,
           "description": "",
@@ -2265,16 +2275,6 @@
           "publishedOn": "2023-02-22T16:45:57.000Z",
           "wordCount": null,
           "title": "猫に貢ぐためにコンビニで働くことにしました！【ニャー次郎/Meowjiro】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6667f0N-Bqo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6667f0N-Bqo",
-          "publishedOn": "2023-02-21T17:17:13.000Z",
-          "wordCount": null,
-          "title": "【パズドラ初見】知識ほぼゼロ？！ガンダムコラボに釣られました。【VTuber/姫熊りぼん】",
           "imageUrl": null
         }
       ]

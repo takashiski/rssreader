@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T10:36:24.784Z</id>
+    <id>urn:2023-03-07T11:05:39.898Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T10:36:24.784Z</updated>
+    <updated>2023-03-07T11:05:39.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
+        <link href="https://www.youtube.com/watch?v=19Afz6GP43I"/>
+        <updated>2023-03-07T10:32:29.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紙吹雪を変えたい新人VTuber wwww #新人vtuber #神輿たらん #るっくあっとたらん #unicorn #shorts]]></title>
         <id>https://www.youtube.com/watch?v=i5RXtsFD-tg</id>
@@ -1578,15 +1587,6 @@
         <updated>2023-02-21T17:49:00.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【パズドラ初見】知識ほぼゼロ？！ガンダムコラボに釣られました。【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=6667f0N-Bqo</id>
-        <link href="https://www.youtube.com/watch?v=6667f0N-Bqo"/>
-        <updated>2023-02-21T17:17:13.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
