@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T11:34:32.209Z</id>
+    <id>urn:2023-03-07T12:08:22.305Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T11:34:32.209Z</updated>
+    <updated>2023-03-07T12:08:22.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで Arrietty's song 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=uw42Zs0puhE</id>
+        <link href="https://www.youtube.com/watch?v=uw42Zs0puhE"/>
+        <updated>2023-03-07T12:00:39.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 一週間まいにち歌枠 】 「かわいくなりたい歌枠」♡ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8dRswtcDyNI</id>
+        <link href="https://www.youtube.com/watch?v=8dRswtcDyNI"/>
+        <updated>2023-03-07T11:50:16.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活/sing and talk】この配信を見れたらラッキー！ゲリラ朝活で君に元気を♡【#彩雲のの/ #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=W_caJZL4vC8</id>
+        <link href="https://www.youtube.com/watch?v=W_caJZL4vC8"/>
+        <updated>2023-03-07T11:46:51.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
@@ -33,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】4400人目指してます！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】4400人目指してます耐久！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=PE8QmG75rG0</id>
         <link href="https://www.youtube.com/watch?v=PE8QmG75rG0"/>
         <updated>2023-03-07T09:58:13.000Z</updated>
@@ -1878,15 +1905,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添う歌枠 ☕ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XAXTXJJ5czY</id>
-        <link href="https://www.youtube.com/watch?v=XAXTXJJ5czY"/>
-        <updated>2023-02-18T07:47:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】新入生の子供が優秀な魔女目指す!!【天川はの】#02]]></title>
         <id>https://www.youtube.com/watch?v=0Oe22X7QlbQ</id>
         <link href="https://www.youtube.com/watch?v=0Oe22X7QlbQ"/>
@@ -2157,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで 可愛くてごめん 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
-        <id>https://www.youtube.com/watch?v=u5NMx_XEu-c</id>
-        <link href="https://www.youtube.com/watch?v=u5NMx_XEu-c"/>
-        <updated>2023-02-15T12:00:48.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎🌅起きろ❕バレンタインはもう終わったんだよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Sz5okLFcbpQ</id>
         <link href="https://www.youtube.com/watch?v=Sz5okLFcbpQ"/>
@@ -2292,15 +2301,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで p.h. 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
-        <id>https://www.youtube.com/watch?v=uyufXd7DQA0</id>
-        <link href="https://www.youtube.com/watch?v=uyufXd7DQA0"/>
-        <updated>2023-02-11T12:00:44.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#丸餅つきみ新衣装】おまたせしましたわ!!念願の新衣装を手にしたつきみを見て!【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=PAhvpEBaLhE</id>
         <link href="https://www.youtube.com/watch?v=PAhvpEBaLhE"/>
@@ -2415,15 +2415,6 @@
         <updated>2023-02-06T15:10:39.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=vL6crb23jjM</id>
-        <link href="https://www.youtube.com/watch?v=vL6crb23jjM"/>
-        <updated>2023-02-05T23:38:35.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
