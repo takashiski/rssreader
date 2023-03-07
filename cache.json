@@ -1961,16 +1961,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=_RtskRTiFzo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_RtskRTiFzo",
-          "publishedOn": "2023-03-07T09:10:34.000Z",
-          "wordCount": null,
-          "title": "【🪄ホグワーツレガシー】最強の魔女になるのが夢なんだからさ【天川はの】#05",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=rNQ0tbFvPNo",
           "author": null,
           "description": "",
@@ -2108,6 +2098,16 @@
           "publishedOn": "2023-02-18T07:30:26.000Z",
           "wordCount": null,
           "title": "【🪄ホグワーツレガシー】新入生の子供が優秀な魔女目指す!!【天川はの】#02",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ur9lhgCMpgA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ur9lhgCMpgA",
+          "publishedOn": "2023-02-16T00:21:34.000Z",
+          "wordCount": null,
+          "title": "【🔆朝活】ねぇなんでなんでなんで⛓️初見さん歓迎【天川はの】",
           "imageUrl": null
         }
       ]
@@ -2431,16 +2431,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Bq49XfBtFRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bq49XfBtFRI",
-          "publishedOn": "2023-03-07T03:19:28.000Z",
-          "wordCount": null,
-          "title": "【Joggernauts】ちゃんと協力しないとクリアできませんからね。⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
           "author": null,
