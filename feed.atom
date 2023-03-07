@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T14:35:07.656Z</id>
+    <id>urn:2023-03-07T15:06:00.572Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T14:35:07.656Z</updated>
+    <updated>2023-03-07T15:06:00.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】最強の魔女になるのが夢なんだからさ【天川はの】#05]]></title>
+        <id>https://www.youtube.com/watch?v=_RtskRTiFzo</id>
+        <link href="https://www.youtube.com/watch?v=_RtskRTiFzo"/>
+        <updated>2023-03-07T14:55:48.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Joggernauts】ちゃんと協力しないとクリアできませんからね。⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Bq49XfBtFRI</id>
+        <link href="https://www.youtube.com/watch?v=Bq49XfBtFRI"/>
+        <updated>2023-03-07T14:37:50.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
@@ -21,15 +39,6 @@
         <updated>2023-03-07T14:32:30.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！maipe---su⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ghWigF7LctI</id>
-        <link href="https://www.youtube.com/watch?v=ghWigF7LctI"/>
-        <updated>2023-03-07T13:12:07.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -87,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】4400人目指してます耐久！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】4400人ありがとう！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=PE8QmG75rG0</id>
         <link href="https://www.youtube.com/watch?v=PE8QmG75rG0"/>
         <updated>2023-03-07T09:58:13.000Z</updated>
@@ -2031,6 +2040,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】指の調子、よさげ⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=qpses-u0aF0</id>
+        <link href="https://www.youtube.com/watch?v=qpses-u0aF0"/>
+        <updated>2023-02-16T17:02:06.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【お絵描き配信】絵と酒と雑談｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=9zEzM_42ODY</id>
         <link href="https://www.youtube.com/watch?v=9zEzM_42ODY"/>
@@ -2082,15 +2100,6 @@
         <updated>2023-02-16T02:22:56.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🔆朝活】ねぇなんでなんでなんで⛓️初見さん歓迎【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=Ur9lhgCMpgA</id>
-        <link href="https://www.youtube.com/watch?v=Ur9lhgCMpgA"/>
-        <updated>2023-02-16T00:21:34.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
