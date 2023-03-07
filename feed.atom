@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T14:06:05.896Z</id>
+    <id>urn:2023-03-07T14:35:07.656Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T14:06:05.896Z</updated>
+    <updated>2023-03-07T14:35:07.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
+        <link href="https://www.youtube.com/watch?v=19Afz6GP43I"/>
+        <updated>2023-03-07T14:32:49.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠┊︎SINGING 】リスナーの名前を奪う配信｜KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=qi7H18Km_5Y</id>
+        <link href="https://www.youtube.com/watch?v=qi7H18Km_5Y"/>
+        <updated>2023-03-07T14:32:30.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！maipe---su⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ghWigF7LctI</id>
@@ -51,15 +69,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
-        <link href="https://www.youtube.com/watch?v=19Afz6GP43I"/>
-        <updated>2023-03-07T10:32:29.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[紙吹雪を変えたい新人VTuber wwww #新人vtuber #神輿たらん #るっくあっとたらん #unicorn #shorts]]></title>
         <id>https://www.youtube.com/watch?v=i5RXtsFD-tg</id>
         <link href="https://www.youtube.com/watch?v=i5RXtsFD-tg"/>
@@ -102,15 +111,6 @@
         <updated>2023-03-07T09:49:52.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠┊︎SINGING 】リスナーの名前を奪う配信｜KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=qi7H18Km_5Y</id>
-        <link href="https://www.youtube.com/watch?v=qi7H18Km_5Y"/>
-        <updated>2023-03-07T09:33:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1639,6 +1639,15 @@
         <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
         <link href="https://www.youtube.com/watch?v=eQtSGdpiBVU"/>
         <updated>2023-02-21T14:27:31.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨おっはよ～💜アリにゃに挨拶しにきてにゃん💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NkwebjoT7I0</id>
+        <link href="https://www.youtube.com/watch?v=NkwebjoT7I0"/>
+        <updated>2023-02-21T14:07:17.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
