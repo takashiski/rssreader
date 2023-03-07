@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T18:37:01.066Z</id>
+    <id>urn:2023-03-07T19:05:32.853Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T18:37:01.066Z</updated>
+    <updated>2023-03-07T19:05:32.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -120,15 +120,6 @@
         <updated>2023-03-07T10:00:31.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KU100/ASMR】ヤンデレ彼女からは逃れられない♡ゾクゾクする囁き/耳かき【Binaural/Ear Cleaning/Ear Blowing/Whispering/Yandere/睡眠導入】]]></title>
-        <id>https://www.youtube.com/watch?v=r-20eQbjWWw</id>
-        <link href="https://www.youtube.com/watch?v=r-20eQbjWWw"/>
-        <updated>2023-03-07T09:49:52.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1713,6 +1704,15 @@
         <updated>2023-02-20T16:03:16.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷子達人の技を見よ！！！！！ GeoGuessr/ジオゲッサー【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=tovXBfXP-NM</id>
+        <link href="https://www.youtube.com/watch?v=tovXBfXP-NM"/>
+        <updated>2023-02-20T15:19:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
