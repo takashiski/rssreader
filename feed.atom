@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T13:10:39.861Z</id>
+    <id>urn:2023-03-07T13:37:30.719Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T13:10:39.861Z</updated>
+    <updated>2023-03-07T13:37:30.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！maipe---su⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=ghWigF7LctI</id>
+        <link href="https://www.youtube.com/watch?v=ghWigF7LctI"/>
+        <updated>2023-03-07T13:12:07.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[稀羽すうが 寄り酔い 歌ってみた  #shorts #cover #Vsinger]]></title>
         <id>https://www.youtube.com/watch?v=fhhos8u6yfQ</id>
@@ -2028,15 +2037,6 @@
         <updated>2023-02-16T17:02:42.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】指の調子、よさげ⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=qpses-u0aF0</id>
-        <link href="https://www.youtube.com/watch?v=qpses-u0aF0"/>
-        <updated>2023-02-16T17:02:06.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
