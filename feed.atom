@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T09:34:40.547Z</id>
+    <id>urn:2023-03-08T10:06:11.839Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T09:34:40.547Z</updated>
+    <updated>2023-03-08T10:06:11.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#小夜シグレ デビュー！】3月10日(金)20:00よりデビュー初配信！【Re:AcT Gaming】]]></title>
+        <id>https://www.youtube.com/watch?v=BUPhjsRrgFs</id>
+        <link href="https://www.youtube.com/watch?v=BUPhjsRrgFs"/>
+        <updated>2023-03-08T10:00:06.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事務所をクビになりかけてる新人VTuber wwww #新人vtuber #るっくあっとたらん #神輿たらん #歌枠 #ブルアカ #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=1izqu469SlA</id>
+        <link href="https://www.youtube.com/watch?v=1izqu469SlA"/>
+        <updated>2023-03-08T10:00:02.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠┊︎SINGING 】ロックアニソン縛り｜RCCK ANIME SONG KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=0ka5voBGOgA</id>
+        <link href="https://www.youtube.com/watch?v=0ka5voBGOgA"/>
+        <updated>2023-03-08T09:42:58.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / 今すぐ眠りたい方への僕っ娘耳かき/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=POwZIAEqhnA</id>
@@ -57,15 +84,6 @@
         <updated>2023-03-07T19:15:16.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】もう春だねえ、ばいばい冬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ZjShY17RcYU</id>
-        <link href="https://www.youtube.com/watch?v=ZjShY17RcYU"/>
-        <updated>2023-03-07T17:39:18.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -894,15 +912,6 @@
         <updated>2023-03-01T14:40:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙食レポ！？#新人vtuber  #神輿たらん #るっくあっとたらん #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Zv0hiVkyrBA</id>
-        <link href="https://www.youtube.com/watch?v=Zv0hiVkyrBA"/>
-        <updated>2023-03-01T14:00:14.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2112,15 +2121,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】紅廻にま様ご来店！第14回はEMOVEから悪魔と鬼のハーフ襲来！【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=F4GCfU_eX0o</id>
-        <link href="https://www.youtube.com/watch?v=F4GCfU_eX0o"/>
-        <updated>2023-02-16T02:22:56.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【GeoGuessr】日本🗾のどこかに飛ばされました… 助けて❕歩き回ってどこか特定しよ✨【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=yy8iMoA6LFQ</id>
         <link href="https://www.youtube.com/watch?v=yy8iMoA6LFQ"/>
@@ -2136,6 +2136,15 @@
         <updated>2023-02-15T17:47:00.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】たまには夜に ※睡眠には向いてません【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iSdnIgyf28g</id>
+        <link href="https://www.youtube.com/watch?v=iSdnIgyf28g"/>
+        <updated>2023-02-15T16:38:05.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
