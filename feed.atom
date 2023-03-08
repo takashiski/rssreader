@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T17:35:05.182Z</id>
+    <id>urn:2023-03-08T18:06:25.924Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T17:35:05.182Z</updated>
+    <updated>2023-03-08T18:06:25.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZyFfAAnRCdk</id>
+        <link href="https://www.youtube.com/watch?v=ZyFfAAnRCdk"/>
+        <updated>2023-03-08T18:01:43.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜可愛くて盛り上がれちゃう歌枠💜集合❕ karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=4oMcERHFlMU</id>
+        <link href="https://www.youtube.com/watch?v=4oMcERHFlMU"/>
+        <updated>2023-03-08T17:58:27.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツ・レガシー】いっぱい魔法覚える！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=evUYjiy37_E</id>
+        <link href="https://www.youtube.com/watch?v=evUYjiy37_E"/>
+        <updated>2023-03-08T17:30:52.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎！100人におはよう言いたい☀【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=piJClGsHPLg</id>
@@ -102,15 +129,6 @@
         <updated>2023-03-08T10:00:02.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆ASMR / 広告なし! / 今すぐ眠りたい方への僕っ娘耳かき/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=POwZIAEqhnA</id>
-        <link href="https://www.youtube.com/watch?v=POwZIAEqhnA"/>
-        <updated>2023-03-08T08:39:22.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -957,15 +975,6 @@
         <updated>2023-03-01T14:40:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙食レポ！？#新人vtuber  #神輿たらん #るっくあっとたらん #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Zv0hiVkyrBA</id>
-        <link href="https://www.youtube.com/watch?v=Zv0hiVkyrBA"/>
-        <updated>2023-03-01T14:00:14.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2175,6 +2184,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[⚠ 重大告知 ⚠ 同日に2つの超大型発表を持ってくる女。〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=TLiLxXnIFCw</id>
+        <link href="https://www.youtube.com/watch?v=TLiLxXnIFCw"/>
+        <updated>2023-02-15T13:16:12.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#shorts 】Iなんです / れるりり feat.初音ミク【#花鋏キョウ #歌ってみた 】]]></title>
         <id>https://www.youtube.com/watch?v=CBBkgGCaPTs</id>
         <link href="https://www.youtube.com/watch?v=CBBkgGCaPTs"/>
@@ -2202,30 +2220,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎🌅起きろ❕バレンタインはもう終わったんだよ💜 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Sz5okLFcbpQ</id>
-        <link href="https://www.youtube.com/watch?v=Sz5okLFcbpQ"/>
-        <updated>2023-02-15T00:17:20.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】Happy Valentine❤マシュマロもぐもぐしながら飲酒雑談するよ🍹💕活動半年記念も振り返る❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AYD7k0MNhCU</id>
         <link href="https://www.youtube.com/watch?v=AYD7k0MNhCU"/>
         <updated>2023-02-14T17:43:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】好き好き耐久💗た～っぷり甘々な囁き💗耳かきとマッサージで癒されちゃう💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8KBZPyT4XPY</id>
-        <link href="https://www.youtube.com/watch?v=8KBZPyT4XPY"/>
-        <updated>2023-02-14T16:16:28.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
