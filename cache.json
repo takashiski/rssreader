@@ -200,6 +200,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tj2e_r_hukM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tj2e_r_hukM",
+          "publishedOn": "2023-03-08T14:22:11.000Z",
+          "wordCount": null,
+          "title": "【 雑談🥂 】初見さん大歓迎～／週の半ばのんびりお話タイム～【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=63E9txNdVMs",
           "author": null,
           "description": "",
@@ -337,16 +347,6 @@
           "publishedOn": "2023-02-19T17:43:34.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／週末深夜の歌枠だあああ【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U8VWpMORR0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U8VWpMORR0Y",
-          "publishedOn": "2023-02-18T03:24:28.000Z",
-          "wordCount": null,
-          "title": "【ホグワーツレガシー】友達たくさ…ん…魔法いっぱい覚えるぞ！！！【#美睡の酒場/#新人Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1432,16 +1432,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=0vtV-7FnQ_Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0vtV-7FnQ_Q",
-          "publishedOn": "2023-03-08T12:43:35.000Z",
-          "wordCount": null,
-          "title": "【メン限】チャンス勝ち取ったり！",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=iz35aN6BSdY",
           "author": null,
@@ -2703,6 +2693,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=umBoEm-IlV4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=umBoEm-IlV4",
+          "publishedOn": "2023-03-08T14:30:13.000Z",
+          "wordCount": null,
+          "title": "【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FQHsdjF0j5w",
           "author": null,
           "description": "",
@@ -2840,16 +2840,6 @@
           "publishedOn": "2023-02-15T13:48:37.000Z",
           "wordCount": null,
           "title": "【 #アニメ 】#宇佐美ユノのおたと～く！今季アニメについて語る【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KaF-ip0WS54",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KaF-ip0WS54",
-          "publishedOn": "2023-02-14T14:14:58.000Z",
-          "wordCount": null,
-          "title": "【お知らせ】初見さん大歓迎♡バレンタイン記念リクエスト第一弾！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         }
       ]
