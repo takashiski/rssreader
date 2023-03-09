@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zAKxZmH6e28",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zAKxZmH6e28",
+          "publishedOn": "2023-03-09T23:20:18.000Z",
+          "wordCount": null,
+          "title": "【#たらおは/雑談】第1回たらんとおはなし！ゲストはぴぴすぴるちゃん！【新人VTuber/ぴぴすぴる/神輿たらん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yh88lmmI5Is",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-03-02T10:00:11.000Z",
           "wordCount": null,
           "title": "VTuber友達にドッキリ仕掛けたらwwww　#新人vtuber  #神輿たらん #玉ノ井もなか #るっくあっとたらん #ブルアカ #ドッキリ #宇宙旅行 #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_5B5lVuL_Ac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_5B5lVuL_Ac",
-          "publishedOn": "2023-03-01T22:41:56.000Z",
-          "wordCount": null,
-          "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
