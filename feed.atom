@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T17:35:02.688Z</id>
+    <id>urn:2023-03-09T18:06:21.218Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T17:35:02.688Z</updated>
+    <updated>2023-03-09T18:06:21.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[だらだら深夜のお話させてけろ～～～～～なゲリラ豪雨 / 雑談〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=d42MpvyuO_w</id>
+        <link href="https://www.youtube.com/watch?v=d42MpvyuO_w"/>
+        <updated>2023-03-09T17:58:44.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【KU100/ASMR】耳奥までモフモフされて気持ち良い♡ぬいぐるみ耳かき/睡眠導入【Binaural/Ear Cleaning/Whispering/睡眠導入】]]></title>
         <id>https://www.youtube.com/watch?v=HOknYq1lIUY</id>
@@ -51,7 +60,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/sing and talk】深夜のゲリラ歌枠🌙karaoke【#彩雲のの/ #新人Vtuber】]]></title>
+        <title type="html"><![CDATA[【歌枠/sing and talk】深夜の幻想的な歌枠🌙karaoke【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=qHZ2y1Vd1ys</id>
         <link href="https://www.youtube.com/watch?v=qHZ2y1Vd1ys"/>
         <updated>2023-03-09T15:32:32.000Z</updated>
@@ -93,15 +102,6 @@
         <updated>2023-03-09T13:56:39.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[だらだら深夜のお話させてけろ～～～～～なゲリラ豪雨 / 雑談〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=d42MpvyuO_w</id>
-        <link href="https://www.youtube.com/watch?v=d42MpvyuO_w"/>
-        <updated>2023-03-09T13:54:13.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
