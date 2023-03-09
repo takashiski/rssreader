@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T09:06:07.308Z</id>
+    <id>urn:2023-03-09T09:34:50.478Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T09:06:07.308Z</updated>
+    <updated>2023-03-09T09:34:50.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜可愛くて盛り上がれちゃう歌枠💜集合❕ karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=4oMcERHFlMU</id>
+        <link href="https://www.youtube.com/watch?v=4oMcERHFlMU"/>
+        <updated>2023-03-09T09:24:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#たらおは/雑談】第1回たらんとおはなし！ゲストはぴぴすぴるちゃん！【新人VTuber/ぴぴすぴる/神輿たらん】]]></title>
         <id>https://www.youtube.com/watch?v=zAKxZmH6e28</id>
@@ -73,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=ZyFfAAnRCdk</id>
         <link href="https://www.youtube.com/watch?v=ZyFfAAnRCdk"/>
         <updated>2023-03-08T18:01:43.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜可愛くて盛り上がれちゃう歌枠💜集合❕ karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=4oMcERHFlMU</id>
-        <link href="https://www.youtube.com/watch?v=4oMcERHFlMU"/>
-        <updated>2023-03-08T17:58:27.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
