@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-08T23:34:30.074Z</id>
+    <id>urn:2023-03-09T00:24:58.842Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T23:34:30.074Z</updated>
+    <updated>2023-03-09T00:24:58.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人におはよう言いたい☀【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【朝活】起きれなかったVtuber【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=piJClGsHPLg</id>
         <link href="https://www.youtube.com/watch?v=piJClGsHPLg"/>
         <updated>2023-03-08T16:07:34.000Z</updated>
@@ -2415,15 +2415,6 @@
         <updated>2023-02-07T15:34:14.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】超絶かわいい / Covered by 獅子神レオナ #short]]></title>
-        <id>https://www.youtube.com/watch?v=FA1uum8j6fE</id>
-        <link href="https://www.youtube.com/watch?v=FA1uum8j6fE"/>
-        <updated>2023-02-07T12:00:17.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
