@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T13:40:08.034Z</id>
+    <id>urn:2023-03-09T14:05:52.505Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T13:40:08.034Z</updated>
+    <updated>2023-03-09T14:05:52.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】起きれなかったVtuber【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=piJClGsHPLg</id>
+        <link href="https://www.youtube.com/watch?v=piJClGsHPLg"/>
+        <updated>2023-03-09T13:57:07.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
+        <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
+        <updated>2023-03-09T13:56:39.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=umBoEm-IlV4</id>
+        <link href="https://www.youtube.com/watch?v=umBoEm-IlV4"/>
+        <updated>2023-03-09T13:53:56.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談/FreeTalk】フーンミアマネってそう思ってたんダ～～！ミアマネに尋問してみた【水瓶ミア / VTuber】]]></title>
         <id>https://www.youtube.com/watch?v=Rum5o4ncdyA</id>
@@ -145,15 +172,6 @@
         <id>https://www.youtube.com/watch?v=eGDbXfwLjJM</id>
         <link href="https://www.youtube.com/watch?v=eGDbXfwLjJM"/>
         <updated>2023-03-08T14:40:15.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=umBoEm-IlV4</id>
-        <link href="https://www.youtube.com/watch?v=umBoEm-IlV4"/>
-        <updated>2023-03-08T14:30:13.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
@@ -2094,15 +2112,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【シャンプー】超絶気持ちいいASMR♡寝落ち確実/囁き/ドキドキする吐息/美容院【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=W0jeFQCcZZc</id>
-        <link href="https://www.youtube.com/watch?v=W0jeFQCcZZc"/>
-        <updated>2023-02-17T16:10:22.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ヒトカラ / The Karaoke】チラズアート最新作🎤ひとりカラオケって気楽だよね🎵…ん？【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=chc8LOsX-3M</id>
         <link href="https://www.youtube.com/watch?v=chc8LOsX-3M"/>
@@ -2163,15 +2172,6 @@
         <updated>2023-02-16T17:02:42.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】絵と酒と雑談｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=9zEzM_42ODY</id>
-        <link href="https://www.youtube.com/watch?v=9zEzM_42ODY"/>
-        <updated>2023-02-16T16:42:25.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
