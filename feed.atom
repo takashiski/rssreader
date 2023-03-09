@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T07:34:23.140Z</id>
+    <id>urn:2023-03-09T08:06:51.914Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T07:34:23.140Z</updated>
+    <updated>2023-03-09T08:06:51.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#たらおは/雑談】第1回たらんとおはなし！ゲストはぴぴすぴるちゃん！【新人VTuber/ぴぴすぴる/神輿たらん】]]></title>
+        <id>https://www.youtube.com/watch?v=zAKxZmH6e28</id>
+        <link href="https://www.youtube.com/watch?v=zAKxZmH6e28"/>
+        <updated>2023-03-09T07:56:20.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【リスナー参加型】みんなの〇〇卒業【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ZxD58LIPrwU</id>
@@ -984,15 +993,6 @@
         <updated>2023-03-01T17:28:15.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎！寝る前においで！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wPVetu0ITKU</id>
-        <link href="https://www.youtube.com/watch?v=wPVetu0ITKU"/>
-        <updated>2023-03-01T16:53:04.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

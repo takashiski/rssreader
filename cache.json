@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zAKxZmH6e28",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zAKxZmH6e28",
+          "publishedOn": "2023-03-09T07:56:20.000Z",
+          "wordCount": null,
+          "title": "【#たらおは/雑談】第1回たらんとおはなし！ゲストはぴぴすぴるちゃん！【新人VTuber/ぴぴすぴる/神輿たらん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=evUYjiy37_E",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-03-01T22:41:56.000Z",
           "wordCount": null,
           "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wPVetu0ITKU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wPVetu0ITKU",
-          "publishedOn": "2023-03-01T16:53:04.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎！寝る前においで！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
