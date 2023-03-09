@@ -210,6 +210,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ybh43sNOqDQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ybh43sNOqDQ",
+          "publishedOn": "2023-03-09T14:56:52.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／鼻声だけど夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tj2e_r_hukM",
           "author": null,
           "description": "",
@@ -347,16 +357,6 @@
           "publishedOn": "2023-02-21T17:49:00.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／週初めのお歌枠！楽しんでいこおお【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nBMsW5J1IWI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nBMsW5J1IWI",
-          "publishedOn": "2023-02-19T17:43:34.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／週末深夜の歌枠だあああ【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2294,16 +2294,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=qOqOoeoLdKA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qOqOoeoLdKA",
-          "publishedOn": "2023-03-08T05:12:12.000Z",
-          "wordCount": null,
-          "title": "【GeoGuessr】2人で旅行にきたら迷子になったんじゃけど。。。 #つくつくぴっち【夢川かなう/月紫アリア/リアクト/Vtuber】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=DFq2lTXqNhI",
           "author": null,
