@@ -1122,16 +1122,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=i8oDsUOW7t4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i8oDsUOW7t4",
-          "publishedOn": "2023-03-08T16:05:50.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】「1週間まいにち歌枠 Last Day」🌹 KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=mvkW_yFx1gs",
           "author": null,
           "description": "",
@@ -1269,6 +1259,16 @@
           "publishedOn": "2023-02-23T15:26:43.000Z",
           "wordCount": null,
           "title": "ずっと欲しかったあれをプチお披露目！ & 幻の撮影会 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=L2ml0ctzUU8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=L2ml0ctzUU8",
+          "publishedOn": "2023-02-22T11:01:57.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #35 ✦ KARAOKE 🐈【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2608,6 +2608,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Rum5o4ncdyA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rum5o4ncdyA",
+          "publishedOn": "2023-03-09T13:16:26.000Z",
+          "wordCount": null,
+          "title": "【雑談/FreeTalk】フーンミアマネってそう思ってたんダ～～！ミアマネに尋問してみた【水瓶ミア / VTuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4BOnQiPWEl4",
           "author": null,

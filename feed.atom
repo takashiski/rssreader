@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T13:11:11.877Z</id>
+    <id>urn:2023-03-09T13:40:08.034Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T13:11:11.877Z</updated>
+    <updated>2023-03-09T13:40:08.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談/FreeTalk】フーンミアマネってそう思ってたんダ～～！ミアマネに尋問してみた【水瓶ミア / VTuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Rum5o4ncdyA</id>
+        <link href="https://www.youtube.com/watch?v=Rum5o4ncdyA"/>
+        <updated>2023-03-09T13:16:26.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【低難度!ハモリにつられるな】W/X/Y(Tani Yuuki)一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=CS750AyaOTY</id>
@@ -111,15 +120,6 @@
         <updated>2023-03-08T17:30:52.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】「1週間まいにち歌枠 Last Day」🌹 KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=i8oDsUOW7t4</id>
-        <link href="https://www.youtube.com/watch?v=i8oDsUOW7t4"/>
-        <updated>2023-03-08T16:05:50.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1740,6 +1740,15 @@
         <updated>2023-02-22T12:00:24.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #35 ✦ KARAOKE 🐈【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=L2ml0ctzUU8</id>
+        <link href="https://www.youtube.com/watch?v=L2ml0ctzUU8"/>
+        <updated>2023-02-22T11:01:57.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
