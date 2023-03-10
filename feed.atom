@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T21:05:42.601Z</id>
+    <id>urn:2023-03-10T21:34:36.357Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T21:05:42.601Z</updated>
+    <updated>2023-03-10T21:34:36.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing stream】弾き語りするわよ~sing with the piano~【#彩雲のの/ #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=MB9pm3t5IfA</id>
+        <link href="https://www.youtube.com/watch?v=MB9pm3t5IfA"/>
+        <updated>2023-03-10T21:23:41.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【原神#37】急遽「層岩巨淵深遊記」すすめる…！⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YLxWuGeAO20</id>
@@ -1947,15 +1956,6 @@
         <updated>2023-02-20T13:31:01.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】環境音とウィスパー歌枠で癒されませんか？🌙【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=gGa0Om-zdBs</id>
-        <link href="https://www.youtube.com/watch?v=gGa0Om-zdBs"/>
-        <updated>2023-02-20T02:47:00.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
