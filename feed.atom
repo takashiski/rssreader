@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T10:06:16.815Z</id>
+    <id>urn:2023-03-10T10:36:32.566Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T10:06:16.815Z</updated>
+    <updated>2023-03-10T10:36:32.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【menber only】one piece FILM RED 同時視聴🏴【めんげん】]]></title>
+        <id>https://www.youtube.com/watch?v=_-qg6TvDPAc</id>
+        <link href="https://www.youtube.com/watch?v=_-qg6TvDPAc"/>
+        <updated>2023-03-10T10:25:55.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トラックシミュレーターを新人VTuberがプレイしたら… #新人vtuber #ブルアカ #神輿たらん #るっくあっとたらん #ゲーム実況 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=lwNShmQpHRk</id>
+        <link href="https://www.youtube.com/watch?v=lwNShmQpHRk"/>
+        <updated>2023-03-10T10:08:45.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【キミガシネ #3】サクサク謎解きできますように。ように。【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8pWbmxV3yXE</id>
@@ -1068,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VTuber友達にドッキリ仕掛けたらwwww　#新人vtuber  #神輿たらん #玉ノ井もなか #るっくあっとたらん #ブルアカ #ドッキリ #宇宙旅行 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=JB_WWcoQh2k</id>
-        <link href="https://www.youtube.com/watch?v=JB_WWcoQh2k"/>
-        <updated>2023-03-02T10:00:11.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎！おはよう言いにきて～！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=hrQfEKjQzW4</id>
         <link href="https://www.youtube.com/watch?v=hrQfEKjQzW4"/>
@@ -2037,15 +2046,6 @@
         <updated>2023-02-19T07:02:16.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing /  日曜昼の元気なアニソン回✨初見歓迎だっ/karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=WQLm7EsO7QY</id>
-        <link href="https://www.youtube.com/watch?v=WQLm7EsO7QY"/>
-        <updated>2023-02-19T06:54:43.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
