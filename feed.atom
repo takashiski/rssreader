@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T15:35:03.698Z</id>
+    <id>urn:2023-03-10T16:06:12.773Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T15:35:03.698Z</updated>
+    <updated>2023-03-10T16:06:12.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1716,15 +1716,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【日本語字幕・和訳】LOVE DIVE / IVE 아이브 歌ってみた covered.水瓶ミア]]></title>
-        <id>https://www.youtube.com/watch?v=97Oo9IvTDcQ</id>
-        <link href="https://www.youtube.com/watch?v=97Oo9IvTDcQ"/>
-        <updated>2023-02-23T14:00:10.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#VirtualonMusic】新企画！3D音楽番組「Virtual on Music」ゲスト 富士葵【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RzJX2NwXrUk</id>
         <link href="https://www.youtube.com/watch?v=RzJX2NwXrUk"/>
@@ -1740,15 +1731,6 @@
         <updated>2023-02-23T11:00:45.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】NEWスタンプ｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Dsf8Zm_JDbM</id>
-        <link href="https://www.youtube.com/watch?v=Dsf8Zm_JDbM"/>
-        <updated>2023-02-23T10:55:17.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2199,6 +2181,15 @@
         <updated>2023-02-16T17:02:42.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】絵と酒と雑談｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=9zEzM_42ODY</id>
+        <link href="https://www.youtube.com/watch?v=9zEzM_42ODY"/>
+        <updated>2023-02-16T16:42:25.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
