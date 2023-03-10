@@ -651,6 +651,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZzVp3TM32rM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZzVp3TM32rM",
+          "publishedOn": "2023-03-10T18:04:32.000Z",
+          "wordCount": null,
+          "title": "【ホグワーツ・レガシー】強くなる！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LCRsi7_YvPo",
           "author": null,
           "description": "",
@@ -788,16 +798,6 @@
           "publishedOn": "2023-03-03T16:44:40.000Z",
           "wordCount": null,
           "title": "【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HXxPrbSRq9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HXxPrbSRq9Q",
-          "publishedOn": "2023-03-03T11:45:07.000Z",
-          "wordCount": null,
-          "title": "人工雪を作って遊んでみたい！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2152,9 +2152,19 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=apPJIUOXY30",
-          "publishedOn": "2023-03-09T19:02:19.000Z",
+          "publishedOn": "2023-03-10T18:02:44.000Z",
           "wordCount": null,
           "title": "【KU100/ASMR】ドキドキするのに眠れる♡あなた専用の梵天耳かき/睡眠導入【Binaural/Ear Cleaning/Whispering/睡眠導入】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=USrrhdyM63w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=USrrhdyM63w",
+          "publishedOn": "2023-03-09T18:53:38.000Z",
+          "wordCount": null,
+          "title": "【3D歌枠】初見さん大歓迎！バーチャルアイドルによるお歌の時間♪/sing a song【VTuber/姫熊りぼん】",
           "imageUrl": null
         },
         {
@@ -2294,16 +2304,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=YLxWuGeAO20",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YLxWuGeAO20",
-          "publishedOn": "2023-03-09T19:34:30.000Z",
-          "wordCount": null,
-          "title": "【原神#37】急遽「層岩巨淵深遊記」すすめる…！⚔【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=qOqOoeoLdKA",
           "author": null,
