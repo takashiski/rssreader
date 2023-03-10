@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T22:34:37.869Z</id>
+    <id>urn:2023-03-10T23:05:45.874Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T22:34:37.869Z</updated>
+    <updated>2023-03-10T23:05:45.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2193,6 +2193,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[☀朝活雑談 / 250人におはようって言うまで終わらない朝🔥見つけて～～っ！ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=zXgEcMHg-lQ</id>
+        <link href="https://www.youtube.com/watch?v=zXgEcMHg-lQ"/>
+        <updated>2023-02-17T00:46:22.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】今夜はミッションDay!?成長のためにがんばりたいっ❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cfllBwC3_iI</id>
         <link href="https://www.youtube.com/watch?v=cfllBwC3_iI"/>
@@ -2415,15 +2424,6 @@
         <updated>2023-02-09T15:46:38.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【高難度!ハモリにつられるな】トウキョウ・シャンディ・ランデヴ一緒に歌って？#shorts #かしこまり]]></title>
-        <id>https://www.youtube.com/watch?v=4NpwRgO1Bb0</id>
-        <link href="https://www.youtube.com/watch?v=4NpwRgO1Bb0"/>
-        <updated>2023-02-09T11:00:07.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
