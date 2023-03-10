@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T10:36:32.566Z</id>
+    <id>urn:2023-03-10T11:05:47.654Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T10:36:32.566Z</updated>
+    <updated>2023-03-10T11:05:47.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホグワーツ・レガシー】強くなる！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZzVp3TM32rM</id>
+        <link href="https://www.youtube.com/watch?v=ZzVp3TM32rM"/>
+        <updated>2023-03-10T10:59:37.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】はのが最強魔女になるもんっっ【天川はの】#06]]></title>
+        <id>https://www.youtube.com/watch?v=P4SEVAJZn9k</id>
+        <link href="https://www.youtube.com/watch?v=P4SEVAJZn9k"/>
+        <updated>2023-03-10T10:45:34.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【menber only】one piece FILM RED 同時視聴🏴【めんげん】]]></title>
         <id>https://www.youtube.com/watch?v=_-qg6TvDPAc</id>
@@ -1047,15 +1065,6 @@
         <updated>2023-03-02T14:20:44.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ひな祭り】みんなのちらし寿司見ながら食べる！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_2258_YIazw</id>
-        <link href="https://www.youtube.com/watch?v=_2258_YIazw"/>
-        <updated>2023-03-02T13:38:08.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2118,15 +2127,6 @@
         <updated>2023-02-18T11:00:29.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】新入生の子供が優秀な魔女目指す!!【天川はの】#02]]></title>
-        <id>https://www.youtube.com/watch?v=0Oe22X7QlbQ</id>
-        <link href="https://www.youtube.com/watch?v=0Oe22X7QlbQ"/>
-        <updated>2023-02-18T07:30:26.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
