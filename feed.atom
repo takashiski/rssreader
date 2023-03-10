@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-10T15:05:55.054Z</id>
+    <id>urn:2023-03-10T15:35:03.698Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-10T15:05:55.054Z</updated>
+    <updated>2023-03-10T15:35:03.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も結局夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=s7y_akhZ0kA</id>
+        <link href="https://www.youtube.com/watch?v=s7y_akhZ0kA"/>
+        <updated>2023-03-10T15:13:32.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】もう…いいよ。ホラゲは癒しだよ…🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=Pq9SYLy8-Qo</id>
@@ -21,15 +30,6 @@
         <updated>2023-03-10T10:59:37.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】はのが最強魔女になるもんっっ【天川はの】#06]]></title>
-        <id>https://www.youtube.com/watch?v=P4SEVAJZn9k</id>
-        <link href="https://www.youtube.com/watch?v=P4SEVAJZn9k"/>
-        <updated>2023-03-10T10:45:34.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1860,15 +1860,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週初めのお歌枠！楽しんでいこおお【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9HLhjid55P4</id>
-        <link href="https://www.youtube.com/watch?v=9HLhjid55P4"/>
-        <updated>2023-02-21T17:49:00.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆Minecraft / #05 / 全ロスリベンジしてやっからよぉ...🔥〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=NbdWKFFxlMo</id>
         <link href="https://www.youtube.com/watch?v=NbdWKFFxlMo"/>
@@ -2127,6 +2118,15 @@
         <updated>2023-02-18T11:00:29.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】新入生の子供が優秀な魔女目指す!!【天川はの】#02]]></title>
+        <id>https://www.youtube.com/watch?v=0Oe22X7QlbQ</id>
+        <link href="https://www.youtube.com/watch?v=0Oe22X7QlbQ"/>
+        <updated>2023-02-18T07:30:26.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
