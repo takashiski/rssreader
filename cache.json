@@ -1433,6 +1433,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jfNyD7pp0oA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jfNyD7pp0oA",
+          "publishedOn": "2023-03-11T12:50:34.000Z",
+          "wordCount": null,
+          "title": "まったり歌雑談配信【#かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CS750AyaOTY",
           "author": null,
           "description": "",
