@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p2Z5S3sAakw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p2Z5S3sAakw",
+          "publishedOn": "2023-03-11T15:02:18.000Z",
+          "wordCount": null,
+          "title": "【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Wn_vmfujtec",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-03-04T10:37:05.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎！おやつの時間！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1_NGMJvFVsw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1_NGMJvFVsw",
-          "publishedOn": "2023-03-03T16:44:40.000Z",
-          "wordCount": null,
-          "title": "【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2461,6 +2461,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
+          "publishedOn": "2023-03-11T14:43:05.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Bq49XfBtFRI",
           "author": null,
