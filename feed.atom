@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T11:34:18.404Z</id>
+    <id>urn:2023-03-11T12:07:05.400Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T11:34:18.404Z</updated>
+    <updated>2023-03-11T12:07:05.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／いつもより少し早めの歌だよおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cmroWwm1Qg4</id>
+        <link href="https://www.youtube.com/watch?v=cmroWwm1Qg4"/>
+        <updated>2023-03-11T11:58:07.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来てくれたリスナー描く]]></title>
+        <id>https://www.youtube.com/watch?v=IJmcDgh_RnQ</id>
+        <link href="https://www.youtube.com/watch?v=IJmcDgh_RnQ"/>
+        <updated>2023-03-11T11:55:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】気が付けばもう○年来の相棒…。ご愛用品を教えて！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=UCBdIS5klZM</id>
+        <link href="https://www.youtube.com/watch?v=UCBdIS5klZM"/>
+        <updated>2023-03-11T11:47:49.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡久しぶりにお歌を歌おう！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=eGDbXfwLjJM</id>
@@ -1833,15 +1860,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ホグワーツレガシー】魔法少女ビスイシュカ、もう叫びたくない【#美睡の酒場/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TxzN2b-qbEM</id>
-        <link href="https://www.youtube.com/watch?v=TxzN2b-qbEM"/>
-        <updated>2023-02-22T15:29:46.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】おやすみ前のピアノ多めなおうた໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=LCn-TBIffZQ</id>
         <link href="https://www.youtube.com/watch?v=LCn-TBIffZQ"/>
@@ -2211,15 +2229,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【お絵描き配信】絵と酒と雑談｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=9zEzM_42ODY</id>
-        <link href="https://www.youtube.com/watch?v=9zEzM_42ODY"/>
-        <updated>2023-02-16T16:42:25.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[トウキョウ・シャンディ・ランデヴー / MAISONdes #shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=IYj8t6sd8Ro</id>
         <link href="https://www.youtube.com/watch?v=IYj8t6sd8Ro"/>
@@ -2395,15 +2404,6 @@
         <id>https://www.youtube.com/watch?v=ADNof9FC9Po</id>
         <link href="https://www.youtube.com/watch?v=ADNof9FC9Po"/>
         <updated>2023-02-11T16:01:27.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#丸餅つきみ新衣装】おまたせしましたわ!!念願の新衣装を手にしたつきみを見て!【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=PAhvpEBaLhE</id>
-        <link href="https://www.youtube.com/watch?v=PAhvpEBaLhE"/>
-        <updated>2023-02-10T13:27:11.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
