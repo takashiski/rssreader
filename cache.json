@@ -367,16 +367,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=IJmcDgh_RnQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IJmcDgh_RnQ",
-          "publishedOn": "2023-03-11T11:55:05.000Z",
-          "wordCount": null,
-          "title": "来てくれたリスナー描く",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=piJClGsHPLg",
           "author": null,
           "description": "",
@@ -514,6 +504,16 @@
           "publishedOn": "2023-02-17T16:29:37.000Z",
           "wordCount": null,
           "title": "【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9zEzM_42ODY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9zEzM_42ODY",
+          "publishedOn": "2023-02-16T16:42:25.000Z",
+          "wordCount": null,
+          "title": "【お絵描き配信】絵と酒と雑談｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -657,7 +657,7 @@
           "link": "https://www.youtube.com/watch?v=Wn_vmfujtec",
           "publishedOn": "2023-03-11T14:02:30.000Z",
           "wordCount": null,
-          "title": "【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２【新人VTuber/神輿たらん/Re:AcT】",
+          "title": "【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２達成ありがとう！！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
