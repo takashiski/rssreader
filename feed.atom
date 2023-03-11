@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T18:34:45.833Z</id>
+    <id>urn:2023-03-11T19:05:34.070Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T18:34:45.833Z</updated>
+    <updated>2023-03-11T19:05:34.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / ３Dまで1週間✨かわいいおうた歌いた～い♡ / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ttkI9Pfq7MQ</id>
+        <link href="https://www.youtube.com/watch?v=ttkI9Pfq7MQ"/>
+        <updated>2023-03-11T18:54:53.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】極上の指耳かきで睡眠導入♡音圧ごりごり【Ear Cleaning/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=9ptBspOV_wo</id>
+        <link href="https://www.youtube.com/watch?v=9ptBspOV_wo"/>
+        <updated>2023-03-11T18:49:33.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２達成ありがとう！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Wn_vmfujtec</id>
+        <link href="https://www.youtube.com/watch?v=Wn_vmfujtec"/>
+        <updated>2023-03-11T18:39:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【7ヶ月記念】]]></title>
         <id>https://www.youtube.com/watch?v=vugwrRwXoyc</id>
@@ -987,15 +1014,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Euro Truck Simulator 2】前に進んでればなんとかなるはず！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1_NGMJvFVsw</id>
-        <link href="https://www.youtube.com/watch?v=1_NGMJvFVsw"/>
-        <updated>2023-03-03T16:44:40.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=KhKXojU4HNQ</id>
         <link href="https://www.youtube.com/watch?v=KhKXojU4HNQ"/>
@@ -1425,15 +1443,6 @@
         <updated>2023-02-26T14:37:36.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バトオペ2】新MAP『コロニー落下地域』行く！！/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=WflRLHyR4xU</id>
-        <link href="https://www.youtube.com/watch?v=WflRLHyR4xU"/>
-        <updated>2023-02-26T14:20:01.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2100,15 +2109,6 @@
         <updated>2023-02-19T07:02:16.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing /  日曜昼の元気なアニソン回✨初見歓迎だっ/karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=WQLm7EsO7QY</id>
-        <link href="https://www.youtube.com/watch?v=WQLm7EsO7QY"/>
-        <updated>2023-02-19T06:54:43.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
