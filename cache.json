@@ -377,16 +377,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=pTz2u2WSFF8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pTz2u2WSFF8",
-          "publishedOn": "2023-03-12T14:04:06.000Z",
-          "wordCount": null,
-          "title": "酔",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=piJClGsHPLg",
           "author": null,
           "description": "",
@@ -514,6 +504,16 @@
           "publishedOn": "2023-02-18T13:49:25.000Z",
           "wordCount": null,
           "title": "【 #歌枠┊︎singing 】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sIctyBnzPn0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sIctyBnzPn0",
+          "publishedOn": "2023-02-17T16:29:37.000Z",
+          "wordCount": null,
+          "title": "【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2005,7 +2005,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=93LJtTiK0QU",
-          "publishedOn": "2023-03-12T14:36:19.000Z",
+          "publishedOn": "2023-03-12T16:22:45.000Z",
           "wordCount": null,
           "title": "【👂ASMR】久しぶりにマッサージされちゃう？オイル/パウダー/手袋【 EarMassage/ASMR for sleep/Whispering/Binaural】",
           "imageUrl": null
@@ -2471,6 +2471,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
+          "publishedOn": "2023-03-12T16:23:22.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LENoQnlmsKs",
           "author": null,
