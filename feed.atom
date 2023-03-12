@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T02:51:26.496Z</id>
+    <id>urn:2023-03-12T03:07:05.272Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T02:51:26.496Z</updated>
+    <updated>2023-03-12T03:07:05.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -78,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【7ヶ月記念】]]></title>
+        <title type="html"><![CDATA[【7ヶ月記念】ありがとう【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=vugwrRwXoyc</id>
         <link href="https://www.youtube.com/watch?v=vugwrRwXoyc"/>
         <updated>2023-03-11T17:55:13.000Z</updated>
