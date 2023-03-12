@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T23:05:49.263Z</id>
+    <id>urn:2023-03-12T23:34:33.898Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T23:05:49.263Z</updated>
+    <updated>2023-03-12T23:34:33.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hueubfsCB-k</id>
+        <link href="https://www.youtube.com/watch?v=hueubfsCB-k"/>
+        <updated>2023-03-12T23:07:32.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#26 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=X5PnGh29igg</id>
@@ -2415,15 +2424,6 @@
         <updated>2023-02-14T13:26:15.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=LND_dmeXcBs</id>
-        <link href="https://www.youtube.com/watch?v=LND_dmeXcBs"/>
-        <updated>2023-02-14T11:53:16.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
