@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T09:05:54.145Z</id>
+    <id>urn:2023-03-12T09:34:21.101Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T09:05:54.145Z</updated>
+    <updated>2023-03-12T09:34:21.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
+        <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
+        <updated>2023-03-12T09:22:22.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #はののの 】はのちゃんコラボ！春の晩酌雑談🌸【#彩雲のの/ #天川はの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Q22_ZJw0KYI</id>
+        <link href="https://www.youtube.com/watch?v=Q22_ZJw0KYI"/>
+        <updated>2023-03-12T09:15:32.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みつけて！！！初見歓迎！登録者7000人耐久！⚡SingingStream👽KARAOKE【 #弾き語り / #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=u50WfOb-wH4</id>
@@ -1941,15 +1959,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】初見さん歓迎✨夕方におうたのじかん～！【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=CPZHoFtyKcw</id>
-        <link href="https://www.youtube.com/watch?v=CPZHoFtyKcw"/>
-        <updated>2023-02-21T21:25:46.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🐈Stray】もしかして、迷子猫ちゃんかにゃ？【天川はの】#02]]></title>
         <id>https://www.youtube.com/watch?v=3_9t8DE4BLU</id>
         <link href="https://www.youtube.com/watch?v=3_9t8DE4BLU"/>
@@ -2370,15 +2379,6 @@
         <updated>2023-02-13T16:02:10.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=WgsWO-rHGtE</id>
-        <link href="https://www.youtube.com/watch?v=WgsWO-rHGtE"/>
-        <updated>2023-02-13T12:26:01.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
