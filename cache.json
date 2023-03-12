@@ -1416,6 +1416,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XtSNA0VJ8LM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XtSNA0VJ8LM",
+          "publishedOn": "2023-03-12T11:01:58.000Z",
+          "wordCount": null,
+          "title": "【初見さん歓迎】久々にお歌うたうよ！きてねん！【皇ロゼ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8lQvj17ibcc",
           "author": null,
           "description": "",
@@ -2461,6 +2471,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LENoQnlmsKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LENoQnlmsKs",
+          "publishedOn": "2023-03-12T11:00:15.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ #shorts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
           "author": null,
