@@ -955,16 +955,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=BVD_6qu0FNA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BVD_6qu0FNA",
-          "publishedOn": "2023-03-11T23:59:00.000Z",
-          "wordCount": null,
-          "title": "【朝活】ohayou!!!!!!!!!!!!!!!! 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=mCpxUZpUI2s",
           "author": null,
           "description": "",
@@ -1102,6 +1092,16 @@
           "publishedOn": "2023-02-22T22:06:59.000Z",
           "wordCount": null,
           "title": "【歌枠】歌と雑談、ゆっくりめ【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TN3_foVXEaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TN3_foVXEaw",
+          "publishedOn": "2023-02-19T03:39:02.000Z",
+          "wordCount": null,
+          "title": "【朝活】喉をいたわる優しい朝 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2305,6 +2305,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gb3m9k_SpcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gb3m9k_SpcQ",
+          "publishedOn": "2023-03-12T02:10:58.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YLxWuGeAO20",
           "author": null,
           "description": "",
@@ -2442,16 +2452,6 @@
           "publishedOn": "2023-02-14T10:56:13.000Z",
           "wordCount": null,
           "title": "【#歌枠】バレンタインの恋愛ソングできゅんきゅんして🍫💓໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WgsWO-rHGtE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WgsWO-rHGtE",
-          "publishedOn": "2023-02-13T12:26:01.000Z",
-          "wordCount": null,
-          "title": "【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]

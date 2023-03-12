@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T01:34:55.432Z</id>
+    <id>urn:2023-03-12T02:29:37.029Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T01:34:55.432Z</updated>
+    <updated>2023-03-12T02:29:37.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【朝活】ohayou!!!!!!!!!!!!!!!! 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=BVD_6qu0FNA</id>
-        <link href="https://www.youtube.com/watch?v=BVD_6qu0FNA"/>
-        <updated>2023-03-11T23:59:00.000Z</updated>
+        <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
+        <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
+        <updated>2023-03-12T02:10:58.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -2130,6 +2130,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【朝活】喉をいたわる優しい朝 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=TN3_foVXEaw</id>
+        <link href="https://www.youtube.com/watch?v=TN3_foVXEaw"/>
+        <updated>2023-02-19T03:39:02.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
         <link href="https://www.youtube.com/watch?v=LldOq-wLAZ8"/>
@@ -2370,15 +2379,6 @@
         <updated>2023-02-13T16:02:10.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=WgsWO-rHGtE</id>
-        <link href="https://www.youtube.com/watch?v=WgsWO-rHGtE"/>
-        <updated>2023-02-13T12:26:01.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
