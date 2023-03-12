@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T03:34:16.317Z</id>
+    <id>urn:2023-03-12T04:06:19.780Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T03:34:16.317Z</updated>
+    <updated>2023-03-12T04:06:19.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂#耐久歌枠  】初見さん大歓迎～／７か月記念の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8qBCKrnguNs</id>
+        <link href="https://www.youtube.com/watch?v=8qBCKrnguNs"/>
+        <updated>2023-03-12T03:58:17.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
@@ -1866,15 +1875,6 @@
         <updated>2023-02-22T22:06:59.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ゲリラ深夜歌枠だああ！明日は祝日！？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DG2B9R4ytMQ</id>
-        <link href="https://www.youtube.com/watch?v=DG2B9R4ytMQ"/>
-        <updated>2023-02-22T20:49:10.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
