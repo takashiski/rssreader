@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T08:34:56.573Z</id>
+    <id>urn:2023-03-12T09:05:54.145Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T08:34:56.573Z</updated>
+    <updated>2023-03-12T09:05:54.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,15 +30,6 @@
         <updated>2023-03-12T03:58:17.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
-        <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
-        <updated>2023-03-12T02:10:58.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -2379,6 +2370,15 @@
         <updated>2023-02-13T16:02:10.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ヒトカラ】１人でカラオケ来たんじゃけどなんか様子がおかしい...？【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=WgsWO-rHGtE</id>
+        <link href="https://www.youtube.com/watch?v=WgsWO-rHGtE"/>
+        <updated>2023-02-13T12:26:01.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
