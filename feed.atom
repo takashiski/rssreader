@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T23:34:26.956Z</id>
+    <id>urn:2023-03-12T00:24:42.073Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-11T23:34:26.956Z</updated>
+    <updated>2023-03-12T00:24:42.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】ohayou!!!!!!!!!!!!!!!! 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=BVD_6qu0FNA</id>
+        <link href="https://www.youtube.com/watch?v=BVD_6qu0FNA"/>
+        <updated>2023-03-11T23:59:00.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】可愛いアイドルちゃんのお歌聴きに来て🖤盛り上げてくれなきゃ、やだ😡❕🖤【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=mCpxUZpUI2s</id>
+        <link href="https://www.youtube.com/watch?v=mCpxUZpUI2s"/>
+        <updated>2023-03-11T23:43:33.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🐔Ultimate Chicken Horse🍽️】激闘の中、休息は素早く行うもの！今こそHuel💪【Parfait/天川はの/夢川かなう/月紫アリア】]]></title>
         <id>https://www.youtube.com/watch?v=FMJvvn8zjuk</id>
@@ -2112,15 +2130,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】喉をいたわる優しい朝 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=TN3_foVXEaw</id>
-        <link href="https://www.youtube.com/watch?v=TN3_foVXEaw"/>
-        <updated>2023-02-19T03:39:02.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
         <link href="https://www.youtube.com/watch?v=LldOq-wLAZ8"/>
@@ -2163,15 +2172,6 @@
         <updated>2023-02-18T13:21:04.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡早く春夏になってほしいね【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=qEl7Rdk0iwY</id>
-        <link href="https://www.youtube.com/watch?v=qEl7Rdk0iwY"/>
-        <updated>2023-02-18T11:54:11.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
