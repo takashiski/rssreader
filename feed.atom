@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T09:34:21.101Z</id>
+    <id>urn:2023-03-12T10:06:23.400Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T09:34:21.101Z</updated>
+    <updated>2023-03-12T10:06:23.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=andHY575hm0</id>
+        <link href="https://www.youtube.com/watch?v=andHY575hm0"/>
+        <updated>2023-03-12T09:54:48.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
@@ -822,15 +831,6 @@
         <updated>2023-03-05T15:19:41.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホグワーツ・レガシー】ウィンガーディアム・レヴィオーサ覚えたい！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XrsC3bYm5t8</id>
-        <link href="https://www.youtube.com/watch?v=XrsC3bYm5t8"/>
-        <updated>2023-03-05T14:32:19.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

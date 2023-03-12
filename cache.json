@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=andHY575hm0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=andHY575hm0",
+          "publishedOn": "2023-03-12T09:54:48.000Z",
+          "wordCount": null,
+          "title": "アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9hQBCD8dgWI",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-03-06T14:57:34.000Z",
           "wordCount": null,
           "title": "【雑談/free talk】たらん、先輩になるのか…？【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XrsC3bYm5t8",
-          "publishedOn": "2023-03-05T14:32:19.000Z",
-          "wordCount": null,
-          "title": "【ホグワーツ・レガシー】ウィンガーディアム・レヴィオーサ覚えたい！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
