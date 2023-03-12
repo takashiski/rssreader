@@ -367,6 +367,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vugwrRwXoyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vugwrRwXoyc",
+          "publishedOn": "2023-03-12T15:18:21.000Z",
+          "wordCount": null,
+          "title": "【7ヶ月記念】ありがとう【 #ククルアクレイユ┊︎Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pTz2u2WSFF8",
           "author": null,
           "description": "",
@@ -505,16 +515,6 @@
           "wordCount": null,
           "title": "【 #歌枠┊︎singing 】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIctyBnzPn0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIctyBnzPn0",
-          "publishedOn": "2023-02-17T16:29:37.000Z",
-          "wordCount": null,
-          "title": "【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NTgxOBGIhSg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NTgxOBGIhSg",
+          "publishedOn": "2023-03-12T15:28:27.000Z",
+          "wordCount": null,
+          "title": "【雑談/free talk】初見さん大歓迎！！ゆったりしよ～！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=andHY575hm0",
           "author": null,
           "description": "",
@@ -648,16 +658,6 @@
           "publishedOn": "2023-03-12T09:54:48.000Z",
           "wordCount": null,
           "title": "アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9hQBCD8dgWI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9hQBCD8dgWI",
-          "publishedOn": "2023-03-11T19:36:55.000Z",
-          "wordCount": null,
-          "title": "【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -1848,7 +1848,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=9JLkEQ6f1BM",
-          "publishedOn": "2023-03-12T11:55:34.000Z",
+          "publishedOn": "2023-03-12T15:14:41.000Z",
           "wordCount": null,
           "title": "【moon】まだまだ愛が欲しいうさぎ💛💛【Vtuber・丸餅つきみ】",
           "imageUrl": null

@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T15:05:55.594Z</id>
+    <id>urn:2023-03-12T15:34:21.365Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T15:05:55.594Z</updated>
+    <updated>2023-03-12T15:34:21.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談/free talk】初見さん大歓迎！！ゆったりしよ～！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=NTgxOBGIhSg</id>
+        <link href="https://www.youtube.com/watch?v=NTgxOBGIhSg"/>
+        <updated>2023-03-12T15:28:27.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【7ヶ月記念】ありがとう【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=vugwrRwXoyc</id>
+        <link href="https://www.youtube.com/watch?v=vugwrRwXoyc"/>
+        <updated>2023-03-12T15:18:21.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】まだまだ愛が欲しいうさぎ💛💛【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=9JLkEQ6f1BM</id>
+        <link href="https://www.youtube.com/watch?v=9JLkEQ6f1BM"/>
+        <updated>2023-03-12T15:14:41.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【👂ASMR】久しぶりにマッサージされちゃう？オイル/パウダー/手袋【 EarMassage/ASMR for sleep/Whispering/Binaural】]]></title>
         <id>https://www.youtube.com/watch?v=93LJtTiK0QU</id>
@@ -66,15 +93,6 @@
         <updated>2023-03-12T13:30:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】まだまだ愛が欲しいうさぎ💛💛【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=9JLkEQ6f1BM</id>
-        <link href="https://www.youtube.com/watch?v=9JLkEQ6f1BM"/>
-        <updated>2023-03-12T11:55:34.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -165,15 +183,6 @@
         <updated>2023-03-11T21:40:28.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9hQBCD8dgWI</id>
-        <link href="https://www.youtube.com/watch?v=9hQBCD8dgWI"/>
-        <updated>2023-03-11T19:36:55.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2226,15 +2235,6 @@
         <updated>2023-02-17T16:33:33.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sIctyBnzPn0</id>
-        <link href="https://www.youtube.com/watch?v=sIctyBnzPn0"/>
-        <updated>2023-02-17T16:29:37.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
