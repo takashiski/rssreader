@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T17:34:27.891Z</id>
+    <id>urn:2023-03-12T18:05:48.200Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T17:34:27.892Z</updated>
+    <updated>2023-03-12T18:05:48.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=uTcE6SIYI6k</id>
+        <link href="https://www.youtube.com/watch?v=uTcE6SIYI6k"/>
+        <updated>2023-03-12T18:03:50.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=8C3gag5zJVY</id>
+        <link href="https://www.youtube.com/watch?v=8C3gag5zJVY"/>
+        <updated>2023-03-12T18:02:36.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hKg6SEWKimk</id>
+        <link href="https://www.youtube.com/watch?v=hKg6SEWKimk"/>
+        <updated>2023-03-12T18:02:00.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=1xtDO2xQabc</id>
+        <link href="https://www.youtube.com/watch?v=1xtDO2xQabc"/>
+        <updated>2023-03-12T18:01:17.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みつけて！！！初見歓迎！登録者7000人耐久！～WBCをそえて～⚡SingingStream👽KARAOKE【 #弾き語り / #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=u50WfOb-wH4</id>
@@ -2391,15 +2427,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】リハビリ歌枠🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=LND_dmeXcBs</id>
-        <link href="https://www.youtube.com/watch?v=LND_dmeXcBs"/>
-        <updated>2023-02-14T11:53:16.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】バレンタインの恋愛ソングできゅんきゅんして🍫💓໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Jxl0eUPowK4</id>
         <link href="https://www.youtube.com/watch?v=Jxl0eUPowK4"/>
@@ -2415,15 +2442,6 @@
         <updated>2023-02-13T16:02:10.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=_7-vgGji04Q</id>
-        <link href="https://www.youtube.com/watch?v=_7-vgGji04Q"/>
-        <updated>2023-02-12T23:05:17.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
