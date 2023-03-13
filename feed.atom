@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T15:35:08.009Z</id>
+    <id>urn:2023-03-13T16:06:00.284Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-13T15:35:08.009Z</updated>
+    <updated>2023-03-13T16:06:00.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】ぺたぺた気持ち良い睡眠誘導♡一時間でオイルマッサージ責めしちゃいます。【睡眠導入/ Oil Ear Massage/Ear Blowing/Tapping/Deep Sleep】]]></title>
+        <id>https://www.youtube.com/watch?v=z9xJfc6Z71M</id>
+        <link href="https://www.youtube.com/watch?v=z9xJfc6Z71M"/>
+        <updated>2023-03-13T15:30:03.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[この世で一番まったりエンジョイ勢  #原神 #genshinimpact 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=DCymBen2OAM</id>
@@ -1567,15 +1576,6 @@
         <id>https://www.youtube.com/watch?v=TpAyn1pES6g</id>
         <link href="https://www.youtube.com/watch?v=TpAyn1pES6g"/>
         <updated>2023-02-27T17:16:17.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガチャ尽くしの夜…見守ってくれないか…？【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=V5wUO9rnJBU</id>
-        <link href="https://www.youtube.com/watch?v=V5wUO9rnJBU"/>
-        <updated>2023-02-27T15:04:39.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
