@@ -367,6 +367,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r30VrxSLxcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r30VrxSLxcQ",
+          "publishedOn": "2023-03-13T23:19:47.000Z",
+          "wordCount": null,
+          "title": "【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vugwrRwXoyc",
           "author": null,
           "description": "",
@@ -504,16 +514,6 @@
           "publishedOn": "2023-02-18T13:49:25.000Z",
           "wordCount": null,
           "title": "【 #歌枠┊︎singing 】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIctyBnzPn0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIctyBnzPn0",
-          "publishedOn": "2023-02-17T16:29:37.000Z",
-          "wordCount": null,
-          "title": "【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】",
           "imageUrl": null
         }
       ]
