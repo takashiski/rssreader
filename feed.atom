@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T17:38:06.014Z</id>
+    <id>urn:2023-03-14T18:06:50.088Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T17:38:06.014Z</updated>
+    <updated>2023-03-14T18:06:50.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=vlfjB8n5DsI</id>
+        <link href="https://www.youtube.com/watch?v=vlfjB8n5DsI"/>
+        <updated>2023-03-14T17:54:20.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 雑談🥂 】ホワイトデーだし、リスナーにファンサする。【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=t5Wwn01H12o</id>
@@ -96,15 +105,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 APEX 】がんばってつよくなるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=orDP_MAKdWc</id>
-        <link href="https://www.youtube.com/watch?v=orDP_MAKdWc"/>
-        <updated>2023-03-14T13:23:57.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】ホワイトデー…アリアに会いにくること💗 いっしょに過ごそ🍪💗 Talking stream【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Hdds5Fafyj4</id>
         <link href="https://www.youtube.com/watch?v=Hdds5Fafyj4"/>
@@ -120,15 +120,6 @@
         <updated>2023-03-14T12:00:20.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】ホワイトデー！可愛い曲縛り🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9JcidyCuK-A</id>
-        <link href="https://www.youtube.com/watch?v=9JcidyCuK-A"/>
-        <updated>2023-03-14T11:57:34.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -984,6 +975,15 @@
         <updated>2023-03-07T11:46:51.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紙吹雪を変えたい新人VTuber wwww #新人vtuber #神輿たらん #るっくあっとたらん #unicorn #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i5RXtsFD-tg</id>
+        <link href="https://www.youtube.com/watch?v=i5RXtsFD-tg"/>
+        <updated>2023-03-07T10:00:33.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2424,15 +2424,6 @@
         <updated>2023-02-15T17:47:00.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
-        <link href="https://www.youtube.com/watch?v=I3rNqW-8LDY"/>
-        <updated>2023-02-15T14:41:13.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
