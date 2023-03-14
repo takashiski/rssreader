@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T11:34:31.435Z</id>
+    <id>urn:2023-03-14T12:09:06.116Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T11:34:31.435Z</updated>
+    <updated>2023-03-14T12:09:06.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#shorts 】とても素敵な六月でした / Eight【#花鋏キョウ  #歌ってみた 】]]></title>
+        <id>https://www.youtube.com/watch?v=Twl8Jvk1Btc</id>
+        <link href="https://www.youtube.com/watch?v=Twl8Jvk1Btc"/>
+        <updated>2023-03-14T12:00:20.000Z</updated>
+        <author>
+            <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】ホワイトデー！可愛い曲縛り🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9JcidyCuK-A</id>
+        <link href="https://www.youtube.com/watch?v=9JcidyCuK-A"/>
+        <updated>2023-03-14T11:57:34.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #春のVtuber音楽祭 】８番手！ピアノ弾き語りで癒されて❤【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=zF2Kiq-GjvE</id>
@@ -912,15 +930,6 @@
         <updated>2023-03-07T11:46:51.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紙吹雪を変えたい新人VTuber wwww #新人vtuber #神輿たらん #るっくあっとたらん #unicorn #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=i5RXtsFD-tg</id>
-        <link href="https://www.youtube.com/watch?v=i5RXtsFD-tg"/>
-        <updated>2023-03-07T10:00:33.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
