@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T18:06:50.088Z</id>
+    <id>urn:2023-03-14T18:40:34.853Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T18:06:50.088Z</updated>
+    <updated>2023-03-14T18:40:34.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】ホワイトデー！可愛い曲縛り🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9JcidyCuK-A</id>
+        <link href="https://www.youtube.com/watch?v=9JcidyCuK-A"/>
+        <updated>2023-03-14T18:17:56.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=vlfjB8n5DsI</id>
@@ -975,15 +984,6 @@
         <updated>2023-03-07T11:46:51.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紙吹雪を変えたい新人VTuber wwww #新人vtuber #神輿たらん #るっくあっとたらん #unicorn #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=i5RXtsFD-tg</id>
-        <link href="https://www.youtube.com/watch?v=i5RXtsFD-tg"/>
-        <updated>2023-03-07T10:00:33.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
