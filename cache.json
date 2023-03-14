@@ -1884,16 +1884,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=9JD4WgWizOQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9JD4WgWizOQ",
-          "publishedOn": "2023-03-14T10:14:31.000Z",
-          "wordCount": null,
-          "title": "【サンブレイク】自力で克服バルファルク行けるように MR160 を目指すツキヒコ【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=9JLkEQ6f1BM",
           "author": null,
           "description": "",
@@ -2511,6 +2501,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=orDP_MAKdWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=orDP_MAKdWc",
+          "publishedOn": "2023-03-14T13:23:57.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】がんばってつよくなるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CVi5mGISfvI",
           "author": null,
