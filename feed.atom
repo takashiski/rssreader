@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T21:05:42.540Z</id>
+    <id>urn:2023-03-14T21:34:39.939Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T21:05:42.541Z</updated>
+    <updated>2023-03-14T21:34:39.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
+        <link href="https://www.youtube.com/watch?v=RJyWqv3xfqs"/>
+        <updated>2023-03-14T21:17:22.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】がんばってつよくなるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=orDP_MAKdWc</id>
@@ -1416,15 +1425,6 @@
         <updated>2023-03-03T11:59:45.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 一週間まいにち歌枠 】「春を連れてきた歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=V0Km9HQWYt8</id>
-        <link href="https://www.youtube.com/watch?v=V0Km9HQWYt8"/>
-        <updated>2023-03-03T11:00:10.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
