@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T00:21:29.863Z</id>
+    <id>urn:2023-03-14T00:49:30.586Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T00:21:29.863Z</updated>
+    <updated>2023-03-14T00:49:30.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=PwOskMljSFM</id>
+        <link href="https://www.youtube.com/watch?v=PwOskMljSFM"/>
+        <updated>2023-03-14T00:40:23.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=r30VrxSLxcQ</id>
@@ -921,15 +930,6 @@
         <updated>2023-03-06T16:34:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=PwOskMljSFM</id>
-        <link href="https://www.youtube.com/watch?v=PwOskMljSFM"/>
-        <updated>2023-03-06T16:20:52.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
