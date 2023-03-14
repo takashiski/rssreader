@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T10:06:13.897Z</id>
+    <id>urn:2023-03-14T10:37:39.419Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T10:06:13.897Z</updated>
+    <updated>2023-03-14T10:37:39.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【サンブレイク】自力で克服バルファルク行けるように MR160 を目指すツキヒコ【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=9JD4WgWizOQ</id>
+        <link href="https://www.youtube.com/watch?v=9JD4WgWizOQ"/>
+        <updated>2023-03-14T10:14:31.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】心音耐久💓ドキドキ、落ち着く音で安心できる💓安眠誘導/heartbeat💓 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Rs85roXg4M8</id>
