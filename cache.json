@@ -1259,6 +1259,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
+          "publishedOn": "2023-03-15T22:30:37.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O09YIRzqGrM",
           "author": null,
           "description": "",
@@ -1396,16 +1406,6 @@
           "publishedOn": "2023-02-25T16:31:17.000Z",
           "wordCount": null,
           "title": "◆Minecraft / #06 / 豆腐回避倉庫キボンヌ。建築うおおおおお🔥〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
-          "publishedOn": "2023-02-23T14:38:33.000Z",
-          "wordCount": null,
-          "title": "＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】",
           "imageUrl": null
         }
       ]
@@ -2021,16 +2021,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=6Kz7L34x-5E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6Kz7L34x-5E",
-          "publishedOn": "2023-03-15T16:02:46.000Z",
-          "wordCount": null,
-          "title": "【🔆朝活】逃がすわけなくない？⛓️初見さん歓迎【天川はの】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=7Jlq6aH1OMY",
           "author": null,
           "description": "",
@@ -2168,6 +2158,16 @@
           "publishedOn": "2023-02-24T17:38:49.000Z",
           "wordCount": null,
           "title": "【🎤歌枠/初見さん歓迎】ライブ前日マイペース歌枠～SingingStream/karaoke【天川はの】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JYH5-ATdT1w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JYH5-ATdT1w",
+          "publishedOn": "2023-02-24T12:30:11.000Z",
+          "wordCount": null,
+          "title": "はのとキミの物語のはじまり",
           "imageUrl": null
         }
       ]
