@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T00:23:33.666Z</id>
+    <id>urn:2023-03-15T00:50:22.583Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T00:23:33.666Z</updated>
+    <updated>2023-03-15T00:50:22.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨おはよおお…朝だよお…💜起きろ❕ goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=xDomTIzpRFA</id>
+        <link href="https://www.youtube.com/watch?v=xDomTIzpRFA"/>
+        <updated>2023-03-15T00:20:58.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
@@ -2289,15 +2298,6 @@
         <updated>2023-02-19T13:09:59.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨アイドルソング縛り🎤💗昔～最近💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2xdma3fJ7S4</id>
-        <link href="https://www.youtube.com/watch?v=2xdma3fJ7S4"/>
-        <updated>2023-02-19T11:19:23.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
