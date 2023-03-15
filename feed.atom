@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T06:36:01.237Z</id>
+    <id>urn:2023-03-15T07:06:00.922Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T06:36:01.237Z</updated>
+    <updated>2023-03-15T07:06:00.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
+        <link href="https://www.youtube.com/watch?v=qd-dkUYQH5I"/>
+        <updated>2023-03-15T06:47:54.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】明智光月ちゃんとお歌コラボ！🌸聴きに来て❤ #ののみつ  karaoke【#彩雲のの / #明智光月 /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=uSr5WsyRnF8</id>
+        <link href="https://www.youtube.com/watch?v=uSr5WsyRnF8"/>
+        <updated>2023-03-15T06:40:27.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！眠いから歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=66f2fpeo7Lw</id>
@@ -1869,15 +1887,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／土曜夜の深夜歌枠🎤楽しんじゃお～～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=NrRGyAtXwjA</id>
-        <link href="https://www.youtube.com/watch?v=NrRGyAtXwjA"/>
-        <updated>2023-02-25T17:33:55.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【スナックつきみ】今年最初の愚痴会スナックでほろ苦いお酒を🥂【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=uQWqKbZmYU4</id>
         <link href="https://www.youtube.com/watch?v=uQWqKbZmYU4"/>
@@ -2091,15 +2100,6 @@
         <updated>2023-02-23T22:41:04.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】初見さん歓迎✨深夜のゲリラ歌枠🌙 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=nxA5oTmcD0Q</id>
-        <link href="https://www.youtube.com/watch?v=nxA5oTmcD0Q"/>
-        <updated>2023-02-23T20:14:52.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
