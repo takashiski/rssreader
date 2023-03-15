@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T06:06:36.535Z</id>
+    <id>urn:2023-03-15T06:36:01.237Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T06:06:36.535Z</updated>
+    <updated>2023-03-15T06:36:01.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！眠いから歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=66f2fpeo7Lw</id>
+        <link href="https://www.youtube.com/watch?v=66f2fpeo7Lw"/>
+        <updated>2023-03-15T06:12:08.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=r30VrxSLxcQ</id>
@@ -921,15 +930,6 @@
         <updated>2023-03-07T19:15:16.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】4400人ありがとう！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PE8QmG75rG0</id>
-        <link href="https://www.youtube.com/watch?v=PE8QmG75rG0"/>
-        <updated>2023-03-07T16:05:59.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
