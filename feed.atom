@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T13:09:39.676Z</id>
+    <id>urn:2023-03-15T13:35:38.779Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T13:09:39.676Z</updated>
+    <updated>2023-03-15T13:35:38.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
+        <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
+        <updated>2023-03-15T13:33:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ガチャ】えっあの超絶美少女のダイイチルビー！？？？お迎えするとこ見てて！【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=NWK9zTAcd1Q</id>
+        <link href="https://www.youtube.com/watch?v=NWK9zTAcd1Q"/>
+        <updated>2023-03-15T13:10:31.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
@@ -1752,15 +1770,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【囁き】眠れない夜もすやすやできるASMRらじお #すやらじ ♡5【ASMR Radio/Whisper】]]></title>
-        <id>https://www.youtube.com/watch?v=TpAyn1pES6g</id>
-        <link href="https://www.youtube.com/watch?v=TpAyn1pES6g"/>
-        <updated>2023-02-27T17:16:17.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR/咀嚼音】オフコラボ💗可愛いお菓子を食べる音🍭🍪💗 #つくつくぴっち 【月紫アリア/夢川かなう/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-ydWSRf9pXY</id>
         <link href="https://www.youtube.com/watch?v=-ydWSRf9pXY"/>
@@ -2352,15 +2361,6 @@
         <updated>2023-02-18T15:09:16.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠┊︎singing 】ジャンプアニメ縛り︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=HMndtIJBmfU</id>
-        <link href="https://www.youtube.com/watch?v=HMndtIJBmfU"/>
-        <updated>2023-02-18T13:49:25.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
