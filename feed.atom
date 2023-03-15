@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T17:05:49.685Z</id>
+    <id>urn:2023-03-15T17:35:00.056Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T17:05:49.686Z</updated>
+    <updated>2023-03-15T17:35:00.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
+        <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
+        <updated>2023-03-15T17:24:21.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
+        <link href="https://www.youtube.com/watch?v=qd-dkUYQH5I"/>
+        <updated>2023-03-15T17:17:34.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【原神#38】綾人信者の神里綾人伝説任務。。。⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=BGCIPGqTDmM</id>
@@ -120,15 +138,6 @@
         <updated>2023-03-15T09:12:17.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
-        <link href="https://www.youtube.com/watch?v=qd-dkUYQH5I"/>
-        <updated>2023-03-15T06:47:54.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -2244,15 +2253,6 @@
         <updated>2023-02-21T15:36:22.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
-        <link href="https://www.youtube.com/watch?v=eQtSGdpiBVU"/>
-        <updated>2023-02-21T14:27:31.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
