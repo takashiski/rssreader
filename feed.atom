@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T16:39:45.977Z</id>
+    <id>urn:2023-03-15T17:05:49.685Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T16:39:45.977Z</updated>
+    <updated>2023-03-15T17:05:49.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【原神#38】綾人信者の神里綾人伝説任務。。。⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=BGCIPGqTDmM</id>
+        <link href="https://www.youtube.com/watch?v=BGCIPGqTDmM"/>
+        <updated>2023-03-15T16:34:15.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🔆朝活】逃がすわけなくない？⛓️初見さん歓迎【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=6Kz7L34x-5E</id>
@@ -111,15 +120,6 @@
         <updated>2023-03-15T09:12:17.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
-        <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
-        <updated>2023-03-15T08:11:53.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2247,6 +2247,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
+        <link href="https://www.youtube.com/watch?v=eQtSGdpiBVU"/>
+        <updated>2023-02-21T14:27:31.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=mYQj1CUMHF0</id>
         <link href="https://www.youtube.com/watch?v=mYQj1CUMHF0"/>
@@ -2361,15 +2370,6 @@
         <updated>2023-02-18T15:09:16.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】最近のアニソンも歌いたい໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=6ig48hOt4NI</id>
-        <link href="https://www.youtube.com/watch?v=6ig48hOt4NI"/>
-        <updated>2023-02-18T13:21:04.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>

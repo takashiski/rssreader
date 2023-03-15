@@ -1707,16 +1707,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=5hnXm7n9i60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5hnXm7n9i60",
-          "publishedOn": "2023-03-15T08:11:53.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=xDomTIzpRFA",
           "author": null,
           "description": "",
@@ -1854,6 +1844,16 @@
           "publishedOn": "2023-02-24T13:01:19.000Z",
           "wordCount": null,
           "title": "【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eQtSGdpiBVU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eQtSGdpiBVU",
+          "publishedOn": "2023-02-21T14:27:31.000Z",
+          "wordCount": null,
+          "title": "【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2335,6 +2335,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BGCIPGqTDmM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BGCIPGqTDmM",
+          "publishedOn": "2023-03-15T16:34:15.000Z",
+          "wordCount": null,
+          "title": "【原神#38】綾人信者の神里綾人伝説任務。。。⚔【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vlfjB8n5DsI",
           "author": null,
           "description": "",
@@ -2472,16 +2482,6 @@
           "publishedOn": "2023-02-19T19:20:16.000Z",
           "wordCount": null,
           "title": "【原神#36】伝説任務⌇天下人の章 第一幕「泡影照らし浮世の風流」⚔【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6ig48hOt4NI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6ig48hOt4NI",
-          "publishedOn": "2023-02-18T13:21:04.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】最近のアニソンも歌いたい໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
