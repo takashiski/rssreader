@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T01:33:33.384Z</id>
+    <id>urn:2023-03-15T02:23:36.664Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T01:33:33.384Z</updated>
+    <updated>2023-03-15T02:23:36.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=r30VrxSLxcQ</id>
+        <link href="https://www.youtube.com/watch?v=r30VrxSLxcQ"/>
+        <updated>2023-03-15T02:02:25.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎✨おはよおお…朝だよお…💜起きろ❕ goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xDomTIzpRFA</id>
@@ -2370,15 +2379,6 @@
         <updated>2023-02-17T16:33:33.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌雑談】お悩み相談､歌で解決させてください｜#ククルアラッキーソング【新人VTuber | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sIctyBnzPn0</id>
-        <link href="https://www.youtube.com/watch?v=sIctyBnzPn0"/>
-        <updated>2023-02-17T16:29:37.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
