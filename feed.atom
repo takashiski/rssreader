@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T09:34:34.850Z</id>
+    <id>urn:2023-03-15T10:06:00.463Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T09:34:34.850Z</updated>
+    <updated>2023-03-15T10:06:00.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -105,30 +105,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vlfjB8n5DsI</id>
-        <link href="https://www.youtube.com/watch?v=vlfjB8n5DsI"/>
-        <updated>2023-03-14T17:54:20.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 雑談🥂 】ホワイトデーだし、リスナーにファンサする。【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=t5Wwn01H12o</id>
         <link href="https://www.youtube.com/watch?v=t5Wwn01H12o"/>
         <updated>2023-03-14T17:26:23.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】確定申告大勝利【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=4RpK8I2p27w</id>
-        <link href="https://www.youtube.com/watch?v=4RpK8I2p27w"/>
-        <updated>2023-03-14T16:01:16.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2175,6 +2157,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠】歌と雑談、ゆっくりめ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=CV8W_xRcNUY</id>
+        <link href="https://www.youtube.com/watch?v=CV8W_xRcNUY"/>
+        <updated>2023-02-22T22:06:59.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / とろけるように眠れる僕っ娘の耳かき♡耳ふぅ/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=DlpXEjmzB-o</id>
         <link href="https://www.youtube.com/watch?v=DlpXEjmzB-o"/>
@@ -2442,6 +2433,15 @@
         <updated>2023-02-15T17:47:00.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=I3rNqW-8LDY</id>
+        <link href="https://www.youtube.com/watch?v=I3rNqW-8LDY"/>
+        <updated>2023-02-15T14:41:13.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>

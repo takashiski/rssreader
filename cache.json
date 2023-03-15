@@ -945,16 +945,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=4RpK8I2p27w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4RpK8I2p27w",
-          "publishedOn": "2023-03-14T16:01:16.000Z",
-          "wordCount": null,
-          "title": "【歌枠】確定申告大勝利【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=BVD_6qu0FNA",
           "author": null,
           "description": "",
@@ -1092,6 +1082,16 @@
           "publishedOn": "2023-02-23T14:14:17.000Z",
           "wordCount": null,
           "title": "【ゲーム】登場人物全員陰キャのラブコメ【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CV8W_xRcNUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CV8W_xRcNUY",
+          "publishedOn": "2023-02-22T22:06:59.000Z",
+          "wordCount": null,
+          "title": "【歌枠】歌と雑談、ゆっくりめ【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2345,16 +2345,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=vlfjB8n5DsI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vlfjB8n5DsI",
-          "publishedOn": "2023-03-14T17:54:20.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=H94yFMNoj5k",
           "author": null,
           "description": "",
@@ -2492,6 +2482,16 @@
           "publishedOn": "2023-02-18T13:21:04.000Z",
           "wordCount": null,
           "title": "【#歌枠】最近のアニソンも歌いたい໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=I3rNqW-8LDY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=I3rNqW-8LDY",
+          "publishedOn": "2023-02-15T14:41:13.000Z",
+          "wordCount": null,
+          "title": "【雑談】すうちゃんとチョコ🍫食べながらマシュマロ恋バナ…？💓🐟🦢 #ぴちすう【夢川かなう/稀羽すう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
