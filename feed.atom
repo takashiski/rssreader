@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T08:06:46.675Z</id>
+    <id>urn:2023-03-15T08:36:09.159Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T08:06:46.675Z</updated>
+    <updated>2023-03-15T08:36:09.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #エグゾプライマルOBT先行配信 】気になってたゲームを先行プレイで遊んじゃおう！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Vpwk7sgmz4Y</id>
+        <link href="https://www.youtube.com/watch?v=Vpwk7sgmz4Y"/>
+        <updated>2023-03-15T08:14:42.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
+        <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
+        <updated>2023-03-15T08:11:53.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
@@ -2211,15 +2229,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=eQtSGdpiBVU</id>
-        <link href="https://www.youtube.com/watch?v=eQtSGdpiBVU"/>
-        <updated>2023-02-21T14:27:31.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=mYQj1CUMHF0</id>
         <link href="https://www.youtube.com/watch?v=mYQj1CUMHF0"/>
@@ -2469,15 +2478,6 @@
         <updated>2023-02-14T17:43:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】Happy Valentine🍫🧡かわいい曲でスイート気分⋆͛🎤⋆͛【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JWqSXZ_UyzQ</id>
-        <link href="https://www.youtube.com/watch?v=JWqSXZ_UyzQ"/>
-        <updated>2023-02-14T15:50:41.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

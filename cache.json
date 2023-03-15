@@ -1717,6 +1717,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5hnXm7n9i60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5hnXm7n9i60",
+          "publishedOn": "2023-03-15T08:11:53.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xDomTIzpRFA",
           "author": null,
           "description": "",
@@ -1854,16 +1864,6 @@
           "publishedOn": "2023-02-24T13:01:19.000Z",
           "wordCount": null,
           "title": "【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eQtSGdpiBVU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eQtSGdpiBVU",
-          "publishedOn": "2023-02-21T14:27:31.000Z",
-          "wordCount": null,
-          "title": "【ダンガンロンパ / 第５章 #7】完全初見❕５章に突入だ～～🔥🔥 Danganronpa【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2502,6 +2502,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Vpwk7sgmz4Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Vpwk7sgmz4Y",
+          "publishedOn": "2023-03-15T08:14:42.000Z",
+          "wordCount": null,
+          "title": "【 #エグゾプライマルOBT先行配信 】気になってたゲームを先行プレイで遊んじゃおう！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=orDP_MAKdWc",
           "author": null,
           "description": "",
@@ -2639,16 +2649,6 @@
           "publishedOn": "2023-02-17T15:17:23.000Z",
           "wordCount": null,
           "title": "【 APEX 】新シーズン！ゆきままと一緒にやっちゃう～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JWqSXZ_UyzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JWqSXZ_UyzQ",
-          "publishedOn": "2023-02-14T15:50:41.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】Happy Valentine🍫🧡かわいい曲でスイート気分⋆͛🎤⋆͛【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
