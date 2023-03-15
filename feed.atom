@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-15T12:07:59.273Z</id>
+    <id>urn:2023-03-15T12:44:02.991Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-15T12:07:59.273Z</updated>
+    <updated>2023-03-15T12:44:02.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
+        <link href="https://www.youtube.com/watch?v=RJyWqv3xfqs"/>
+        <updated>2023-03-15T12:43:05.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#shorts 】フィクサー / ぬゆり【#花鋏キョウ #歌ってみた 】]]></title>
+        <id>https://www.youtube.com/watch?v=innuzHJsvw8</id>
+        <link href="https://www.youtube.com/watch?v=innuzHJsvw8"/>
+        <updated>2023-03-15T12:00:26.000Z</updated>
+        <author>
+            <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / 気付いたら寝てる!?♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=O09YIRzqGrM</id>
@@ -102,15 +120,6 @@
         <updated>2023-03-15T00:20:58.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
-        <link href="https://www.youtube.com/watch?v=RJyWqv3xfqs"/>
-        <updated>2023-03-14T21:17:22.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
