@@ -1249,6 +1249,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
+          "publishedOn": "2023-03-16T12:06:05.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O09YIRzqGrM",
           "author": null,
           "description": "",
@@ -1386,16 +1396,6 @@
           "publishedOn": "2023-02-25T16:31:17.000Z",
           "wordCount": null,
           "title": "◆Minecraft / #06 / 豆腐回避倉庫キボンヌ。建築うおおおおお🔥〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
-          "publishedOn": "2023-02-23T14:38:33.000Z",
-          "wordCount": null,
-          "title": "＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】",
           "imageUrl": null
         }
       ]
@@ -2695,6 +2695,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OeUf_KfYRrwksschtRYow",
       "siteUrl": "https://www.youtube.com/channel/UC4OeUf_KfYRrwksschtRYow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qrdK_Hj2B6o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qrdK_Hj2B6o",
+          "publishedOn": "2023-03-16T12:00:38.000Z",
+          "wordCount": null,
+          "title": "【#shorts 】海の幽霊 / 米津玄師【#花鋏キョウ #歌ってみた 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=innuzHJsvw8",
           "author": null,
