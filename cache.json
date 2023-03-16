@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=D9aIj76QHSg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D9aIj76QHSg",
+          "publishedOn": "2023-03-16T21:24:41.000Z",
+          "wordCount": null,
+          "title": "輪ゴムとティッシュの箱で楽器作ってみた！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RvVgxQ-pcs4",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-03-10T18:04:32.000Z",
           "wordCount": null,
           "title": "【ホグワーツ・レガシー】強くなる！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lwNShmQpHRk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lwNShmQpHRk",
-          "publishedOn": "2023-03-10T10:08:45.000Z",
-          "wordCount": null,
-          "title": "トラックシミュレーターを新人VTuberがプレイしたら… #新人vtuber #ブルアカ #神輿たらん #るっくあっとたらん #ゲーム実況 #shorts",
           "imageUrl": null
         }
       ]
@@ -1389,13 +1389,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=YMbClWP1OxE",
+          "id": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=YMbClWP1OxE",
-          "publishedOn": "2023-02-25T16:31:17.000Z",
+          "link": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
+          "publishedOn": "2023-02-23T15:27:17.000Z",
           "wordCount": null,
-          "title": "◆Minecraft / #06 / 豆腐回避倉庫キボンヌ。建築うおおおおお🔥〖九楽ライ/Vtuber〗",
+          "title": "✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... / morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
@@ -1405,6 +1405,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbRXkQP-LumaBzfw-wsrrg",
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=j3Pu4O4y-Fc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j3Pu4O4y-Fc",
+          "publishedOn": "2023-03-16T21:35:38.000Z",
+          "wordCount": null,
+          "title": "【初見さん大歓迎！】約半年ぶりのAPEX！元マスターなんだから勝てるよね？【皇ロゼ/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=XtSNA0VJ8LM",
           "author": null,
