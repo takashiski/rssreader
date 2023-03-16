@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-16T00:50:14.005Z</id>
+    <id>urn:2023-03-16T01:33:02.803Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T00:50:14.005Z</updated>
+    <updated>2023-03-16T01:33:02.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【初見さん歓迎】久々にお歌うたうよ！きてねん！【皇ロゼ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=XtSNA0VJ8LM</id>
+        <link href="https://www.youtube.com/watch?v=XtSNA0VJ8LM"/>
+        <updated>2023-03-16T00:51:41.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
+        <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
+        <updated>2023-03-16T00:47:52.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【睡眠導入】ピアノオケ縛り #歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=k3uIEjjyrBU</id>
@@ -2346,15 +2364,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【お絵描き配信】ククルア絵かき歌かんがえる｜DRAWING【#ククルアクレイユ | Re:AcT | 新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=egRzr0U3eiY</id>
-        <link href="https://www.youtube.com/watch?v=egRzr0U3eiY"/>
-        <updated>2023-02-19T07:20:48.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
         <link href="https://www.youtube.com/watch?v=LldOq-wLAZ8"/>
@@ -2478,15 +2487,6 @@
         <updated>2023-02-14T17:43:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#かしこまり5周年 記念ライブ! ゲストあり! 新曲弾き語りあり!【#かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=VG3g9tsSipI</id>
-        <link href="https://www.youtube.com/watch?v=VG3g9tsSipI"/>
-        <updated>2023-02-14T13:26:15.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
