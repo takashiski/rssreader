@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=haxgbr8Tlw0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=haxgbr8Tlw0",
+          "publishedOn": "2023-03-16T13:30:47.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！夜更かしさんおいで！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DrIetzb96hU",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-03-09T23:20:18.000Z",
           "wordCount": null,
           "title": "【#たらおは/雑談】第1回たらんとおはなし！ゲストはぴぴすぴるちゃん！【新人VTuber/ぴぴすぴる/神輿たらん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yh88lmmI5Is",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yh88lmmI5Is",
-          "publishedOn": "2023-03-09T09:45:03.000Z",
-          "wordCount": null,
-          "title": "ホラゲの必勝法見つけたwwww #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #ホラーゲーム実況プレイ",
           "imageUrl": null
         }
       ]
@@ -1539,6 +1539,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoFEbNyIRUS26-hf2AucwFw",
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1xtDO2xQabc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1xtDO2xQabc",
+          "publishedOn": "2023-03-16T13:23:40.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hueubfsCB-k",
           "author": null,
