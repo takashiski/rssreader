@@ -1092,6 +1092,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QAMYADHDKZI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QAMYADHDKZI",
+          "publishedOn": "2023-03-16T12:08:00.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RJyWqv3xfqs",
           "author": null,
           "description": "",
@@ -1230,16 +1240,6 @@
           "wordCount": null,
           "title": "#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_qJQgQosomQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_qJQgQosomQ",
-          "publishedOn": "2023-03-04T11:05:39.000Z",
-          "wordCount": null,
-          "title": "【 一週間まいにち歌枠 】 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -1248,16 +1248,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxLgvntienV0kwNLxrbcmyQ",
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
-          "publishedOn": "2023-03-15T22:30:37.000Z",
-          "wordCount": null,
-          "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=O09YIRzqGrM",
           "author": null,
@@ -1396,6 +1386,16 @@
           "publishedOn": "2023-02-25T16:31:17.000Z",
           "wordCount": null,
           "title": "◆Minecraft / #06 / 豆腐回避倉庫キボンヌ。建築うおおおおお🔥〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bHmHn4MDD3s",
+          "publishedOn": "2023-02-23T14:38:33.000Z",
+          "wordCount": null,
+          "title": "＃ぴちにーと / 僕たちとごはんたべよ～～～🍚もぐもぐ雑談こらぼっ！【新人Vtuber/九楽ライ/ 夢川かなう】",
           "imageUrl": null
         }
       ]
