@@ -925,16 +925,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=msDXKrhnmfE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=msDXKrhnmfE",
-          "publishedOn": "2023-03-17T04:50:56.000Z",
-          "wordCount": null,
-          "title": "【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=4RpK8I2p27w",
           "author": null,
           "description": "",
@@ -1073,6 +1063,16 @@
           "wordCount": null,
           "title": "【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
+          "publishedOn": "2023-02-23T14:14:17.000Z",
+          "wordCount": null,
+          "title": "【ゲーム】登場人物全員陰キャのラブコメ【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
         }
       ]
     },
@@ -1081,16 +1081,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqIMtLuGc3YgwkhEaG8oDg",
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=QAMYADHDKZI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QAMYADHDKZI",
-          "publishedOn": "2023-03-16T12:08:00.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=RJyWqv3xfqs",
           "author": null,
@@ -1229,6 +1219,16 @@
           "publishedOn": "2023-03-04T19:56:50.000Z",
           "wordCount": null,
           "title": "#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_qJQgQosomQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_qJQgQosomQ",
+          "publishedOn": "2023-03-04T11:05:39.000Z",
+          "wordCount": null,
+          "title": "【 一週間まいにち歌枠 】 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2705,6 +2705,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OeUf_KfYRrwksschtRYow",
       "siteUrl": "https://www.youtube.com/channel/UC4OeUf_KfYRrwksschtRYow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rp_oyLplAow",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rp_oyLplAow",
+          "publishedOn": "2023-03-17T12:00:45.000Z",
+          "wordCount": null,
+          "title": "【#shorts 】unlasting / LiSA【#花鋏キョウ #歌ってみた 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=r0IeBJVgiWY",
           "author": null,

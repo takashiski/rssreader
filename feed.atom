@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T12:07:50.762Z</id>
+    <id>urn:2023-03-17T12:43:40.343Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T12:07:50.762Z</updated>
+    <updated>2023-03-17T12:43:40.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,6 +12,15 @@
         <updated>2023-03-17T12:03:38.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#shorts 】unlasting / LiSA【#花鋏キョウ #歌ってみた 】]]></title>
+        <id>https://www.youtube.com/watch?v=rp_oyLplAow</id>
+        <link href="https://www.youtube.com/watch?v=rp_oyLplAow"/>
+        <updated>2023-03-17T12:00:45.000Z</updated>
+        <author>
+            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -96,15 +105,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=msDXKrhnmfE</id>
-        <link href="https://www.youtube.com/watch?v=msDXKrhnmfE"/>
-        <updated>2023-03-17T04:50:56.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=xDEVzJJ1R80</id>
         <link href="https://www.youtube.com/watch?v=xDEVzJJ1R80"/>
@@ -165,15 +165,6 @@
         <updated>2023-03-16T13:23:40.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=QAMYADHDKZI</id>
-        <link href="https://www.youtube.com/watch?v=QAMYADHDKZI"/>
-        <updated>2023-03-16T12:08:00.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1599,6 +1590,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 一週間まいにち歌枠 】 「かっこいい私でいたい歌枠」✦ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_qJQgQosomQ</id>
+        <link href="https://www.youtube.com/watch?v=_qJQgQosomQ"/>
+        <updated>2023-03-04T11:05:39.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【雑談/FreeTalk】回線復活したぞーーーッ！！！【水瓶ミア / VTuber】]]></title>
         <id>https://www.youtube.com/watch?v=vLbBRcyeCwo</id>
         <link href="https://www.youtube.com/watch?v=vLbBRcyeCwo"/>
@@ -2253,6 +2253,15 @@
         <updated>2023-02-23T20:00:11.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム】登場人物全員陰キャのラブコメ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=fhnLC4AjUhc</id>
+        <link href="https://www.youtube.com/watch?v=fhnLC4AjUhc"/>
+        <updated>2023-02-23T14:14:17.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
