@@ -935,6 +935,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=msDXKrhnmfE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=msDXKrhnmfE",
+          "publishedOn": "2023-03-17T04:50:56.000Z",
+          "wordCount": null,
+          "title": "【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4RpK8I2p27w",
           "author": null,
           "description": "",
@@ -1072,16 +1082,6 @@
           "publishedOn": "2023-02-24T13:08:32.000Z",
           "wordCount": null,
           "title": "【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
-          "publishedOn": "2023-02-23T14:14:17.000Z",
-          "wordCount": null,
-          "title": "【ゲーム】登場人物全員陰キャのラブコメ【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
