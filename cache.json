@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IBU3c0BitgY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IBU3c0BitgY",
+          "publishedOn": "2023-03-17T20:54:28.000Z",
+          "wordCount": null,
+          "title": "【ホグワーツ・レガシー】魔法いっぱい覚える！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=D9aIj76QHSg",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-03-11T10:00:25.000Z",
           "wordCount": null,
           "title": "aiに自分のこと聞いてみたw #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZzVp3TM32rM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZzVp3TM32rM",
-          "publishedOn": "2023-03-10T18:04:32.000Z",
-          "wordCount": null,
-          "title": "【ホグワーツ・レガシー】強くなる！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
