@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T17:05:45.570Z</id>
+    <id>urn:2023-03-17T17:34:14.542Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T17:05:45.570Z</updated>
+    <updated>2023-03-17T17:34:14.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷりマッサージ💗ぐっすり眠れる…💗 massage only（oil/cream）【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=J91Ck2vHCuA</id>
+        <link href="https://www.youtube.com/watch?v=J91Ck2vHCuA"/>
+        <updated>2023-03-17T17:19:37.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】定期！歌枠！だ！！！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Sp9fHq6ndwQ</id>
@@ -120,15 +129,6 @@
         <updated>2023-03-17T06:00:57.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【協力求】「ロードモバイル」で勝てば賞金50万円！？【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=77lrNV8532c</id>
-        <link href="https://www.youtube.com/watch?v=77lrNV8532c"/>
-        <updated>2023-03-17T05:51:06.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -309,15 +309,6 @@
         <updated>2023-03-15T17:17:34.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#38】綾人信者の神里綾人伝説任務。。。⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=BGCIPGqTDmM</id>
-        <link href="https://www.youtube.com/watch?v=BGCIPGqTDmM"/>
-        <updated>2023-03-15T16:34:15.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1698,6 +1689,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【無謀企画】333人にお祝いされるまで終わらない耐久配信。生誕カウントダウン！【 #姫熊りぼん生誕2023 】]]></title>
+        <id>https://www.youtube.com/watch?v=nNeJeEEesTI</id>
+        <link href="https://www.youtube.com/watch?v=nNeJeEEesTI"/>
+        <updated>2023-03-02T19:17:47.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も深夜お歌の時間です🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jJkcioAnX7k</id>
         <link href="https://www.youtube.com/watch?v=jJkcioAnX7k"/>
@@ -2211,15 +2211,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=l7Yi1RiwATU</id>
-        <link href="https://www.youtube.com/watch?v=l7Yi1RiwATU"/>
-        <updated>2023-02-24T13:01:19.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】平日終わりのお疲れさまおうた✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=hQJ_38klnOQ</id>
         <link href="https://www.youtube.com/watch?v=hQJ_38klnOQ"/>
@@ -2415,6 +2406,15 @@
         <updated>2023-02-18T17:40:20.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】最近のアニソンも歌いたい໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=6ig48hOt4NI</id>
+        <link href="https://www.youtube.com/watch?v=6ig48hOt4NI"/>
+        <updated>2023-02-18T13:21:04.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
