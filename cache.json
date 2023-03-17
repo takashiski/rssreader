@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pEMhvAsdeFs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pEMhvAsdeFs",
+          "publishedOn": "2023-03-17T22:02:13.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！可愛いお歌聴いてく？KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IBU3c0BitgY",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-03-11T15:02:18.000Z",
           "wordCount": null,
           "title": "【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hrIt1z2Wf94",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hrIt1z2Wf94",
-          "publishedOn": "2023-03-11T10:00:25.000Z",
-          "wordCount": null,
-          "title": "aiに自分のこと聞いてみたw #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #shorts",
           "imageUrl": null
         }
       ]
