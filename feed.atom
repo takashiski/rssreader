@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T16:38:57.820Z</id>
+    <id>urn:2023-03-17T17:05:45.570Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T16:38:57.820Z</updated>
+    <updated>2023-03-17T17:05:45.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】定期！歌枠！だ！！！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Sp9fHq6ndwQ</id>
+        <link href="https://www.youtube.com/watch?v=Sp9fHq6ndwQ"/>
+        <updated>2023-03-17T16:57:56.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】ライブ前日！女性ボーカルアニソン縛り - Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=tcvvzWDINvc</id>
@@ -210,15 +219,6 @@
         <updated>2023-03-16T10:08:51.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷりマッサージ💗ぐっすり眠れる…💗 massage only（oil/cream）【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=J91Ck2vHCuA</id>
-        <link href="https://www.youtube.com/watch?v=J91Ck2vHCuA"/>
-        <updated>2023-03-16T09:23:07.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2211,12 +2211,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=7nTUYBDZ0mQ</id>
-        <link href="https://www.youtube.com/watch?v=7nTUYBDZ0mQ"/>
-        <updated>2023-02-24T13:08:32.000Z</updated>
+        <title type="html"><![CDATA[【雑談】ネット、ちんだ。生き返った。ただいま…。talk stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=l7Yi1RiwATU</id>
+        <link href="https://www.youtube.com/watch?v=l7Yi1RiwATU"/>
+        <updated>2023-02-24T13:01:19.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
