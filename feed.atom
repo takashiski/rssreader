@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T06:05:58.507Z</id>
+    <id>urn:2023-03-17T06:35:42.007Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T06:05:58.507Z</updated>
+    <updated>2023-03-17T06:35:42.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【LIVE】アコースティック歌枠✂ #2【#キョウの生放送 / 花鋏キョウ】]]></title>
+        <id>https://www.youtube.com/watch?v=r0IeBJVgiWY</id>
+        <link href="https://www.youtube.com/watch?v=r0IeBJVgiWY"/>
+        <updated>2023-03-17T06:13:02.000Z</updated>
+        <author>
+            <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【魔女の家】ホラゲは嫌だホラゲは嫌だホラゲは嫌ｄ「いいからやれ」【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=j5F-GkuE5lY</id>
@@ -186,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【睡眠導入】ピアノオケ縛り #歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【睡眠導入】ピアノオケ縛り歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=k3uIEjjyrBU</id>
         <link href="https://www.youtube.com/watch?v=k3uIEjjyrBU"/>
         <updated>2023-03-16T00:28:00.000Z</updated>
