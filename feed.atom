@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-17T09:06:03.992Z</id>
+    <id>urn:2023-03-17T09:34:46.145Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-17T09:06:03.992Z</updated>
+    <updated>2023-03-17T09:34:46.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ランチタイム歌枠だあああ🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HOmCzSUsbss</id>
+        <link href="https://www.youtube.com/watch?v=HOmCzSUsbss"/>
+        <updated>2023-03-17T09:09:41.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【LIVE】アコースティック歌枠✂ #2【#キョウの生放送 / 花鋏キョウ】]]></title>
         <id>https://www.youtube.com/watch?v=r0IeBJVgiWY</id>
@@ -1911,15 +1920,6 @@
         <updated>2023-02-27T11:00:15.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 sing & talk🥂 】新企画スタート！美睡すぽっと！初回ゲスト：風吹スサノオ【#美睡すぽっと！/#新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=im6hs9t6cIY</id>
-        <link href="https://www.youtube.com/watch?v=im6hs9t6cIY"/>
-        <updated>2023-02-27T00:16:54.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
