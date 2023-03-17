@@ -925,6 +925,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=msDXKrhnmfE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=msDXKrhnmfE",
+          "publishedOn": "2023-03-17T13:03:27.000Z",
+          "wordCount": null,
+          "title": "【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4RpK8I2p27w",
           "author": null,
           "description": "",
@@ -1062,16 +1072,6 @@
           "publishedOn": "2023-02-24T13:08:32.000Z",
           "wordCount": null,
           "title": "【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fhnLC4AjUhc",
-          "publishedOn": "2023-02-23T14:14:17.000Z",
-          "wordCount": null,
-          "title": "【ゲーム】登場人物全員陰キャのラブコメ【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1395,16 +1395,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbRXkQP-LumaBzfw-wsrrg",
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=N1YHd-giLqk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N1YHd-giLqk",
-          "publishedOn": "2023-03-17T10:55:27.000Z",
-          "wordCount": null,
-          "title": "【初見さん大歓迎！】ホラーが嫌いすぎて逃げてました。禊の時間です。【皇ロゼ/Vtuber】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=j3Pu4O4y-Fc",
           "author": null,
