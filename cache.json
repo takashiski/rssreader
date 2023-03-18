@@ -367,16 +367,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=n41N8JkxxMU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n41N8JkxxMU",
-          "publishedOn": "2023-03-18T03:18:49.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】ライブ前日！女性ボーカルアニソン縛り - Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=j5F-GkuE5lY",
           "author": null,
           "description": "",
@@ -514,6 +504,16 @@
           "publishedOn": "2023-02-22T14:24:34.000Z",
           "wordCount": null,
           "title": "【 #歌枠┊︎singing 】アニソン歌姫オンリー︙KARAOKE【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xDaBggJ-ijc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xDaBggJ-ijc",
+          "publishedOn": "2023-02-21T00:37:36.000Z",
+          "wordCount": null,
+          "title": "【朝活】はじめての朝活！おはよう【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1295,7 +1295,7 @@
           "link": "https://www.youtube.com/watch?v=A6YWgQex64E",
           "publishedOn": "2023-03-13T14:42:27.000Z",
           "wordCount": null,
-          "title": "【＃九楽ライ3D 】✨3Dお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
+          "title": "【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
           "imageUrl": null
         },
         {
