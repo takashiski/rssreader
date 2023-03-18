@@ -2452,6 +2452,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8LB0dn6rjR4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8LB0dn6rjR4",
+          "publishedOn": "2023-03-18T12:55:28.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】常にいい位置からちゃーらい⋆͛👾⋆͛　w/乾伸一郎【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Vpwk7sgmz4Y",
           "author": null,
           "description": "",
@@ -2589,16 +2599,6 @@
           "publishedOn": "2023-02-21T15:36:22.000Z",
           "wordCount": null,
           "title": "【 歌枠】かっこいい曲はかっこよく歌いたいよね ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=q7-b59H7KaA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=q7-b59H7KaA",
-          "publishedOn": "2023-02-17T15:17:23.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】新シーズン！ゆきままと一緒にやっちゃう～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
