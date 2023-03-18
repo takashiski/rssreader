@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T15:05:46.833Z</id>
+    <id>urn:2023-03-18T15:34:28.173Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T15:05:46.833Z</updated>
+    <updated>2023-03-18T15:34:28.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[コラボ歌枠！なんでも歌える姫乃のえ⚡SingingStream👽KARAOKE【 #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=ysC3EI5UgNk</id>
+        <link href="https://www.youtube.com/watch?v=ysC3EI5UgNk"/>
+        <updated>2023-03-18T15:20:03.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】常にいい位置からちゃーらい⋆͛👾⋆͛　w/乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8LB0dn6rjR4</id>
@@ -2388,15 +2397,6 @@
         <updated>2023-02-19T23:15:45.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】えもめの曲⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=-B1R32B0nmM</id>
-        <link href="https://www.youtube.com/watch?v=-B1R32B0nmM"/>
-        <updated>2023-02-19T17:31:26.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
