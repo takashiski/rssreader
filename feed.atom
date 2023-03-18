@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T09:05:39.569Z</id>
+    <id>urn:2023-03-18T09:34:25.459Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T09:05:39.569Z</updated>
+    <updated>2023-03-18T09:34:25.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2023-03-18T06:18:51.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8h3INEBy-y8</id>
-        <link href="https://www.youtube.com/watch?v=8h3INEBy-y8"/>
-        <updated>2023-03-18T03:54:00.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -2397,6 +2388,15 @@
         <updated>2023-02-19T23:15:45.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神#36】伝説任務⌇天下人の章 第一幕「泡影照らし浮世の風流」⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=6m5J6oufupY</id>
+        <link href="https://www.youtube.com/watch?v=6m5J6oufupY"/>
+        <updated>2023-02-19T19:20:16.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
