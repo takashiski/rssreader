@@ -1229,6 +1229,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A6YWgQex64E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A6YWgQex64E",
+          "publishedOn": "2023-03-18T16:07:19.000Z",
+          "wordCount": null,
+          "title": "【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
           "author": null,
           "description": "",
@@ -1366,16 +1376,6 @@
           "publishedOn": "2023-02-28T00:18:40.000Z",
           "wordCount": null,
           "title": "◆ 朝歌枠 ◆ 初見さん歓迎✨/ 僕と一緒に二度寝しちゃう？♡い～や、歌う。【九楽ライ/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GgnDlaazoQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GgnDlaazoQA",
-          "publishedOn": "2023-02-26T08:07:20.000Z",
-          "wordCount": null,
-          "title": "◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
