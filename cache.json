@@ -2305,6 +2305,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8h3INEBy-y8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8h3INEBy-y8",
+          "publishedOn": "2023-03-18T03:54:00.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BGCIPGqTDmM",
           "author": null,
           "description": "",
@@ -2442,16 +2452,6 @@
           "publishedOn": "2023-02-21T13:39:31.000Z",
           "wordCount": null,
           "title": "【つぐのひ】瀬島がいればこわくない、？実はつぐのひ初見なわらわ。。。【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6m5J6oufupY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6m5J6oufupY",
-          "publishedOn": "2023-02-19T19:20:16.000Z",
-          "wordCount": null,
-          "title": "【原神#36】伝説任務⌇天下人の章 第一幕「泡影照らし浮世の風流」⚔【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
