@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T11:34:14.334Z</id>
+    <id>urn:2023-03-18T12:07:09.822Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T11:34:14.334Z</updated>
+    <updated>2023-03-18T12:07:09.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで シンデレラボーイ 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=4OHGci0oGZQ</id>
+        <link href="https://www.youtube.com/watch?v=4OHGci0oGZQ"/>
+        <updated>2023-03-18T12:00:04.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】定期！歌枠！だ！！！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Sp9fHq6ndwQ</id>
+        <link href="https://www.youtube.com/watch?v=Sp9fHq6ndwQ"/>
+        <updated>2023-03-18T11:59:15.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8h3INEBy-y8</id>
@@ -2040,15 +2058,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Rh5xkzxDM9M</id>
-        <link href="https://www.youtube.com/watch?v=Rh5xkzxDM9M"/>
-        <updated>2023-02-26T14:37:36.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【参加型】まったく何もわかっていないゲームだけどなんか楽しそう！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=wUw9QGH-XzY</id>
         <link href="https://www.youtube.com/watch?v=wUw9QGH-XzY"/>
@@ -2235,15 +2244,6 @@
         <updated>2023-02-24T13:15:04.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=7nTUYBDZ0mQ</id>
-        <link href="https://www.youtube.com/watch?v=7nTUYBDZ0mQ"/>
-        <updated>2023-02-24T13:08:32.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
