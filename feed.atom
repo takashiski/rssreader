@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T10:34:24.118Z</id>
+    <id>urn:2023-03-18T11:05:24.883Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T10:34:24.118Z</updated>
+    <updated>2023-03-18T11:05:24.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2023-03-17T17:19:37.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】定期！歌枠！だ！！！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Sp9fHq6ndwQ</id>
-        <link href="https://www.youtube.com/watch?v=Sp9fHq6ndwQ"/>
-        <updated>2023-03-17T16:57:56.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2244,6 +2235,15 @@
         <updated>2023-02-24T13:15:04.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム】多数決のデスゲームに参加します【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=7nTUYBDZ0mQ</id>
+        <link href="https://www.youtube.com/watch?v=7nTUYBDZ0mQ"/>
+        <updated>2023-02-24T13:08:32.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
