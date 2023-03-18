@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T22:34:32.382Z</id>
+    <id>urn:2023-03-18T23:05:37.688Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T22:34:32.382Z</updated>
+    <updated>2023-03-18T23:05:37.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】常にいい位置からちゃーらい⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8LB0dn6rjR4</id>
+        <link href="https://www.youtube.com/watch?v=8LB0dn6rjR4"/>
+        <updated>2023-03-18T22:35:46.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！可愛いお歌聴いてく？KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=pEMhvAsdeFs</id>
@@ -2433,15 +2442,6 @@
         <updated>2023-02-17T16:33:33.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】新シーズン！ゆきままと一緒にやっちゃう～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=q7-b59H7KaA</id>
-        <link href="https://www.youtube.com/watch?v=q7-b59H7KaA"/>
-        <updated>2023-02-17T15:17:23.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
