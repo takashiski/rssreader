@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-18T14:05:34.853Z</id>
+    <id>urn:2023-03-18T14:34:20.029Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-18T14:05:34.853Z</updated>
+    <updated>2023-03-18T14:34:20.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,6 +12,15 @@
         <updated>2023-03-18T12:55:28.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】酒クズで歌が大好きないばら姫👑🥂楽しく歌っちゃうぞおおお【美睡シュカ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cLxdY3NDbIY</id>
+        <link href="https://www.youtube.com/watch?v=cLxdY3NDbIY"/>
+        <updated>2023-03-18T12:31:51.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -435,15 +444,6 @@
         <updated>2023-03-15T10:09:50.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コラボ歌枠！なんでも歌える姫乃のえ⚡SingingStream👽KARAOKE【 #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ysC3EI5UgNk</id>
-        <link href="https://www.youtube.com/watch?v=ysC3EI5UgNk"/>
-        <updated>2023-03-15T09:12:17.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -1950,15 +1950,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#shorts】"あのVTuber"の配信が！？【#新人Vtuber/#美睡シュカ/#PR】]]></title>
-        <id>https://www.youtube.com/watch?v=o0h2FN_p07o</id>
-        <link href="https://www.youtube.com/watch?v=o0h2FN_p07o"/>
-        <updated>2023-02-28T14:30:16.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活/talking stream】ゲリラ朝活！おはよ～～☀【#彩雲のの/ #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=_YoMvdAKYI8</id>
         <link href="https://www.youtube.com/watch?v=_YoMvdAKYI8"/>
@@ -2397,6 +2388,15 @@
         <updated>2023-02-19T23:15:45.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】えもめの曲⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=-B1R32B0nmM</id>
+        <link href="https://www.youtube.com/watch?v=-B1R32B0nmM"/>
+        <updated>2023-02-19T17:31:26.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
