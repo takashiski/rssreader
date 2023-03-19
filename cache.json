@@ -1062,6 +1062,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
+          "publishedOn": "2023-03-19T05:50:27.000Z",
+          "wordCount": null,
+          "title": "#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QAMYADHDKZI",
           "author": null,
           "description": "",
@@ -1200,16 +1210,6 @@
           "wordCount": null,
           "title": "キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Al2B7puf9zM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Al2B7puf9zM",
-          "publishedOn": "2023-03-04T19:56:50.000Z",
-          "wordCount": null,
-          "title": "#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
         }
       ]
     },
@@ -1218,6 +1218,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxLgvntienV0kwNLxrbcmyQ",
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
+          "publishedOn": "2023-03-19T05:52:09.000Z",
+          "wordCount": null,
+          "title": "【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=A6YWgQex64E",
           "author": null,
@@ -1356,16 +1366,6 @@
           "publishedOn": "2023-03-02T18:30:28.000Z",
           "wordCount": null,
           "title": "◆Minecraft / #07 / 村人たちのお家つくっぞ🔥だからさ...ダイヤ...よこしなよ...￥〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=coyqLVnw6go",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=coyqLVnw6go",
-          "publishedOn": "2023-02-28T00:18:40.000Z",
-          "wordCount": null,
-          "title": "◆ 朝歌枠 ◆ 初見さん歓迎✨/ 僕と一緒に二度寝しちゃう？♡い～や、歌う。【九楽ライ/新人Vtuber】",
           "imageUrl": null
         }
       ]
