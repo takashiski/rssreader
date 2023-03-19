@@ -748,6 +748,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gbpmVX4P8PY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gbpmVX4P8PY",
+          "publishedOn": "2023-03-19T12:00:25.000Z",
+          "wordCount": null,
+          "title": "【歌枠/切り抜き】癒し系VingerがOverdoseを歌ってみたら・・・【#shorts/ #彩雲のの  】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4OHGci0oGZQ",
           "author": null,
           "description": "",
@@ -885,16 +895,6 @@
           "publishedOn": "2023-02-28T11:01:18.000Z",
           "wordCount": null,
           "title": "【朝活/talking stream】ゲリラ朝活！おはよ～～☀【#彩雲のの/ #新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1oDEF1DTRAc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1oDEF1DTRAc",
-          "publishedOn": "2023-02-26T16:44:14.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing stream】ch登録者様6666人耐久歌枠✨初見さん見つけて～～！👀 karaoke　＃２【#彩雲のの/ #新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1219,16 +1219,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
-          "publishedOn": "2023-03-19T05:52:09.000Z",
-          "wordCount": null,
-          "title": "【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=A6YWgQex64E",
           "author": null,
           "description": "",
@@ -1366,6 +1356,16 @@
           "publishedOn": "2023-03-02T18:30:28.000Z",
           "wordCount": null,
           "title": "◆Minecraft / #07 / 村人たちのお家つくっぞ🔥だからさ...ダイヤ...よこしなよ...￥〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=coyqLVnw6go",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=coyqLVnw6go",
+          "publishedOn": "2023-02-28T00:18:40.000Z",
+          "wordCount": null,
+          "title": "◆ 朝歌枠 ◆ 初見さん歓迎✨/ 僕と一緒に二度寝しちゃう？♡い～や、歌う。【九楽ライ/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2645,6 +2645,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OeUf_KfYRrwksschtRYow",
       "siteUrl": "https://www.youtube.com/channel/UC4OeUf_KfYRrwksschtRYow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9cg2oK4INiQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9cg2oK4INiQ",
+          "publishedOn": "2023-03-19T12:00:05.000Z",
+          "wordCount": null,
+          "title": "【#shorts 】アディショナルメモリー / じん【#花鋏キョウ  #歌ってみた 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rp_oyLplAow",
           "author": null,
