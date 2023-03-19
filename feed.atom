@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-19T04:06:23.798Z</id>
+    <id>urn:2023-03-19T04:35:36.835Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T04:06:23.798Z</updated>
+    <updated>2023-03-19T04:35:36.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕おうたの時間だよ～～～～～～💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=83eieTK7Rso</id>
+        <link href="https://www.youtube.com/watch?v=83eieTK7Rso"/>
+        <updated>2023-03-19T04:18:11.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】休日の朝いっしょに過ごそ☀最近のこと話したい！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=LUL5G2XkuIc</id>
@@ -2211,15 +2220,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗🐈癒しをお届けにゃ～💗耳かき/マッサージ💗 ear cleaning/massage【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=p2cSOmvmfL0</id>
-        <link href="https://www.youtube.com/watch?v=p2cSOmvmfL0"/>
-        <updated>2023-02-24T18:40:00.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】samusugi⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=1HwwpYidi7c</id>
         <link href="https://www.youtube.com/watch?v=1HwwpYidi7c"/>
@@ -2433,15 +2433,6 @@
         <updated>2023-02-18T11:00:29.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】の～ぷらん雑談❣脱線しながらお話しする💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p1p1m5Vkz8k</id>
-        <link href="https://www.youtube.com/watch?v=p1p1m5Vkz8k"/>
-        <updated>2023-02-17T16:33:33.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
