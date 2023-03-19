@@ -1062,16 +1062,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
-          "publishedOn": "2023-03-19T05:50:27.000Z",
-          "wordCount": null,
-          "title": "#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=QAMYADHDKZI",
           "author": null,
           "description": "",
@@ -1209,6 +1199,16 @@
           "publishedOn": "2023-03-05T11:30:11.000Z",
           "wordCount": null,
           "title": "キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Al2B7puf9zM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Al2B7puf9zM",
+          "publishedOn": "2023-03-04T19:56:50.000Z",
+          "wordCount": null,
+          "title": "#24 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
