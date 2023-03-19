@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-19T06:35:54.564Z</id>
+    <id>urn:2023-03-19T07:05:44.225Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T06:35:54.564Z</updated>
+    <updated>2023-03-19T07:05:44.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -93,15 +93,6 @@
         <updated>2023-03-18T15:20:03.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】酒クズで歌が大好きないばら姫👑🥂楽しく歌っちゃうぞおおお【美睡シュカ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cLxdY3NDbIY</id>
-        <link href="https://www.youtube.com/watch?v=cLxdY3NDbIY"/>
-        <updated>2023-03-18T12:31:51.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -1999,6 +1990,15 @@
         <id>https://www.youtube.com/watch?v=AxTc96l5M88</id>
         <link href="https://www.youtube.com/watch?v=AxTc96l5M88"/>
         <updated>2023-02-28T19:42:33.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#shorts】"あのVTuber"の配信が！？【#新人Vtuber/#美睡シュカ/#PR】]]></title>
+        <id>https://www.youtube.com/watch?v=o0h2FN_p07o</id>
+        <link href="https://www.youtube.com/watch?v=o0h2FN_p07o"/>
+        <updated>2023-02-28T14:30:16.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
         </author>
