@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-19T13:34:07.728Z</id>
+    <id>urn:2023-03-19T14:05:35.401Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T13:34:07.728Z</updated>
+    <updated>2023-03-19T14:05:35.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【メン限】まったり雑談する～👿【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=KRP3shz8Dyo</id>
+        <link href="https://www.youtube.com/watch?v=KRP3shz8Dyo"/>
+        <updated>2023-03-19T13:48:47.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/切り抜き】癒し系VingerがOverdoseを歌ってみたら・・・【#shorts/ #彩雲のの  】]]></title>
         <id>https://www.youtube.com/watch?v=gbpmVX4P8PY</id>
@@ -2118,15 +2127,6 @@
         <updated>2023-02-26T12:36:59.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Wodag4psP2A</id>
-        <link href="https://www.youtube.com/watch?v=Wodag4psP2A"/>
-        <updated>2023-02-26T12:24:44.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
