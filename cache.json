@@ -210,6 +210,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cLxdY3NDbIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cLxdY3NDbIY",
+          "publishedOn": "2023-03-19T07:23:42.000Z",
+          "wordCount": null,
+          "title": "【 #歌うまV歌枠リレー 】酒クズで歌が大好きないばら姫👑🥂楽しく歌っちゃうぞおおお【美睡シュカ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HOmCzSUsbss",
           "author": null,
           "description": "",
@@ -347,16 +357,6 @@
           "publishedOn": "2023-02-28T19:42:33.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／ゲリラ深夜歌枠🎤今日も歌うよおおお【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=o0h2FN_p07o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o0h2FN_p07o",
-          "publishedOn": "2023-02-28T14:30:16.000Z",
-          "wordCount": null,
-          "title": "【#shorts】\"あのVTuber\"の配信が！？【#新人Vtuber/#美睡シュカ/#PR】",
           "imageUrl": null
         }
       ]
@@ -2432,6 +2432,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gqnnYIlL4ds",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gqnnYIlL4ds",
+          "publishedOn": "2023-03-19T07:15:10.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】なにをうたおうかな～～！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8LB0dn6rjR4",
           "author": null,
           "description": "",
@@ -2569,16 +2579,6 @@
           "publishedOn": "2023-02-22T16:50:49.000Z",
           "wordCount": null,
           "title": "【 APEX 】ランクのお時間ですにゃ⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B8QJOgo32rA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B8QJOgo32rA",
-          "publishedOn": "2023-02-21T15:36:22.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】かっこいい曲はかっこよく歌いたいよね ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
