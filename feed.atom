@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-19T17:05:26.402Z</id>
+    <id>urn:2023-03-19T17:34:28.238Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T17:05:26.402Z</updated>
+    <updated>2023-03-19T17:34:28.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【⚔️開園⚔️】キミ達に今日、集まってもらったのは他でもない.../参加型【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=2pCDGLcIKZM</id>
+        <link href="https://www.youtube.com/watch?v=2pCDGLcIKZM"/>
+        <updated>2023-03-19T16:54:01.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】あさ！！おはよう！！！！！！！！！！！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ZD22U3NNgDA</id>
@@ -30,15 +39,6 @@
         <updated>2023-03-19T14:47:44.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】まったり雑談する～👿【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=KRP3shz8Dyo</id>
-        <link href="https://www.youtube.com/watch?v=KRP3shz8Dyo"/>
-        <updated>2023-03-19T13:48:47.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2148,6 +2148,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Wodag4psP2A</id>
+        <link href="https://www.youtube.com/watch?v=Wodag4psP2A"/>
+        <updated>2023-02-26T12:24:44.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ]]></title>
         <id>https://www.youtube.com/watch?v=_Og1Z4x2jWM</id>
         <link href="https://www.youtube.com/watch?v=_Og1Z4x2jWM"/>
@@ -2208,15 +2217,6 @@
         <updated>2023-02-25T12:00:27.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【冒頭無料配信】天川はの1stワンマンライブ「ばぶってもライブできるもん！」 #天川はのばぶライブ]]></title>
-        <id>https://www.youtube.com/watch?v=OKxofKKpy0M</id>
-        <link href="https://www.youtube.com/watch?v=OKxofKKpy0M"/>
-        <updated>2023-02-25T10:32:31.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
