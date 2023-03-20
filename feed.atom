@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T05:34:28.403Z</id>
+    <id>urn:2023-03-20T06:06:48.547Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T05:34:28.403Z</updated>
+    <updated>2023-03-20T06:06:48.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=zDMFSwy3Pbg</id>
+        <link href="https://www.youtube.com/watch?v=zDMFSwy3Pbg"/>
+        <updated>2023-03-20T05:54:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#たらおは/雑談】第2回たらんとおはなし！ゲストはマル・ナナモナちゃん！【VTuber/マル・ナナモナ/神輿たらん】]]></title>
         <id>https://www.youtube.com/watch?v=3sGqo70hnaw</id>
@@ -993,15 +1002,6 @@
         <updated>2023-03-11T21:40:28.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２達成ありがとう！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Wn_vmfujtec</id>
-        <link href="https://www.youtube.com/watch?v=Wn_vmfujtec"/>
-        <updated>2023-03-11T18:39:54.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2424,15 +2424,6 @@
         <updated>2023-02-19T13:09:59.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】夕暮れミッション耐久❣ずっと止まっているストーリーを進めるぞ…❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LldOq-wLAZ8</id>
-        <link href="https://www.youtube.com/watch?v=LldOq-wLAZ8"/>
-        <updated>2023-02-18T17:40:20.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
