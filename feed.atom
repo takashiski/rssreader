@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T09:34:38.686Z</id>
+    <id>urn:2023-03-20T10:06:15.013Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T09:34:38.686Z</updated>
+    <updated>2023-03-20T10:06:15.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【睡眠導入】ピアノオンリー歌枠🎹Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=mADA8ajwX3k</id>
+        <link href="https://www.youtube.com/watch?v=mADA8ajwX3k"/>
+        <updated>2023-03-20T09:38:34.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=XINxbGl1Wng</id>
@@ -39,15 +48,6 @@
         <updated>2023-03-20T08:41:35.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zDMFSwy3Pbg</id>
-        <link href="https://www.youtube.com/watch?v=zDMFSwy3Pbg"/>
-        <updated>2023-03-20T05:54:29.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1038,6 +1038,15 @@
         <updated>2023-03-11T21:40:28.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２達成ありがとう！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Wn_vmfujtec</id>
+        <link href="https://www.youtube.com/watch?v=Wn_vmfujtec"/>
+        <updated>2023-03-11T18:39:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2253,15 +2262,6 @@
         <updated>2023-02-25T08:45:48.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠┊︎singing 】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=klMsVcSdPRU</id>
-        <link href="https://www.youtube.com/watch?v=klMsVcSdPRU"/>
-        <updated>2023-02-25T06:34:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
