@@ -738,6 +738,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KqKI08JZXJ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KqKI08JZXJ4",
+          "publishedOn": "2023-03-20T12:00:10.000Z",
+          "wordCount": null,
+          "title": "【歌枠/切り抜き】癒し系VingerがRe:IAMを歌ってみたら・・・【#shorts /#彩雲のの 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wpc9WCKjbIU",
           "author": null,
           "description": "",
@@ -875,16 +885,6 @@
           "publishedOn": "2023-03-02T12:00:07.000Z",
           "wordCount": null,
           "title": "【歌ってみた】Subtitle／Official髭男dism(cover)【#彩雲のの/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lO9Sb8KrWyY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lO9Sb8KrWyY",
-          "publishedOn": "2023-03-01T12:22:55.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing stream】３月最初のおうた！春の歌とかうたいたいな🌸【#彩雲のの/ #新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1402,6 +1402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=WnnqnEnNs1A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WnnqnEnNs1A",
+          "publishedOn": "2023-03-20T11:54:25.000Z",
+          "wordCount": null,
+          "title": "【作業配信】まったり歌練習「ちゅ、多様性。」「酔いどれ知らず」「Overdose」【#かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DSrrtVmUO24",
           "author": null,
@@ -2625,6 +2635,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OeUf_KfYRrwksschtRYow",
       "siteUrl": "https://www.youtube.com/channel/UC4OeUf_KfYRrwksschtRYow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5jrHeI4T7Sw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5jrHeI4T7Sw",
+          "publishedOn": "2023-03-20T12:00:08.000Z",
+          "wordCount": null,
+          "title": "【#shorts 】幽霊東京 / Ayase feat.初音ミク【#花鋏キョウ #歌ってみた 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9cg2oK4INiQ",
           "author": null,
