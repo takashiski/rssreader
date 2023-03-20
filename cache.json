@@ -2432,16 +2432,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AqYEI5KXoew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AqYEI5KXoew",
-          "publishedOn": "2023-03-20T13:22:59.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】カスタム参加、がんばるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=gqnnYIlL4ds",
           "author": null,
           "description": "",
@@ -2579,6 +2569,16 @@
           "publishedOn": "2023-02-23T22:41:04.000Z",
           "wordCount": null,
           "title": "【 朝活】もーにんぐあさでい🌤【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=eIXFiLf-tlA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eIXFiLf-tlA",
+          "publishedOn": "2023-02-22T16:50:49.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】ランクのお時間ですにゃ⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]

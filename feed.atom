@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T19:34:31.621Z</id>
+    <id>urn:2023-03-20T20:05:59.365Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T19:34:31.621Z</updated>
+    <updated>2023-03-20T20:05:59.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -75,15 +75,6 @@
         <updated>2023-03-20T13:56:00.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】カスタム参加、がんばるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=AqYEI5KXoew</id>
-        <link href="https://www.youtube.com/watch?v=AqYEI5KXoew"/>
-        <updated>2023-03-20T13:22:59.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2397,6 +2388,15 @@
         <updated>2023-02-23T11:00:45.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】ランクのお時間ですにゃ⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=eIXFiLf-tlA</id>
+        <link href="https://www.youtube.com/watch?v=eIXFiLf-tlA"/>
+        <updated>2023-02-22T16:50:49.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
