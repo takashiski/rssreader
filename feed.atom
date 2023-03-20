@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T13:36:06.943Z</id>
+    <id>urn:2023-03-20T14:05:55.947Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T13:36:06.943Z</updated>
+    <updated>2023-03-20T14:05:55.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ロードモバイル】参加型！わらわのピンチなのじゃ。。。⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=xhoozRkXlkw</id>
+        <link href="https://www.youtube.com/watch?v=xhoozRkXlkw"/>
+        <updated>2023-03-20T13:56:00.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】カスタム参加、がんばるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AqYEI5KXoew</id>
@@ -138,15 +147,6 @@
         <updated>2023-03-19T17:46:29.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【⚔️開園⚔️】キミ達に今日、集まってもらったのは他でもない.../参加型【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=2pCDGLcIKZM</id>
-        <link href="https://www.youtube.com/watch?v=2pCDGLcIKZM"/>
-        <updated>2023-03-19T16:54:01.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -669,6 +669,15 @@
         <updated>2023-03-15T12:43:05.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】はのが魔法で世界征服する日も近いってわけ【天川はの】#08]]></title>
+        <id>https://www.youtube.com/watch?v=WqxwzlVeN1s</id>
+        <link href="https://www.youtube.com/watch?v=WqxwzlVeN1s"/>
+        <updated>2023-03-15T12:15:10.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -2274,6 +2283,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【冒頭無料配信】天川はの1stワンマンライブ「ばぶってもライブできるもん！」 #天川はのばぶライブ]]></title>
+        <id>https://www.youtube.com/watch?v=OKxofKKpy0M</id>
+        <link href="https://www.youtube.com/watch?v=OKxofKKpy0M"/>
+        <updated>2023-02-25T10:32:31.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #ホグワーツレガシー 】授業授業授業#3【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=U__--QuEOI4</id>
         <link href="https://www.youtube.com/watch?v=U__--QuEOI4"/>
@@ -2343,15 +2361,6 @@
         <updated>2023-02-24T12:00:12.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】久しぶりの朝活！ねむねむじゃけどおはなしするぞ☀【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kKU4hl69ie4</id>
-        <link href="https://www.youtube.com/watch?v=kKU4hl69ie4"/>
-        <updated>2023-02-24T02:10:05.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
