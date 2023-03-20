@@ -581,6 +581,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zDMFSwy3Pbg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zDMFSwy3Pbg",
+          "publishedOn": "2023-03-20T10:27:23.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FAH1BrVywXE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FAH1BrVywXE",
+          "publishedOn": "2023-03-20T10:13:21.000Z",
+          "wordCount": null,
+          "title": "【雑談】リスナー参加型！趣味プレゼン大会！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3sGqo70hnaw",
           "author": null,
           "description": "",
@@ -708,26 +728,6 @@
           "publishedOn": "2023-03-12T18:21:17.000Z",
           "wordCount": null,
           "title": "【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=andHY575hm0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=andHY575hm0",
-          "publishedOn": "2023-03-12T09:54:48.000Z",
-          "wordCount": null,
-          "title": "アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Wn_vmfujtec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Wn_vmfujtec",
-          "publishedOn": "2023-03-11T18:39:54.000Z",
-          "wordCount": null,
-          "title": "【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２達成ありがとう！！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2098,13 +2098,23 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YCBMvBszOXw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YCBMvBszOXw",
+          "publishedOn": "2023-03-20T10:21:49.000Z",
+          "wordCount": null,
+          "title": "【メンバー求】「賞金50万円」でみんなに幸せを届けたい！ロードモバイル×えるすりー【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=77lrNV8532c",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=77lrNV8532c",
           "publishedOn": "2023-03-17T17:30:00.000Z",
           "wordCount": null,
-          "title": "【協力求】「ロードモバイル」で勝てば賞金50万円！？【VTuber/姫熊りぼん】",
+          "title": "【協力求】「ロードモバイル」で勝てば賞金50万円！？Lords Mobile【VTuber/姫熊りぼん】",
           "imageUrl": null
         },
         {
@@ -2235,16 +2245,6 @@
           "publishedOn": "2023-03-03T14:02:46.000Z",
           "wordCount": null,
           "title": "豪華ゲスト有！ 歌って踊る宇宙熊バーチャルアイドルの誕生日 #姫熊りぼん生誕2023【120歳】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FiYmIbOXzzc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FiYmIbOXzzc",
-          "publishedOn": "2023-03-03T13:30:07.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】ガチャガチャきゅ～と・ふぃぎゅ@メイト【covered by 姫熊りぼん】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T10:06:15.013Z</id>
+    <id>urn:2023-03-20T10:36:33.285Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T10:06:15.013Z</updated>
+    <updated>2023-03-20T10:36:33.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=zDMFSwy3Pbg</id>
+        <link href="https://www.youtube.com/watch?v=zDMFSwy3Pbg"/>
+        <updated>2023-03-20T10:27:23.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【メンバー求】「賞金50万円」でみんなに幸せを届けたい！ロードモバイル×えるすりー【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=YCBMvBszOXw</id>
+        <link href="https://www.youtube.com/watch?v=YCBMvBszOXw"/>
+        <updated>2023-03-20T10:21:49.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】リスナー参加型！趣味プレゼン大会！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FAH1BrVywXE</id>
+        <link href="https://www.youtube.com/watch?v=FAH1BrVywXE"/>
+        <updated>2023-03-20T10:13:21.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【睡眠導入】ピアノオンリー歌枠🎹Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=mADA8ajwX3k</id>
@@ -303,7 +330,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【協力求】「ロードモバイル」で勝てば賞金50万円！？【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【協力求】「ロードモバイル」で勝てば賞金50万円！？Lords Mobile【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=77lrNV8532c</id>
         <link href="https://www.youtube.com/watch?v=77lrNV8532c"/>
         <updated>2023-03-17T17:30:00.000Z</updated>
@@ -996,15 +1023,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=andHY575hm0</id>
-        <link href="https://www.youtube.com/watch?v=andHY575hm0"/>
-        <updated>2023-03-12T09:54:48.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
         <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
@@ -1038,15 +1056,6 @@
         <updated>2023-03-11T21:40:28.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4530人耐久/singing】初見さん大歓迎！お歌枠！KARAOKE！２達成ありがとう！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Wn_vmfujtec</id>
-        <link href="https://www.youtube.com/watch?v=Wn_vmfujtec"/>
-        <updated>2023-03-11T18:39:54.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1837,15 +1846,6 @@
         <id>https://www.youtube.com/watch?v=045_HWUc1Yc</id>
         <link href="https://www.youtube.com/watch?v=045_HWUc1Yc"/>
         <updated>2023-03-03T14:02:46.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】ガチャガチャきゅ～と・ふぃぎゅ@メイト【covered by 姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=FiYmIbOXzzc</id>
-        <link href="https://www.youtube.com/watch?v=FiYmIbOXzzc"/>
-        <updated>2023-03-03T13:30:07.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
