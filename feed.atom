@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T14:05:55.947Z</id>
+    <id>urn:2023-03-20T14:35:48.524Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T14:05:55.947Z</updated>
+    <updated>2023-03-20T14:35:48.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【⚔️開園⚔️】キミ達に今日、集まってもらったのは他でもない.../参加型【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=2pCDGLcIKZM</id>
+        <link href="https://www.youtube.com/watch?v=2pCDGLcIKZM"/>
+        <updated>2023-03-20T14:28:51.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【作業配信】まったり歌練習「ちゅ、多様性。」「酔いどれ知らず」「Overdose」【#かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=WnnqnEnNs1A</id>
+        <link href="https://www.youtube.com/watch?v=WnnqnEnNs1A"/>
+        <updated>2023-03-20T14:27:17.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🔆朝活】めっちゃ健康で充実した毎日を送る子供🐤初見さん歓迎【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=FEqHNcSOygE</id>
+        <link href="https://www.youtube.com/watch?v=FEqHNcSOygE"/>
+        <updated>2023-03-20T14:02:40.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ロードモバイル】参加型！わらわのピンチなのじゃ。。。⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xhoozRkXlkw</id>
@@ -60,28 +87,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【作業配信】まったり歌練習「ちゅ、多様性。」「酔いどれ知らず」「Overdose」【#かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WnnqnEnNs1A</id>
-        <link href="https://www.youtube.com/watch?v=WnnqnEnNs1A"/>
-        <updated>2023-03-20T11:54:25.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=zDMFSwy3Pbg</id>
         <link href="https://www.youtube.com/watch?v=zDMFSwy3Pbg"/>
         <updated>2023-03-20T10:27:23.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】リスナー参加型！趣味プレゼン大会！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=FAH1BrVywXE</id>
-        <link href="https://www.youtube.com/watch?v=FAH1BrVywXE"/>
-        <updated>2023-03-20T10:13:21.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -102,15 +111,6 @@
         <updated>2023-03-20T09:19:32.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OVCフェスLIVEウラ話]]></title>
-        <id>https://www.youtube.com/watch?v=eT3a3oH7WoQ</id>
-        <link href="https://www.youtube.com/watch?v=eT3a3oH7WoQ"/>
-        <updated>2023-03-20T09:05:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1056,6 +1056,15 @@
         <updated>2023-03-12T11:00:15.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=andHY575hm0</id>
+        <link href="https://www.youtube.com/watch?v=andHY575hm0"/>
+        <updated>2023-03-12T09:54:48.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2166,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[初🎊ワンマンライブ🎤後の振り返りおしゃべり【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=of-tscDzaxU</id>
-        <link href="https://www.youtube.com/watch?v=of-tscDzaxU"/>
-        <updated>2023-02-26T16:09:02.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
         <link href="https://www.youtube.com/watch?v=zqyXDYBYLpI"/>
@@ -2283,21 +2283,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【冒頭無料配信】天川はの1stワンマンライブ「ばぶってもライブできるもん！」 #天川はのばぶライブ]]></title>
-        <id>https://www.youtube.com/watch?v=OKxofKKpy0M</id>
-        <link href="https://www.youtube.com/watch?v=OKxofKKpy0M"/>
-        <updated>2023-02-25T10:32:31.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #ホグワーツレガシー 】授業授業授業#3【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=U__--QuEOI4</id>
         <link href="https://www.youtube.com/watch?v=U__--QuEOI4"/>
         <updated>2023-02-25T08:45:48.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠┊︎singing 】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=klMsVcSdPRU</id>
+        <link href="https://www.youtube.com/watch?v=klMsVcSdPRU"/>
+        <updated>2023-02-25T06:34:40.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
