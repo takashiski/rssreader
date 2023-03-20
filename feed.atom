@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T17:34:28.983Z</id>
+    <id>urn:2023-03-20T18:06:18.101Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T17:34:28.983Z</updated>
+    <updated>2023-03-20T18:06:18.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【睡眠導入】ピアノオンリー歌枠🎹Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=mADA8ajwX3k</id>
+        <link href="https://www.youtube.com/watch?v=mADA8ajwX3k"/>
+        <updated>2023-03-20T17:56:08.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=XINxbGl1Wng</id>
@@ -75,15 +84,6 @@
         <updated>2023-03-20T13:19:00.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／歌枠リレーお疲れさまだあああ🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ijsrh1-634I</id>
-        <link href="https://www.youtube.com/watch?v=ijsrh1-634I"/>
-        <updated>2023-03-20T12:53:58.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -2112,6 +2112,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ゲリラ深夜歌枠🎤今日も歌うよおおお【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AxTc96l5M88</id>
+        <link href="https://www.youtube.com/watch?v=AxTc96l5M88"/>
+        <updated>2023-02-28T19:42:33.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[謝罪]]></title>
         <id>https://www.youtube.com/watch?v=aJ6wsJvDSwQ</id>
         <link href="https://www.youtube.com/watch?v=aJ6wsJvDSwQ"/>
@@ -2397,15 +2406,6 @@
         <updated>2023-02-22T15:38:51.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠┊︎singing 】アニソン歌姫オンリー︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=gNdofgt2zIM</id>
-        <link href="https://www.youtube.com/watch?v=gNdofgt2zIM"/>
-        <updated>2023-02-22T14:24:34.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
