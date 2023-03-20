@@ -581,6 +581,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FAH1BrVywXE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FAH1BrVywXE",
+          "publishedOn": "2023-03-20T15:19:31.000Z",
+          "wordCount": null,
+          "title": "【雑談】リスナー参加型！趣味プレゼン大会！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zDMFSwy3Pbg",
           "author": null,
           "description": "",
@@ -718,16 +728,6 @@
           "publishedOn": "2023-03-12T18:21:17.000Z",
           "wordCount": null,
           "title": "【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=andHY575hm0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=andHY575hm0",
-          "publishedOn": "2023-03-12T09:54:48.000Z",
-          "wordCount": null,
-          "title": "アキネーターリベンジ！ #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #アキネーター #shorts",
           "imageUrl": null
         }
       ]
@@ -1209,16 +1209,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=XINxbGl1Wng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XINxbGl1Wng",
-          "publishedOn": "2023-03-20T09:19:32.000Z",
-          "wordCount": null,
-          "title": "◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
           "author": null,
           "description": "",
@@ -1356,6 +1346,16 @@
           "publishedOn": "2023-02-28T00:18:40.000Z",
           "wordCount": null,
           "title": "◆ 朝歌枠 ◆ 初見さん歓迎✨/ 僕と一緒に二度寝しちゃう？♡い～や、歌う。【九楽ライ/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GgnDlaazoQA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GgnDlaazoQA",
+          "publishedOn": "2023-02-26T08:07:20.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing / 日曜の元気に歌う定期歌枠✨ちょっと聞いてくかい！？ /karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
