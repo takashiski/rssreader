@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-20T13:10:11.603Z</id>
+    <id>urn:2023-03-20T13:36:06.943Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T13:10:11.603Z</updated>
+    <updated>2023-03-20T13:36:06.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】カスタム参加、がんばるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AqYEI5KXoew</id>
+        <link href="https://www.youtube.com/watch?v=AqYEI5KXoew"/>
+        <updated>2023-03-20T13:22:59.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】弾き語りの時間～～！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=wpc9WCKjbIU</id>
+        <link href="https://www.youtube.com/watch?v=wpc9WCKjbIU"/>
+        <updated>2023-03-20T13:19:00.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／歌枠リレーお疲れさまだあああ🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ijsrh1-634I</id>
@@ -2067,15 +2085,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】３月最初のおうた！春の歌とかうたいたいな🌸【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=lO9Sb8KrWyY</id>
-        <link href="https://www.youtube.com/watch?v=lO9Sb8KrWyY"/>
-        <updated>2023-03-01T12:22:55.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠┊︎singing 】デビュー200日記念 ✧ Karaoke【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=2C4KdxJ3dnM</id>
         <link href="https://www.youtube.com/watch?v=2C4KdxJ3dnM"/>
@@ -2379,15 +2388,6 @@
         <updated>2023-02-23T11:00:45.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】ランクのお時間ですにゃ⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=eIXFiLf-tlA</id>
-        <link href="https://www.youtube.com/watch?v=eIXFiLf-tlA"/>
-        <updated>2023-02-22T16:50:49.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
