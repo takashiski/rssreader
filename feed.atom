@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T00:50:10.322Z</id>
+    <id>urn:2023-03-21T01:32:36.662Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T00:50:10.322Z</updated>
+    <updated>2023-03-21T01:32:36.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🔆朝活】めっちゃ健康で充実した毎日を送る子供🐤初見さん歓迎【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=FEqHNcSOygE</id>
+        <link href="https://www.youtube.com/watch?v=FEqHNcSOygE"/>
+        <updated>2023-03-21T01:03:29.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】カスタム参加、がんばるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AqYEI5KXoew</id>
@@ -2166,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[初🎊ワンマンライブ🎤後の振り返りおしゃべり【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=of-tscDzaxU</id>
-        <link href="https://www.youtube.com/watch?v=of-tscDzaxU"/>
-        <updated>2023-02-26T16:09:02.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
         <link href="https://www.youtube.com/watch?v=zqyXDYBYLpI"/>
@@ -2442,15 +2442,6 @@
         <updated>2023-02-19T14:32:53.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #もふもふらわぁ 】Ben and Ed - Blood Party！頭だけになってもゴールしたい🧠【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=5y-yDpth8bw</id>
-        <link href="https://www.youtube.com/watch?v=5y-yDpth8bw"/>
-        <updated>2023-02-19T13:09:59.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
