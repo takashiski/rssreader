@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T11:05:34.973Z</id>
+    <id>urn:2023-03-21T11:34:15.844Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T11:05:34.973Z</updated>
+    <updated>2023-03-21T11:34:15.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2023-03-21T09:55:26.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】気圧に負けない、、弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=RfUeGGU1Ss4</id>
-        <link href="https://www.youtube.com/watch?v=RfUeGGU1Ss4"/>
-        <updated>2023-03-21T09:10:33.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -2040,6 +2031,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌ってみた】Subtitle／Official髭男dism(cover)【#彩雲のの/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JeVyjxDD804</id>
+        <link href="https://www.youtube.com/watch?v=JeVyjxDD804"/>
+        <updated>2023-03-02T12:00:07.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[アイタリナイ / MAISONdes #shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=e1F4B72UhfE</id>
         <link href="https://www.youtube.com/watch?v=e1F4B72UhfE"/>
@@ -2424,15 +2424,6 @@
         <updated>2023-02-20T16:03:16.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=4vIEArkjEV0</id>
-        <link href="https://www.youtube.com/watch?v=4vIEArkjEV0"/>
-        <updated>2023-02-19T23:15:45.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
