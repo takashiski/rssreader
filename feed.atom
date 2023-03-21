@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T10:06:11.426Z</id>
+    <id>urn:2023-03-21T10:34:38.904Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T10:06:11.426Z</updated>
+    <updated>2023-03-21T10:34:38.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！元気が出る枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=qXw76SS6Es0</id>
+        <link href="https://www.youtube.com/watch?v=qXw76SS6Es0"/>
+        <updated>2023-03-21T10:15:23.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと４日！ - Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vRzjbOfUlEg</id>
+        <link href="https://www.youtube.com/watch?v=vRzjbOfUlEg"/>
+        <updated>2023-03-21T09:55:26.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】気圧に負けない、、弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=RfUeGGU1Ss4</id>
@@ -975,15 +993,6 @@
         <updated>2023-03-12T18:32:28.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9hQBCD8dgWI</id>
-        <link href="https://www.youtube.com/watch?v=9hQBCD8dgWI"/>
-        <updated>2023-03-12T18:21:17.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2289,15 +2298,6 @@
         <updated>2023-02-25T08:45:48.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠┊︎singing 】ランチタイム歌雑談︙KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=klMsVcSdPRU</id>
-        <link href="https://www.youtube.com/watch?v=klMsVcSdPRU"/>
-        <updated>2023-02-25T06:34:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
