@@ -581,16 +581,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=qXw76SS6Es0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qXw76SS6Es0",
-          "publishedOn": "2023-03-21T10:15:23.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！元気が出る枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=FAH1BrVywXE",
           "author": null,
           "description": "",
@@ -728,6 +718,16 @@
           "publishedOn": "2023-03-12T18:43:46.000Z",
           "wordCount": null,
           "title": "【雑談/free talk】初見さん大歓迎！！ゆったりしよ～！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9hQBCD8dgWI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9hQBCD8dgWI",
+          "publishedOn": "2023-03-12T18:21:17.000Z",
+          "wordCount": null,
+          "title": "【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
