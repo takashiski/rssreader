@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T20:34:35.838Z</id>
+    <id>urn:2023-03-21T21:05:38.915Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T20:34:35.838Z</updated>
+    <updated>2023-03-21T21:05:38.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！元気が出る枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=qXw76SS6Es0</id>
+        <link href="https://www.youtube.com/watch?v=qXw76SS6Es0"/>
+        <updated>2023-03-21T21:03:10.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】みんなの歌ってほしい曲を歌う⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=9gdOJfiiuWQ</id>
@@ -1020,15 +1029,6 @@
         <updated>2023-03-12T18:32:28.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7ヶ月記念】視聴者参加型！マリオカート8DXで7勝するまで耐久！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9hQBCD8dgWI</id>
-        <link href="https://www.youtube.com/watch?v=9hQBCD8dgWI"/>
-        <updated>2023-03-12T18:21:17.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
