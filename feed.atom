@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T23:05:45.941Z</id>
+    <id>urn:2023-03-21T23:34:26.640Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T23:05:45.941Z</updated>
+    <updated>2023-03-21T23:34:26.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】気圧に負けない、、弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=RfUeGGU1Ss4</id>
+        <link href="https://www.youtube.com/watch?v=RfUeGGU1Ss4"/>
+        <updated>2023-03-21T23:26:30.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと３日！ - Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=dpNNP1vwTQU</id>
@@ -1974,15 +1983,6 @@
         <updated>2023-03-03T06:36:19.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】デビュー１１か月記念日❤❤❤【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NwJOPkGgRtk</id>
-        <link href="https://www.youtube.com/watch?v=NwJOPkGgRtk"/>
-        <updated>2023-03-02T23:16:40.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
