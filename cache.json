@@ -1052,6 +1052,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_6JGIZ2Zgkc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_6JGIZ2Zgkc",
+          "publishedOn": "2023-03-21T06:21:44.000Z",
+          "wordCount": null,
+          "title": "【 スイーツプッシャーフレンズ 】お菓子を救う。  #いるりす 柚原いづみ / 大浦るかこ / 姫熊りぼん【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
           "author": null,
           "description": "",
@@ -1189,16 +1199,6 @@
           "publishedOn": "2023-03-05T13:24:25.000Z",
           "wordCount": null,
           "title": "【 一週間まいにち歌枠 】 「11ヶ月記念歌枠 Anniversary」🎈 KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2GwakHpgElY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2GwakHpgElY",
-          "publishedOn": "2023-03-05T11:30:11.000Z",
-          "wordCount": null,
-          "title": "キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T06:06:26.840Z</id>
+    <id>urn:2023-03-21T06:35:32.862Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T06:06:26.841Z</updated>
+    <updated>2023-03-21T06:35:32.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 スイーツプッシャーフレンズ 】お菓子を救う。  #いるりす 柚原いづみ / 大浦るかこ / 姫熊りぼん【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=_6JGIZ2Zgkc</id>
+        <link href="https://www.youtube.com/watch?v=_6JGIZ2Zgkc"/>
+        <updated>2023-03-21T06:21:44.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🔆朝活】めっちゃ健康で充実した毎日を送る子供🐤初見さん歓迎【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=FEqHNcSOygE</id>
@@ -1713,15 +1722,6 @@
         <updated>2023-03-05T11:58:48.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キミの記憶 - ペルソナ3 ED  (covered by 稀羽すう) 【歌ってみた】]]></title>
-        <id>https://www.youtube.com/watch?v=2GwakHpgElY</id>
-        <link href="https://www.youtube.com/watch?v=2GwakHpgElY"/>
-        <updated>2023-03-05T11:30:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
