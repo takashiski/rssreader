@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T14:34:22.981Z</id>
+    <id>urn:2023-03-21T15:05:41.029Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T14:34:22.981Z</updated>
+    <updated>2023-03-21T15:05:41.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ゲリラ歌枠！のんびりお歌たいむ【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ox7PtRHXyuA</id>
+        <link href="https://www.youtube.com/watch?v=Ox7PtRHXyuA"/>
+        <updated>2023-03-21T14:47:34.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 スイーツプッシャーフレンズ 】お菓子を救う。  #いるりす 柚原いづみ / 大浦るかこ / 姫熊りぼん【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=_6JGIZ2Zgkc</id>
@@ -2073,15 +2082,6 @@
         <updated>2023-03-01T21:53:23.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／デビュー200日経ったらしい！！今日もお歌🎤【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2jlqb790dPE</id>
-        <link href="https://www.youtube.com/watch?v=2jlqb790dPE"/>
-        <updated>2023-03-01T19:32:49.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
