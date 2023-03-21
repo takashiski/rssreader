@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-21T09:05:52.586Z</id>
+    <id>urn:2023-03-21T09:34:26.115Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-21T09:05:52.586Z</updated>
+    <updated>2023-03-21T09:34:26.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】弾き語りの時間～～！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=RfUeGGU1Ss4</id>
+        <link href="https://www.youtube.com/watch?v=RfUeGGU1Ss4"/>
+        <updated>2023-03-21T09:10:33.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ゆるゲー】ゲームセンターにある「アレ」でコラボしてみた！　#いるりす　 /スイーツプッシャーフレンズ【柚原いづみ/大浦るかこ/稀羽すう/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=spWYg6Nc_cs</id>
@@ -2019,15 +2028,6 @@
         <updated>2023-03-02T13:12:34.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】Subtitle／Official髭男dism(cover)【#彩雲のの/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JeVyjxDD804</id>
-        <link href="https://www.youtube.com/watch?v=JeVyjxDD804"/>
-        <updated>2023-03-02T12:00:07.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
