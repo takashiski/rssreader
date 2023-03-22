@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T20:05:48.147Z</id>
+    <id>urn:2023-03-22T20:34:45.385Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T20:05:48.147Z</updated>
+    <updated>2023-03-22T20:34:45.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】すーぱーかいぬし様限定☁ Only for Superkainushi. 【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hEKasJm1D3k</id>
+        <link href="https://www.youtube.com/watch?v=hEKasJm1D3k"/>
+        <updated>2023-03-22T20:26:57.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hMMZaVgNJIU</id>
+        <link href="https://www.youtube.com/watch?v=hMMZaVgNJIU"/>
+        <updated>2023-03-22T20:24:47.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=WDzRJP0Esec</id>
+        <link href="https://www.youtube.com/watch?v=WDzRJP0Esec"/>
+        <updated>2023-03-22T20:22:38.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=CDvnvuoDHR8</id>
+        <link href="https://www.youtube.com/watch?v=CDvnvuoDHR8"/>
+        <updated>2023-03-22T20:21:55.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【睡眠導入/singing】眠れない子が集まる場所。KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8POx7rX75_U</id>
@@ -2364,15 +2400,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=46VL3Lz2f1o</id>
-        <link href="https://www.youtube.com/watch?v=46VL3Lz2f1o"/>
-        <updated>2023-02-24T13:47:39.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【勇者の選択肢がおかしい】おかしな選択肢には慣れてますからっ！！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=bncdrlb-CvU</id>
         <link href="https://www.youtube.com/watch?v=bncdrlb-CvU"/>
@@ -2433,15 +2460,6 @@
         <updated>2023-02-22T15:38:51.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=mYQj1CUMHF0</id>
-        <link href="https://www.youtube.com/watch?v=mYQj1CUMHF0"/>
-        <updated>2023-02-21T13:45:19.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
