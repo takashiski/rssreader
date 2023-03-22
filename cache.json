@@ -591,16 +591,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=8POx7rX75_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8POx7rX75_U",
-          "publishedOn": "2023-03-22T10:40:41.000Z",
-          "wordCount": null,
-          "title": "【睡眠導入/singing】眠れない子が集まる場所。KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=gPahpnuoRdg",
           "author": null,
           "description": "",
@@ -738,6 +728,16 @@
           "publishedOn": "2023-03-14T18:17:56.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】ホワイトデー！可愛い曲縛り🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=N_HClWOZlts",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=N_HClWOZlts",
+          "publishedOn": "2023-03-13T18:48:06.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！新曲持ってきた！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
