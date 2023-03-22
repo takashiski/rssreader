@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T05:06:06.232Z</id>
+    <id>urn:2023-03-22T05:34:14.938Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T05:06:06.232Z</updated>
+    <updated>2023-03-22T05:34:14.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【👂ASMR】シャンプーしてあげますからね【Shampoo/Water Sounds/EarMassage/Whispering/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=aCTbFxfn3AM</id>
+        <link href="https://www.youtube.com/watch?v=aCTbFxfn3AM"/>
+        <updated>2023-03-22T05:08:49.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】試練を受けるので最強にして下さいぃ…【天川はの】#08]]></title>
+        <id>https://www.youtube.com/watch?v=GHAE7amPkWo</id>
+        <link href="https://www.youtube.com/watch?v=GHAE7amPkWo"/>
+        <updated>2023-03-22T05:06:06.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】春になったね【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=kE8gRM-J8kg</id>
@@ -2130,15 +2148,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】あ～また厄介ごとに巻き込まれちゃぁったぁ【天川はの】#03]]></title>
-        <id>https://www.youtube.com/watch?v=7bzFi1tNFbg</id>
-        <link href="https://www.youtube.com/watch?v=7bzFi1tNFbg"/>
-        <updated>2023-03-01T14:57:19.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】ついに下層部…❣かっこいい＆かわいい新人ちゃんたちもたくさんだから育成したい💕つよつよかんぱにー目指す💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7EH-Gv64BuE</id>
         <link href="https://www.youtube.com/watch?v=7EH-Gv64BuE"/>
@@ -2172,15 +2181,6 @@
         <updated>2023-02-28T19:43:52.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謝罪]]></title>
-        <id>https://www.youtube.com/watch?v=aJ6wsJvDSwQ</id>
-        <link href="https://www.youtube.com/watch?v=aJ6wsJvDSwQ"/>
-        <updated>2023-02-28T00:48:36.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
