@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T09:05:52.130Z</id>
+    <id>urn:2023-03-22T09:34:23.580Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T09:05:52.130Z</updated>
+    <updated>2023-03-22T09:34:23.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,15 +30,6 @@
         <updated>2023-03-22T05:06:06.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】春になったね【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kE8gRM-J8kg</id>
-        <link href="https://www.youtube.com/watch?v=kE8gRM-J8kg"/>
-        <updated>2023-03-22T04:39:06.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2278,6 +2269,15 @@
         <id>https://www.youtube.com/watch?v=CwHtSRf-kHE</id>
         <link href="https://www.youtube.com/watch?v=CwHtSRf-kHE"/>
         <updated>2023-02-26T03:08:58.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】花粉やべえって 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=D1z-nimckcs</id>
+        <link href="https://www.youtube.com/watch?v=D1z-nimckcs"/>
+        <updated>2023-02-26T02:32:52.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
         </author>
