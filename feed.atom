@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T12:43:00.163Z</id>
+    <id>urn:2023-03-22T13:08:21.133Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T12:43:00.163Z</updated>
+    <updated>2023-03-22T13:08:21.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡歌と来期アニメについてちょびっと語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gCoO_UGAHUI</id>
+        <link href="https://www.youtube.com/watch?v=gCoO_UGAHUI"/>
+        <updated>2023-03-22T13:02:50.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】超絶気持ちいい耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=5u8CbJdGXuU</id>
+        <link href="https://www.youtube.com/watch?v=5u8CbJdGXuU"/>
+        <updated>2023-03-22T13:00:42.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春！日本優勝めでたいので歌う！【#かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=i25NC1ICDTM</id>
+        <link href="https://www.youtube.com/watch?v=i25NC1ICDTM"/>
+        <updated>2023-03-22T12:36:04.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがカタオモイを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
         <id>https://www.youtube.com/watch?v=AS7xZ8MONK0</id>
@@ -2220,15 +2247,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【参加型】まったく何もわかっていないゲームだけどなんか楽しそう！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=wUw9QGH-XzY</id>
-        <link href="https://www.youtube.com/watch?v=wUw9QGH-XzY"/>
-        <updated>2023-02-26T14:14:55.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=F1WMA0ir0VY</id>
         <link href="https://www.youtube.com/watch?v=F1WMA0ir0VY"/>
@@ -2289,15 +2307,6 @@
         <updated>2023-02-25T16:42:09.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=KvdcPLbINfM</id>
-        <link href="https://www.youtube.com/watch?v=KvdcPLbINfM"/>
-        <updated>2023-02-25T16:13:24.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>

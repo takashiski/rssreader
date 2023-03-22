@@ -1403,6 +1403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i25NC1ICDTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i25NC1ICDTM",
+          "publishedOn": "2023-03-22T12:36:04.000Z",
+          "wordCount": null,
+          "title": "春！日本優勝めでたいので歌う！【#かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WnnqnEnNs1A",
           "author": null,
           "description": "",
@@ -2703,6 +2713,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gCoO_UGAHUI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gCoO_UGAHUI",
+          "publishedOn": "2023-03-22T13:02:50.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】初見さん大歓迎期間♡歌と来期アニメについてちょびっと語る！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=5u8CbJdGXuU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5u8CbJdGXuU",
+          "publishedOn": "2023-03-22T13:00:42.000Z",
+          "wordCount": null,
+          "title": "【ASMR】超絶気持ちいい耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4_-bbR_5vTc",
           "author": null,
           "description": "",
@@ -2830,26 +2860,6 @@
           "publishedOn": "2023-03-01T13:51:28.000Z",
           "wordCount": null,
           "title": "【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストはブルーロック好きな全人類！【宇佐美ユノ / 全人類 / vtuber】～このサムネ可愛くない？？を添えて～",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wUw9QGH-XzY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wUw9QGH-XzY",
-          "publishedOn": "2023-02-26T14:14:55.000Z",
-          "wordCount": null,
-          "title": "【参加型】まったく何もわかっていないゲームだけどなんか楽しそう！ #fingger 【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KvdcPLbINfM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KvdcPLbINfM",
-          "publishedOn": "2023-02-25T16:13:24.000Z",
-          "wordCount": null,
-          "title": "【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
