@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T13:34:25.120Z</id>
+    <id>urn:2023-03-22T14:05:59.703Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T13:34:25.120Z</updated>
+    <updated>2023-03-22T14:05:59.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと３日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=dpNNP1vwTQU</id>
+        <link href="https://www.youtube.com/watch?v=dpNNP1vwTQU"/>
+        <updated>2023-03-22T13:58:26.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】試練を受けるので最強にして下さいぃ…【天川はの】#08]]></title>
+        <id>https://www.youtube.com/watch?v=GHAE7amPkWo</id>
+        <link href="https://www.youtube.com/watch?v=GHAE7amPkWo"/>
+        <updated>2023-03-22T13:47:28.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】耳責め！睡眠導入♡音圧ごりごり耳かきはいかが？【Ear Cleaning/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=4jXhXkYmsXE</id>
+        <link href="https://www.youtube.com/watch?v=4jXhXkYmsXE"/>
+        <updated>2023-03-22T13:44:29.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【復帰配信】ただいまー♡配信復活だっ🗝💭💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_SLIKsRAhIU</id>
@@ -105,15 +132,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】試練を受けるので最強にして下さいぃ…【天川はの】#08]]></title>
-        <id>https://www.youtube.com/watch?v=GHAE7amPkWo</id>
-        <link href="https://www.youtube.com/watch?v=GHAE7amPkWo"/>
-        <updated>2023-03-22T05:06:06.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WBC決勝戦同時視聴！inアマプラ⚡日本VSアメリカ！！みるぞーーー！！【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=6LJ9fBrwFFM</id>
         <link href="https://www.youtube.com/watch?v=6LJ9fBrwFFM"/>
@@ -123,7 +141,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと４日！ - Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vRzjbOfUlEg</id>
         <link href="https://www.youtube.com/watch?v=vRzjbOfUlEg"/>
         <updated>2023-03-22T01:32:52.000Z</updated>
@@ -138,15 +156,6 @@
         <updated>2023-03-21T23:26:30.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと３日！ - Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=dpNNP1vwTQU</id>
-        <link href="https://www.youtube.com/watch?v=dpNNP1vwTQU"/>
-        <updated>2023-03-21T23:05:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1920,15 +1929,6 @@
         <updated>2023-03-04T18:59:54.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】99.9%の人が眠れるかもしれないリラックスできる睡眠導入♡【Ear Cleaning/Whispering/耳かき/耳ふー】]]></title>
-        <id>https://www.youtube.com/watch?v=FAObRbh5VD4</id>
-        <link href="https://www.youtube.com/watch?v=FAObRbh5VD4"/>
-        <updated>2023-03-04T18:40:18.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
