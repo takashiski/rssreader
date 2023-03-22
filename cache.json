@@ -581,6 +581,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gPahpnuoRdg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gPahpnuoRdg",
+          "publishedOn": "2023-03-22T10:00:24.000Z",
+          "wordCount": null,
+          "title": "魔法は完璧だが？ #新人vtuber #ゲーム実況 #ブルアカ #神輿たらん #るっくあっとたらん #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qXw76SS6Es0",
           "author": null,
           "description": "",
@@ -718,16 +728,6 @@
           "publishedOn": "2023-03-13T18:48:06.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！新曲持ってきた！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NTgxOBGIhSg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NTgxOBGIhSg",
-          "publishedOn": "2023-03-12T18:43:46.000Z",
-          "wordCount": null,
-          "title": "【雑談/free talk】初見さん大歓迎！！ゆったりしよ～！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
