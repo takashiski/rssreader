@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-22T14:05:59.703Z</id>
+    <id>urn:2023-03-22T14:34:35.634Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-22T14:05:59.703Z</updated>
+    <updated>2023-03-22T14:34:35.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[春！日本優勝めでたいので歌う！【#かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=i25NC1ICDTM</id>
+        <link href="https://www.youtube.com/watch?v=i25NC1ICDTM"/>
+        <updated>2023-03-22T14:16:25.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#朝活】初見歓迎◎100人とおはよう☀【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Kf8u3k8hqUs</id>
+        <link href="https://www.youtube.com/watch?v=Kf8u3k8hqUs"/>
+        <updated>2023-03-22T14:10:24.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと３日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=dpNNP1vwTQU</id>
@@ -66,15 +84,6 @@
         <updated>2023-03-22T13:00:42.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春！日本優勝めでたいので歌う！【#かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=i25NC1ICDTM</id>
-        <link href="https://www.youtube.com/watch?v=i25NC1ICDTM"/>
-        <updated>2023-03-22T12:36:04.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
@@ -1545,7 +1554,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【低難度!ハモリにつられるな】W/X/Y(Tani Yuuki)一緒に歌って？#shorts #かしこまり]]></title>
+        <title type="html"><![CDATA[【ハモリにつられるな】W/X/Y(Tani Yuuki)一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=CS750AyaOTY</id>
         <link href="https://www.youtube.com/watch?v=CS750AyaOTY"/>
         <updated>2023-03-09T11:00:07.000Z</updated>
@@ -2154,15 +2163,6 @@
         <updated>2023-03-02T11:00:33.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！おはよう言いにきて～！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=hrQfEKjQzW4</id>
-        <link href="https://www.youtube.com/watch?v=hrQfEKjQzW4"/>
-        <updated>2023-03-02T01:04:09.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
