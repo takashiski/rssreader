@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T16:38:50.695Z</id>
+    <id>urn:2023-03-23T17:05:45.623Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T16:38:50.695Z</updated>
+    <updated>2023-03-23T17:05:45.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【復帰配信】ただいまー♡配信復活だっ🗝💭💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_SLIKsRAhIU</id>
+        <link href="https://www.youtube.com/watch?v=_SLIKsRAhIU"/>
+        <updated>2023-03-23T16:53:34.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと２日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TZW4sgZ7FzQ</id>
