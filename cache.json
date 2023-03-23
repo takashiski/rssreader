@@ -581,6 +581,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TZlBWWT-xDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TZlBWWT-xDs",
+          "publishedOn": "2023-03-23T11:20:17.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8POx7rX75_U",
           "author": null,
           "description": "",
@@ -718,16 +728,6 @@
           "publishedOn": "2023-03-15T11:15:27.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！眠いから歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9JcidyCuK-A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9JcidyCuK-A",
-          "publishedOn": "2023-03-14T18:17:56.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】ホワイトデー！可愛い曲縛り🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1402,6 +1402,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-L_2stWfNE8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-L_2stWfNE8",
+          "publishedOn": "2023-03-23T11:00:00.000Z",
+          "wordCount": null,
+          "title": "【ハモリにつられるな】結束バンド「ギターと孤独と蒼い惑星」一緒に歌って？#shorts #かしこまり",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=i25NC1ICDTM",
           "author": null,
