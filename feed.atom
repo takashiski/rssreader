@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T04:06:02.191Z</id>
+    <id>urn:2023-03-23T04:35:11.467Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T04:06:02.191Z</updated>
+    <updated>2023-03-23T04:35:11.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iROJEU3efH0</id>
+        <link href="https://www.youtube.com/watch?v=iROJEU3efH0"/>
+        <updated>2023-03-23T04:19:48.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと２日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TZW4sgZ7FzQ</id>
@@ -2316,15 +2325,6 @@
         <updated>2023-02-26T11:00:32.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【販売促進】 今ならなんと！・・・・【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=CwHtSRf-kHE</id>
-        <link href="https://www.youtube.com/watch?v=CwHtSRf-kHE"/>
-        <updated>2023-02-26T03:08:58.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
