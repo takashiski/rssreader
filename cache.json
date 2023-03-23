@@ -367,6 +367,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TZW4sgZ7FzQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TZW4sgZ7FzQ",
+          "publishedOn": "2023-03-23T16:14:29.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】毎日歌枠 ✧ バースデーまであと２日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8Sj2xyVSe8k",
           "author": null,
           "description": "",
@@ -495,16 +505,6 @@
           "wordCount": null,
           "title": "【 歌枠┊︎SINGING 】リスナーの名前を奪う配信｜KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
-          "publishedOn": "2023-03-05T15:46:13.000Z",
-          "wordCount": null,
-          "title": "【 歌枠┊︎SINGING 】覚えたて楽曲 and more！KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】",
-          "imageUrl": null
         }
       ]
     },
@@ -513,16 +513,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi6nuuHhOj_usxkjlcHdRXw",
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=_SLIKsRAhIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_SLIKsRAhIU",
-          "publishedOn": "2023-03-22T13:23:07.000Z",
-          "wordCount": null,
-          "title": "【復帰配信】ただいまー♡配信復活だっ🗝💭💕【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=iSPEcCZeHSs",
           "author": null,
