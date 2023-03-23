@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T14:34:48.797Z</id>
+    <id>urn:2023-03-23T15:05:53.794Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T14:34:48.797Z</updated>
+    <updated>2023-03-23T15:05:53.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,15 +87,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【バトオペ2ガチャ？】えっ汎用グフ…！？お財布氷河期だから、見るだけ…見るだけ…/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=AkGCSEIOKrw</id>
-        <link href="https://www.youtube.com/watch?v=AkGCSEIOKrw"/>
-        <updated>2023-03-23T10:35:37.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】セバスチャンを止めたい運動【天川はの】#10]]></title>
         <id>https://www.youtube.com/watch?v=IYbpJyeDGHA</id>
         <link href="https://www.youtube.com/watch?v=IYbpJyeDGHA"/>
@@ -109,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
         <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
         <updated>2023-03-23T07:57:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メンバーシップ限定】だらだらだらだらｄｒｄｒｄｒｄｒｒ…デュララ！？！！？！？]]></title>
-        <id>https://www.youtube.com/watch?v=O6DNGUJLUxw</id>
-        <link href="https://www.youtube.com/watch?v=O6DNGUJLUxw"/>
-        <updated>2023-03-23T07:16:03.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
@@ -1842,6 +1824,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 一週間まいにち歌枠 】 「かわいくなりたい歌枠」♡ KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8dRswtcDyNI</id>
+        <link href="https://www.youtube.com/watch?v=8dRswtcDyNI"/>
+        <updated>2023-03-07T11:50:16.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#狐宵いなり デビュー！】3月10日(金)19:00よりデビュー初配信！【Re:AcT Gaming】]]></title>
         <id>https://www.youtube.com/watch?v=YPkzBjQnl9k</id>
         <link href="https://www.youtube.com/watch?v=YPkzBjQnl9k"/>
@@ -1983,6 +1974,15 @@
         <updated>2023-03-05T14:13:15.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【完全栄養食】視聴者参加型！最強のご飯選手権！！！【#ユノりぼ姉妹/Huel (ヒュエル)】]]></title>
+        <id>https://www.youtube.com/watch?v=GCBagQnJ1gU</id>
+        <link href="https://www.youtube.com/watch?v=GCBagQnJ1gU"/>
+        <updated>2023-03-05T11:58:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
