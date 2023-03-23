@@ -581,16 +581,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=TZlBWWT-xDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TZlBWWT-xDs",
-          "publishedOn": "2023-03-23T05:32:34.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=8POx7rX75_U",
           "author": null,
           "description": "",
@@ -728,6 +718,16 @@
           "publishedOn": "2023-03-15T11:15:27.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！眠いから歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9JcidyCuK-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9JcidyCuK-A",
+          "publishedOn": "2023-03-14T18:17:56.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】ホワイトデー！可愛い曲縛り🤍KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
