@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T03:34:39.619Z</id>
+    <id>urn:2023-03-23T04:06:02.191Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T03:34:39.619Z</updated>
+    <updated>2023-03-23T04:06:02.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと２日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=TZW4sgZ7FzQ</id>
+        <link href="https://www.youtube.com/watch?v=TZW4sgZ7FzQ"/>
+        <updated>2023-03-23T03:38:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】春になったね【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=kE8gRM-J8kg</id>
@@ -1974,15 +1983,6 @@
         <updated>2023-03-04T16:19:25.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】来てくれたリスナー描く｜DRAWING【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=7ThySE6EdNg</id>
-        <link href="https://www.youtube.com/watch?v=7ThySE6EdNg"/>
-        <updated>2023-03-04T16:05:12.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
