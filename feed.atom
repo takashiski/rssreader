@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T22:34:17.383Z</id>
+    <id>urn:2023-03-23T23:06:00.175Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T22:34:17.383Z</updated>
+    <updated>2023-03-23T23:06:00.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 朝活】朝になったぞ～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3MMBKDUyPRg</id>
+        <link href="https://www.youtube.com/watch?v=3MMBKDUyPRg"/>
+        <updated>2023-03-23T22:46:42.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】耳責め！睡眠導入♡音圧ごりごり耳かきはいかが？【Ear Cleaning/Whispering/睡眠導入/作業BGM】]]></title>
         <id>https://www.youtube.com/watch?v=4jXhXkYmsXE</id>
@@ -75,15 +84,6 @@
         <updated>2023-03-23T13:56:55.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 朝活】朝になったぞ～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3MMBKDUyPRg</id>
-        <link href="https://www.youtube.com/watch?v=3MMBKDUyPRg"/>
-        <updated>2023-03-23T13:56:50.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
