@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T07:34:12.196Z</id>
+    <id>urn:2023-03-23T08:06:35.751Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T07:34:12.196Z</updated>
+    <updated>2023-03-23T08:06:35.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
+        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
+        <updated>2023-03-23T07:57:11.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メンバーシップ限定】だらだらだらだらｄｒｄｒｄｒｄｒｒ…デュララ！？！！？！？]]></title>
         <id>https://www.youtube.com/watch?v=O6DNGUJLUxw</id>
@@ -1767,15 +1776,6 @@
         <updated>2023-03-07T12:00:39.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 一週間まいにち歌枠 】 「かわいくなりたい歌枠」♡ KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8dRswtcDyNI</id>
-        <link href="https://www.youtube.com/watch?v=8dRswtcDyNI"/>
-        <updated>2023-03-07T11:50:16.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
