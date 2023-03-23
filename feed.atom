@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T13:36:36.008Z</id>
+    <id>urn:2023-03-23T14:05:47.899Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T13:36:36.008Z</updated>
+    <updated>2023-03-23T14:05:47.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】楽しく "5000人” 耐久！！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=LufoT6FAvGI</id>
+        <link href="https://www.youtube.com/watch?v=LufoT6FAvGI"/>
+        <updated>2023-03-23T13:56:55.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 朝活】朝になったぞ～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3MMBKDUyPRg</id>
+        <link href="https://www.youtube.com/watch?v=3MMBKDUyPRg"/>
+        <updated>2023-03-23T13:56:50.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZhAbeW6cpBc</id>
+        <link href="https://www.youtube.com/watch?v=ZhAbeW6cpBc"/>
+        <updated>2023-03-23T13:44:15.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆初おうち３D歌枠✨ /sing / 一緒にカラオケいこっ♡待ち合わせは駅。 / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1n_TgkcJuoE</id>
@@ -64,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=IYbpJyeDGHA</id>
         <link href="https://www.youtube.com/watch?v=IYbpJyeDGHA"/>
         <updated>2023-03-23T08:45:03.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【👂ASMR】お耳ゼロ距離で癒しの時間をどうぞ？ガチ恋距離【EarCleaning/EarMassage/ASMR for sleep/Whispering/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=B_ETJZIlbjU</id>
-        <link href="https://www.youtube.com/watch?v=B_ETJZIlbjU"/>
-        <updated>2023-03-23T08:42:54.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
         </author>
@@ -1059,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！眠いから歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=66f2fpeo7Lw</id>
-        <link href="https://www.youtube.com/watch?v=66f2fpeo7Lw"/>
-        <updated>2023-03-15T11:15:27.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=vlfjB8n5DsI</id>
         <link href="https://www.youtube.com/watch?v=vlfjB8n5DsI"/>
@@ -1644,15 +1653,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
-        <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
-        <updated>2023-03-09T13:56:39.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=umBoEm-IlV4</id>
         <link href="https://www.youtube.com/watch?v=umBoEm-IlV4"/>
@@ -2175,6 +2175,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【👂ASMR】近所に住む幼馴染のお姉ちゃんが寝かしつけてくれそう【EarCleaning/ASMR for sleep/Whispering/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=vQcoPeUvO0g</id>
+        <link href="https://www.youtube.com/watch?v=vQcoPeUvO0g"/>
+        <updated>2023-03-02T15:49:13.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【moon】20年以上前のゲーム！？戦わない勇者の冒険…【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=OVXjoZiEnas</id>
         <link href="https://www.youtube.com/watch?v=OVXjoZiEnas"/>
@@ -2334,15 +2343,6 @@
         <updated>2023-02-26T12:24:44.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ]]></title>
-        <id>https://www.youtube.com/watch?v=_Og1Z4x2jWM</id>
-        <link href="https://www.youtube.com/watch?v=_Og1Z4x2jWM"/>
-        <updated>2023-02-26T11:00:32.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
