@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T07:05:46.366Z</id>
+    <id>urn:2023-03-23T07:34:12.196Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T07:05:46.366Z</updated>
+    <updated>2023-03-23T07:34:12.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【メンバーシップ限定】だらだらだらだらｄｒｄｒｄｒｄｒｒ…デュララ！？！！？！？]]></title>
+        <id>https://www.youtube.com/watch?v=O6DNGUJLUxw</id>
+        <link href="https://www.youtube.com/watch?v=O6DNGUJLUxw"/>
+        <updated>2023-03-23T07:16:03.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆初おうち３D歌枠✨ /sing / 一緒にカラオケいこっ♡待ち合わせは駅。 / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1n_TgkcJuoE</id>
@@ -1830,15 +1839,6 @@
         <updated>2023-03-06T16:34:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 一週間まいにち歌枠 】「Official髭男dism歌枠」👏 KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h2Kvkr5GZwI</id>
-        <link href="https://www.youtube.com/watch?v=h2Kvkr5GZwI"/>
-        <updated>2023-03-06T11:59:13.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
