@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T14:05:47.899Z</id>
+    <id>urn:2023-03-23T14:34:48.797Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T14:05:47.899Z</updated>
+    <updated>2023-03-23T14:34:48.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
+        <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
+        <updated>2023-03-23T14:03:31.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】楽しく "5000人” 耐久！！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LufoT6FAvGI</id>
@@ -2244,15 +2253,6 @@
         <updated>2023-03-01T14:40:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストはブルーロック好きな全人類！【宇佐美ユノ / 全人類 / vtuber】～このサムネ可愛くない？？を添えて～]]></title>
-        <id>https://www.youtube.com/watch?v=zis5aGxJiYM</id>
-        <link href="https://www.youtube.com/watch?v=zis5aGxJiYM"/>
-        <updated>2023-03-01T13:51:28.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
