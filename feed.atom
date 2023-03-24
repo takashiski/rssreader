@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T16:06:13.071Z</id>
+    <id>urn:2023-03-24T16:38:15.395Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T16:06:13.071Z</updated>
+    <updated>2023-03-24T16:38:15.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,30 +87,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】おつかれさまの癒しおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YYv_JGfWZR0</id>
-        <link href="https://www.youtube.com/watch?v=YYv_JGfWZR0"/>
-        <updated>2023-03-24T11:26:05.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[誕生日カウントダウン]]></title>
         <id>https://www.youtube.com/watch?v=p9hmrSGyorU</id>
         <link href="https://www.youtube.com/watch?v=p9hmrSGyorU"/>
         <updated>2023-03-24T11:01:12.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【menber only】みんなでお絵描き参加型しよ！【底なし】]]></title>
-        <id>https://www.youtube.com/watch?v=FOKdzadZAjM</id>
-        <link href="https://www.youtube.com/watch?v=FOKdzadZAjM"/>
-        <updated>2023-03-24T10:04:48.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -2031,6 +2013,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=guL_y56WWCs</id>
+        <link href="https://www.youtube.com/watch?v=guL_y56WWCs"/>
+        <updated>2023-03-05T06:32:06.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】日曜の朝にわらわとまったりするのはどう？☀【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=iXdGyEMiHHs</id>
         <link href="https://www.youtube.com/watch?v=iXdGyEMiHHs"/>
@@ -2406,6 +2397,15 @@
         <updated>2023-02-24T13:15:04.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】平日終わりのお疲れさまおうた✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=hQJ_38klnOQ</id>
+        <link href="https://www.youtube.com/watch?v=hQJ_38klnOQ"/>
+        <updated>2023-02-24T12:06:42.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
