@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T04:35:20.909Z</id>
+    <id>urn:2023-03-24T05:05:53.661Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T04:35:20.909Z</updated>
+    <updated>2023-03-24T05:05:53.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -46,15 +46,6 @@
         <id>https://www.youtube.com/watch?v=TZW4sgZ7FzQ</id>
         <link href="https://www.youtube.com/watch?v=TZW4sgZ7FzQ"/>
         <updated>2023-03-23T16:14:29.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと１日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8Sj2xyVSe8k</id>
-        <link href="https://www.youtube.com/watch?v=8Sj2xyVSe8k"/>
-        <updated>2023-03-23T16:05:35.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
@@ -138,15 +129,6 @@
         <updated>2023-03-23T11:00:00.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】セバスチャンを止めたい運動【天川はの】#10]]></title>
-        <id>https://www.youtube.com/watch?v=IYbpJyeDGHA</id>
-        <link href="https://www.youtube.com/watch?v=IYbpJyeDGHA"/>
-        <updated>2023-03-23T08:45:03.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1950,6 +1932,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 歌枠┊︎SINGING 】覚えたて楽曲 and more！KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=I6O8OuqxBzU</id>
+        <link href="https://www.youtube.com/watch?v=I6O8OuqxBzU"/>
+        <updated>2023-03-05T15:46:13.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【日本語字幕・和訳】LOVE DIVE / IVE 아이브 歌ってみた covered.水瓶ミア]]></title>
         <id>https://www.youtube.com/watch?v=4BOnQiPWEl4</id>
         <link href="https://www.youtube.com/watch?v=4BOnQiPWEl4"/>
@@ -2181,15 +2172,6 @@
         <updated>2023-03-02T16:07:45.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【👂ASMR】近所に住む幼馴染のお姉ちゃんが寝かしつけてくれそう【EarCleaning/ASMR for sleep/Whispering/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=vQcoPeUvO0g</id>
-        <link href="https://www.youtube.com/watch?v=vQcoPeUvO0g"/>
-        <updated>2023-03-02T15:49:13.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
