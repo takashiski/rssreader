@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T08:06:24.701Z</id>
+    <id>urn:2023-03-24T08:34:49.622Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T08:06:24.701Z</updated>
+    <updated>2023-03-24T08:34:49.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -129,15 +129,6 @@
         <updated>2023-03-23T11:00:00.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
-        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
-        <updated>2023-03-23T07:57:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1893,6 +1884,15 @@
         <updated>2023-03-06T16:34:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 一週間まいにち歌枠 】「Official髭男dism歌枠」👏 KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=h2Kvkr5GZwI</id>
+        <link href="https://www.youtube.com/watch?v=h2Kvkr5GZwI"/>
+        <updated>2023-03-06T11:59:13.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
