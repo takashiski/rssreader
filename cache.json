@@ -367,6 +367,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LqGYnQEpCbc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LqGYnQEpCbc",
+          "publishedOn": "2023-03-24T08:33:12.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】Last Night, Good Night【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TZW4sgZ7FzQ",
           "author": null,
           "description": "",
@@ -494,16 +504,6 @@
           "publishedOn": "2023-03-07T14:32:30.000Z",
           "wordCount": null,
           "title": "【 歌枠┊︎SINGING 】リスナーの名前を奪う配信｜KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=I6O8OuqxBzU",
-          "publishedOn": "2023-03-05T15:46:13.000Z",
-          "wordCount": null,
-          "title": "【 歌枠┊︎SINGING 】覚えたて楽曲 and more！KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -895,6 +895,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8r3alRAFvDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8r3alRAFvDs",
+          "publishedOn": "2023-03-24T08:38:43.000Z",
+          "wordCount": null,
+          "title": "【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iROJEU3efH0",
           "author": null,
           "description": "",
@@ -1032,16 +1042,6 @@
           "publishedOn": "2023-03-03T23:54:54.000Z",
           "wordCount": null,
           "title": "【キミガシネ #2】今日もストーリーを進めていくぞ【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5OJhRFOID18",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5OJhRFOID18",
-          "publishedOn": "2023-03-01T21:53:23.000Z",
-          "wordCount": null,
-          "title": "【歌枠】今日から３月、花粉でダウン中【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
