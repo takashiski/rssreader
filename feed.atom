@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T09:34:23.358Z</id>
+    <id>urn:2023-03-24T10:06:01.311Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T09:34:23.358Z</updated>
+    <updated>2023-03-24T10:06:01.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【menber only】みんなでお絵描き参加型しよ！【底なし】]]></title>
+        <id>https://www.youtube.com/watch?v=FOKdzadZAjM</id>
+        <link href="https://www.youtube.com/watch?v=FOKdzadZAjM"/>
+        <updated>2023-03-24T10:04:48.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8r3alRAFvDs</id>
@@ -2001,15 +2010,6 @@
         <updated>2023-03-05T10:04:21.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=guL_y56WWCs</id>
-        <link href="https://www.youtube.com/watch?v=guL_y56WWCs"/>
-        <updated>2023-03-05T06:32:06.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
