@@ -367,6 +367,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p9hmrSGyorU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p9hmrSGyorU",
+          "publishedOn": "2023-03-24T11:01:12.000Z",
+          "wordCount": null,
+          "title": "誕生日カウントダウン",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LqGYnQEpCbc",
           "author": null,
           "description": "",
@@ -494,16 +504,6 @@
           "publishedOn": "2023-03-08T15:58:40.000Z",
           "wordCount": null,
           "title": "【 歌枠┊︎SINGING 】ロックアニソン縛り｜RCCK ANIME SONG KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qi7H18Km_5Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qi7H18Km_5Y",
-          "publishedOn": "2023-03-07T14:32:30.000Z",
-          "wordCount": null,
-          "title": "【 歌枠┊︎SINGING 】リスナーの名前を奪う配信｜KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -1365,6 +1365,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbRXkQP-LumaBzfw-wsrrg",
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y7s0Ww2UjrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y7s0Ww2UjrI",
+          "publishedOn": "2023-03-24T11:02:08.000Z",
+          "wordCount": null,
+          "title": "【初見さん歓迎！】おうたああああああ！【皇ロゼ/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=N1YHd-giLqk",
           "author": null,
