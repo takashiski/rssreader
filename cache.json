@@ -1520,6 +1520,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CDvnvuoDHR8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CDvnvuoDHR8",
+          "publishedOn": "2023-03-24T13:10:49.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hEKasJm1D3k",
           "author": null,
           "description": "",
@@ -1647,16 +1657,6 @@
           "publishedOn": "2023-02-26T13:25:29.000Z",
           "wordCount": null,
           "title": "【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=46VL3Lz2f1o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=46VL3Lz2f1o",
-          "publishedOn": "2023-02-24T13:47:39.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
         }
       ]
@@ -2635,6 +2635,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OeUf_KfYRrwksschtRYow",
       "siteUrl": "https://www.youtube.com/channel/UC4OeUf_KfYRrwksschtRYow",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=r0IeBJVgiWY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r0IeBJVgiWY",
+          "publishedOn": "2023-03-24T13:12:41.000Z",
+          "wordCount": null,
+          "title": "【LIVE】アコースティック歌枠✂ #2【#キョウの生放送 / 花鋏キョウ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5jrHeI4T7Sw",
           "author": null,

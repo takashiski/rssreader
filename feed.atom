@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T13:08:02.291Z</id>
+    <id>urn:2023-03-24T13:34:32.140Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T13:08:02.291Z</updated>
+    <updated>2023-03-24T13:34:32.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【LIVE】アコースティック歌枠✂ #2【#キョウの生放送 / 花鋏キョウ】]]></title>
+        <id>https://www.youtube.com/watch?v=r0IeBJVgiWY</id>
+        <link href="https://www.youtube.com/watch?v=r0IeBJVgiWY"/>
+        <updated>2023-03-24T13:12:41.000Z</updated>
+        <author>
+            <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=CDvnvuoDHR8</id>
+        <link href="https://www.youtube.com/watch?v=CDvnvuoDHR8"/>
+        <updated>2023-03-24T13:10:49.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア爆誕2023】おいぽまいら､本日主役の俺様が来ましたよ【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=re_NLePo6wA</id>
@@ -2379,15 +2397,6 @@
         <updated>2023-02-24T14:26:56.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=46VL3Lz2f1o</id>
-        <link href="https://www.youtube.com/watch?v=46VL3Lz2f1o"/>
-        <updated>2023-02-24T13:47:39.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
