@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T11:34:20.030Z</id>
+    <id>urn:2023-03-24T12:07:40.610Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T11:34:20.031Z</updated>
+    <updated>2023-03-24T12:07:40.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】楽しく "5000人” 耐久！後半戦！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vmqSgUFrM_Y</id>
+        <link href="https://www.youtube.com/watch?v=vmqSgUFrM_Y"/>
+        <updated>2023-03-24T11:39:28.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】おつかれさまの癒しおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YYv_JGfWZR0</id>
@@ -120,15 +129,6 @@
         <updated>2023-03-23T14:03:31.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】楽しく "5000人” 耐久！！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LufoT6FAvGI</id>
-        <link href="https://www.youtube.com/watch?v=LufoT6FAvGI"/>
-        <updated>2023-03-23T13:56:55.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
