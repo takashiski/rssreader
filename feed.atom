@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T18:06:18.664Z</id>
+    <id>urn:2023-03-24T18:35:17.144Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T18:06:18.664Z</updated>
+    <updated>2023-03-24T18:35:17.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】母性溢れる睡眠導入♡安心したいひとおいで♡耳かき/マッサージ/囁き【Ear Cleaning/Massage/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=iTstQifZQSc</id>
+        <link href="https://www.youtube.com/watch?v=iTstQifZQSc"/>
+        <updated>2023-03-24T18:30:41.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=djgCxojIWc4</id>
+        <link href="https://www.youtube.com/watch?v=djgCxojIWc4"/>
+        <updated>2023-03-24T18:18:52.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誕生日カウントダウン]]></title>
         <id>https://www.youtube.com/watch?v=p9hmrSGyorU</id>
@@ -48,15 +66,6 @@
         <updated>2023-03-24T16:52:33.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】母性溢れる睡眠導入♡安心したいひとおいで♡耳かき/マッサージ/囁き【Ear Cleaning/Massage/Whispering/睡眠導入/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=iTstQifZQSc</id>
-        <link href="https://www.youtube.com/watch?v=iTstQifZQSc"/>
-        <updated>2023-03-24T14:41:58.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
