@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T12:07:40.610Z</id>
+    <id>urn:2023-03-24T12:42:12.887Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T12:07:40.611Z</updated>
+    <updated>2023-03-24T12:42:12.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
+        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
+        <updated>2023-03-24T12:05:15.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがノーチラスを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=zE0ImDL-0u0</id>
+        <link href="https://www.youtube.com/watch?v=zE0ImDL-0u0"/>
+        <updated>2023-03-24T12:00:46.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】楽しく "5000人” 耐久！後半戦！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vmqSgUFrM_Y</id>
@@ -24,15 +42,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【初見さん歓迎！】おうたああああああ！【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Y7s0Ww2UjrI</id>
-        <link href="https://www.youtube.com/watch?v=Y7s0Ww2UjrI"/>
-        <updated>2023-03-24T11:02:08.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[誕生日カウントダウン]]></title>
         <id>https://www.youtube.com/watch?v=p9hmrSGyorU</id>
         <link href="https://www.youtube.com/watch?v=p9hmrSGyorU"/>
@@ -48,15 +57,6 @@
         <updated>2023-03-24T10:04:48.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8r3alRAFvDs</id>
-        <link href="https://www.youtube.com/watch?v=8r3alRAFvDs"/>
-        <updated>2023-03-24T08:38:43.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -885,15 +885,6 @@
         <updated>2023-03-17T09:09:41.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【LIVE】アコースティック歌枠✂ #2【#キョウの生放送 / 花鋏キョウ】]]></title>
-        <id>https://www.youtube.com/watch?v=r0IeBJVgiWY</id>
-        <link href="https://www.youtube.com/watch?v=r0IeBJVgiWY"/>
-        <updated>2023-03-17T06:13:02.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -1860,15 +1851,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで Arrietty's song 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
-        <id>https://www.youtube.com/watch?v=uw42Zs0puhE</id>
-        <link href="https://www.youtube.com/watch?v=uw42Zs0puhE"/>
-        <updated>2023-03-07T12:00:39.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 一週間まいにち歌枠 】 「かわいくなりたい歌枠」♡ KARAOKE 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8dRswtcDyNI</id>
         <link href="https://www.youtube.com/watch?v=8dRswtcDyNI"/>
@@ -1929,15 +1911,6 @@
         <updated>2023-03-06T16:34:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 一週間まいにち歌枠 】「Official髭男dism歌枠」👏 KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h2Kvkr5GZwI</id>
-        <link href="https://www.youtube.com/watch?v=h2Kvkr5GZwI"/>
-        <updated>2023-03-06T11:59:13.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2244,6 +2217,15 @@
         <updated>2023-03-02T11:00:33.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】今日から３月、花粉でダウン中【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=5OJhRFOID18</id>
+        <link href="https://www.youtube.com/watch?v=5OJhRFOID18"/>
+        <updated>2023-03-01T21:53:23.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
