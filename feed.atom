@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T12:42:12.887Z</id>
+    <id>urn:2023-03-24T13:08:02.291Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T12:42:12.887Z</updated>
+    <updated>2023-03-24T13:08:02.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア爆誕2023】おいぽまいら､本日主役の俺様が来ましたよ【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=re_NLePo6wA</id>
+        <link href="https://www.youtube.com/watch?v=re_NLePo6wA"/>
+        <updated>2023-03-24T12:57:53.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8r3alRAFvDs</id>
+        <link href="https://www.youtube.com/watch?v=8r3alRAFvDs"/>
+        <updated>2023-03-24T12:39:05.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
@@ -226,15 +244,6 @@
         <id>https://www.youtube.com/watch?v=WDzRJP0Esec</id>
         <link href="https://www.youtube.com/watch?v=WDzRJP0Esec"/>
         <updated>2023-03-22T20:22:38.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=CDvnvuoDHR8</id>
-        <link href="https://www.youtube.com/watch?v=CDvnvuoDHR8"/>
-        <updated>2023-03-22T20:21:55.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1761,15 +1770,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠┊︎SINGING 】ロックアニソン縛り｜RCCK ANIME SONG KARAOKE【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=0ka5voBGOgA</id>
-        <link href="https://www.youtube.com/watch?v=0ka5voBGOgA"/>
-        <updated>2023-03-08T15:58:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【参加型】楽しかったじゃんけんをもう一度！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=FQHsdjF0j5w</id>
         <link href="https://www.youtube.com/watch?v=FQHsdjF0j5w"/>
@@ -2220,15 +2220,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】今日から３月、花粉でダウン中【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=5OJhRFOID18</id>
-        <link href="https://www.youtube.com/watch?v=5OJhRFOID18"/>
-        <updated>2023-03-01T21:53:23.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】ついに下層部…❣かっこいい＆かわいい新人ちゃんたちもたくさんだから育成したい💕つよつよかんぱにー目指す💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7EH-Gv64BuE</id>
         <link href="https://www.youtube.com/watch?v=7EH-Gv64BuE"/>
@@ -2388,6 +2379,15 @@
         <updated>2023-02-24T14:26:56.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=46VL3Lz2f1o</id>
+        <link href="https://www.youtube.com/watch?v=46VL3Lz2f1o"/>
+        <updated>2023-02-24T13:47:39.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
