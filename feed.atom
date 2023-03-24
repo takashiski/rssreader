@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T11:05:33.213Z</id>
+    <id>urn:2023-03-24T11:34:20.030Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T11:05:33.213Z</updated>
+    <updated>2023-03-24T11:34:20.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】おつかれさまの癒しおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YYv_JGfWZR0</id>
+        <link href="https://www.youtube.com/watch?v=YYv_JGfWZR0"/>
+        <updated>2023-03-24T11:26:05.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【初見さん歓迎！】おうたああああああ！【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Y7s0Ww2UjrI</id>
@@ -2406,15 +2415,6 @@
         <updated>2023-02-24T13:15:04.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】平日終わりのお疲れさまおうた✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=hQJ_38klnOQ</id>
-        <link href="https://www.youtube.com/watch?v=hQJ_38klnOQ"/>
-        <updated>2023-02-24T12:06:42.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
