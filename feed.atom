@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T14:34:20.532Z</id>
+    <id>urn:2023-03-25T15:05:38.010Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T14:34:20.532Z</updated>
+    <updated>2023-03-25T15:05:38.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん大歓迎♡バーチャルアイドルによる深夜の囁き歌枠はいかが？/Singing Stream【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=5-aHj_MJdW0</id>
+        <link href="https://www.youtube.com/watch?v=5-aHj_MJdW0"/>
+        <updated>2023-03-25T14:45:14.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=vOzTJva_PKI</id>
+        <link href="https://www.youtube.com/watch?v=vOzTJva_PKI"/>
+        <updated>2023-03-25T14:37:57.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【戦国大河】視聴者参加型！みんな集合～～！！リアクトメンバーで対戦勝負！？【Vtuber / 水瓶ミア】]]></title>
         <id>https://www.youtube.com/watch?v=JXuHCUxdZhw</id>
@@ -213,15 +231,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=PZ74lMZilAM</id>
-        <link href="https://www.youtube.com/watch?v=PZ74lMZilAM"/>
-        <updated>2023-03-24T10:56:56.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[☀朝活雑談 / 朝だな。初見さん、大歓迎しちゃうんだけどな～～チラチラ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=eW66Neg7YU8</id>
         <link href="https://www.youtube.com/watch?v=eW66Neg7YU8"/>
@@ -361,6 +370,15 @@
         <id>https://www.youtube.com/watch?v=hEKasJm1D3k</id>
         <link href="https://www.youtube.com/watch?v=hEKasJm1D3k"/>
         <updated>2023-03-22T20:26:57.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hMMZaVgNJIU</id>
+        <link href="https://www.youtube.com/watch?v=hMMZaVgNJIU"/>
+        <updated>2023-03-22T20:24:47.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1896,15 +1914,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
-        <link href="https://www.youtube.com/watch?v=19Afz6GP43I"/>
-        <updated>2023-03-07T14:32:49.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[稀羽すうが 寄り酔い 歌ってみた  #shorts #cover #Vsinger]]></title>
         <id>https://www.youtube.com/watch?v=fhhos8u6yfQ</id>
         <link href="https://www.youtube.com/watch?v=fhhos8u6yfQ"/>
@@ -2325,15 +2334,6 @@
         <updated>2023-02-26T15:25:27.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=F1WMA0ir0VY</id>
-        <link href="https://www.youtube.com/watch?v=F1WMA0ir0VY"/>
-        <updated>2023-02-26T13:25:29.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
