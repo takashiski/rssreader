@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T01:32:40.923Z</id>
+    <id>urn:2023-03-25T02:18:52.710Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T01:32:40.923Z</updated>
+    <updated>2023-03-25T02:18:52.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡うたうたうよ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-o70Y8eh3bM</id>
+        <link href="https://www.youtube.com/watch?v=-o70Y8eh3bM"/>
+        <updated>2023-03-25T01:59:21.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #戦国大河 】視聴者参加型！！戦じゃ！！！！！！おまえら天下取るぞ！！【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=LSKKBpoA4oE</id>
+        <link href="https://www.youtube.com/watch?v=LSKKBpoA4oE"/>
+        <updated>2023-03-25T01:52:59.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【初見さん歓迎！】おうたああああああ！【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Y7s0Ww2UjrI</id>
@@ -2130,15 +2148,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【キミガシネ #2】今日もストーリーを進めていくぞ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vE-Z6eNCaKg</id>
-        <link href="https://www.youtube.com/watch?v=vE-Z6eNCaKg"/>
-        <updated>2023-03-03T23:54:54.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！じゃかじゃか⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=6g5My69_pgE</id>
         <link href="https://www.youtube.com/watch?v=6g5My69_pgE"/>
@@ -2424,15 +2433,6 @@
         <updated>2023-02-24T13:15:04.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #shorts 】空音 / Hug feat,kojikoji #歌ってみた 【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=9T7J7r9_Uik</id>
-        <link href="https://www.youtube.com/watch?v=9T7J7r9_Uik"/>
-        <updated>2023-02-24T12:00:12.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
