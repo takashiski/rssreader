@@ -728,6 +728,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZdYfYE4kzNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZdYfYE4kzNY",
+          "publishedOn": "2023-03-25T12:00:21.000Z",
+          "wordCount": null,
+          "title": "【歌枠/切り抜き】癒し系Vingerがベテルギウスを歌ってみたら・・・【#shorts /#彩雲のの 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zE0ImDL-0u0",
           "author": null,
           "description": "",
@@ -865,16 +875,6 @@
           "publishedOn": "2023-03-10T21:23:41.000Z",
           "wordCount": null,
           "title": "【歌枠/singing stream】弾き語りするわよ~sing with the piano~【#彩雲のの/ #新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qHZ2y1Vd1ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qHZ2y1Vd1ys",
-          "publishedOn": "2023-03-09T19:12:03.000Z",
-          "wordCount": null,
-          "title": "【歌枠/sing and talk】深夜の幻想的な歌枠🌙karaoke【#彩雲のの/ #新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1199,6 +1199,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VIT1w1WCGG4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VIT1w1WCGG4",
+          "publishedOn": "2023-03-25T11:53:07.000Z",
+          "wordCount": null,
+          "title": "☆星のカービィWiiデラックス / #01 / 完全初見🔥丸顔仲間ぽよ！！！！！！！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eW66Neg7YU8",
           "author": null,
           "description": "",
@@ -1336,16 +1346,6 @@
           "publishedOn": "2023-03-08T18:03:38.000Z",
           "wordCount": null,
           "title": "◆ASMR / 広告なし! / 今すぐ眠りたい方への僕っ娘耳かき/マッサージ〖ear cleaning / binaural / JapaneseVtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=guL_y56WWCs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=guL_y56WWCs",
-          "publishedOn": "2023-03-05T06:32:06.000Z",
-          "wordCount": null,
-          "title": "◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
