@@ -581,16 +581,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=EV8fojQCS7s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EV8fojQCS7s",
-          "publishedOn": "2023-03-24T17:24:24.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#3 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=LufoT6FAvGI",
           "author": null,
           "description": "",
@@ -718,6 +708,16 @@
           "publishedOn": "2023-03-16T20:54:30.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！夜更かしさんおいで！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DrIetzb96hU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DrIetzb96hU",
+          "publishedOn": "2023-03-16T10:08:51.000Z",
+          "wordCount": null,
+          "title": "ホグレガで能力強化してみたら…www #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #ゲーム実況 #shorts",
           "imageUrl": null
         }
       ]
@@ -2568,6 +2568,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=JXuHCUxdZhw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JXuHCUxdZhw",
+          "publishedOn": "2023-03-25T09:16:33.000Z",
+          "wordCount": null,
+          "title": "【戦国大河】視聴者参加型！みんな集合～～！！リアクトメンバーで対戦勝負！？【Vtuber / 水瓶ミア】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Rum5o4ncdyA",
           "author": null,
