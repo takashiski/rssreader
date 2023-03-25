@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T16:36:23.237Z</id>
+    <id>urn:2023-03-25T17:05:47.616Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T16:36:23.237Z</updated>
+    <updated>2023-03-25T17:05:47.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,15 +12,6 @@
         <updated>2023-03-25T15:12:28.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3D歌枠】初見さん大歓迎♡バーチャルアイドルによる深夜の囁き歌枠はいかが？/Singing Stream【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=5-aHj_MJdW0</id>
-        <link href="https://www.youtube.com/watch?v=5-aHj_MJdW0"/>
-        <updated>2023-03-25T14:45:14.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -460,15 +451,6 @@
         <id>https://www.youtube.com/watch?v=gCoO_UGAHUI</id>
         <link href="https://www.youtube.com/watch?v=gCoO_UGAHUI"/>
         <updated>2023-03-22T13:02:50.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】超絶気持ちいい耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=5u8CbJdGXuU</id>
-        <link href="https://www.youtube.com/watch?v=5u8CbJdGXuU"/>
-        <updated>2023-03-22T13:00:42.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
@@ -1923,6 +1905,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ホラー】パソコンバグるゲー…？？？？/餓史シャチの幸【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=19Afz6GP43I</id>
+        <link href="https://www.youtube.com/watch?v=19Afz6GP43I"/>
+        <updated>2023-03-07T14:32:49.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[稀羽すうが 寄り酔い 歌ってみた  #shorts #cover #Vsinger]]></title>
         <id>https://www.youtube.com/watch?v=fhhos8u6yfQ</id>
         <link href="https://www.youtube.com/watch?v=fhhos8u6yfQ"/>
@@ -2280,6 +2271,15 @@
         <updated>2023-03-01T14:40:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストはブルーロック好きな全人類！【宇佐美ユノ / 全人類 / vtuber】～このサムネ可愛くない？？を添えて～]]></title>
+        <id>https://www.youtube.com/watch?v=zis5aGxJiYM</id>
+        <link href="https://www.youtube.com/watch?v=zis5aGxJiYM"/>
+        <updated>2023-03-01T13:51:28.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
