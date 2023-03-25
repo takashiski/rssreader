@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T15:05:38.010Z</id>
+    <id>urn:2023-03-25T15:34:14.495Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T15:05:38.010Z</updated>
+    <updated>2023-03-25T15:34:14.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん大歓迎♡バーチャルアイドルによる深夜の囁き歌枠はいかが？/Singing Stream【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=PZ74lMZilAM</id>
+        <link href="https://www.youtube.com/watch?v=PZ74lMZilAM"/>
+        <updated>2023-03-25T15:12:28.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3D歌枠】初見さん大歓迎♡バーチャルアイドルによる深夜の囁き歌枠はいかが？/Singing Stream【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=5-aHj_MJdW0</id>
         <link href="https://www.youtube.com/watch?v=5-aHj_MJdW0"/>
         <updated>2023-03-25T14:45:14.000Z</updated>
@@ -75,15 +84,6 @@
         <updated>2023-03-25T11:53:07.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Dr-Vh40VCE0</id>
-        <link href="https://www.youtube.com/watch?v=Dr-Vh40VCE0"/>
-        <updated>2023-03-25T11:30:08.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1020,6 +1020,15 @@
         <updated>2023-03-17T11:00:11.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！元気出るよ～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RvVgxQ-pcs4</id>
+        <link href="https://www.youtube.com/watch?v=RvVgxQ-pcs4"/>
+        <updated>2023-03-17T10:58:14.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
