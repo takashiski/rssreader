@@ -367,16 +367,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ZSEhD5GmBYo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZSEhD5GmBYo",
-          "publishedOn": "2023-03-25T13:16:17.000Z",
-          "wordCount": null,
-          "title": "#ククルア爆誕2023 二 次 会",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=LqGYnQEpCbc",
           "author": null,
           "description": "",
@@ -494,6 +484,16 @@
           "publishedOn": "2023-03-15T02:02:25.000Z",
           "wordCount": null,
           "title": "【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vugwrRwXoyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vugwrRwXoyc",
+          "publishedOn": "2023-03-12T15:18:21.000Z",
+          "wordCount": null,
+          "title": "7ヶ月ありがとう",
           "imageUrl": null
         }
       ]
@@ -875,6 +875,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
+          "publishedOn": "2023-03-25T19:06:19.000Z",
+          "wordCount": null,
+          "title": "【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-o70Y8eh3bM",
           "author": null,
           "description": "",
@@ -1012,16 +1022,6 @@
           "publishedOn": "2023-03-05T15:28:27.000Z",
           "wordCount": null,
           "title": "【朝活】目、かゆ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
-          "publishedOn": "2023-03-04T23:29:24.000Z",
-          "wordCount": null,
-          "title": "【歌枠】定期歌枠、本格的花粉【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
