@@ -43,16 +43,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=LSKKBpoA4oE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LSKKBpoA4oE",
-          "publishedOn": "2023-03-25T01:52:59.000Z",
-          "wordCount": null,
-          "title": "【 #戦国大河 】視聴者参加型！！戦じゃ！！！！！！おまえら天下取るぞ！！【 #紅龍イサナ / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=6LJ9fBrwFFM",
           "author": null,
           "description": "",
@@ -190,6 +180,16 @@
           "publishedOn": "2023-02-24T17:00:31.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】samusugi⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9T7J7r9_Uik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9T7J7r9_Uik",
+          "publishedOn": "2023-02-24T12:00:12.000Z",
+          "wordCount": null,
+          "title": "【 #shorts 】空音 / Hug feat,kojikoji #歌ってみた 【 #紅龍イサナ / Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -503,16 +503,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi6nuuHhOj_usxkjlcHdRXw",
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=djgCxojIWc4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=djgCxojIWc4",
-          "publishedOn": "2023-03-24T18:18:52.000Z",
-          "wordCount": null,
-          "title": "【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=_SLIKsRAhIU",
           "author": null,
@@ -1510,16 +1500,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=QVE2abC4y1s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QVE2abC4y1s",
-          "publishedOn": "2023-03-25T12:43:35.000Z",
-          "wordCount": null,
-          "title": "【#雑談 】まったりする；；【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=CDvnvuoDHR8",
           "author": null,
           "description": "",
@@ -1637,6 +1617,16 @@
           "publishedOn": "2023-02-26T22:43:41.000Z",
           "wordCount": null,
           "title": "【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=F1WMA0ir0VY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=F1WMA0ir0VY",
+          "publishedOn": "2023-02-26T13:25:29.000Z",
+          "wordCount": null,
+          "title": "【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
         }
       ]
@@ -2573,7 +2563,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=JXuHCUxdZhw",
-          "publishedOn": "2023-03-25T09:16:33.000Z",
+          "publishedOn": "2023-03-25T14:33:43.000Z",
           "wordCount": null,
           "title": "【戦国大河】視聴者参加型！みんな集合～～！！リアクトメンバーで対戦勝負！？【Vtuber / 水瓶ミア】",
           "imageUrl": null
