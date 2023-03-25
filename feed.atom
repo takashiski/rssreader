@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T11:05:20.278Z</id>
+    <id>urn:2023-03-25T11:34:12.088Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T11:05:20.278Z</updated>
+    <updated>2023-03-25T11:34:12.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Dr-Vh40VCE0</id>
+        <link href="https://www.youtube.com/watch?v=Dr-Vh40VCE0"/>
+        <updated>2023-03-25T11:30:08.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡うたうたうよ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-o70Y8eh3bM</id>
+        <link href="https://www.youtube.com/watch?v=-o70Y8eh3bM"/>
+        <updated>2023-03-25T11:23:45.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『サウダージ』ハモリチャレンジしてみたwww #新人vtuber #歌ってみた #ポルノグラフィティ #ハモリ]]></title>
         <id>https://www.youtube.com/watch?v=td-8rvDe_2M</id>
@@ -39,15 +57,6 @@
         <updated>2023-03-25T05:11:46.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #01 / 完全初見🔥丸顔仲間ぽよ！！！！！！！〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=VIT1w1WCGG4</id>
-        <link href="https://www.youtube.com/watch?v=VIT1w1WCGG4"/>
-        <updated>2023-03-25T03:03:18.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -984,15 +993,6 @@
         <updated>2023-03-17T11:00:11.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！元気出るよ～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=RvVgxQ-pcs4</id>
-        <link href="https://www.youtube.com/watch?v=RvVgxQ-pcs4"/>
-        <updated>2023-03-17T10:58:14.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2067,6 +2067,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / 3Dお披露目まで2週間切った女の定期歌枠✨ /karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=guL_y56WWCs</id>
+        <link href="https://www.youtube.com/watch?v=guL_y56WWCs"/>
+        <updated>2023-03-05T06:32:06.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】日曜の朝にわらわとまったりするのはどう？☀【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=iXdGyEMiHHs</id>
         <link href="https://www.youtube.com/watch?v=iXdGyEMiHHs"/>
@@ -2154,15 +2163,6 @@
         <updated>2023-03-04T10:51:01.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【キミガシネ #2】今日もストーリーを進めていくぞ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vE-Z6eNCaKg</id>
-        <link href="https://www.youtube.com/watch?v=vE-Z6eNCaKg"/>
-        <updated>2023-03-03T23:54:54.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
