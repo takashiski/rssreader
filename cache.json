@@ -571,6 +571,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=td-8rvDe_2M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=td-8rvDe_2M",
+          "publishedOn": "2023-03-25T10:00:38.000Z",
+          "wordCount": null,
+          "title": "『サウダージ』ハモリチャレンジしてみたwww #新人vtuber #歌ってみた #ポルノグラフィティ #ハモリ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EV8fojQCS7s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EV8fojQCS7s",
+          "publishedOn": "2023-03-25T09:29:11.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#3 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vmqSgUFrM_Y",
           "author": null,
           "description": "",
@@ -698,26 +718,6 @@
           "publishedOn": "2023-03-17T10:58:14.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！元気出るよ～！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=haxgbr8Tlw0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=haxgbr8Tlw0",
-          "publishedOn": "2023-03-16T20:54:30.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！夜更かしさんおいで！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DrIetzb96hU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DrIetzb96hU",
-          "publishedOn": "2023-03-16T10:08:51.000Z",
-          "wordCount": null,
-          "title": "ホグレガで能力強化してみたら…www #新人vtuber #神輿たらん #るっくあっとたらん #ブルアカ #ゲーム実況 #shorts",
           "imageUrl": null
         }
       ]
