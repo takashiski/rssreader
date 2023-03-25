@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T05:05:53.592Z</id>
+    <id>urn:2023-03-25T05:34:44.309Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T05:05:53.592Z</updated>
+    <updated>2023-03-25T05:34:44.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂/ #歌枠 】初見さん大歓迎～／週末きちゃああ！歌うよおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3Qvvj6MtQ60</id>
+        <link href="https://www.youtube.com/watch?v=3Qvvj6MtQ60"/>
+        <updated>2023-03-25T05:11:46.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☆星のカービィWiiデラックス / #01 / 完全初見🔥丸顔仲間ぽよ！！！！！！！〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=VIT1w1WCGG4</id>
@@ -2197,15 +2206,6 @@
         <id>https://www.youtube.com/watch?v=XhQCLvZe6DY</id>
         <link href="https://www.youtube.com/watch?v=XhQCLvZe6DY"/>
         <updated>2023-03-03T06:36:19.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も深夜お歌の時間です🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jJkcioAnX7k</id>
-        <link href="https://www.youtube.com/watch?v=jJkcioAnX7k"/>
-        <updated>2023-03-02T18:55:46.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
         </author>
