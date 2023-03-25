@@ -1530,16 +1530,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=hMMZaVgNJIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hMMZaVgNJIU",
-          "publishedOn": "2023-03-22T20:24:47.000Z",
-          "wordCount": null,
-          "title": "【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=WDzRJP0Esec",
           "author": null,
           "description": "",
@@ -1813,6 +1803,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PZ74lMZilAM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PZ74lMZilAM",
+          "publishedOn": "2023-03-24T10:56:56.000Z",
+          "wordCount": null,
+          "title": "【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=nfAe2OUzcPs",
           "author": null,

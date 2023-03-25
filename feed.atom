@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T12:06:46.108Z</id>
+    <id>urn:2023-03-25T12:41:21.538Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T12:06:46.108Z</updated>
+    <updated>2023-03-25T12:41:21.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -213,6 +213,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=PZ74lMZilAM</id>
+        <link href="https://www.youtube.com/watch?v=PZ74lMZilAM"/>
+        <updated>2023-03-24T10:56:56.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌ってみた】Last Night, Good Night【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LqGYnQEpCbc</id>
         <link href="https://www.youtube.com/watch?v=LqGYnQEpCbc"/>
@@ -361,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=hEKasJm1D3k</id>
         <link href="https://www.youtube.com/watch?v=hEKasJm1D3k"/>
         <updated>2023-03-22T20:26:57.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=hMMZaVgNJIU</id>
-        <link href="https://www.youtube.com/watch?v=hMMZaVgNJIU"/>
-        <updated>2023-03-22T20:24:47.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
