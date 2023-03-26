@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T03:06:06.920Z</id>
+    <id>urn:2023-03-26T03:34:25.527Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T03:06:06.920Z</updated>
+    <updated>2023-03-26T03:34:25.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Dr-Vh40VCE0</id>
+        <link href="https://www.youtube.com/watch?v=Dr-Vh40VCE0"/>
+        <updated>2023-03-26T03:19:09.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】]]></title>
+        <id>https://www.youtube.com/watch?v=4qWDMPxsXkQ</id>
+        <link href="https://www.youtube.com/watch?v=4qWDMPxsXkQ"/>
+        <updated>2023-03-26T03:09:51.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=djgCxojIWc4</id>
@@ -1029,15 +1047,6 @@
         <updated>2023-03-17T12:00:45.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輪ゴムとティッシュの箱で楽器作ってみた！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=D9aIj76QHSg</id>
-        <link href="https://www.youtube.com/watch?v=D9aIj76QHSg"/>
-        <updated>2023-03-17T12:00:10.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2100,15 +2109,6 @@
         <updated>2023-03-05T01:58:06.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】定期歌枠、本格的花粉【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YN-Gvq2goGM</id>
-        <link href="https://www.youtube.com/watch?v=YN-Gvq2goGM"/>
-        <updated>2023-03-04T23:29:24.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

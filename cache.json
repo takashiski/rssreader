@@ -571,6 +571,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Dr-Vh40VCE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dr-Vh40VCE0",
+          "publishedOn": "2023-03-26T03:19:09.000Z",
+          "wordCount": null,
+          "title": "【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xc8gxINLJPw",
           "author": null,
           "description": "",
@@ -708,16 +718,6 @@
           "publishedOn": "2023-03-17T20:54:28.000Z",
           "wordCount": null,
           "title": "【ホグワーツ・レガシー】魔法いっぱい覚える！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D9aIj76QHSg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D9aIj76QHSg",
-          "publishedOn": "2023-03-17T12:00:10.000Z",
-          "wordCount": null,
-          "title": "輪ゴムとティッシュの箱で楽器作ってみた！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -885,6 +885,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4qWDMPxsXkQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4qWDMPxsXkQ",
+          "publishedOn": "2023-03-26T03:09:51.000Z",
+          "wordCount": null,
+          "title": "【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-o70Y8eh3bM",
           "author": null,
           "description": "",
@@ -1022,16 +1032,6 @@
           "publishedOn": "2023-03-05T15:28:27.000Z",
           "wordCount": null,
           "title": "【朝活】目、かゆ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
-          "publishedOn": "2023-03-04T23:29:24.000Z",
-          "wordCount": null,
-          "title": "【歌枠】定期歌枠、本格的花粉【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
