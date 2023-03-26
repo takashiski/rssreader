@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T10:05:39.944Z</id>
+    <id>urn:2023-03-26T10:34:32.495Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T10:05:39.944Z</updated>
+    <updated>2023-03-26T10:34:32.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #春のVtuber音楽祭 】８番手！ピアノ弾き語りで癒されて❤【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=zF2Kiq-GjvE</id>
+        <link href="https://www.youtube.com/watch?v=zF2Kiq-GjvE"/>
+        <updated>2023-03-26T10:27:25.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡歌と来期アニメについてちょびっと語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gCoO_UGAHUI</id>
+        <link href="https://www.youtube.com/watch?v=gCoO_UGAHUI"/>
+        <updated>2023-03-26T10:27:14.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#4 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xc8gxINLJPw</id>
+        <link href="https://www.youtube.com/watch?v=xc8gxINLJPw"/>
+        <updated>2023-03-26T10:16:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視点【Re:AcT×パレプロ】名推理見せるしかないよね【皇ロゼ視点】]]></title>
+        <id>https://www.youtube.com/watch?v=dYog6eg6Vus</id>
+        <link href="https://www.youtube.com/watch?v=dYog6eg6Vus"/>
+        <updated>2023-03-26T10:13:39.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】おはゲリラ！本番に向けて最終練習～～！弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-j8D79gJnPc</id>
+        <link href="https://www.youtube.com/watch?v=-j8D79gJnPc"/>
+        <updated>2023-03-26T10:10:56.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜さ、僕と過ごさない？♡ / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NB_gwNEzzdQ</id>
@@ -1032,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[輪ゴムとティッシュの箱で楽器作ってみた！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=D9aIj76QHSg</id>
-        <link href="https://www.youtube.com/watch?v=D9aIj76QHSg"/>
-        <updated>2023-03-17T12:00:10.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[W/X/Y(Tani Yuuki) #shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=DSrrtVmUO24</id>
         <link href="https://www.youtube.com/watch?v=DSrrtVmUO24"/>
@@ -1374,15 +1410,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #春のVtuber音楽祭 】８番手！ピアノ弾き語りで癒されて❤【#彩雲のの / #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=zF2Kiq-GjvE</id>
-        <link href="https://www.youtube.com/watch?v=zF2Kiq-GjvE"/>
-        <updated>2023-03-14T11:21:06.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=PwOskMljSFM</id>
         <link href="https://www.youtube.com/watch?v=PwOskMljSFM"/>
@@ -1677,15 +1704,6 @@
         <updated>2023-03-11T00:30:01.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing stream】弾き語りするわよ~sing with the piano~【#彩雲のの/ #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=MB9pm3t5IfA</id>
-        <link href="https://www.youtube.com/watch?v=MB9pm3t5IfA"/>
-        <updated>2023-03-10T21:23:41.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -2298,15 +2316,6 @@
         <updated>2023-03-01T14:40:55.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ブルーロック 】#宇佐美ユノのおたと～く！ゲストはブルーロック好きな全人類！【宇佐美ユノ / 全人類 / vtuber】～このサムネ可愛くない？？を添えて～]]></title>
-        <id>https://www.youtube.com/watch?v=zis5aGxJiYM</id>
-        <link href="https://www.youtube.com/watch?v=zis5aGxJiYM"/>
-        <updated>2023-03-01T13:51:28.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
