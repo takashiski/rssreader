@@ -865,16 +865,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
-          "publishedOn": "2023-03-25T19:06:19.000Z",
-          "wordCount": null,
-          "title": "【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=-o70Y8eh3bM",
           "author": null,
           "description": "",
@@ -1012,6 +1002,16 @@
           "publishedOn": "2023-03-05T15:28:27.000Z",
           "wordCount": null,
           "title": "【朝活】目、かゆ 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YN-Gvq2goGM",
+          "publishedOn": "2023-03-04T23:29:24.000Z",
+          "wordCount": null,
+          "title": "【歌枠】定期歌枠、本格的花粉【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1931,16 +1931,6 @@
           "publishedOn": "2023-02-25T16:42:09.000Z",
           "wordCount": null,
           "title": "【スナックつきみ】今年最初の愚痴会スナックでほろ苦いお酒を🥂【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bncdrlb-CvU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bncdrlb-CvU",
-          "publishedOn": "2023-02-24T13:15:04.000Z",
-          "wordCount": null,
-          "title": "【勇者の選択肢がおかしい】おかしな選択肢には慣れてますからっ！！【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
