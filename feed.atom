@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T02:23:16.234Z</id>
+    <id>urn:2023-03-26T02:42:55.492Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T02:23:16.234Z</updated>
+    <updated>2023-03-26T02:42:55.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=djgCxojIWc4</id>
+        <link href="https://www.youtube.com/watch?v=djgCxojIWc4"/>
+        <updated>2023-03-26T02:30:37.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #戦国大河 】視聴者参加型！！戦じゃ！！！！！！おまえら天下取るぞ！！【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=LSKKBpoA4oE</id>
+        <link href="https://www.youtube.com/watch?v=LSKKBpoA4oE"/>
+        <updated>2023-03-26T02:30:30.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#4 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xc8gxINLJPw</id>
@@ -2415,15 +2433,6 @@
         <updated>2023-02-24T17:00:31.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#水瓶ミア星誕祭2023】今年もこの日がやってきたんか、、、祝えええええええええ【HappyBirthday to Me~!】]]></title>
-        <id>https://www.youtube.com/watch?v=gfDUM4x1CnA</id>
-        <link href="https://www.youtube.com/watch?v=gfDUM4x1CnA"/>
-        <updated>2023-02-24T14:26:56.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
 </feed>

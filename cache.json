@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LSKKBpoA4oE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LSKKBpoA4oE",
+          "publishedOn": "2023-03-26T02:30:30.000Z",
+          "wordCount": null,
+          "title": "【 #戦国大河 】視聴者参加型！！戦じゃ！！！！！！おまえら天下取るぞ！！【 #紅龍イサナ / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6LJ9fBrwFFM",
           "author": null,
           "description": "",
@@ -493,6 +503,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi6nuuHhOj_usxkjlcHdRXw",
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=djgCxojIWc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=djgCxojIWc4",
+          "publishedOn": "2023-03-26T02:30:37.000Z",
+          "wordCount": null,
+          "title": "【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_SLIKsRAhIU",
           "author": null,
@@ -2596,16 +2616,6 @@
           "publishedOn": "2023-02-25T13:40:58.000Z",
           "wordCount": null,
           "title": "アイワナムチュー / MAISONdes 歌ってみた 水瓶ミア feat.獅子神レオナ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gfDUM4x1CnA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gfDUM4x1CnA",
-          "publishedOn": "2023-02-24T14:26:56.000Z",
-          "wordCount": null,
-          "title": "【#水瓶ミア星誕祭2023】今年もこの日がやってきたんか、、、祝えええええええええ【HappyBirthday to Me~!】",
           "imageUrl": null
         }
       ]
