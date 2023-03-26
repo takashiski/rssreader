@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T11:05:57.719Z</id>
+    <id>urn:2023-03-26T11:34:12.512Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T11:05:57.719Z</updated>
+    <updated>2023-03-26T11:34:12.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1927,15 +1927,6 @@
         <id>https://www.youtube.com/watch?v=BUPhjsRrgFs</id>
         <link href="https://www.youtube.com/watch?v=BUPhjsRrgFs"/>
         <updated>2023-03-08T10:00:06.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#VirtualonMusic】第2回！3D音楽番組「Virtual on Music」ゲスト 朝ノ瑠璃【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-1LqtU0R36Q</id>
-        <link href="https://www.youtube.com/watch?v=-1LqtU0R36Q"/>
-        <updated>2023-03-08T09:56:42.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
