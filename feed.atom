@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T20:05:51.259Z</id>
+    <id>urn:2023-03-26T20:34:37.436Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T20:05:51.259Z</updated>
+    <updated>2023-03-26T20:34:37.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OZIZy76qfP8</id>
+        <link href="https://www.youtube.com/watch?v=OZIZy76qfP8"/>
+        <updated>2023-03-26T20:30:49.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バースデーイラスト描く]]></title>
+        <id>https://www.youtube.com/watch?v=ftwU9d17TdE</id>
+        <link href="https://www.youtube.com/watch?v=ftwU9d17TdE"/>
+        <updated>2023-03-26T20:23:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#28【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=Mjhg4PfR_tI</id>
@@ -1572,15 +1590,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7ヶ月ありがとう]]></title>
-        <id>https://www.youtube.com/watch?v=vugwrRwXoyc</id>
-        <link href="https://www.youtube.com/watch?v=vugwrRwXoyc"/>
-        <updated>2023-03-12T15:18:21.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【moon】まだまだ愛が欲しいうさぎ💛💛【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=9JLkEQ6f1BM</id>
         <link href="https://www.youtube.com/watch?v=9JLkEQ6f1BM"/>
@@ -1677,15 +1686,6 @@
         <updated>2023-03-11T21:40:28.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆壺おじ / 雑談 / 原点回帰。クリアまでまったりお話しよ～🏺目標1時間ネ。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=zL4iYK5W-Zg</id>
-        <link href="https://www.youtube.com/watch?v=zL4iYK5W-Zg"/>
-        <updated>2023-03-11T17:52:57.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
