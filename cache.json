@@ -561,16 +561,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=xc8gxINLJPw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xc8gxINLJPw",
-          "publishedOn": "2023-03-25T21:58:34.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#4 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=td-8rvDe_2M",
           "author": null,
           "description": "",
@@ -698,6 +688,16 @@
           "publishedOn": "2023-03-17T20:54:28.000Z",
           "wordCount": null,
           "title": "【ホグワーツ・レガシー】魔法いっぱい覚える！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=D9aIj76QHSg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D9aIj76QHSg",
+          "publishedOn": "2023-03-17T12:00:10.000Z",
+          "wordCount": null,
+          "title": "輪ゴムとティッシュの箱で楽器作ってみた！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
