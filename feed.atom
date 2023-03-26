@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T23:05:49.211Z</id>
+    <id>urn:2023-03-26T23:34:20.172Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T23:05:49.211Z</updated>
+    <updated>2023-03-26T23:34:20.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=vOzTJva_PKI</id>
+        <link href="https://www.youtube.com/watch?v=vOzTJva_PKI"/>
+        <updated>2023-03-26T23:09:54.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=OZIZy76qfP8</id>
@@ -201,15 +210,6 @@
         <updated>2023-03-25T15:12:28.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=vOzTJva_PKI</id>
-        <link href="https://www.youtube.com/watch?v=vOzTJva_PKI"/>
-        <updated>2023-03-25T14:37:57.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
