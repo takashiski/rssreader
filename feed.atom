@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T15:05:46.087Z</id>
+    <id>urn:2023-03-26T15:34:33.357Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T15:05:46.087Z</updated>
+    <updated>2023-03-26T15:34:33.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[バースデーイラスト描く]]></title>
+        <id>https://www.youtube.com/watch?v=ftwU9d17TdE</id>
+        <link href="https://www.youtube.com/watch?v=ftwU9d17TdE"/>
+        <updated>2023-03-26T15:23:12.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=WDzRJP0Esec</id>
+        <link href="https://www.youtube.com/watch?v=WDzRJP0Esec"/>
+        <updated>2023-03-26T15:13:31.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ngWSPAP9dKo</id>
@@ -541,15 +559,6 @@
         <id>https://www.youtube.com/watch?v=hMMZaVgNJIU</id>
         <link href="https://www.youtube.com/watch?v=hMMZaVgNJIU"/>
         <updated>2023-03-22T20:24:47.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=WDzRJP0Esec</id>
-        <link href="https://www.youtube.com/watch?v=WDzRJP0Esec"/>
-        <updated>2023-03-22T20:22:38.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1569,15 +1578,6 @@
         <updated>2023-03-12T16:22:45.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7ヶ月ありがとう]]></title>
-        <id>https://www.youtube.com/watch?v=vugwrRwXoyc</id>
-        <link href="https://www.youtube.com/watch?v=vugwrRwXoyc"/>
-        <updated>2023-03-12T15:18:21.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
