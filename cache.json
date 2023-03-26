@@ -561,16 +561,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=k-D-5yUGLCE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k-D-5yUGLCE",
-          "publishedOn": "2023-03-26T11:26:58.000Z",
-          "wordCount": null,
-          "title": "【メン限配信】RED同時視聴するよ~！！",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=xc8gxINLJPw",
           "author": null,
           "description": "",
@@ -708,6 +698,16 @@
           "publishedOn": "2023-03-18T19:26:49.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！可愛いお歌聴いてく？KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=IBU3c0BitgY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IBU3c0BitgY",
+          "publishedOn": "2023-03-17T20:54:28.000Z",
+          "wordCount": null,
+          "title": "【ホグワーツ・レガシー】魔法いっぱい覚える！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
