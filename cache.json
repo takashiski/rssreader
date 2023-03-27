@@ -541,16 +541,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AELLVvTMb3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AELLVvTMb3s",
-          "publishedOn": "2023-03-27T10:06:30.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=jrMiqjXnfvc",
           "author": null,
           "description": "",
@@ -688,6 +678,16 @@
           "publishedOn": "2023-03-20T01:41:32.000Z",
           "wordCount": null,
           "title": "【#たらおは/雑談】第2回たらんとおはなし！ゲストはマル・ナナモナちゃん！【VTuber/マル・ナナモナ/神輿たらん】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=pEMhvAsdeFs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pEMhvAsdeFs",
+          "publishedOn": "2023-03-18T19:26:49.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！可愛いお歌聴いてく？KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2205,6 +2205,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_b4Ook5mJxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_b4Ook5mJxQ",
+          "publishedOn": "2023-03-27T14:05:27.000Z",
+          "wordCount": null,
+          "title": "【原神#39】世界任務⌇層岩巨淵深遊記⚔【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ueYtEH4aE2o",
           "author": null,
           "description": "",
@@ -2342,16 +2352,6 @@
           "publishedOn": "2023-03-05T01:58:06.000Z",
           "wordCount": null,
           "title": "【朝活】日曜の朝にわらわとまったりするのはどう？☀【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lccyRfhtqv8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lccyRfhtqv8",
-          "publishedOn": "2023-03-02T13:12:34.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】おかえりおうた🎤いっぱい楽しむぞ！✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
