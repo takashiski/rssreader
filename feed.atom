@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T15:34:46.002Z</id>
+    <id>urn:2023-03-27T16:06:12.703Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T15:34:46.002Z</updated>
+    <updated>2023-03-27T16:06:12.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【早起きさんおいで】バーチャルアイドル、手のひらでおしゃべりする。【Free Talk/朝活雑談】]]></title>
+        <id>https://www.youtube.com/watch?v=MxPlXOdSq9k</id>
+        <link href="https://www.youtube.com/watch?v=MxPlXOdSq9k"/>
+        <updated>2023-03-27T12:45:49.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【Re:AcT×パレプロ】人を騙すのは苦手だけど逃げるのは得意だぜッ！ 【水瓶ミア視点/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8ZRmQ0WUatU</id>
         <link href="https://www.youtube.com/watch?v=8ZRmQ0WUatU"/>
@@ -48,15 +57,6 @@
         <updated>2023-03-27T12:00:30.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【後夜祭】スパチャお礼と裏話【#ククルア爆誕2023】]]></title>
-        <id>https://www.youtube.com/watch?v=F2TZVa8In9Q</id>
-        <link href="https://www.youtube.com/watch?v=F2TZVa8In9Q"/>
-        <updated>2023-03-27T11:58:58.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1419,6 +1419,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=r30VrxSLxcQ</id>
+        <link href="https://www.youtube.com/watch?v=r30VrxSLxcQ"/>
+        <updated>2023-03-15T02:02:25.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎✨おはよおお…朝だよお…💜起きろ❕ goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xDomTIzpRFA</id>
         <link href="https://www.youtube.com/watch?v=xDomTIzpRFA"/>
@@ -1695,15 +1704,6 @@
         <updated>2023-03-12T09:22:22.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing / ３Dまで1週間✨かわいいおうた歌いた～い♡ / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ttkI9Pfq7MQ</id>
-        <link href="https://www.youtube.com/watch?v=ttkI9Pfq7MQ"/>
-        <updated>2023-03-12T06:44:12.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

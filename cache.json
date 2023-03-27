@@ -337,16 +337,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=F2TZVa8In9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F2TZVa8In9Q",
-          "publishedOn": "2023-03-27T11:58:58.000Z",
-          "wordCount": null,
-          "title": "【後夜祭】スパチャお礼と裏話【#ククルア爆誕2023】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=ftwU9d17TdE",
           "author": null,
           "description": "",
@@ -474,6 +464,16 @@
           "publishedOn": "2023-03-16T00:28:00.000Z",
           "wordCount": null,
           "title": "【睡眠導入】ピアノオケ縛り歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r30VrxSLxcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r30VrxSLxcQ",
+          "publishedOn": "2023-03-15T02:02:25.000Z",
+          "wordCount": null,
+          "title": "【#ククルア居酒屋】織田詩信様ご来店！第15回は戦国時代から天下統一に襲来！？【新人Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1307,16 +1307,6 @@
           "wordCount": null,
           "title": "◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ttkI9Pfq7MQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ttkI9Pfq7MQ",
-          "publishedOn": "2023-03-12T06:44:12.000Z",
-          "wordCount": null,
-          "title": "◆歌枠 /sing / ３Dまで1週間✨かわいいおうた歌いた～い♡ / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
         }
       ]
     },
@@ -2057,6 +2047,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6HjtF2rHZO8gAsX5FXF-Kg",
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MxPlXOdSq9k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MxPlXOdSq9k",
+          "publishedOn": "2023-03-27T12:45:49.000Z",
+          "wordCount": null,
+          "title": "【早起きさんおいで】バーチャルアイドル、手のひらでおしゃべりする。【Free Talk/朝活雑談】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iFke_zN5bWo",
           "author": null,
