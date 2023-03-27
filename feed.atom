@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T20:07:10.257Z</id>
+    <id>urn:2023-03-27T20:34:31.189Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T20:07:10.257Z</updated>
+    <updated>2023-03-27T20:34:31.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】ランクしたりなんやしたり⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JoBJ8r53eAE</id>
+        <link href="https://www.youtube.com/watch?v=JoBJ8r53eAE"/>
+        <updated>2023-03-27T19:46:43.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[眠れない夜もすやすやできるASMRらじお #すやらじ ♡6【ASMR Radio/Whisper】]]></title>
         <id>https://www.youtube.com/watch?v=iFke_zN5bWo</id>
@@ -2379,15 +2388,6 @@
         <updated>2023-02-26T18:23:37.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】みんな聞いて～～！！🌟超はっぴーな告知！！ ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zqyXDYBYLpI</id>
-        <link href="https://www.youtube.com/watch?v=zqyXDYBYLpI"/>
-        <updated>2023-02-26T15:25:27.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
