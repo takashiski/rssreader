@@ -541,6 +541,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AELLVvTMb3s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AELLVvTMb3s",
+          "publishedOn": "2023-03-27T10:06:30.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jrMiqjXnfvc",
           "author": null,
           "description": "",
@@ -679,16 +689,6 @@
           "wordCount": null,
           "title": "【#たらおは/雑談】第2回たらんとおはなし！ゲストはマル・ナナモナちゃん！【VTuber/マル・ナナモナ/神輿たらん】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pEMhvAsdeFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pEMhvAsdeFs",
-          "publishedOn": "2023-03-18T19:26:49.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！可愛いお歌聴いてく？KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -697,6 +697,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=sZWfXxrFzTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sZWfXxrFzTM",
+          "publishedOn": "2023-03-27T10:07:22.000Z",
+          "wordCount": null,
+          "title": "【 歌雑/sing and talk 】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XTXarSNavuw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XTXarSNavuw",
+          "publishedOn": "2023-03-27T10:06:30.000Z",
+          "wordCount": null,
+          "title": "【 歌雑/sing and talk 】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8kLqWVsjvuk",
           "author": null,
@@ -825,26 +845,6 @@
           "publishedOn": "2023-03-18T12:00:04.000Z",
           "wordCount": null,
           "title": "【 #shorts 】Vsingerが一発録りで シンデレラボーイ 歌ってみた【#彩雲のの / #新人vtuber 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uSr5WsyRnF8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uSr5WsyRnF8",
-          "publishedOn": "2023-03-18T01:47:37.000Z",
-          "wordCount": null,
-          "title": "【 歌枠/singing stream 】明智光月ちゃんとお歌コラボ！🌸聴きに来て❤ #ののみつ  karaoke【#彩雲のの / #明智光月 /#新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fhOuGtZHJ8g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fhOuGtZHJ8g",
-          "publishedOn": "2023-03-16T22:45:42.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing stream】花粉に負けるな。【#彩雲のの /#新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1173,7 +1173,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=OZIZy76qfP8",
-          "publishedOn": "2023-03-26T20:30:49.000Z",
+          "publishedOn": "2023-03-27T10:30:25.000Z",
           "wordCount": null,
           "title": "◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】",
           "imageUrl": null
