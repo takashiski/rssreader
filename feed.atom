@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T11:05:45.524Z</id>
+    <id>urn:2023-03-27T11:34:21.781Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T11:05:45.524Z</updated>
+    <updated>2023-03-27T11:34:21.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[眠れない夜もすやすやできるASMRらじお #すやらじ ♡6【ASMR Radio/Whisper】]]></title>
+        <id>https://www.youtube.com/watch?v=iFke_zN5bWo</id>
+        <link href="https://www.youtube.com/watch?v=iFke_zN5bWo"/>
+        <updated>2023-03-27T11:19:12.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ひさしぶり、ただいま～🌸【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Bj6EyASJcp8</id>
+        <link href="https://www.youtube.com/watch?v=Bj6EyASJcp8"/>
+        <updated>2023-03-27T11:12:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】ランクしたりなんやしたり⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JoBJ8r53eAE</id>
@@ -1986,15 +2004,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【KU100/ASMR】ヤンデレ彼女からは逃れられない♡ゾクゾクする囁き/耳かき【Binaural/Ear Cleaning/Ear Blowing/Whispering/Yandere/睡眠導入】]]></title>
-        <id>https://www.youtube.com/watch?v=r-20eQbjWWw</id>
-        <link href="https://www.youtube.com/watch?v=r-20eQbjWWw"/>
-        <updated>2023-03-07T19:15:16.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！maipe---su⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ghWigF7LctI</id>
         <link href="https://www.youtube.com/watch?v=ghWigF7LctI"/>
@@ -2397,15 +2406,6 @@
         <updated>2023-02-26T18:23:37.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D💜かわいいおうた、聴きに来て❕はやく💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Wodag4psP2A</id>
-        <link href="https://www.youtube.com/watch?v=Wodag4psP2A"/>
-        <updated>2023-02-26T12:24:44.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
 </feed>
