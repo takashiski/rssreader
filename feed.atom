@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T08:35:53.953Z</id>
+    <id>urn:2023-03-27T09:05:51.600Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T08:35:53.953Z</updated>
+    <updated>2023-03-27T09:05:51.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Re:AcT×パレプロ】人を騙すのは苦手だけど逃げるのは得意だぜッ！ 【水瓶ミア視点/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8ZRmQ0WUatU</id>
+        <link href="https://www.youtube.com/watch?v=8ZRmQ0WUatU"/>
+        <updated>2023-03-27T08:45:49.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神#39】世界任務⌇層岩巨淵深遊記⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=_b4Ook5mJxQ</id>
+        <link href="https://www.youtube.com/watch?v=_b4Ook5mJxQ"/>
+        <updated>2023-03-27T08:36:53.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌雑/sing and talk 】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=sZWfXxrFzTM</id>
@@ -2298,15 +2316,6 @@
         <updated>2023-03-02T14:20:44.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】おかえりおうた🎤いっぱい楽しむぞ！✨໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=lccyRfhtqv8</id>
-        <link href="https://www.youtube.com/watch?v=lccyRfhtqv8"/>
-        <updated>2023-03-02T13:12:34.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
