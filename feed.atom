@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-27T14:15:23.246Z</id>
+    <id>urn:2023-03-27T14:38:28.806Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-27T14:15:23.246Z</updated>
+    <updated>2023-03-27T14:38:28.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】桜が満開だね～🌸karaoke【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=GoEWVK-W7rE</id>
+        <link href="https://www.youtube.com/watch?v=GoEWVK-W7rE"/>
+        <updated>2023-03-27T14:14:06.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【原神#39】世界任務⌇層岩巨淵深遊記⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=_b4Ook5mJxQ</id>
@@ -1110,15 +1119,6 @@
         <updated>2023-03-18T06:18:51.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】明智光月ちゃんとお歌コラボ！🌸聴きに来て❤ #ののみつ  karaoke【#彩雲のの / #明智光月 /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=uSr5WsyRnF8</id>
-        <link href="https://www.youtube.com/watch?v=uSr5WsyRnF8"/>
-        <updated>2023-03-18T01:47:37.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
