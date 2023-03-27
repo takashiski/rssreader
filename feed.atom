@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-26T23:34:20.172Z</id>
+    <id>urn:2023-03-27T00:22:05.423Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T23:34:20.172Z</updated>
+    <updated>2023-03-27T00:22:05.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2415,15 +2415,6 @@
         <updated>2023-02-25T13:40:58.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #shorts 】死ぬな！ / #こっちのけんと【アカペラハモリで歌ってみた #るーとも 】【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=mvCOcMUmbGg</id>
-        <link href="https://www.youtube.com/watch?v=mvCOcMUmbGg"/>
-        <updated>2023-02-25T12:00:27.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
 </feed>
