@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T15:06:05.048Z</id>
+    <id>urn:2023-03-28T15:34:53.187Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T15:06:05.048Z</updated>
+    <updated>2023-03-28T15:34:53.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ひさしぶり、ただいま～🌸【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Bj6EyASJcp8</id>
+        <link href="https://www.youtube.com/watch?v=Bj6EyASJcp8"/>
+        <updated>2023-03-28T15:34:26.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=77Plh7EQKSA</id>
+        <link href="https://www.youtube.com/watch?v=77Plh7EQKSA"/>
+        <updated>2023-03-28T15:29:07.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見大歓迎✨かわいい女の子と一日はじめちゃお？💜 good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=yBn8oopJZhc</id>
+        <link href="https://www.youtube.com/watch?v=yBn8oopJZhc"/>
+        <updated>2023-03-28T15:26:48.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家 飲 み な う]]></title>
+        <id>https://www.youtube.com/watch?v=gwU9kjiSRX8</id>
+        <link href="https://www.youtube.com/watch?v=gwU9kjiSRX8"/>
+        <updated>2023-03-28T15:03:50.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】1時間ずっと耳ふー耐久♡あまあま囁き♡【Ear Blowing/Whispering/睡眠導入/作業BGM】]]></title>
         <id>https://www.youtube.com/watch?v=_uoJvGorSQ4</id>
@@ -192,15 +228,6 @@
         <updated>2023-03-27T12:00:30.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】ひさしぶり、ただいま～🌸【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Bj6EyASJcp8</id>
-        <link href="https://www.youtube.com/watch?v=Bj6EyASJcp8"/>
-        <updated>2023-03-27T11:12:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2058,15 +2085,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[稀羽すうが 寄り酔い 歌ってみた  #shorts #cover #Vsinger]]></title>
-        <id>https://www.youtube.com/watch?v=fhhos8u6yfQ</id>
-        <link href="https://www.youtube.com/watch?v=fhhos8u6yfQ"/>
-        <updated>2023-03-07T13:00:25.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#狐宵いなり デビュー！】3月10日(金)19:00よりデビュー初配信！【Re:AcT Gaming】]]></title>
         <id>https://www.youtube.com/watch?v=YPkzBjQnl9k</id>
         <link href="https://www.youtube.com/watch?v=YPkzBjQnl9k"/>
@@ -2319,15 +2337,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】なんか、久しぶり…だね💜会いに来て💜  Lets Talk【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=91XWiDEk_ns</id>
-        <link href="https://www.youtube.com/watch?v=91XWiDEk_ns"/>
-        <updated>2023-03-02T16:07:45.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【moon】20年以上前のゲーム！？戦わない勇者の冒険…【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=OVXjoZiEnas</id>
         <link href="https://www.youtube.com/watch?v=OVXjoZiEnas"/>
@@ -2388,15 +2397,6 @@
         <updated>2023-02-28T19:43:52.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/咀嚼音】オフコラボ💗可愛いお菓子を食べる音🍭🍪💗 #つくつくぴっち 【月紫アリア/夢川かなう/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=-ydWSRf9pXY</id>
-        <link href="https://www.youtube.com/watch?v=-ydWSRf9pXY"/>
-        <updated>2023-02-27T13:25:31.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
