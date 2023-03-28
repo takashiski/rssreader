@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T16:48:56.876Z</id>
+    <id>urn:2023-03-28T17:05:56.093Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T16:48:56.876Z</updated>
+    <updated>2023-03-28T17:05:56.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！可愛くて元気な女の子！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=83sAVckMqf8</id>
+        <link href="https://www.youtube.com/watch?v=83sAVckMqf8"/>
+        <updated>2023-03-28T17:03:44.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】1時間ずっと耳ふー耐久♡あまあま囁き♡【Ear Blowing/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=_uoJvGorSQ4</id>
+        <link href="https://www.youtube.com/watch?v=_uoJvGorSQ4"/>
+        <updated>2023-03-28T17:00:27.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】ひさしぶり、ただいま～🌸【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Bj6EyASJcp8</id>
@@ -30,24 +48,6 @@
         <updated>2023-03-28T15:26:48.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家 飲 み な う]]></title>
-        <id>https://www.youtube.com/watch?v=gwU9kjiSRX8</id>
-        <link href="https://www.youtube.com/watch?v=gwU9kjiSRX8"/>
-        <updated>2023-03-28T15:03:50.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】1時間ずっと耳ふー耐久♡あまあま囁き♡【Ear Blowing/Whispering/睡眠導入/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=_uoJvGorSQ4</id>
-        <link href="https://www.youtube.com/watch?v=_uoJvGorSQ4"/>
-        <updated>2023-03-28T15:02:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1056,15 +1056,6 @@
         <updated>2023-03-20T12:00:08.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zDMFSwy3Pbg</id>
-        <link href="https://www.youtube.com/watch?v=zDMFSwy3Pbg"/>
-        <updated>2023-03-20T10:27:23.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2082,6 +2073,15 @@
         <updated>2023-03-07T14:37:50.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稀羽すうが 寄り酔い 歌ってみた  #shorts #cover #Vsinger]]></title>
+        <id>https://www.youtube.com/watch?v=fhhos8u6yfQ</id>
+        <link href="https://www.youtube.com/watch?v=fhhos8u6yfQ"/>
+        <updated>2023-03-07T13:00:25.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
