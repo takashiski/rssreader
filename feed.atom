@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T18:35:34.265Z</id>
+    <id>urn:2023-03-28T19:05:43.862Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T18:35:34.265Z</updated>
+    <updated>2023-03-28T19:05:43.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
+        <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
+        <updated>2023-03-28T18:48:38.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=08ailPUSBc4</id>
