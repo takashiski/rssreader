@@ -531,6 +531,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=i3GCk1amnyo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i3GCk1amnyo",
+          "publishedOn": "2023-03-28T10:00:29.000Z",
+          "wordCount": null,
+          "title": "シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=83sAVckMqf8",
           "author": null,
           "description": "",
@@ -668,16 +678,6 @@
           "publishedOn": "2023-03-20T15:19:31.000Z",
           "wordCount": null,
           "title": "【雑談】リスナー参加型！趣味プレゼン大会！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zDMFSwy3Pbg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zDMFSwy3Pbg",
-          "publishedOn": "2023-03-20T10:27:23.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
