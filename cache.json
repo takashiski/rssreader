@@ -531,6 +531,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=83sAVckMqf8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=83sAVckMqf8",
+          "publishedOn": "2023-03-28T09:12:45.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！可愛くて元気な女の子！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AELLVvTMb3s",
           "author": null,
           "description": "",
@@ -668,16 +678,6 @@
           "publishedOn": "2023-03-20T10:27:23.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！お歌のじかんだぁ！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3sGqo70hnaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3sGqo70hnaw",
-          "publishedOn": "2023-03-20T01:41:32.000Z",
-          "wordCount": null,
-          "title": "【#たらおは/雑談】第2回たらんとおはなし！ゲストはマル・ナナモナちゃん！【VTuber/マル・ナナモナ/神輿たらん】",
           "imageUrl": null
         }
       ]
