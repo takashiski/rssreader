@@ -855,6 +855,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u44Qro9fU0M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u44Qro9fU0M",
+          "publishedOn": "2023-03-28T02:40:23.000Z",
+          "wordCount": null,
+          "title": "【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4qWDMPxsXkQ",
           "author": null,
           "description": "",
@@ -992,16 +1002,6 @@
           "publishedOn": "2023-03-09T23:57:20.000Z",
           "wordCount": null,
           "title": "【リスナー参加型】みんなの〇〇卒業【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZjShY17RcYU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZjShY17RcYU",
-          "publishedOn": "2023-03-08T21:52:02.000Z",
-          "wordCount": null,
-          "title": "【歌枠】もう春だねえ、ばいばい冬【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1168,6 +1168,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxLgvntienV0kwNLxrbcmyQ",
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
+          "publishedOn": "2023-03-27T15:45:40.000Z",
+          "wordCount": null,
+          "title": "☆星のカービィWiiデラックス / #02 / 完全初見🔥ひとりでも2人分うるさい丸顔の冒険。〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OZIZy76qfP8",
           "author": null,
