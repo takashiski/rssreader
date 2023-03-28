@@ -1169,16 +1169,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
-          "publishedOn": "2023-03-27T15:45:40.000Z",
-          "wordCount": null,
-          "title": "☆星のカービィWiiデラックス / #02 / 完全初見🔥ひとりでも2人分うるさい丸顔の冒険。〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=OZIZy76qfP8",
           "author": null,
           "description": "",
@@ -1316,6 +1306,16 @@
           "publishedOn": "2023-03-14T00:40:23.000Z",
           "wordCount": null,
           "title": "◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ttkI9Pfq7MQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ttkI9Pfq7MQ",
+          "publishedOn": "2023-03-12T06:44:12.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing / ３Dまで1週間✨かわいいおうた歌いた～い♡ / karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1527,16 +1527,6 @@
           "publishedOn": "2023-03-22T20:26:57.000Z",
           "wordCount": null,
           "title": "【ASMR】すーぱーかいぬし様限定☁ Only for Superkainushi. 【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hMMZaVgNJIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hMMZaVgNJIU",
-          "publishedOn": "2023-03-22T20:24:47.000Z",
-          "wordCount": null,
-          "title": "【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
         },
         {

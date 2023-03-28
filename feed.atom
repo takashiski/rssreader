@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T13:09:32.877Z</id>
+    <id>urn:2023-03-28T13:35:21.456Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T13:09:32.877Z</updated>
+    <updated>2023-03-28T13:35:21.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -138,15 +138,6 @@
         <updated>2023-03-27T16:25:22.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #02 / 完全初見🔥ひとりでも2人分うるさい丸顔の冒険。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=Gq8xMvX3QZY</id>
-        <link href="https://www.youtube.com/watch?v=Gq8xMvX3QZY"/>
-        <updated>2023-03-27T15:45:40.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -721,15 +712,6 @@
         <id>https://www.youtube.com/watch?v=hEKasJm1D3k</id>
         <link href="https://www.youtube.com/watch?v=hEKasJm1D3k"/>
         <updated>2023-03-22T20:26:57.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=hMMZaVgNJIU</id>
-        <link href="https://www.youtube.com/watch?v=hMMZaVgNJIU"/>
-        <updated>2023-03-22T20:24:47.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1758,6 +1740,15 @@
         <updated>2023-03-12T09:22:22.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / ３Dまで1週間✨かわいいおうた歌いた～い♡ / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ttkI9Pfq7MQ</id>
+        <link href="https://www.youtube.com/watch?v=ttkI9Pfq7MQ"/>
+        <updated>2023-03-12T06:44:12.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
