@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T17:35:40.311Z</id>
+    <id>urn:2023-03-29T18:13:02.683Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T17:35:40.311Z</updated>
+    <updated>2023-03-29T18:13:02.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=mX8XPENohKY</id>
+        <link href="https://www.youtube.com/watch?v=mX8XPENohKY"/>
+        <updated>2023-03-29T17:58:03.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=77Plh7EQKSA</id>
+        <link href="https://www.youtube.com/watch?v=77Plh7EQKSA"/>
+        <updated>2023-03-29T17:45:35.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
@@ -2274,15 +2292,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗お疲れ様の金曜日に最高の癒しを💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=XJPfuKiYzLM</id>
-        <link href="https://www.youtube.com/watch?v=XJPfuKiYzLM"/>
-        <updated>2023-03-03T17:47:08.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=KhKXojU4HNQ</id>
         <link href="https://www.youtube.com/watch?v=KhKXojU4HNQ"/>
@@ -2316,15 +2325,6 @@
         <updated>2023-03-03T06:36:19.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】なんか、久しぶり…だね💜会いに来て💜  Lets Talk【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=91XWiDEk_ns</id>
-        <link href="https://www.youtube.com/watch?v=91XWiDEk_ns"/>
-        <updated>2023-03-02T16:07:45.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
