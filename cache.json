@@ -541,16 +541,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=GEiWwFmtsxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GEiWwFmtsxQ",
-          "publishedOn": "2023-03-29T10:26:12.000Z",
-          "wordCount": null,
-          "title": "【雑談】ラウワンコラボ終わっちゃう！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=32134sgjERE",
           "author": null,
           "description": "",
@@ -688,6 +678,16 @@
           "publishedOn": "2023-03-22T17:14:50.000Z",
           "wordCount": null,
           "title": "【睡眠導入/singing】眠れない子が集まる場所。KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gPahpnuoRdg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gPahpnuoRdg",
+          "publishedOn": "2023-03-22T10:00:24.000Z",
+          "wordCount": null,
+          "title": "魔法は完璧だが？ #新人vtuber #ゲーム実況 #ブルアカ #神輿たらん #るっくあっとたらん #shorts",
           "imageUrl": null
         }
       ]
@@ -1169,16 +1169,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=HYnWZXWfP0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HYnWZXWfP0Q",
-          "publishedOn": "2023-03-29T11:59:39.000Z",
-          "wordCount": null,
-          "title": "【menber only】歌練なのです【】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
           "author": null,
           "description": "",
@@ -1306,6 +1296,16 @@
           "publishedOn": "2023-03-16T12:06:05.000Z",
           "wordCount": null,
           "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O09YIRzqGrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O09YIRzqGrM",
+          "publishedOn": "2023-03-15T18:12:42.000Z",
+          "wordCount": null,
+          "title": "◆ASMR / 広告なし! / 気付いたら寝てる!?♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗",
           "imageUrl": null
         }
       ]
@@ -2054,7 +2054,7 @@
           "link": "https://www.youtube.com/watch?v=ULfCOXzEhOs",
           "publishedOn": "2023-03-29T12:00:48.000Z",
           "wordCount": null,
-          "title": "【ASMR】どきどき睡眠導入♡酔っぱらいが添い寝したいそうです【Whispering/睡眠導入/作業BGM】",
+          "title": "【ASMR】どきどき睡眠導入♡酔っぱらいが添い寝したいそうです。心音・囁き・耳ふー【Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】",
           "imageUrl": null
         },
         {
@@ -2209,7 +2209,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=qm1QVirHP-s",
-          "publishedOn": "2023-03-29T06:58:50.000Z",
+          "publishedOn": "2023-03-29T14:47:57.000Z",
           "wordCount": null,
           "title": "【#歌枠】暁月クララちゃんといっしょに歌う！🎤💓【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
