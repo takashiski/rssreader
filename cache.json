@@ -541,6 +541,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IjZyBsIYO-Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IjZyBsIYO-Q",
+          "publishedOn": "2023-03-29T09:18:22.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#5 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=83sAVckMqf8",
           "author": null,
           "description": "",
@@ -679,16 +689,6 @@
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！元気が出る枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=FAH1BrVywXE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FAH1BrVywXE",
-          "publishedOn": "2023-03-20T15:19:31.000Z",
-          "wordCount": null,
-          "title": "【雑談】リスナー参加型！趣味プレゼン大会！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -714,7 +714,7 @@
           "link": "https://www.youtube.com/watch?v=XTXarSNavuw",
           "publishedOn": "2023-03-28T00:00:27.000Z",
           "wordCount": null,
-          "title": "【 歌雑/sing and talk 】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】",
+          "title": "【雑談/talking stream】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】",
           "imageUrl": null
         },
         {
