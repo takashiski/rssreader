@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T00:25:47.414Z</id>
+    <id>urn:2023-03-29T00:50:50.193Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T00:25:47.414Z</updated>
+    <updated>2023-03-29T00:50:50.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -73,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=77Plh7EQKSA</id>
         <link href="https://www.youtube.com/watch?v=77Plh7EQKSA"/>
         <updated>2023-03-28T15:29:07.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見大歓迎✨かわいい女の子と一日はじめちゃお？💜 good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=yBn8oopJZhc</id>
-        <link href="https://www.youtube.com/watch?v=yBn8oopJZhc"/>
-        <updated>2023-03-28T15:26:48.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -2325,6 +2316,15 @@
         <updated>2023-03-03T06:36:19.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】なんか、久しぶり…だね💜会いに来て💜  Lets Talk【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=91XWiDEk_ns</id>
+        <link href="https://www.youtube.com/watch?v=91XWiDEk_ns"/>
+        <updated>2023-03-02T16:07:45.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
