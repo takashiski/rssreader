@@ -541,6 +541,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GEiWwFmtsxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GEiWwFmtsxQ",
+          "publishedOn": "2023-03-29T10:26:12.000Z",
+          "wordCount": null,
+          "title": "【雑談】誕生日近づいてきたよ！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=32134sgjERE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=32134sgjERE",
+          "publishedOn": "2023-03-29T10:03:59.000Z",
+          "wordCount": null,
+          "title": "撫でんな / 柊マグネタイト【歌ってみた】#新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IjZyBsIYO-Q",
           "author": null,
           "description": "",
@@ -668,26 +688,6 @@
           "publishedOn": "2023-03-22T17:14:50.000Z",
           "wordCount": null,
           "title": "【睡眠導入/singing】眠れない子が集まる場所。KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gPahpnuoRdg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gPahpnuoRdg",
-          "publishedOn": "2023-03-22T10:00:24.000Z",
-          "wordCount": null,
-          "title": "魔法は完璧だが？ #新人vtuber #ゲーム実況 #ブルアカ #神輿たらん #るっくあっとたらん #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qXw76SS6Es0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qXw76SS6Es0",
-          "publishedOn": "2023-03-21T21:03:10.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！元気が出る枠！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
