@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T17:01:10.032Z</id>
+    <id>urn:2023-03-29T17:35:40.311Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T17:01:10.032Z</updated>
+    <updated>2023-03-29T17:35:40.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
+        <link href="https://www.youtube.com/watch?v=_QPEenjHyf8"/>
+        <updated>2023-03-29T17:25:33.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】どきどき睡眠導入♡酔っぱらいが添い寝したいそうです。心音・囁き・耳ふー【Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
         <id>https://www.youtube.com/watch?v=ULfCOXzEhOs</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=Bj6EyASJcp8</id>
         <link href="https://www.youtube.com/watch?v=Bj6EyASJcp8"/>
         <updated>2023-03-28T15:34:26.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=77Plh7EQKSA</id>
-        <link href="https://www.youtube.com/watch?v=77Plh7EQKSA"/>
-        <updated>2023-03-28T15:29:07.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1941,15 +1941,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【リスナー参加型】みんなの〇〇卒業【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ZxD58LIPrwU</id>
-        <link href="https://www.youtube.com/watch?v=ZxD58LIPrwU"/>
-        <updated>2023-03-09T23:57:20.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／鼻声だけど夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ybh43sNOqDQ</id>
         <link href="https://www.youtube.com/watch?v=Ybh43sNOqDQ"/>
@@ -2325,6 +2316,15 @@
         <updated>2023-03-03T06:36:19.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】なんか、久しぶり…だね💜会いに来て💜  Lets Talk【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=91XWiDEk_ns</id>
+        <link href="https://www.youtube.com/watch?v=91XWiDEk_ns"/>
+        <updated>2023-03-02T16:07:45.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
