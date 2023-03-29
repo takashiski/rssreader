@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-29T11:34:26.260Z</id>
+    <id>urn:2023-03-29T12:08:23.049Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T11:34:26.260Z</updated>
+    <updated>2023-03-29T12:08:23.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【雑談】誕生日近づいてきたよ！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=4kZulOA30r8</id>
+        <link href="https://www.youtube.com/watch?v=4kZulOA30r8"/>
+        <updated>2023-03-29T12:01:29.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがアルジャーノンを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=CDBE8c0kwi8</id>
+        <link href="https://www.youtube.com/watch?v=CDBE8c0kwi8"/>
+        <updated>2023-03-29T12:00:09.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ラウワンコラボ終わっちゃう！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=GEiWwFmtsxQ</id>
         <link href="https://www.youtube.com/watch?v=GEiWwFmtsxQ"/>
         <updated>2023-03-29T10:26:12.000Z</updated>
@@ -39,15 +57,6 @@
         <updated>2023-03-29T06:58:50.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=4kZulOA30r8</id>
-        <link href="https://www.youtube.com/watch?v=4kZulOA30r8"/>
-        <updated>2023-03-29T06:53:52.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1137,15 +1146,6 @@
         <updated>2023-03-19T14:47:44.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系VingerがOverdoseを歌ってみたら・・・【#shorts/ #彩雲のの  】]]></title>
-        <id>https://www.youtube.com/watch?v=gbpmVX4P8PY</id>
-        <link href="https://www.youtube.com/watch?v=gbpmVX4P8PY"/>
-        <updated>2023-03-19T12:00:25.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
