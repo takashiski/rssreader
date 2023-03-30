@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T11:05:36.150Z</id>
+    <id>urn:2023-03-30T11:34:20.419Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T11:05:36.150Z</updated>
+    <updated>2023-03-30T11:34:20.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=_LWDRUO3Gns</id>
+        <link href="https://www.youtube.com/watch?v=_LWDRUO3Gns"/>
+        <updated>2023-03-30T11:18:12.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=EWkPhInmHUM</id>
+        <link href="https://www.youtube.com/watch?v=EWkPhInmHUM"/>
+        <updated>2023-03-30T11:16:31.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=txUrT4pjmi0</id>
+        <link href="https://www.youtube.com/watch?v=txUrT4pjmi0"/>
+        <updated>2023-03-30T11:15:33.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[結束バンド「ギターと孤独と蒼い惑星」歌ってみた #shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=CXokAvfgCqs</id>
@@ -2316,15 +2343,6 @@
         <updated>2023-03-03T16:36:43.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=53mmiMCdBQw</id>
-        <link href="https://www.youtube.com/watch?v=53mmiMCdBQw"/>
-        <updated>2023-03-03T12:07:54.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
