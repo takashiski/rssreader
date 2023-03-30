@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T00:50:21.744Z</id>
+    <id>urn:2023-03-30T01:33:11.114Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T00:50:21.744Z</updated>
+    <updated>2023-03-30T01:33:11.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[朝活ゲリラ歌枠 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=rDI22_C9Q08</id>
         <link href="https://www.youtube.com/watch?v=rDI22_C9Q08"/>
-        <updated>2023-03-29T23:10:50.000Z</updated>
+        <updated>2023-03-30T01:00:38.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=6AEVUbAq204</id>
-        <link href="https://www.youtube.com/watch?v=6AEVUbAq204"/>
-        <updated>2023-03-29T22:04:01.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1468,6 +1459,15 @@
         <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
         <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
         <updated>2023-03-16T00:47:52.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【睡眠導入】ピアノオケ縛り歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=k3uIEjjyrBU</id>
+        <link href="https://www.youtube.com/watch?v=k3uIEjjyrBU"/>
+        <updated>2023-03-16T00:28:00.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
