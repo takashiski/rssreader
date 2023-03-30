@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T08:35:34.929Z</id>
+    <id>urn:2023-03-30T09:06:33.298Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T08:35:34.929Z</updated>
+    <updated>2023-03-30T09:06:33.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2023-03-30T01:00:38.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=mX8XPENohKY</id>
-        <link href="https://www.youtube.com/watch?v=mX8XPENohKY"/>
-        <updated>2023-03-29T17:58:03.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -714,6 +705,15 @@
         <updated>2023-03-24T12:00:46.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=oUbLMIwhJk4</id>
+        <link href="https://www.youtube.com/watch?v=oUbLMIwhJk4"/>
+        <updated>2023-03-24T09:12:53.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1905,15 +1905,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【キミガシネ #3】サクサク謎解きできますように。ように。【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8pWbmxV3yXE</id>
-        <link href="https://www.youtube.com/watch?v=8pWbmxV3yXE"/>
-        <updated>2023-03-11T00:30:01.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【原神#37】急遽「層岩巨淵深遊記」すすめる…！⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YLxWuGeAO20</id>
         <link href="https://www.youtube.com/watch?v=YLxWuGeAO20"/>
@@ -2289,6 +2280,15 @@
         <updated>2023-03-03T18:36:22.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗お疲れ様の金曜日に最高の癒しを💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=XJPfuKiYzLM</id>
+        <link href="https://www.youtube.com/watch?v=XJPfuKiYzLM"/>
+        <updated>2023-03-03T17:47:08.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
