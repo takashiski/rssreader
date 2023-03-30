@@ -484,6 +484,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vzZz6NDj9eg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vzZz6NDj9eg",
+          "publishedOn": "2023-03-30T11:56:21.000Z",
+          "wordCount": null,
+          "title": "【メン限】さぎょざつ🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6_otFWg5J-Q",
           "author": null,
           "description": "",
@@ -915,16 +925,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=oUbLMIwhJk4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oUbLMIwhJk4",
-          "publishedOn": "2023-03-24T09:12:53.000Z",
-          "wordCount": null,
-          "title": "【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=iROJEU3efH0",
           "author": null,
           "description": "",
@@ -1002,6 +1002,16 @@
           "publishedOn": "2023-03-11T23:43:33.000Z",
           "wordCount": null,
           "title": "【歌枠】可愛いアイドルちゃんのお歌聴きに来て🖤盛り上げてくれなきゃ、やだ😡❕🖤【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8pWbmxV3yXE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8pWbmxV3yXE",
+          "publishedOn": "2023-03-11T00:30:01.000Z",
+          "wordCount": null,
+          "title": "【キミガシネ #3】サクサク謎解きできますように。ように。【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1380,16 +1390,6 @@
           "publishedOn": "2023-03-30T10:30:05.000Z",
           "wordCount": null,
           "title": "結束バンド「ギターと孤独と蒼い惑星」歌ってみた #shorts #かしこまり",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2dz9TpiwtFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2dz9TpiwtFs",
-          "publishedOn": "2023-03-30T09:19:59.000Z",
-          "wordCount": null,
-          "title": "#ほろ酔い女子会 お花見して盛大に酔っぱらうぞ!【姫熊りぼん/丸餅つきみ/稀羽すう/＃かしこまり/Re:AcT】",
           "imageUrl": null
         },
         {
