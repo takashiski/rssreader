@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T13:36:44.364Z</id>
+    <id>urn:2023-03-30T14:05:48.655Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T13:36:44.364Z</updated>
+    <updated>2023-03-30T14:05:48.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【メン限】だらだらおはなしすゅ🍔【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=y-L6v88GKJI</id>
+        <link href="https://www.youtube.com/watch?v=y-L6v88GKJI"/>
+        <updated>2023-03-30T14:05:29.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#ほろ酔い女子会 お花見して盛大に酔っぱらうぞ!【姫熊りぼん/丸餅つきみ/稀羽すう/＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2dz9TpiwtFs</id>
+        <link href="https://www.youtube.com/watch?v=2dz9TpiwtFs"/>
+        <updated>2023-03-30T13:47:59.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】さぎょざつ🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vzZz6NDj9eg</id>
@@ -183,15 +201,6 @@
         <updated>2023-03-28T18:48:38.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=08ailPUSBc4</id>
-        <link href="https://www.youtube.com/watch?v=08ailPUSBc4"/>
-        <updated>2023-03-28T18:13:27.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -2022,6 +2031,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【GeoGuessr】2人で旅行にきたら迷子になったんじゃけど。。。 #つくつくぴっち【夢川かなう/月紫アリア/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qOqOoeoLdKA</id>
+        <link href="https://www.youtube.com/watch?v=qOqOoeoLdKA"/>
+        <updated>2023-03-09T15:49:07.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ラブラブスクールデイズ】美少女だ！恋愛ゲームさいこー✨✨【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=ZxkZbOweFnQ</id>
         <link href="https://www.youtube.com/watch?v=ZxkZbOweFnQ"/>
@@ -2298,15 +2316,6 @@
         <updated>2023-03-04T15:33:21.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Biped】ロボットになって協力して世界救っちゃう❔ #ねころまんさー 【月紫アリア/猫乃ユキノ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ZSe3LPj749g</id>
-        <link href="https://www.youtube.com/watch?v=ZSe3LPj749g"/>
-        <updated>2023-03-04T15:10:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
