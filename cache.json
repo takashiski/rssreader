@@ -1062,6 +1062,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=Ox-iojxsKi4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ox-iojxsKi4",
+          "publishedOn": "2023-03-23T06:16:24.000Z",
+          "wordCount": null,
+          "title": "【 #アスリバ 】アースリバイバル先行体験！終末世界で生き残る【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ugFBqnoTDnM",
           "author": null,
           "description": "",
@@ -1159,16 +1169,6 @@
           "publishedOn": "2023-03-11T21:40:28.000Z",
           "wordCount": null,
           "title": "#25 【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i8oDsUOW7t4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i8oDsUOW7t4",
-          "publishedOn": "2023-03-09T14:23:58.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】「1週間まいにち歌枠 Last Day」🌹 KARAOKE 【稀羽すう/Re:AcT】",
           "imageUrl": null
         }
       ]
