@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T09:34:40.031Z</id>
+    <id>urn:2023-03-30T10:06:02.917Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T09:34:40.031Z</updated>
+    <updated>2023-03-30T10:06:02.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=zfPhef_a3Ss</id>
+        <link href="https://www.youtube.com/watch?v=zfPhef_a3Ss"/>
+        <updated>2023-03-30T09:48:58.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=mX8XPENohKY</id>
+        <link href="https://www.youtube.com/watch?v=mX8XPENohKY"/>
+        <updated>2023-03-30T09:36:00.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#ほろ酔い女子会 お花見して盛大に酔っぱらうぞ!【姫熊りぼん/丸餅つきみ/稀羽すう/＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2dz9TpiwtFs</id>
@@ -876,15 +894,6 @@
         <updated>2023-03-22T20:26:57.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【睡眠導入/singing】眠れない子が集まる場所。KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8POx7rX75_U</id>
-        <link href="https://www.youtube.com/watch?v=8POx7rX75_U"/>
-        <updated>2023-03-22T17:14:50.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2289,15 +2298,6 @@
         <updated>2023-03-03T18:36:22.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗お疲れ様の金曜日に最高の癒しを💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=XJPfuKiYzLM</id>
-        <link href="https://www.youtube.com/watch?v=XJPfuKiYzLM"/>
-        <updated>2023-03-03T17:47:08.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
