@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T17:34:23.725Z</id>
+    <id>urn:2023-03-30T18:06:10.062Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T17:34:23.725Z</updated>
+    <updated>2023-03-30T18:06:10.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[【歌雑/sing＆talk】初見さん大歓迎！振り返りとお歌！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=fEoq7JfXsuQ</id>
-        <link href="https://www.youtube.com/watch?v=fEoq7JfXsuQ"/>
-        <updated>2023-03-30T15:02:15.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=08ailPUSBc4</id>
@@ -30,15 +21,6 @@
         <updated>2023-03-30T13:47:59.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】さぎょざつ🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vzZz6NDj9eg</id>
-        <link href="https://www.youtube.com/watch?v=vzZz6NDj9eg"/>
-        <updated>2023-03-30T11:56:21.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -885,6 +867,15 @@
         <updated>2023-03-23T12:00:16.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=TZlBWWT-xDs</id>
+        <link href="https://www.youtube.com/watch?v=TZlBWWT-xDs"/>
+        <updated>2023-03-23T11:20:17.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

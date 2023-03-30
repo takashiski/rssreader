@@ -484,16 +484,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=vzZz6NDj9eg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vzZz6NDj9eg",
-          "publishedOn": "2023-03-30T11:56:21.000Z",
-          "wordCount": null,
-          "title": "【メン限】さぎょざつ🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=6_otFWg5J-Q",
           "author": null,
           "description": "",
@@ -550,16 +540,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShDuyxe-cDewxtcPbBmi_Q",
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=fEoq7JfXsuQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fEoq7JfXsuQ",
-          "publishedOn": "2023-03-30T15:02:15.000Z",
-          "wordCount": null,
-          "title": "【歌雑/sing＆talk】初見さん大歓迎！振り返りとお歌！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=zfPhef_a3Ss",
           "author": null,
@@ -698,6 +678,16 @@
           "publishedOn": "2023-03-24T17:11:57.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】楽しく \"5000人” 耐久！！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=TZlBWWT-xDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TZlBWWT-xDs",
+          "publishedOn": "2023-03-23T11:20:17.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
