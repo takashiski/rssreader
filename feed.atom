@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T10:06:02.917Z</id>
+    <id>urn:2023-03-30T10:34:43.360Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-30T10:06:02.917Z</updated>
+    <updated>2023-03-30T10:34:43.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[結束バンド「ギターと孤独と蒼い惑星」歌ってみた #shorts #かしこまり]]></title>
+        <id>https://www.youtube.com/watch?v=CXokAvfgCqs</id>
+        <link href="https://www.youtube.com/watch?v=CXokAvfgCqs"/>
+        <updated>2023-03-30T10:30:05.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts]]></title>
         <id>https://www.youtube.com/watch?v=zfPhef_a3Ss</id>
