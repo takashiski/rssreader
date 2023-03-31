@@ -327,13 +327,23 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=00Xj3SAATXM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=00Xj3SAATXM",
+          "publishedOn": "2023-03-31T15:19:20.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】🎊プチお披露目🎊 ＆ 4000人耐久歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6AEVUbAq204",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=6AEVUbAq204",
           "publishedOn": "2023-03-30T01:45:20.000Z",
           "wordCount": null,
-          "title": "【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】",
+          "title": "【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         },
         {
@@ -463,17 +473,7 @@
           "link": "https://www.youtube.com/watch?v=nsA0Ux-ZMW4",
           "publishedOn": "2023-03-16T00:47:52.000Z",
           "wordCount": null,
-          "title": "【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k3uIEjjyrBU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k3uIEjjyrBU",
-          "publishedOn": "2023-03-16T00:28:00.000Z",
-          "wordCount": null,
-          "title": "【睡眠導入】ピアノオケ縛り歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】",
+          "title": "【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]

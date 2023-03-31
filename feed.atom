@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T15:05:56.697Z</id>
+    <id>urn:2023-03-31T15:34:25.406Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T15:05:56.697Z</updated>
+    <updated>2023-03-31T15:34:25.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】🎊プチお披露目🎊 ＆ 4000人耐久歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
+        <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
+        <updated>2023-03-31T15:19:20.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！深夜に歌っちゃお~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=REOPQSPSLeg</id>
@@ -204,7 +213,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6AEVUbAq204</id>
         <link href="https://www.youtube.com/watch?v=6AEVUbAq204"/>
         <updated>2023-03-30T01:45:20.000Z</updated>
@@ -1590,19 +1599,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう！【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
         <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
         <updated>2023-03-16T00:47:52.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【睡眠導入】ピアノオケ縛り歌枠 🎹 Singing Stream【 #ククルアクレイユ┊︎Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=k3uIEjjyrBU</id>
-        <link href="https://www.youtube.com/watch?v=k3uIEjjyrBU"/>
-        <updated>2023-03-16T00:28:00.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
