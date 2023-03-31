@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T16:36:07.994Z</id>
+    <id>urn:2023-03-31T17:06:10.446Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T16:36:07.994Z</updated>
+    <updated>2023-03-31T17:06:10.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗綿棒でザリザリ耳かきと心地良いマッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=TDiyYtwXyoM</id>
+        <link href="https://www.youtube.com/watch?v=TDiyYtwXyoM"/>
+        <updated>2023-03-31T17:05:08.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#お花見飲酒歌枠リレー】ゆっくりしていってね！！！🌸🍻｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ha4QLOfel88</id>
+        <link href="https://www.youtube.com/watch?v=ha4QLOfel88"/>
+        <updated>2023-03-31T16:55:14.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NBjiU96MOiU</id>
+        <link href="https://www.youtube.com/watch?v=NBjiU96MOiU"/>
+        <updated>2023-03-31T16:42:27.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=BCP8kbGFzjU</id>
@@ -102,15 +129,6 @@
         <updated>2023-03-31T10:08:31.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗綿棒でザリザリ耳かきと心地良いマッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=TDiyYtwXyoM</id>
-        <link href="https://www.youtube.com/watch?v=TDiyYtwXyoM"/>
-        <updated>2023-03-31T09:55:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1608,15 +1626,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
-        <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
-        <updated>2023-03-16T00:47:52.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🔆朝活】逃がすわけなくない？⛓️初見さん歓迎【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=6Kz7L34x-5E</id>
         <link href="https://www.youtube.com/watch?v=6Kz7L34x-5E"/>
@@ -2010,15 +2019,6 @@
         <updated>2023-03-11T10:57:00.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#37】急遽「層岩巨淵深遊記」すすめる…！⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YLxWuGeAO20</id>
-        <link href="https://www.youtube.com/watch?v=YLxWuGeAO20"/>
-        <updated>2023-03-10T19:33:04.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
