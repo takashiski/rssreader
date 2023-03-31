@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T04:05:58.522Z</id>
+    <id>urn:2023-03-31T04:35:13.017Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T04:05:58.522Z</updated>
+    <updated>2023-03-31T04:35:13.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NBjiU96MOiU</id>
+        <link href="https://www.youtube.com/watch?v=NBjiU96MOiU"/>
+        <updated>2023-03-31T04:10:46.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／3月ラスト＆おひさしぶりだ～～～好きに歌うよう🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nW0t7ZXJ4gY</id>
+        <link href="https://www.youtube.com/watch?v=nW0t7ZXJ4gY"/>
+        <updated>2023-03-31T04:05:47.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 雑談】バーチャルあべのハルカスっていったいなーに？【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nnP04hPpfOI</id>
@@ -1977,15 +1995,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【原神#37】急遽「層岩巨淵深遊記」すすめる…！⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YLxWuGeAO20</id>
-        <link href="https://www.youtube.com/watch?v=YLxWuGeAO20"/>
-        <updated>2023-03-10T19:33:04.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も結局夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=s7y_akhZ0kA</id>
         <link href="https://www.youtube.com/watch?v=s7y_akhZ0kA"/>
@@ -2361,15 +2370,6 @@
         <updated>2023-03-03T11:59:45.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／おひさしぶりなお昼歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XhQCLvZe6DY</id>
-        <link href="https://www.youtube.com/watch?v=XhQCLvZe6DY"/>
-        <updated>2023-03-03T06:36:19.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
