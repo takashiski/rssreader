@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T17:06:10.446Z</id>
+    <id>urn:2023-03-31T17:34:21.650Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T17:06:10.446Z</updated>
+    <updated>2023-03-31T17:34:21.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！深夜に歌っちゃお~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=REOPQSPSLeg</id>
+        <link href="https://www.youtube.com/watch?v=REOPQSPSLeg"/>
+        <updated>2023-03-31T17:26:04.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆3D雑談コラボ✨ / よく動きよく笑う！！さいきょうかわいい2人組っ♡＃アリライ 🦇💔【九楽ライ/月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DpWFUASeBHs</id>
+        <link href="https://www.youtube.com/watch?v=DpWFUASeBHs"/>
+        <updated>2023-03-31T17:10:55.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗綿棒でザリザリ耳かきと心地良いマッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=TDiyYtwXyoM</id>
@@ -60,15 +78,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！深夜に歌っちゃお~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=REOPQSPSLeg</id>
-        <link href="https://www.youtube.com/watch?v=REOPQSPSLeg"/>
-        <updated>2023-03-31T15:00:55.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
         <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
@@ -120,15 +129,6 @@
         <updated>2023-03-31T11:00:11.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ぎゅっ♡絶対眠れる音圧耳かき/心音【Ear Cleaning/Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
-        <id>https://www.youtube.com/watch?v=xeFHQOVp-W4</id>
-        <link href="https://www.youtube.com/watch?v=xeFHQOVp-W4"/>
-        <updated>2023-03-31T10:08:31.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1815,15 +1815,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=PwOskMljSFM</id>
-        <link href="https://www.youtube.com/watch?v=PwOskMljSFM"/>
-        <updated>2023-03-14T00:40:23.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 朝活】おはよ～～～～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=CVi5mGISfvI</id>
         <link href="https://www.youtube.com/watch?v=CVi5mGISfvI"/>
@@ -1839,6 +1830,15 @@
         <updated>2023-03-13T19:20:18.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】ぺたぺた気持ち良い睡眠誘導♡一時間でオイルマッサージ責めしちゃいます。【睡眠導入/ Oil Ear Massage/Ear Blowing/Tapping/Deep Sleep】]]></title>
+        <id>https://www.youtube.com/watch?v=z9xJfc6Z71M</id>
+        <link href="https://www.youtube.com/watch?v=z9xJfc6Z71M"/>
+        <updated>2023-03-13T17:26:22.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
