@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T11:34:17.650Z</id>
+    <id>urn:2023-03-31T12:07:42.427Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T11:34:17.650Z</updated>
+    <updated>2023-03-31T12:07:42.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで 春よ、来い 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=t9tlnL5zwZ8</id>
+        <link href="https://www.youtube.com/watch?v=t9tlnL5zwZ8"/>
+        <updated>2023-03-31T12:00:42.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
@@ -1252,15 +1261,6 @@
         <id>https://www.youtube.com/watch?v=wpc9WCKjbIU</id>
         <link href="https://www.youtube.com/watch?v=wpc9WCKjbIU"/>
         <updated>2023-03-20T13:19:00.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系VingerがRe:IAMを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
-        <id>https://www.youtube.com/watch?v=KqKI08JZXJ4</id>
-        <link href="https://www.youtube.com/watch?v=KqKI08JZXJ4"/>
-        <updated>2023-03-20T12:00:10.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
         </author>
