@@ -2382,6 +2382,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nnP04hPpfOI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nnP04hPpfOI",
+          "publishedOn": "2023-03-31T03:24:23.000Z",
+          "wordCount": null,
+          "title": "【 雑談】バーチャルあべのハルカスっていったいなーに？【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JoBJ8r53eAE",
           "author": null,
           "description": "",
@@ -2519,16 +2529,6 @@
           "publishedOn": "2023-03-05T15:19:41.000Z",
           "wordCount": null,
           "title": "【 APEX 】うお～～！やるぞ～～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3m_e5E4lHec",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3m_e5E4lHec",
-          "publishedOn": "2023-03-02T14:25:07.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】魔光リサ、歌コラボしに来たらしい ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
