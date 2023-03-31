@@ -541,6 +541,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1AUoPEjJ3A0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1AUoPEjJ3A0",
+          "publishedOn": "2023-03-31T12:59:10.000Z",
+          "wordCount": null,
+          "title": "【Gartic Phone】参加型で遊ぶぞ~！たらんのことよく知ってるよね？【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fEoq7JfXsuQ",
           "author": null,
           "description": "",
@@ -678,16 +688,6 @@
           "publishedOn": "2023-03-24T19:52:26.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】楽しく \"5000人” 耐久！後半戦！達成ありがとう！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LufoT6FAvGI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LufoT6FAvGI",
-          "publishedOn": "2023-03-24T17:11:57.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】楽しく \"5000人” 耐久！！！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -855,6 +855,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
+          "publishedOn": "2023-03-31T13:02:29.000Z",
+          "wordCount": null,
+          "title": "【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=oUbLMIwhJk4",
           "author": null,
           "description": "",
@@ -993,16 +1003,6 @@
           "wordCount": null,
           "title": "【朝活】ohayou!!!!!!!!!!!!!!!! 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mCpxUZpUI2s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mCpxUZpUI2s",
-          "publishedOn": "2023-03-11T23:43:33.000Z",
-          "wordCount": null,
-          "title": "【歌枠】可愛いアイドルちゃんのお歌聴きに来て🖤盛り上げてくれなきゃ、やだ😡❕🖤【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
         }
       ]
     },
@@ -1011,6 +1011,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqIMtLuGc3YgwkhEaG8oDg",
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Ox-iojxsKi4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ox-iojxsKi4",
+          "publishedOn": "2023-03-31T13:04:30.000Z",
+          "wordCount": null,
+          "title": "【 #アスリバ 】アース：リバイバル先行体験！終末世界で生き残る【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rDI22_C9Q08",
           "author": null,
@@ -1049,16 +1059,6 @@
           "publishedOn": "2023-03-24T12:05:15.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ox-iojxsKi4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ox-iojxsKi4",
-          "publishedOn": "2023-03-23T06:16:24.000Z",
-          "wordCount": null,
-          "title": "【 #アスリバ 】アース：リバイバル先行体験！終末世界で生き残る【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -2406,7 +2406,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=nnP04hPpfOI",
-          "publishedOn": "2023-03-31T03:24:23.000Z",
+          "publishedOn": "2023-03-31T12:53:43.000Z",
           "wordCount": null,
           "title": "【 雑談】バーチャルあべのハルカスっていったいなーに？【獅子神レオナ/Re:AcT】",
           "imageUrl": null
