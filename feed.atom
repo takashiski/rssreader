@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T10:34:37.699Z</id>
+    <id>urn:2023-03-31T11:05:28.647Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T10:34:37.699Z</updated>
+    <updated>2023-03-31T11:05:28.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
+        <link href="https://www.youtube.com/watch?v=casV1IWfB90"/>
+        <updated>2023-03-31T11:00:11.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
+        <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
+        <updated>2023-03-31T10:45:32.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】ぎゅっ♡絶対眠れる音圧耳かき/心音【Ear Cleaning/Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
         <id>https://www.youtube.com/watch?v=xeFHQOVp-W4</id>
@@ -960,16 +978,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[◆アース：リバイバル / SF終末世界を探索＆サバイバル！？新作ゲーム先行プレイしちゃうぞ✨【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=aLXlZV-s-VM</id>
-        <link href="https://www.youtube.com/watch?v=aLXlZV-s-VM"/>
-        <updated>2023-03-23T06:49:32.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #アスリバ 】アースリバイバル先行体験！終末世界で生き残る【 稀羽すう/Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！終末世界で生き残る【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=Ox-iojxsKi4</id>
         <link href="https://www.youtube.com/watch?v=Ox-iojxsKi4"/>
         <updated>2023-03-23T06:16:24.000Z</updated>
@@ -1785,6 +1794,15 @@
         <updated>2023-03-14T12:00:20.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆朝歌枠◆ 初見さん歓迎✨/ 朝から元気に歌うしか！！！！🦌【九楽ライ/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=PwOskMljSFM</id>
+        <link href="https://www.youtube.com/watch?v=PwOskMljSFM"/>
+        <updated>2023-03-14T00:40:23.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
