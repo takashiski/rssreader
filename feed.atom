@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T10:06:02.996Z</id>
+    <id>urn:2023-03-31T10:34:37.699Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T10:06:02.996Z</updated>
+    <updated>2023-03-31T10:34:37.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】ぎゅっ♡絶対眠れる音圧耳かき/心音【Ear Cleaning/Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
+        <id>https://www.youtube.com/watch?v=xeFHQOVp-W4</id>
+        <link href="https://www.youtube.com/watch?v=xeFHQOVp-W4"/>
+        <updated>2023-03-31T10:08:31.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】熊が「パディントン」同時視聴したいらしい【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=dtnNnO88SlE</id>
@@ -1659,15 +1668,6 @@
         <updated>2023-03-15T14:28:19.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ガチャ】えっあの超絶美少女のダイイチルビー！？？？お迎えするとこ見てて！【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=NWK9zTAcd1Q</id>
-        <link href="https://www.youtube.com/watch?v=NWK9zTAcd1Q"/>
-        <updated>2023-03-15T14:27:28.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
