@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T14:05:50.184Z</id>
+    <id>urn:2023-03-31T14:34:13.811Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T14:05:50.184Z</updated>
+    <updated>2023-03-31T14:34:13.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
+        <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
+        <updated>2023-03-31T14:08:16.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】かくにんするだけのげりらめげ【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=at4RzJIHClA</id>
@@ -1011,15 +1020,6 @@
         <updated>2023-03-22T21:44:32.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】すーぱーかいぬし様限定☁ Only for Superkainushi. 【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=hEKasJm1D3k</id>
-        <link href="https://www.youtube.com/watch?v=hEKasJm1D3k"/>
-        <updated>2023-03-22T20:26:57.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -2379,6 +2379,15 @@
         <updated>2023-03-03T16:36:43.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #minecraft 】新かいぬし様サーバー🎣【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=53mmiMCdBQw</id>
+        <link href="https://www.youtube.com/watch?v=53mmiMCdBQw"/>
+        <updated>2023-03-03T12:07:54.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
