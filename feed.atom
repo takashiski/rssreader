@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T16:05:41.947Z</id>
+    <id>urn:2023-03-31T16:36:07.994Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T16:05:41.947Z</updated>
+    <updated>2023-03-31T16:36:07.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -120,15 +120,6 @@
         <updated>2023-03-31T07:52:02.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NBjiU96MOiU</id>
-        <link href="https://www.youtube.com/watch?v=NBjiU96MOiU"/>
-        <updated>2023-03-31T04:10:46.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -2019,6 +2010,15 @@
         <updated>2023-03-11T10:57:00.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神#37】急遽「層岩巨淵深遊記」すすめる…！⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YLxWuGeAO20</id>
+        <link href="https://www.youtube.com/watch?v=YLxWuGeAO20"/>
+        <updated>2023-03-10T19:33:04.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
