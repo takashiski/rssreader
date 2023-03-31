@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T09:34:25.616Z</id>
+    <id>urn:2023-03-31T10:06:02.996Z</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T09:34:25.616Z</updated>
+    <updated>2023-03-31T10:06:02.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【メン限】熊が「パディントン」同時視聴したいらしい【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=dtnNnO88SlE</id>
+        <link href="https://www.youtube.com/watch?v=dtnNnO88SlE"/>
+        <updated>2023-03-31T09:57:17.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗綿棒でザリザリ耳かきと心地良いマッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=TDiyYtwXyoM</id>
+        <link href="https://www.youtube.com/watch?v=TDiyYtwXyoM"/>
+        <updated>2023-03-31T09:55:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／3月ラスト＆おひさしぶりだ～～～好きに歌うよう🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nW0t7ZXJ4gY</id>
@@ -1788,15 +1806,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】ぺたぺた気持ち良い睡眠誘導♡一時間でオイルマッサージ責めしちゃいます。【睡眠導入/ Oil Ear Massage/Ear Blowing/Tapping/Deep Sleep】]]></title>
-        <id>https://www.youtube.com/watch?v=z9xJfc6Z71M</id>
-        <link href="https://www.youtube.com/watch?v=z9xJfc6Z71M"/>
-        <updated>2023-03-13T17:26:22.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Undertale】完全初見アンダーテール 02【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TSGt9-4U66I</id>
         <link href="https://www.youtube.com/watch?v=TSGt9-4U66I"/>
@@ -2316,15 +2325,6 @@
         <updated>2023-03-04T15:33:21.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Biped】ロボットになって協力して世界救っちゃう❔ #ねころまんさー 【月紫アリア/猫乃ユキノ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ZSe3LPj749g</id>
-        <link href="https://www.youtube.com/watch?v=ZSe3LPj749g"/>
-        <updated>2023-03-04T15:10:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
