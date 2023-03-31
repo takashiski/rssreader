@@ -1169,6 +1169,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aLXlZV-s-VM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aLXlZV-s-VM",
+          "publishedOn": "2023-03-31T23:27:12.000Z",
+          "wordCount": null,
+          "title": "◆アース：リバイバル / SF終末世界を探索＆サバイバル！？新作ゲーム先行プレイしちゃうぞ✨【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DpWFUASeBHs",
           "author": null,
           "description": "",
@@ -1296,16 +1306,6 @@
           "publishedOn": "2023-03-16T12:06:05.000Z",
           "wordCount": null,
           "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O09YIRzqGrM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O09YIRzqGrM",
-          "publishedOn": "2023-03-15T18:12:42.000Z",
-          "wordCount": null,
-          "title": "◆ASMR / 広告なし! / 気付いたら寝てる!?♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗",
           "imageUrl": null
         }
       ]
