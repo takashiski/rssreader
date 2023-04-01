@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T17:34:10.622Z</id>
+    <id>urn:2023-04-01T18:05:52.335Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T17:34:10.622Z</updated>
+    <updated>2023-04-01T18:05:52.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,15 +66,6 @@
         <updated>2023-04-01T14:38:19.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月1日、ソロ農家デビュー！？？？【いっき団結/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=LN2WVYDMPEg</id>
-        <link href="https://www.youtube.com/watch?v=LN2WVYDMPEg"/>
-        <updated>2023-04-01T14:18:14.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1740,6 +1731,15 @@
         <updated>2023-03-15T14:28:19.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ガチャ】えっあの超絶美少女のダイイチルビー！？？？お迎えするとこ見てて！【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=NWK9zTAcd1Q</id>
+        <link href="https://www.youtube.com/watch?v=NWK9zTAcd1Q"/>
+        <updated>2023-03-15T14:27:28.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
