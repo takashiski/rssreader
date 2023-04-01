@@ -551,16 +551,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
-          "publishedOn": "2023-04-01T10:57:09.000Z",
-          "wordCount": null,
-          "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=1AUoPEjJ3A0",
           "author": null,
           "description": "",
@@ -688,6 +678,16 @@
           "publishedOn": "2023-03-26T03:19:09.000Z",
           "wordCount": null,
           "title": "【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=td-8rvDe_2M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=td-8rvDe_2M",
+          "publishedOn": "2023-03-25T10:00:38.000Z",
+          "wordCount": null,
+          "title": "『サウダージ』ハモリチャレンジしてみたwww #新人vtuber #歌ってみた #ポルノグラフィティ #ハモリ",
           "imageUrl": null
         }
       ]
@@ -1479,6 +1479,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoFEbNyIRUS26-hf2AucwFw",
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=txUrT4pjmi0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=txUrT4pjmi0",
+          "publishedOn": "2023-04-01T13:40:34.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】鼻声すぎる歌枠👃 Singing Stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=_LWDRUO3Gns",
           "author": null,
