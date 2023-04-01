@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T06:34:28.429Z</id>
+    <id>urn:2023-04-01T07:05:36.445Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T06:34:28.429Z</updated>
+    <updated>2023-04-01T07:05:36.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
+        <link href="https://www.youtube.com/watch?v=casV1IWfB90"/>
+        <updated>2023-04-01T07:04:56.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#9【ホグワーツ・レガシー】サブクエでレベル上げする！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=USz0FXCRero</id>
@@ -132,15 +141,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
-        <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
-        <updated>2023-03-31T15:19:20.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
         <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
@@ -183,15 +183,6 @@
         <updated>2023-03-31T12:00:42.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
-        <link href="https://www.youtube.com/watch?v=casV1IWfB90"/>
-        <updated>2023-03-31T11:00:11.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1659,6 +1650,15 @@
         <updated>2023-03-16T00:51:41.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
+        <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
+        <updated>2023-03-16T00:47:52.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
