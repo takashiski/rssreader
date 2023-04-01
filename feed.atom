@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T14:05:36.251Z</id>
+    <id>urn:2023-04-01T14:34:09.522Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T14:05:36.251Z</updated>
+    <updated>2023-04-01T14:34:09.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[4月1日、ソロ農家デビュー！？？？【いっき団結/VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=LN2WVYDMPEg</id>
+        <link href="https://www.youtube.com/watch?v=LN2WVYDMPEg"/>
+        <updated>2023-04-01T14:18:14.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】鼻声すぎる歌枠👃 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=txUrT4pjmi0</id>
@@ -156,6 +165,15 @@
         <updated>2023-03-31T16:42:27.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー /  1st Anniversary #つばぐら1周年 【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=tpFtHHDihRs</id>
+        <link href="https://www.youtube.com/watch?v=tpFtHHDihRs"/>
+        <updated>2023-03-31T16:04:03.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1716,15 +1734,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ガチャ】えっあの超絶美少女のダイイチルビー！？？？お迎えするとこ見てて！【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=NWK9zTAcd1Q</id>
-        <link href="https://www.youtube.com/watch?v=NWK9zTAcd1Q"/>
-        <updated>2023-03-15T14:27:28.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
         <link href="https://www.youtube.com/watch?v=RJyWqv3xfqs"/>
@@ -1956,15 +1965,6 @@
         <updated>2023-03-12T14:07:13.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アカペラで 「酔いどれ知らず」 歌ってみた #shorts #vsinger #cover]]></title>
-        <id>https://www.youtube.com/watch?v=Yt8WEjowJx0</id>
-        <link href="https://www.youtube.com/watch?v=Yt8WEjowJx0"/>
-        <updated>2023-03-12T13:30:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
