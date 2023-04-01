@@ -541,13 +541,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=USz0FXCRero",
+          "id": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=USz0FXCRero",
-          "publishedOn": "2023-04-01T06:13:56.000Z",
+          "link": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
+          "publishedOn": "2023-04-01T10:57:09.000Z",
           "wordCount": null,
-          "title": "#9【ホグワーツ・レガシー】サブクエでレベル上げする！【新人VTuber/神輿たらん/Re:AcT】",
+          "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -865,16 +865,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
-          "publishedOn": "2023-03-31T16:01:07.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
           "author": null,
           "description": "",
@@ -1002,6 +992,16 @@
           "publishedOn": "2023-03-17T13:03:27.000Z",
           "wordCount": null,
           "title": "【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=4RpK8I2p27w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4RpK8I2p27w",
+          "publishedOn": "2023-03-15T21:56:27.000Z",
+          "wordCount": null,
+          "title": "【歌枠】確定申告大勝利【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
