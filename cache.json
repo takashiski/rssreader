@@ -855,6 +855,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dk-Rqs1DQg8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dk-Rqs1DQg8",
+          "publishedOn": "2023-04-01T14:49:09.000Z",
+          "wordCount": null,
+          "title": "【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h-vVq6zkdaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-vVq6zkdaw",
+          "publishedOn": "2023-04-01T14:38:19.000Z",
+          "wordCount": null,
+          "title": "デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
           "author": null,
           "description": "",
@@ -982,26 +1002,6 @@
           "publishedOn": "2023-03-19T15:26:41.000Z",
           "wordCount": null,
           "title": "【朝活】あさ！！おはよう！！！！！！！！！！！ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Sp9fHq6ndwQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Sp9fHq6ndwQ",
-          "publishedOn": "2023-03-18T11:59:15.000Z",
-          "wordCount": null,
-          "title": "【歌枠】定期！歌枠！だ！！！！！！！【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=msDXKrhnmfE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=msDXKrhnmfE",
-          "publishedOn": "2023-03-17T13:03:27.000Z",
-          "wordCount": null,
-          "title": "【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]

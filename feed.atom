@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T14:34:09.522Z</id>
+    <id>urn:2023-04-01T15:05:35.981Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T14:34:09.522Z</updated>
+    <updated>2023-04-01T15:05:35.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】]]></title>
+        <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
+        <link href="https://www.youtube.com/watch?v=dk-Rqs1DQg8"/>
+        <updated>2023-04-01T14:49:09.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=h-vVq6zkdaw</id>
+        <link href="https://www.youtube.com/watch?v=h-vVq6zkdaw"/>
+        <updated>2023-04-01T14:38:19.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4月1日、ソロ農家デビュー！？？？【いっき団結/VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=LN2WVYDMPEg</id>
@@ -1491,15 +1509,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】定期！歌枠！だ！！！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Sp9fHq6ndwQ</id>
-        <link href="https://www.youtube.com/watch?v=Sp9fHq6ndwQ"/>
-        <updated>2023-03-18T11:59:15.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=8h3INEBy-y8</id>
         <link href="https://www.youtube.com/watch?v=8h3INEBy-y8"/>
@@ -1560,15 +1569,6 @@
         <updated>2023-03-17T14:03:44.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=msDXKrhnmfE</id>
-        <link href="https://www.youtube.com/watch?v=msDXKrhnmfE"/>
-        <updated>2023-03-17T13:03:27.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
