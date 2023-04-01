@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T06:06:05.451Z</id>
+    <id>urn:2023-04-01T06:34:28.429Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T06:06:05.451Z</updated>
+    <updated>2023-04-01T06:34:28.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#9【ホグワーツ・レガシー】サブクエでレベル上げする！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=USz0FXCRero</id>
+        <link href="https://www.youtube.com/watch?v=USz0FXCRero"/>
+        <updated>2023-04-01T06:13:56.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[？]]></title>
         <id>https://www.youtube.com/watch?v=1ikB2x48wss</id>
@@ -847,15 +856,6 @@
         <id>https://www.youtube.com/watch?v=td-8rvDe_2M</id>
         <link href="https://www.youtube.com/watch?v=td-8rvDe_2M"/>
         <updated>2023-03-25T10:00:38.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#3 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=EV8fojQCS7s</id>
-        <link href="https://www.youtube.com/watch?v=EV8fojQCS7s"/>
-        <updated>2023-03-25T09:29:11.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
