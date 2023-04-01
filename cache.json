@@ -855,6 +855,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
+          "publishedOn": "2023-04-01T11:15:41.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1ikB2x48wss",
           "author": null,
           "description": "",
@@ -992,16 +1002,6 @@
           "publishedOn": "2023-03-17T13:03:27.000Z",
           "wordCount": null,
           "title": "【キミガシネ #4】メインゲーム開催【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4RpK8I2p27w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4RpK8I2p27w",
-          "publishedOn": "2023-03-15T21:56:27.000Z",
-          "wordCount": null,
-          "title": "【歌枠】確定申告大勝利【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
