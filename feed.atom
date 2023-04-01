@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T09:34:09.742Z</id>
+    <id>urn:2023-04-01T10:06:03.372Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T09:34:09.742Z</updated>
+    <updated>2023-04-01T10:06:03.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕アニソン縛りで楽しくうたうぞおお💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=0O1g1MgnChI</id>
+        <link href="https://www.youtube.com/watch?v=0O1g1MgnChI"/>
+        <updated>2023-04-01T09:38:13.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
@@ -2217,15 +2226,6 @@
         <updated>2023-03-06T16:48:06.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ダンガンロンパ / 最終章 #8】完全初見❕これで最後…❔完全論破で終わらせてやる🔥🔥 Danganronpa【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vqXA-JtVlFY</id>
-        <link href="https://www.youtube.com/watch?v=vqXA-JtVlFY"/>
-        <updated>2023-03-06T16:34:02.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
