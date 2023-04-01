@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T15:05:35.981Z</id>
+    <id>urn:2023-04-01T15:34:20.480Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T15:05:35.981Z</updated>
+    <updated>2023-04-01T15:34:20.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】新衣装ではじめての歌枠ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=K7tZLVsDhnQ</id>
+        <link href="https://www.youtube.com/watch?v=K7tZLVsDhnQ"/>
+        <updated>2023-04-01T15:21:25.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年 【 #彩雲のの  / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=1cx6RZ72lcg</id>
+        <link href="https://www.youtube.com/watch?v=1cx6RZ72lcg"/>
+        <updated>2023-04-01T15:03:13.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】]]></title>
         <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
@@ -147,15 +165,6 @@
         <updated>2023-03-31T17:26:04.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆3D雑談コラボ✨ / よく動きよく笑う！！さいきょうかわいい2人組っ♡＃アリライ 🦇💔【九楽ライ/月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=DpWFUASeBHs</id>
-        <link href="https://www.youtube.com/watch?v=DpWFUASeBHs"/>
-        <updated>2023-03-31T17:10:55.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1365,15 +1374,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】弾き語りの時間～～！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=wpc9WCKjbIU</id>
-        <link href="https://www.youtube.com/watch?v=wpc9WCKjbIU"/>
-        <updated>2023-03-20T13:19:00.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#shorts 】幽霊東京 / Ayase feat.初音ミク【#花鋏キョウ #歌ってみた 】]]></title>
         <id>https://www.youtube.com/watch?v=5jrHeI4T7Sw</id>
         <link href="https://www.youtube.com/watch?v=5jrHeI4T7Sw"/>
@@ -1707,6 +1707,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆ASMR / 広告なし! / 気付いたら寝てる!?♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=O09YIRzqGrM</id>
+        <link href="https://www.youtube.com/watch?v=O09YIRzqGrM"/>
+        <updated>2023-03-15T18:12:42.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
         <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
@@ -1974,15 +1983,6 @@
         <updated>2023-03-12T11:00:15.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
-        <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
-        <updated>2023-03-12T09:22:22.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
