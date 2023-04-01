@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T07:34:15.042Z</id>
+    <id>urn:2023-04-01T08:06:16.312Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-01T07:34:15.042Z</updated>
+    <updated>2023-04-01T08:06:16.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
+        <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
+        <updated>2023-04-01T07:47:51.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
@@ -1650,15 +1659,6 @@
         <updated>2023-03-16T00:51:41.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#朝活】初見歓迎！100人とおはよう！【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nsA0Ux-ZMW4</id>
-        <link href="https://www.youtube.com/watch?v=nsA0Ux-ZMW4"/>
-        <updated>2023-03-16T00:47:52.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
