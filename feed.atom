@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T08:34:24.231Z</id>
+    <id>urn:2023-04-02T09:05:30.982Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T08:34:24.232Z</updated>
+    <updated>2023-04-02T09:05:30.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=pFI-B80ag7w</id>
+        <link href="https://www.youtube.com/watch?v=pFI-B80ag7w"/>
+        <updated>2023-04-02T08:34:27.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】エイプリルフール２日目🐶清楚な酒クズ（！？）お歌大好きいばら姫👑🥂【美睡シュカ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=1g2zlj5x0tE</id>
@@ -1677,15 +1686,6 @@
         <updated>2023-03-16T13:23:40.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=wau-Ay0HBIA</id>
-        <link href="https://www.youtube.com/watch?v=wau-Ay0HBIA"/>
-        <updated>2023-03-16T12:06:05.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

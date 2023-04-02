@@ -1159,6 +1159,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pFI-B80ag7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pFI-B80ag7w",
+          "publishedOn": "2023-04-02T08:34:27.000Z",
+          "wordCount": null,
+          "title": "◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DpWFUASeBHs",
           "author": null,
           "description": "",
@@ -1286,16 +1296,6 @@
           "publishedOn": "2023-03-17T00:23:41.000Z",
           "wordCount": null,
           "title": "✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
-          "publishedOn": "2023-03-16T12:06:05.000Z",
-          "wordCount": null,
-          "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
