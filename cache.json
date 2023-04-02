@@ -845,6 +845,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h-vVq6zkdaw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h-vVq6zkdaw",
+          "publishedOn": "2023-04-02T11:09:43.000Z",
+          "wordCount": null,
+          "title": "デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=U1c6NglyxR8",
           "author": null,
           "description": "",
@@ -982,16 +992,6 @@
           "publishedOn": "2023-03-22T21:44:32.000Z",
           "wordCount": null,
           "title": "【歌枠】春になったね【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZD22U3NNgDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZD22U3NNgDA",
-          "publishedOn": "2023-03-19T15:26:41.000Z",
-          "wordCount": null,
-          "title": "【朝活】あさ！！おはよう！！！！！！！！！！！ 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
