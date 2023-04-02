@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T19:34:18.704Z</id>
+    <id>urn:2023-04-02T20:05:38.828Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T19:34:18.704Z</updated>
+    <updated>2023-04-02T20:05:38.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=0XBaEGdLaTk</id>
+        <link href="https://www.youtube.com/watch?v=0XBaEGdLaTk"/>
+        <updated>2023-04-02T19:30:47.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】睡眠導入♡耳奥まで届くオイルマッサージととんとん気持ち良いタッピングで熟睡。【Oil Ear Massage/Ear Tapping/Binaural】]]></title>
         <id>https://www.youtube.com/watch?v=v0Kwsuhipzw</id>
@@ -2280,15 +2289,6 @@
         <updated>2023-03-05T15:38:07.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】うお～～！やるぞ～～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2kh8rDQjkxM</id>
-        <link href="https://www.youtube.com/watch?v=2kh8rDQjkxM"/>
-        <updated>2023-03-05T15:19:41.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

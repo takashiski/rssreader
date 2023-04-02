@@ -2352,6 +2352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0XBaEGdLaTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0XBaEGdLaTk",
+          "publishedOn": "2023-04-02T19:30:47.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nnP04hPpfOI",
           "author": null,
           "description": "",
@@ -2489,16 +2499,6 @@
           "publishedOn": "2023-03-06T16:58:22.000Z",
           "wordCount": null,
           "title": "【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2kh8rDQjkxM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2kh8rDQjkxM",
-          "publishedOn": "2023-03-05T15:19:41.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】うお～～！やるぞ～～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
