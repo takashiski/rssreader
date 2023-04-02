@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T19:05:15.471Z</id>
+    <id>urn:2023-04-02T19:34:18.704Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T19:05:15.471Z</updated>
+    <updated>2023-04-02T19:34:18.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-04-02T15:13:59.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=0XBaEGdLaTk</id>
-        <link href="https://www.youtube.com/watch?v=0XBaEGdLaTk"/>
-        <updated>2023-04-02T15:06:30.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2289,6 +2280,15 @@
         <updated>2023-03-05T15:38:07.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】うお～～！やるぞ～～！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2kh8rDQjkxM</id>
+        <link href="https://www.youtube.com/watch?v=2kh8rDQjkxM"/>
+        <updated>2023-03-05T15:19:41.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
