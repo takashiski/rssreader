@@ -531,6 +531,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NaezBd-r7aE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NaezBd-r7aE",
+          "publishedOn": "2023-04-02T16:55:04.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#7 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ptk0i4zIL9E",
           "author": null,
           "description": "",
@@ -668,16 +678,6 @@
           "publishedOn": "2023-03-28T02:12:35.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jrMiqjXnfvc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jrMiqjXnfvc",
-          "publishedOn": "2023-03-27T09:57:02.000Z",
-          "wordCount": null,
-          "title": "本気なんです！！【ハモリチャレンジ】#新人vtuber #歌ってみた #るっくあっとたらん #神輿たらん #shorts",
           "imageUrl": null
         }
       ]
@@ -2195,6 +2195,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TYuyUhR6i9s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TYuyUhR6i9s",
+          "publishedOn": "2023-04-02T16:38:06.000Z",
+          "wordCount": null,
+          "title": "【カリンバ】久しぶりのカリンバ練習🌙きっと眠れる。。？【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=K7tZLVsDhnQ",
           "author": null,
           "description": "",
@@ -2332,16 +2342,6 @@
           "publishedOn": "2023-03-15T10:09:50.000Z",
           "wordCount": null,
           "title": "【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H94yFMNoj5k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H94yFMNoj5k",
-          "publishedOn": "2023-03-13T12:44:02.000Z",
-          "wordCount": null,
-          "title": "【雑談】てりたま食べて今日もげんき🍳わらわとごはん【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
