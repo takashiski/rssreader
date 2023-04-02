@@ -160,16 +160,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=1g2zlj5x0tE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1g2zlj5x0tE",
-          "publishedOn": "2023-03-31T15:54:02.000Z",
-          "wordCount": null,
-          "title": "【 #歌うまV歌枠リレー 】エイプリルフール２日目🐶清楚な酒クズ（！？）お歌大好きいばら姫👑🥂【美睡シュカ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=nW0t7ZXJ4gY",
           "author": null,
           "description": "",
@@ -307,6 +297,16 @@
           "publishedOn": "2023-03-06T18:34:43.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／週始めから夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=44mfLxJJHRo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=44mfLxJJHRo",
+          "publishedOn": "2023-03-04T18:59:54.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／明日は日曜日！な深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1159,16 +1159,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=pFI-B80ag7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pFI-B80ag7w",
-          "publishedOn": "2023-04-01T21:03:11.000Z",
-          "wordCount": null,
-          "title": "◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=DpWFUASeBHs",
           "author": null,
           "description": "",
@@ -1296,6 +1286,16 @@
           "publishedOn": "2023-03-17T00:23:41.000Z",
           "wordCount": null,
           "title": "✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wau-Ay0HBIA",
+          "publishedOn": "2023-03-16T12:06:05.000Z",
+          "wordCount": null,
+          "title": "◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]

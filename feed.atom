@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T07:34:23.532Z</id>
+    <id>urn:2023-04-02T08:06:09.920Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T07:34:23.533Z</updated>
+    <updated>2023-04-02T08:06:09.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,15 +39,6 @@
         <updated>2023-04-02T01:39:59.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=pFI-B80ag7w</id>
-        <link href="https://www.youtube.com/watch?v=pFI-B80ag7w"/>
-        <updated>2023-04-01T21:03:11.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -255,15 +246,6 @@
         <updated>2023-03-31T16:04:03.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】エイプリルフール２日目🐶清楚な酒クズ（！？）お歌大好きいばら姫👑🥂【美睡シュカ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1g2zlj5x0tE</id>
-        <link href="https://www.youtube.com/watch?v=1g2zlj5x0tE"/>
-        <updated>2023-03-31T15:54:02.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -1689,6 +1671,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=wau-Ay0HBIA</id>
+        <link href="https://www.youtube.com/watch?v=wau-Ay0HBIA"/>
+        <updated>2023-03-16T12:06:05.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#shorts 】海の幽霊 / 米津玄師【#花鋏キョウ #歌ってみた 】]]></title>
         <id>https://www.youtube.com/watch?v=qrdK_Hj2B6o</id>
         <link href="https://www.youtube.com/watch?v=qrdK_Hj2B6o"/>
@@ -2307,6 +2298,15 @@
         <updated>2023-03-05T10:04:21.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／明日は日曜日！な深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=44mfLxJJHRo</id>
+        <link href="https://www.youtube.com/watch?v=44mfLxJJHRo"/>
+        <updated>2023-03-04T18:59:54.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
