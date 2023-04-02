@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T10:34:13.207Z</id>
+    <id>urn:2023-04-02T11:05:28.805Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T10:34:13.207Z</updated>
+    <updated>2023-04-02T11:05:28.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=bOnxOZ7kSN8</id>
+        <link href="https://www.youtube.com/watch?v=bOnxOZ7kSN8"/>
+        <updated>2023-04-02T10:40:45.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】新衣装ではじめての歌枠ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=K7tZLVsDhnQ</id>
+        <link href="https://www.youtube.com/watch?v=K7tZLVsDhnQ"/>
+        <updated>2023-04-02T10:39:08.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】睡眠導入♡耳奥まで届くオイルマッサージととんとん気持ち良いタッピングで熟睡。【Oil Ear Massage/Ear Tapping/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=v0Kwsuhipzw</id>
+        <link href="https://www.youtube.com/watch?v=v0Kwsuhipzw"/>
+        <updated>2023-04-02T10:38:26.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=pFI-B80ag7w</id>
@@ -100,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
         <link href="https://www.youtube.com/watch?v=dk-Rqs1DQg8"/>
         <updated>2023-04-01T14:49:09.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h-vVq6zkdaw</id>
-        <link href="https://www.youtube.com/watch?v=h-vVq6zkdaw"/>
-        <updated>2023-04-01T14:38:19.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
         </author>
@@ -834,15 +852,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Dr-Vh40VCE0</id>
-        <link href="https://www.youtube.com/watch?v=Dr-Vh40VCE0"/>
-        <updated>2023-03-26T03:19:09.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=djgCxojIWc4</id>
         <link href="https://www.youtube.com/watch?v=djgCxojIWc4"/>
@@ -1428,6 +1437,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【朝活】あさ！！おはよう！！！！！！！！！！！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZD22U3NNgDA</id>
+        <link href="https://www.youtube.com/watch?v=ZD22U3NNgDA"/>
+        <updated>2023-03-19T15:26:41.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=QgXcuCwi79Q</id>
         <link href="https://www.youtube.com/watch?v=QgXcuCwi79Q"/>
@@ -1707,15 +1725,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】激しすぎ注意！ゾクゾクする独占耳かき♡睡眠導入【Ear Cleaning/Whispering/Relaxing/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=_aobLSNkGgY</id>
-        <link href="https://www.youtube.com/watch?v=_aobLSNkGgY"/>
-        <updated>2023-03-15T20:22:50.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
         <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
@@ -1983,15 +1992,6 @@
         <updated>2023-03-12T11:00:15.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
-        <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
-        <updated>2023-03-12T09:22:22.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
