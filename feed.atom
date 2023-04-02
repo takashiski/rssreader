@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T04:34:33.590Z</id>
+    <id>urn:2023-04-02T05:06:37.771Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T04:34:33.590Z</updated>
+    <updated>2023-04-02T05:06:37.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=bOnxOZ7kSN8</id>
+        <link href="https://www.youtube.com/watch?v=bOnxOZ7kSN8"/>
+        <updated>2023-04-02T05:01:07.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QaOOUY2UMh0</id>
@@ -831,15 +840,6 @@
         <updated>2023-03-26T07:14:18.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Dr-Vh40VCE0</id>
-        <link href="https://www.youtube.com/watch?v=Dr-Vh40VCE0"/>
-        <updated>2023-03-26T03:19:09.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2370,15 +2370,6 @@
         <updated>2023-03-03T18:36:22.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=KhKXojU4HNQ</id>
-        <link href="https://www.youtube.com/watch?v=KhKXojU4HNQ"/>
-        <updated>2023-03-03T16:36:43.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
 </feed>

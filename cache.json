@@ -541,6 +541,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
+          "publishedOn": "2023-04-02T05:01:07.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
           "author": null,
           "description": "",
@@ -678,16 +688,6 @@
           "publishedOn": "2023-03-26T10:16:29.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#4 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Dr-Vh40VCE0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Dr-Vh40VCE0",
-          "publishedOn": "2023-03-26T03:19:09.000Z",
-          "wordCount": null,
-          "title": "【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2780,16 +2780,6 @@
           "publishedOn": "2023-03-04T17:11:04.000Z",
           "wordCount": null,
           "title": "【ASMR】長め/超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KhKXojU4HNQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KhKXojU4HNQ",
-          "publishedOn": "2023-03-03T16:36:43.000Z",
-          "wordCount": null,
-          "title": "【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
