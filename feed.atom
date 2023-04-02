@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T14:34:15.050Z</id>
+    <id>urn:2023-04-02T15:05:48.471Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T14:34:15.050Z</updated>
+    <updated>2023-04-02T15:05:48.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -172,15 +172,6 @@
         <id>https://www.youtube.com/watch?v=U1c6NglyxR8</id>
         <link href="https://www.youtube.com/watch?v=U1c6NglyxR8"/>
         <updated>2023-04-01T16:01:51.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】]]></title>
-        <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
-        <link href="https://www.youtube.com/watch?v=dk-Rqs1DQg8"/>
-        <updated>2023-04-01T14:49:09.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
         </author>
@@ -1452,6 +1443,15 @@
         <updated>2023-03-19T21:35:13.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】あさ！！おはよう！！！！！！！！！！！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZD22U3NNgDA</id>
+        <link href="https://www.youtube.com/watch?v=ZD22U3NNgDA"/>
+        <updated>2023-03-19T15:26:41.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
