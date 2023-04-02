@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T12:07:00.482Z</id>
+    <id>urn:2023-04-02T12:40:44.230Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T12:07:00.482Z</updated>
+    <updated>2023-04-02T12:40:44.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年 【 #彩雲のの  / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=1cx6RZ72lcg</id>
+        <link href="https://www.youtube.com/watch?v=1cx6RZ72lcg"/>
+        <updated>2023-04-02T12:32:36.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=h-vVq6zkdaw</id>
@@ -1407,15 +1416,6 @@
         <updated>2023-03-20T13:56:00.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】弾き語りの時間～～！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=wpc9WCKjbIU</id>
-        <link href="https://www.youtube.com/watch?v=wpc9WCKjbIU"/>
-        <updated>2023-03-20T13:19:00.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
