@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T13:34:11.240Z</id>
+    <id>urn:2023-04-02T14:05:36.381Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T13:34:11.240Z</updated>
+    <updated>2023-04-02T14:05:36.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】flyway by つばさぐらでーしょん]]></title>
+        <id>https://www.youtube.com/watch?v=1ikB2x48wss</id>
+        <link href="https://www.youtube.com/watch?v=1ikB2x48wss"/>
+        <updated>2023-04-02T14:00:07.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZhAbeW6cpBc</id>
+        <link href="https://www.youtube.com/watch?v=ZhAbeW6cpBc"/>
+        <updated>2023-04-02T13:55:15.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深すぎる家だった……！次は謎の厨房！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=QU492FdH2fA</id>
+        <link href="https://www.youtube.com/watch?v=QU492FdH2fA"/>
+        <updated>2023-04-02T13:52:22.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スケ作るやつ【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=ptk0i4zIL9E</id>
+        <link href="https://www.youtube.com/watch?v=ptk0i4zIL9E"/>
+        <updated>2023-04-02T13:50:45.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デビュー1周年記念歌枠リレー /  1st Anniversary #つばぐら1周年 【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=tpFtHHDihRs</id>
@@ -201,15 +237,6 @@
         <updated>2023-04-01T07:04:56.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】flyway by つばさぐらでーしょん]]></title>
-        <id>https://www.youtube.com/watch?v=1ikB2x48wss</id>
-        <link href="https://www.youtube.com/watch?v=1ikB2x48wss"/>
-        <updated>2023-04-01T04:01:35.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -834,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#4 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xc8gxINLJPw</id>
-        <link href="https://www.youtube.com/watch?v=xc8gxINLJPw"/>
-        <updated>2023-03-26T10:16:29.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】おはゲリラ！本番に向けて最終練習～～！弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-j8D79gJnPc</id>
         <link href="https://www.youtube.com/watch?v=-j8D79gJnPc"/>
@@ -1117,15 +1135,6 @@
         <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
         <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
         <updated>2023-03-23T14:03:31.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ZhAbeW6cpBc</id>
-        <link href="https://www.youtube.com/watch?v=ZhAbeW6cpBc"/>
-        <updated>2023-03-23T13:44:15.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
