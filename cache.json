@@ -531,16 +531,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
-          "publishedOn": "2023-04-02T05:01:07.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
           "author": null,
           "description": "",
@@ -678,6 +668,16 @@
           "publishedOn": "2023-03-26T10:16:29.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#4 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Dr-Vh40VCE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Dr-Vh40VCE0",
+          "publishedOn": "2023-03-26T03:19:09.000Z",
+          "wordCount": null,
+          "title": "【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2195,16 +2195,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=K7tZLVsDhnQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K7tZLVsDhnQ",
-          "publishedOn": "2023-04-01T15:21:25.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】新衣装ではじめての歌枠ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=NBjiU96MOiU",
           "author": null,
           "description": "",
@@ -2342,6 +2332,16 @@
           "publishedOn": "2023-03-13T12:44:02.000Z",
           "wordCount": null,
           "title": "【雑談】てりたま食べて今日もげんき🍳わらわとごはん【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gb3m9k_SpcQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gb3m9k_SpcQ",
+          "publishedOn": "2023-03-12T09:22:22.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-02T10:05:39.458Z</id>
+    <id>urn:2023-04-02T10:34:13.207Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T10:05:39.458Z</updated>
+    <updated>2023-04-02T10:34:13.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,15 +39,6 @@
         <updated>2023-04-02T06:09:21.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=bOnxOZ7kSN8</id>
-        <link href="https://www.youtube.com/watch?v=bOnxOZ7kSN8"/>
-        <updated>2023-04-02T05:01:07.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -93,15 +84,6 @@
         <updated>2023-04-01T16:01:51.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】新衣装ではじめての歌枠ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=K7tZLVsDhnQ</id>
-        <link href="https://www.youtube.com/watch?v=K7tZLVsDhnQ"/>
-        <updated>2023-04-01T15:21:25.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -849,6 +831,15 @@
         <updated>2023-03-26T07:14:18.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MENSA IQTEST】このIQテスト解けたらメンサに入れるらしい【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Dr-Vh40VCE0</id>
+        <link href="https://www.youtube.com/watch?v=Dr-Vh40VCE0"/>
+        <updated>2023-03-26T03:19:09.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1992,6 +1983,15 @@
         <updated>2023-03-12T11:00:15.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】たのしいおうたいっぱい歌いたい！🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gb3m9k_SpcQ</id>
+        <link href="https://www.youtube.com/watch?v=gb3m9k_SpcQ"/>
+        <updated>2023-03-12T09:22:22.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
