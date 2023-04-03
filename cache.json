@@ -531,13 +531,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=NaezBd-r7aE",
+          "id": "https://www.youtube.com/watch?v=og-d8eqigmc",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=NaezBd-r7aE",
-          "publishedOn": "2023-04-02T16:55:04.000Z",
+          "link": "https://www.youtube.com/watch?v=og-d8eqigmc",
+          "publishedOn": "2023-04-03T10:18:22.000Z",
           "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "title": "【Slither.io】たらんを一位まで連れてって！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -692,9 +692,19 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=AzY9KhwVaHw",
-          "publishedOn": "2023-04-02T15:49:44.000Z",
+          "publishedOn": "2023-04-03T10:22:27.000Z",
           "wordCount": null,
           "title": "祝！Live2Dアップデートだ～～～～！いろんなのの見て！！！！！ 【 #彩雲のの  / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=T3F1elmEy90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T3F1elmEy90",
+          "publishedOn": "2023-04-03T10:21:22.000Z",
+          "wordCount": null,
+          "title": "【 #はののの 】GeoGuessr！ここはどこ、、？わたしはだれ、、？【#彩雲のの/ #天川はの /#新人Vtuber】",
           "imageUrl": null
         },
         {
@@ -825,16 +835,6 @@
           "publishedOn": "2023-03-22T12:00:06.000Z",
           "wordCount": null,
           "title": "【歌枠/切り抜き】癒し系Vingerがカタオモイを歌ってみたら・・・【#shorts /#彩雲のの 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RfUeGGU1Ss4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RfUeGGU1Ss4",
-          "publishedOn": "2023-03-21T23:26:30.000Z",
-          "wordCount": null,
-          "title": "【 歌枠/singing stream 】気圧に負けない、、弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2488,6 +2488,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2bfuG1Gtz7Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2bfuG1Gtz7Q",
+          "publishedOn": "2023-04-03T10:30:18.000Z",
+          "wordCount": null,
+          "title": "【EN/KR/中文字幕】花に亡霊 - ヨルシカ One Chorus Cover【水瓶ミア】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=8ZRmQ0WUatU",
           "author": null,

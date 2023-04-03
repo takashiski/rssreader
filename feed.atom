@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T10:06:01.675Z</id>
+    <id>urn:2023-04-03T10:34:14.548Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T10:06:01.675Z</updated>
+    <updated>2023-04-03T10:34:14.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【EN/KR/中文字幕】花に亡霊 - ヨルシカ One Chorus Cover【水瓶ミア】]]></title>
+        <id>https://www.youtube.com/watch?v=2bfuG1Gtz7Q</id>
+        <link href="https://www.youtube.com/watch?v=2bfuG1Gtz7Q"/>
+        <updated>2023-04-03T10:30:18.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[祝！Live2Dアップデートだ～～～～！いろんなのの見て！！！！！ 【 #彩雲のの  / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=AzY9KhwVaHw</id>
+        <link href="https://www.youtube.com/watch?v=AzY9KhwVaHw"/>
+        <updated>2023-04-03T10:22:27.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #はののの 】GeoGuessr！ここはどこ、、？わたしはだれ、、？【#彩雲のの/ #天川はの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=T3F1elmEy90</id>
+        <link href="https://www.youtube.com/watch?v=T3F1elmEy90"/>
+        <updated>2023-04-03T10:21:22.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Slither.io】たらんを一位まで連れてって！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=og-d8eqigmc</id>
+        <link href="https://www.youtube.com/watch?v=og-d8eqigmc"/>
+        <updated>2023-04-03T10:18:22.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／4月初歌枠だ～～！🌸楽しく歌うよう🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4rpNxBTOccQ</id>
@@ -60,15 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=NaezBd-r7aE</id>
-        <link href="https://www.youtube.com/watch?v=NaezBd-r7aE"/>
-        <updated>2023-04-02T16:55:04.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【カリンバ】久しぶりのカリンバ練習🌙きっと眠れる。。？【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=TYuyUhR6i9s</id>
         <link href="https://www.youtube.com/watch?v=TYuyUhR6i9s"/>
@@ -84,15 +111,6 @@
         <updated>2023-04-02T16:26:09.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝！Live2Dアップデートだ～～～～！いろんなのの見て！！！！！ 【 #彩雲のの  / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=AzY9KhwVaHw</id>
-        <link href="https://www.youtube.com/watch?v=AzY9KhwVaHw"/>
-        <updated>2023-04-02T15:49:44.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -1344,15 +1362,6 @@
         <updated>2023-03-22T01:32:52.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】気圧に負けない、、弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=RfUeGGU1Ss4</id>
-        <link href="https://www.youtube.com/watch?v=RfUeGGU1Ss4"/>
-        <updated>2023-03-21T23:26:30.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
