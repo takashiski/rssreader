@@ -474,6 +474,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XMW0VP2-qQ8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XMW0VP2-qQ8",
+          "publishedOn": "2023-04-03T14:39:32.000Z",
+          "wordCount": null,
+          "title": "【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=casV1IWfB90",
           "author": null,
           "description": "",
@@ -2332,16 +2342,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
-          "publishedOn": "2023-04-03T08:28:43.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=0XBaEGdLaTk",
           "author": null,
           "description": "",
@@ -2479,6 +2479,16 @@
           "publishedOn": "2023-03-07T14:37:50.000Z",
           "wordCount": null,
           "title": "【Joggernauts】ちゃんと協力しないとクリアできませんからね。⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
+          "publishedOn": "2023-03-06T16:58:22.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T14:34:27.184Z</id>
+    <id>urn:2023-04-03T15:05:54.438Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T14:34:27.184Z</updated>
+    <updated>2023-04-03T15:05:54.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XMW0VP2-qQ8</id>
+        <link href="https://www.youtube.com/watch?v=XMW0VP2-qQ8"/>
+        <updated>2023-04-03T14:39:32.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】雑談しながらしっとり歌う🌙‬睡眠導入｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cDQ79zp7Um8</id>
@@ -84,15 +93,6 @@
         <updated>2023-04-03T10:18:22.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h0Ig0yiaDjw</id>
-        <link href="https://www.youtube.com/watch?v=h0Ig0yiaDjw"/>
-        <updated>2023-04-03T08:28:43.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2271,6 +2271,15 @@
         <updated>2023-03-06T18:34:43.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2vtgZh4fhuA</id>
+        <link href="https://www.youtube.com/watch?v=2vtgZh4fhuA"/>
+        <updated>2023-03-06T16:58:22.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
