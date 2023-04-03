@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T07:34:24.216Z</id>
+    <id>urn:2023-04-03T08:06:24.289Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T07:34:24.216Z</updated>
+    <updated>2023-04-03T08:06:24.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XMW0VP2-qQ8</id>
+        <link href="https://www.youtube.com/watch?v=XMW0VP2-qQ8"/>
+        <updated>2023-04-03T07:35:56.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=_LWDRUO3Gns</id>
@@ -87,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌ってみた】flyway by つばさぐらでーしょん]]></title>
+        <title type="html"><![CDATA[【歌ってみた】Flyway by つばさぐらでーしょん]]></title>
         <id>https://www.youtube.com/watch?v=1ikB2x48wss</id>
         <link href="https://www.youtube.com/watch?v=1ikB2x48wss"/>
         <updated>2023-04-02T14:00:07.000Z</updated>
