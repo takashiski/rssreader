@@ -2322,6 +2322,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
+          "publishedOn": "2023-04-03T08:28:43.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0XBaEGdLaTk",
           "author": null,
           "description": "",
@@ -2459,16 +2469,6 @@
           "publishedOn": "2023-03-07T14:37:50.000Z",
           "wordCount": null,
           "title": "【Joggernauts】ちゃんと協力しないとクリアできませんからね。⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2vtgZh4fhuA",
-          "publishedOn": "2023-03-06T16:58:22.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】花粉の季節が近づいてきた ⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
