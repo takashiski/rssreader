@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T05:05:44.015Z</id>
+    <id>urn:2023-04-03T05:34:34.873Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T05:05:44.015Z</updated>
+    <updated>2023-04-03T05:34:34.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2316,24 +2316,6 @@
         <updated>2023-03-05T10:04:21.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り / #歌枠 】初見歓迎！おい酒とじゃがりこあんだけど⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=lVex9G-TpWA</id>
-        <link href="https://www.youtube.com/watch?v=lVex9G-TpWA"/>
-        <updated>2023-03-04T17:28:06.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】長め/超絶気持ちいいシャンプー♡寝落ち確実/囁き/美容院へようこそ/バイノーラル【Ear Cleaning/shampoo/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=3w3ulF-0Zs4</id>
-        <link href="https://www.youtube.com/watch?v=3w3ulF-0Zs4"/>
-        <updated>2023-03-04T17:11:04.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
 </feed>
