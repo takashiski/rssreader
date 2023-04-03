@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T18:06:04.858Z</id>
+    <id>urn:2023-04-03T18:36:46.661Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T18:06:04.858Z</updated>
+    <updated>2023-04-03T18:36:46.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 広告なし! / すぐにぐっすり夢の中♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=6HqnOkpb088</id>
+        <link href="https://www.youtube.com/watch?v=6HqnOkpb088"/>
+        <updated>2023-04-03T18:14:00.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
@@ -1794,15 +1803,6 @@
         <updated>2023-03-16T13:23:40.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆歌枠 /sing / ３Dお披露目告知促進委員会 / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=wau-Ay0HBIA</id>
-        <link href="https://www.youtube.com/watch?v=wau-Ay0HBIA"/>
-        <updated>2023-03-16T12:06:05.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
