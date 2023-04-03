@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-03T16:06:20.564Z</id>
+    <id>urn:2023-04-03T16:36:48.734Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-03T16:06:20.564Z</updated>
+    <updated>2023-04-03T16:36:48.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【毎日ジム通い女のお話】絶対、勝つ。【Free Talk/雑談】]]></title>
+        <id>https://www.youtube.com/watch?v=_bFmlZMRWUI</id>
+        <link href="https://www.youtube.com/watch?v=_bFmlZMRWUI"/>
+        <updated>2023-04-03T16:09:18.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Slither.io】たらんを一位まで連れてって！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=og-d8eqigmc</id>
@@ -1731,15 +1740,6 @@
         <updated>2023-03-17T00:23:41.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早起きさん必見！】バーチャルアイドルの一日教えます【Free Talk/朝活雑談】]]></title>
-        <id>https://www.youtube.com/watch?v=XzOdIjPqKsM</id>
-        <link href="https://www.youtube.com/watch?v=XzOdIjPqKsM"/>
-        <updated>2023-03-16T23:50:45.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
