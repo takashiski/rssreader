@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T13:34:19.500Z</id>
+    <id>urn:2023-04-04T14:05:56.113Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T13:34:19.500Z</updated>
+    <updated>2023-04-04T14:05:56.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】気持ち良すぎて耳がとろける♡安眠耳かきはいかが？【Ear Cleaning/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=_cXImEym144</id>
+        <link href="https://www.youtube.com/watch?v=_cXImEym144"/>
+        <updated>2023-04-04T13:38:34.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #はののの 】GeoGuessr！ここはどこ、、？わたしはだれ、、？【#彩雲のの/ #天川はの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=T3F1elmEy90</id>
+        <link href="https://www.youtube.com/watch?v=T3F1elmEy90"/>
+        <updated>2023-04-04T13:37:50.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【話題作】カニになって暴れまわる！！！/Crab Champions【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=m9hh185BaeA</id>
@@ -12,6 +30,15 @@
         <updated>2023-04-04T13:28:47.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【戦国大河】ソシャゲ経験ほぼゼロのウサギが濃厚戦国生活！？【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=lGj6aM-mDXk</id>
+        <link href="https://www.youtube.com/watch?v=lGj6aM-mDXk"/>
+        <updated>2023-04-04T13:26:41.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1482,15 +1509,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】気圧に負けない、、弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=RfUeGGU1Ss4</id>
-        <link href="https://www.youtube.com/watch?v=RfUeGGU1Ss4"/>
-        <updated>2023-03-21T23:26:30.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ギルドメンバー100人求】「賞金50万円」をGETするのは一体誰！？ロードモバイル×えるすりー【Lords Mobile/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=K38HwZyHXfs</id>
         <link href="https://www.youtube.com/watch?v=K38HwZyHXfs"/>
@@ -1533,15 +1551,6 @@
         <updated>2023-03-21T13:18:38.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゆるゲー】ゲームセンターにある「アレ」でコラボしてみた！　#いるりす　 /スイーツプッシャーフレンズ【柚原いづみ/大浦るかこ/稀羽すう/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=spWYg6Nc_cs</id>
-        <link href="https://www.youtube.com/watch?v=spWYg6Nc_cs"/>
-        <updated>2023-03-21T12:37:56.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
