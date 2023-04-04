@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T06:34:55.794Z</id>
+    <id>urn:2023-04-04T07:05:52.343Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T06:34:55.794Z</updated>
+    <updated>2023-04-04T07:05:52.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,6 +12,15 @@
         <updated>2023-04-04T04:55:40.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】いつもありがとうだ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=hUiRg6M6M1A</id>
+        <link href="https://www.youtube.com/watch?v=hUiRg6M6M1A"/>
+        <updated>2023-04-04T04:35:37.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -132,6 +141,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌ってみた】デビルじゃないもん by魔光リサ]]></title>
+        <id>https://www.youtube.com/watch?v=U1c6NglyxR8</id>
+        <link href="https://www.youtube.com/watch?v=U1c6NglyxR8"/>
+        <updated>2023-04-03T11:00:11.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【EN/KR/中文字幕】花に亡霊 - ヨルシカ One Chorus Cover【水瓶ミア】]]></title>
         <id>https://www.youtube.com/watch?v=2bfuG1Gtz7Q</id>
         <link href="https://www.youtube.com/watch?v=2bfuG1Gtz7Q"/>
@@ -213,6 +231,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】]]></title>
+        <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
+        <link href="https://www.youtube.com/watch?v=dk-Rqs1DQg8"/>
+        <updated>2023-04-02T15:02:06.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】Flyway by つばさぐらでーしょん]]></title>
+        <id>https://www.youtube.com/watch?v=1ikB2x48wss</id>
+        <link href="https://www.youtube.com/watch?v=1ikB2x48wss"/>
+        <updated>2023-04-02T14:00:07.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ZhAbeW6cpBc</id>
         <link href="https://www.youtube.com/watch?v=ZhAbeW6cpBc"/>
@@ -246,6 +282,15 @@
         <updated>2023-04-02T12:32:36.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=h-vVq6zkdaw</id>
+        <link href="https://www.youtube.com/watch?v=h-vVq6zkdaw"/>
+        <updated>2023-04-02T11:09:43.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -345,6 +390,15 @@
         <updated>2023-04-01T12:38:24.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=BCP8kbGFzjU</id>
+        <link href="https://www.youtube.com/watch?v=BCP8kbGFzjU"/>
+        <updated>2023-04-01T11:15:41.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -456,6 +510,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=idqvM2qtP6Y</id>
+        <link href="https://www.youtube.com/watch?v=idqvM2qtP6Y"/>
+        <updated>2023-03-31T13:02:29.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 雑談】バーチャルあべのハルカスっていったいなーに？【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nnP04hPpfOI</id>
         <link href="https://www.youtube.com/watch?v=nnP04hPpfOI"/>
@@ -480,6 +543,15 @@
         <updated>2023-03-31T07:52:02.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=oUbLMIwhJk4</id>
+        <link href="https://www.youtube.com/watch?v=oUbLMIwhJk4"/>
+        <updated>2023-03-30T23:51:07.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -564,6 +636,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
+        <link href="https://www.youtube.com/watch?v=_QPEenjHyf8"/>
+        <updated>2023-03-29T17:25:33.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ASMR】どきどき睡眠導入♡酔っぱらいが添い寝したいそうです。心音・囁き・耳ふー【Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
         <id>https://www.youtube.com/watch?v=ULfCOXzEhOs</id>
         <link href="https://www.youtube.com/watch?v=ULfCOXzEhOs"/>
@@ -624,6 +705,15 @@
         <updated>2023-03-29T01:19:11.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=u44Qro9fU0M</id>
+        <link href="https://www.youtube.com/watch?v=u44Qro9fU0M"/>
+        <updated>2023-03-29T00:20:24.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -744,6 +834,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】]]></title>
+        <id>https://www.youtube.com/watch?v=4qWDMPxsXkQ</id>
+        <link href="https://www.youtube.com/watch?v=4qWDMPxsXkQ"/>
+        <updated>2023-03-28T00:06:17.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【雑談/talking stream】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=XTXarSNavuw</id>
         <link href="https://www.youtube.com/watch?v=XTXarSNavuw"/>
@@ -858,6 +957,15 @@
         <updated>2023-03-26T15:13:31.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ngWSPAP9dKo</id>
+        <link href="https://www.youtube.com/watch?v=ngWSPAP9dKo"/>
+        <updated>2023-03-26T13:49:27.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1023,6 +1131,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡うたうたうよ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-o70Y8eh3bM</id>
+        <link href="https://www.youtube.com/watch?v=-o70Y8eh3bM"/>
+        <updated>2023-03-25T11:23:45.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 singing stream🥂/ #歌枠 】初見さん大歓迎～／週末きちゃああ！歌うよおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3Qvvj6MtQ60</id>
         <link href="https://www.youtube.com/watch?v=3Qvvj6MtQ60"/>
@@ -1092,6 +1209,15 @@
         <updated>2023-03-24T13:10:49.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8r3alRAFvDs</id>
+        <link href="https://www.youtube.com/watch?v=8r3alRAFvDs"/>
+        <updated>2023-03-24T12:39:05.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1182,6 +1308,15 @@
         <updated>2023-03-23T12:51:23.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iROJEU3efH0</id>
+        <link href="https://www.youtube.com/watch?v=iROJEU3efH0"/>
+        <updated>2023-03-23T12:35:07.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
