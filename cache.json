@@ -1159,6 +1159,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H7J8bAFHRXQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H7J8bAFHRXQ",
+          "publishedOn": "2023-04-04T19:22:00.000Z",
+          "wordCount": null,
+          "title": "〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6HqnOkpb088",
           "author": null,
           "description": "",
@@ -1296,16 +1306,6 @@
           "publishedOn": "2023-03-17T12:03:38.000Z",
           "wordCount": null,
           "title": "僕から君たちへ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
-          "publishedOn": "2023-03-17T00:23:41.000Z",
-          "wordCount": null,
-          "title": "✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
