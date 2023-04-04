@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T06:06:31.672Z</id>
+    <id>urn:2023-04-04T06:34:55.794Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T06:06:31.672Z</updated>
+    <updated>2023-04-04T06:34:55.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【雑談】いつもありがとうだ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=hUiRg6M6M1A</id>
-        <link href="https://www.youtube.com/watch?v=hUiRg6M6M1A"/>
-        <updated>2023-04-04T04:35:37.000Z</updated>
+        <title type="html"><![CDATA[1周年ありがとうございましたー！（でっかい声） 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-_x6wGtYKTI</id>
+        <link href="https://www.youtube.com/watch?v=-_x6wGtYKTI"/>
+        <updated>2023-04-04T04:55:40.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
+        <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
+        <updated>2023-04-04T04:15:46.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -21,6 +30,42 @@
         <updated>2023-04-03T23:47:36.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 広告なし! / すぐにぐっすり夢の中♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=6HqnOkpb088</id>
+        <link href="https://www.youtube.com/watch?v=6HqnOkpb088"/>
+        <updated>2023-04-03T18:14:00.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
+        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
+        <updated>2023-04-03T17:43:12.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】春っぽい歌教えて🌸 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=o_XyBwd11L8</id>
+        <link href="https://www.youtube.com/watch?v=o_XyBwd11L8"/>
+        <updated>2023-04-03T17:42:04.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【性格診断】ユキノってどんな性格？？MBTI診断🪔【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=tWvKk-AprxI</id>
+        <link href="https://www.youtube.com/watch?v=tWvKk-AprxI"/>
+        <updated>2023-04-03T17:35:14.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +96,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Slither.io】たらんを一位まで連れてって！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=og-d8eqigmc</id>
+        <link href="https://www.youtube.com/watch?v=og-d8eqigmc"/>
+        <updated>2023-04-03T16:03:37.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=h0Ig0yiaDjw</id>
         <link href="https://www.youtube.com/watch?v=h0Ig0yiaDjw"/>
@@ -69,12 +123,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌ってみた】デビルじゃないもん by魔光リサ]]></title>
-        <id>https://www.youtube.com/watch?v=U1c6NglyxR8</id>
-        <link href="https://www.youtube.com/watch?v=U1c6NglyxR8"/>
-        <updated>2023-04-03T11:00:11.000Z</updated>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=NaezBd-r7aE</id>
+        <link href="https://www.youtube.com/watch?v=NaezBd-r7aE"/>
+        <updated>2023-04-03T11:02:48.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【EN/KR/中文字幕】花に亡霊 - ヨルシカ One Chorus Cover【水瓶ミア】]]></title>
+        <id>https://www.youtube.com/watch?v=2bfuG1Gtz7Q</id>
+        <link href="https://www.youtube.com/watch?v=2bfuG1Gtz7Q"/>
+        <updated>2023-04-03T10:30:18.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -105,6 +168,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=_LWDRUO3Gns</id>
+        <link href="https://www.youtube.com/watch?v=_LWDRUO3Gns"/>
+        <updated>2023-04-02T23:11:22.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=0XBaEGdLaTk</id>
         <link href="https://www.youtube.com/watch?v=0XBaEGdLaTk"/>
@@ -132,21 +204,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】]]></title>
-        <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
-        <link href="https://www.youtube.com/watch?v=dk-Rqs1DQg8"/>
-        <updated>2023-04-02T15:02:06.000Z</updated>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=EWkPhInmHUM</id>
+        <link href="https://www.youtube.com/watch?v=EWkPhInmHUM"/>
+        <updated>2023-04-02T15:13:59.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】Flyway by つばさぐらでーしょん]]></title>
-        <id>https://www.youtube.com/watch?v=1ikB2x48wss</id>
-        <link href="https://www.youtube.com/watch?v=1ikB2x48wss"/>
-        <updated>2023-04-02T14:00:07.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +231,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー /  1st Anniversary #つばぐら1周年 【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=tpFtHHDihRs</id>
+        <link href="https://www.youtube.com/watch?v=tpFtHHDihRs"/>
+        <updated>2023-04-02T13:10:16.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年 【 #彩雲のの  / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=1cx6RZ72lcg</id>
         <link href="https://www.youtube.com/watch?v=1cx6RZ72lcg"/>
@@ -177,12 +249,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h-vVq6zkdaw</id>
-        <link href="https://www.youtube.com/watch?v=h-vVq6zkdaw"/>
-        <updated>2023-04-02T11:09:43.000Z</updated>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=bOnxOZ7kSN8</id>
+        <link href="https://www.youtube.com/watch?v=bOnxOZ7kSN8"/>
+        <updated>2023-04-02T10:40:45.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -192,6 +264,15 @@
         <updated>2023-04-02T10:39:08.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=pFI-B80ag7w</id>
+        <link href="https://www.youtube.com/watch?v=pFI-B80ag7w"/>
+        <updated>2023-04-02T08:34:27.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -213,6 +294,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QaOOUY2UMh0</id>
+        <link href="https://www.youtube.com/watch?v=QaOOUY2UMh0"/>
+        <updated>2023-04-02T01:39:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4月1日、ソロ農家デビュー！？？？【いっき団結/VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=LN2WVYDMPEg</id>
         <link href="https://www.youtube.com/watch?v=LN2WVYDMPEg"/>
@@ -231,12 +321,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=BCP8kbGFzjU</id>
-        <link href="https://www.youtube.com/watch?v=BCP8kbGFzjU"/>
-        <updated>2023-04-01T11:15:41.000Z</updated>
+        <title type="html"><![CDATA[◆3D雑談コラボ✨ / よく動きよく笑う！！さいきょうかわいい2人組っ♡＃アリライ 🦇💔【九楽ライ/月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DpWFUASeBHs</id>
+        <link href="https://www.youtube.com/watch?v=DpWFUASeBHs"/>
+        <updated>2023-04-01T16:16:43.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】鼻声すぎる歌枠👃 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=txUrT4pjmi0</id>
+        <link href="https://www.youtube.com/watch?v=txUrT4pjmi0"/>
+        <updated>2023-04-01T13:40:34.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#9【ホグワーツ・レガシー】サブクエでレベル上げする！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=USz0FXCRero</id>
+        <link href="https://www.youtube.com/watch?v=USz0FXCRero"/>
+        <updated>2023-04-01T12:38:24.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -267,12 +375,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[じゅ、じゅじゅじゅ、じゅうだいはっぴょうぉうぉうぉう！？！？]]></title>
+        <id>https://www.youtube.com/watch?v=ogdYfei8mPY</id>
+        <link href="https://www.youtube.com/watch?v=ogdYfei8mPY"/>
+        <updated>2023-04-01T03:22:24.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【おえかきの森】参加型で遊ぶぞ~！急遽ゲーム変更！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1AUoPEjJ3A0</id>
+        <link href="https://www.youtube.com/watch?v=1AUoPEjJ3A0"/>
+        <updated>2023-04-01T03:16:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆アース：リバイバル / SF終末世界を探索＆サバイバル！？新作ゲーム先行プレイしちゃうぞ✨【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=aLXlZV-s-VM</id>
+        <link href="https://www.youtube.com/watch?v=aLXlZV-s-VM"/>
+        <updated>2023-03-31T23:27:12.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ASMR】ぎゅっ♡絶対眠れる音圧耳かき/心音【Ear Cleaning/Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
         <id>https://www.youtube.com/watch?v=xeFHQOVp-W4</id>
         <link href="https://www.youtube.com/watch?v=xeFHQOVp-W4"/>
         <updated>2023-03-31T18:04:29.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！深夜に歌っちゃお~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=REOPQSPSLeg</id>
+        <link href="https://www.youtube.com/watch?v=REOPQSPSLeg"/>
+        <updated>2023-03-31T17:26:04.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -294,12 +438,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=idqvM2qtP6Y</id>
-        <link href="https://www.youtube.com/watch?v=idqvM2qtP6Y"/>
-        <updated>2023-03-31T13:02:29.000Z</updated>
+        <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
+        <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
+        <updated>2023-03-31T14:08:16.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！終末世界で生き残る【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Ox-iojxsKi4</id>
+        <link href="https://www.youtube.com/watch?v=Ox-iojxsKi4"/>
+        <updated>2023-03-31T13:04:30.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -330,12 +483,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=oUbLMIwhJk4</id>
-        <link href="https://www.youtube.com/watch?v=oUbLMIwhJk4"/>
-        <updated>2023-03-30T23:51:07.000Z</updated>
+        <title type="html"><![CDATA[【歌雑/sing＆talk】初見さん大歓迎！振り返りとお歌！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fEoq7JfXsuQ</id>
+        <link href="https://www.youtube.com/watch?v=fEoq7JfXsuQ"/>
+        <updated>2023-03-30T18:15:48.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -366,6 +519,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=zfPhef_a3Ss</id>
+        <link href="https://www.youtube.com/watch?v=zfPhef_a3Ss"/>
+        <updated>2023-03-30T09:48:58.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=mX8XPENohKY</id>
         <link href="https://www.youtube.com/watch?v=mX8XPENohKY"/>
@@ -384,6 +546,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[朝活ゲリラ歌枠 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rDI22_C9Q08</id>
+        <link href="https://www.youtube.com/watch?v=rDI22_C9Q08"/>
+        <updated>2023-03-30T01:00:38.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=77Plh7EQKSA</id>
         <link href="https://www.youtube.com/watch?v=77Plh7EQKSA"/>
@@ -393,21 +564,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
-        <link href="https://www.youtube.com/watch?v=_QPEenjHyf8"/>
-        <updated>2023-03-29T17:25:33.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】どきどき睡眠導入♡酔っぱらいが添い寝したいそうです。心音・囁き・耳ふー【Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
         <id>https://www.youtube.com/watch?v=ULfCOXzEhOs</id>
         <link href="https://www.youtube.com/watch?v=ULfCOXzEhOs"/>
         <updated>2023-03-29T16:13:20.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ラウワンコラボ終わっちゃう！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=GEiWwFmtsxQ</id>
+        <link href="https://www.youtube.com/watch?v=GEiWwFmtsxQ"/>
+        <updated>2023-03-29T15:06:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -429,6 +600,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[撫でんな / 柊マグネタイト【歌ってみた】#新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=32134sgjERE</id>
+        <link href="https://www.youtube.com/watch?v=32134sgjERE"/>
+        <updated>2023-03-29T10:03:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#5 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IjZyBsIYO-Q</id>
+        <link href="https://www.youtube.com/watch?v=IjZyBsIYO-Q"/>
+        <updated>2023-03-29T09:18:22.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】初見大歓迎✨かわいい女の子と一日はじめちゃお？💜 good morning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=yBn8oopJZhc</id>
         <link href="https://www.youtube.com/watch?v=yBn8oopJZhc"/>
@@ -438,21 +627,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=u44Qro9fU0M</id>
-        <link href="https://www.youtube.com/watch?v=u44Qro9fU0M"/>
-        <updated>2023-03-29T00:20:24.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
         <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
         <updated>2023-03-28T18:48:38.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家 飲 み な う【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gwU9kjiSRX8</id>
+        <link href="https://www.youtube.com/watch?v=gwU9kjiSRX8"/>
+        <updated>2023-03-28T17:16:43.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！可愛くて元気な女の子！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=83sAVckMqf8</id>
+        <link href="https://www.youtube.com/watch?v=83sAVckMqf8"/>
+        <updated>2023-03-28T17:03:44.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -474,6 +672,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=b0dkmx36614</id>
+        <link href="https://www.youtube.com/watch?v=b0dkmx36614"/>
+        <updated>2023-03-28T15:02:20.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #02 / 完全初見🔥ひとりでも2人分うるさい丸顔の冒険。〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=Gq8xMvX3QZY</id>
+        <link href="https://www.youtube.com/watch?v=Gq8xMvX3QZY"/>
+        <updated>2023-03-28T14:59:46.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hMMZaVgNJIU</id>
+        <link href="https://www.youtube.com/watch?v=hMMZaVgNJIU"/>
+        <updated>2023-03-28T13:35:23.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ロードモバイル】参加型！中間発表前に追い込むぞ！⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=QLyNicTtaPQ</id>
         <link href="https://www.youtube.com/watch?v=QLyNicTtaPQ"/>
@@ -492,21 +717,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i3GCk1amnyo</id>
+        <link href="https://www.youtube.com/watch?v=i3GCk1amnyo"/>
+        <updated>2023-03-28T10:00:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AELLVvTMb3s</id>
+        <link href="https://www.youtube.com/watch?v=AELLVvTMb3s"/>
+        <updated>2023-03-28T02:12:35.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早起きさんおいで】バーチャルアイドル、手のひらでおしゃべりする。【Free Talk/朝活雑談】]]></title>
         <id>https://www.youtube.com/watch?v=MxPlXOdSq9k</id>
         <link href="https://www.youtube.com/watch?v=MxPlXOdSq9k"/>
         <updated>2023-03-28T01:49:18.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】]]></title>
-        <id>https://www.youtube.com/watch?v=4qWDMPxsXkQ</id>
-        <link href="https://www.youtube.com/watch?v=4qWDMPxsXkQ"/>
-        <updated>2023-03-28T00:06:17.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -564,12 +798,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Re:AcT×パレプロ】人を騙すのは苦手だけど逃げるのは得意だぜッ！ 【水瓶ミア視点/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8ZRmQ0WUatU</id>
+        <link href="https://www.youtube.com/watch?v=8ZRmQ0WUatU"/>
+        <updated>2023-03-27T12:06:37.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerが春泥棒を歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
         <id>https://www.youtube.com/watch?v=UEZeEuFF5ZA</id>
         <link href="https://www.youtube.com/watch?v=UEZeEuFF5ZA"/>
         <updated>2023-03-27T12:00:30.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OZIZy76qfP8</id>
+        <link href="https://www.youtube.com/watch?v=OZIZy76qfP8"/>
+        <updated>2023-03-27T10:30:25.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=vOzTJva_PKI</id>
+        <link href="https://www.youtube.com/watch?v=vOzTJva_PKI"/>
+        <updated>2023-03-26T23:09:54.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -582,12 +843,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ngWSPAP9dKo</id>
-        <link href="https://www.youtube.com/watch?v=ngWSPAP9dKo"/>
-        <updated>2023-03-26T13:49:27.000Z</updated>
+        <title type="html"><![CDATA[#28【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Mjhg4PfR_tI</id>
+        <link href="https://www.youtube.com/watch?v=Mjhg4PfR_tI"/>
+        <updated>2023-03-26T19:04:56.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=WDzRJP0Esec</id>
+        <link href="https://www.youtube.com/watch?v=WDzRJP0Esec"/>
+        <updated>2023-03-26T15:13:31.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -654,6 +924,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜さ、僕と過ごさない？♡ / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NB_gwNEzzdQ</id>
+        <link href="https://www.youtube.com/watch?v=NB_gwNEzzdQ"/>
+        <updated>2023-03-26T07:14:18.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=djgCxojIWc4</id>
         <link href="https://www.youtube.com/watch?v=djgCxojIWc4"/>
@@ -690,6 +969,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=PZ74lMZilAM</id>
+        <link href="https://www.youtube.com/watch?v=PZ74lMZilAM"/>
+        <updated>2023-03-25T15:12:28.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【戦国大河】視聴者参加型！みんな集合～～！！リアクトメンバーで対戦勝負！？【Vtuber / 水瓶ミア】]]></title>
+        <id>https://www.youtube.com/watch?v=JXuHCUxdZhw</id>
+        <link href="https://www.youtube.com/watch?v=JXuHCUxdZhw"/>
+        <updated>2023-03-25T14:33:43.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#ククルア爆誕2023】おいぽまいら､本日主役の俺様が来ましたよ【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=re_NLePo6wA</id>
         <link href="https://www.youtube.com/watch?v=re_NLePo6wA"/>
@@ -717,12 +1014,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡うたうたうよ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=-o70Y8eh3bM</id>
-        <link href="https://www.youtube.com/watch?v=-o70Y8eh3bM"/>
-        <updated>2023-03-25T11:23:45.000Z</updated>
+        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #01 / 完全初見🔥丸顔仲間ぽよ！！！！！！！〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=VIT1w1WCGG4</id>
+        <link href="https://www.youtube.com/watch?v=VIT1w1WCGG4"/>
+        <updated>2023-03-25T11:53:07.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -789,12 +1086,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8r3alRAFvDs</id>
-        <link href="https://www.youtube.com/watch?v=8r3alRAFvDs"/>
-        <updated>2023-03-24T12:39:05.000Z</updated>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=CDvnvuoDHR8</id>
+        <link href="https://www.youtube.com/watch?v=CDvnvuoDHR8"/>
+        <updated>2023-03-24T13:10:49.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
+        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
+        <updated>2023-03-24T12:05:15.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -804,6 +1110,15 @@
         <updated>2023-03-24T12:00:46.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[☀朝活雑談 / 朝だな。初見さん、大歓迎しちゃうんだけどな～～チラチラ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=eW66Neg7YU8</id>
+        <link href="https://www.youtube.com/watch?v=eW66Neg7YU8"/>
+        <updated>2023-03-24T01:08:48.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -861,12 +1176,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=iROJEU3efH0</id>
-        <link href="https://www.youtube.com/watch?v=iROJEU3efH0"/>
-        <updated>2023-03-23T12:35:07.000Z</updated>
+        <title type="html"><![CDATA[◆初おうち３D歌枠✨ /sing / 一緒にカラオケいこっ♡待ち合わせは駅。 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=1n_TgkcJuoE</id>
+        <link href="https://www.youtube.com/watch?v=1n_TgkcJuoE"/>
+        <updated>2023-03-23T12:51:23.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -897,6 +1212,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【👂ASMR】シャンプーしてあげますからね【Shampoo/Water Sounds/EarMassage/Whispering/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=aCTbFxfn3AM</id>
+        <link href="https://www.youtube.com/watch?v=aCTbFxfn3AM"/>
+        <updated>2023-03-22T15:59:47.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=uTcE6SIYI6k</id>
+        <link href="https://www.youtube.com/watch?v=uTcE6SIYI6k"/>
+        <updated>2023-03-22T15:25:58.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 歌枠】みんなの歌ってほしい曲を歌う⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=9gdOJfiiuWQ</id>
         <link href="https://www.youtube.com/watch?v=9gdOJfiiuWQ"/>
@@ -924,12 +1257,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】試練を受けるので最強にして下さいぃ…【天川はの】#09]]></title>
+        <id>https://www.youtube.com/watch?v=GHAE7amPkWo</id>
+        <link href="https://www.youtube.com/watch?v=GHAE7amPkWo"/>
+        <updated>2023-03-22T13:47:28.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがカタオモイを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
         <id>https://www.youtube.com/watch?v=AS7xZ8MONK0</id>
         <link href="https://www.youtube.com/watch?v=AS7xZ8MONK0"/>
         <updated>2023-03-22T12:00:06.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #37 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ugFBqnoTDnM</id>
+        <link href="https://www.youtube.com/watch?v=ugFBqnoTDnM"/>
+        <updated>2023-03-22T11:50:21.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -960,6 +1311,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】はのが魔法で世界征服する日も近いってわけ【天川はの】#08]]></title>
+        <id>https://www.youtube.com/watch?v=WqxwzlVeN1s</id>
+        <link href="https://www.youtube.com/watch?v=WqxwzlVeN1s"/>
+        <updated>2023-03-21T17:13:06.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】愛のためなら眠気にも負けない！…どやろか【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=nfAe2OUzcPs</id>
+        <link href="https://www.youtube.com/watch?v=nfAe2OUzcPs"/>
+        <updated>2023-03-21T15:47:33.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 スイーツプッシャーフレンズ 】お菓子を救う。  #いるりす 柚原いづみ / 大浦るかこ / 姫熊りぼん【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=_6JGIZ2Zgkc</id>
+        <link href="https://www.youtube.com/watch?v=_6JGIZ2Zgkc"/>
+        <updated>2023-03-21T13:31:40.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【重大告知】やっと言えるのじゃ…！いろいろあるから全部きいてね、、🐟໒꒱·ﾟ【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=iRIHCu7Ll9c</id>
         <link href="https://www.youtube.com/watch?v=iRIHCu7Ll9c"/>
@@ -975,6 +1353,15 @@
         <updated>2023-03-21T12:37:56.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🔆朝活】めっちゃ健康で充実した毎日を送る子供🐤初見さん歓迎【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=FEqHNcSOygE</id>
+        <link href="https://www.youtube.com/watch?v=FEqHNcSOygE"/>
+        <updated>2023-03-21T01:03:29.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1005,6 +1392,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=XINxbGl1Wng</id>
+        <link href="https://www.youtube.com/watch?v=XINxbGl1Wng"/>
+        <updated>2023-03-20T16:33:34.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【⚔️開園⚔️】キミ達に今日、集まってもらったのは他でもない.../参加型【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=2pCDGLcIKZM</id>
+        <link href="https://www.youtube.com/watch?v=2pCDGLcIKZM"/>
+        <updated>2023-03-20T14:28:51.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【作業配信】まったり歌練習「ちゅ、多様性。」「酔いどれ知らず」「Overdose」【#かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=WnnqnEnNs1A</id>
         <link href="https://www.youtube.com/watch?v=WnnqnEnNs1A"/>
@@ -1029,6 +1434,33 @@
         <updated>2023-03-20T12:00:08.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=8C3gag5zJVY</id>
+        <link href="https://www.youtube.com/watch?v=8C3gag5zJVY"/>
+        <updated>2023-03-19T23:34:20.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=HlIL-xIhCcU</id>
+        <link href="https://www.youtube.com/watch?v=HlIL-xIhCcU"/>
+        <updated>2023-03-19T21:35:13.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=QgXcuCwi79Q</id>
+        <link href="https://www.youtube.com/watch?v=QgXcuCwi79Q"/>
+        <updated>2023-03-19T15:06:01.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1104,6 +1536,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=A6YWgQex64E</id>
+        <link href="https://www.youtube.com/watch?v=A6YWgQex64E"/>
+        <updated>2023-03-18T16:07:19.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コラボ歌枠！なんでも歌える姫乃のえ⚡SingingStream👽KARAOKE【 #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ysC3EI5UgNk</id>
         <link href="https://www.youtube.com/watch?v=ysC3EI5UgNk"/>
@@ -1167,6 +1608,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QAMYADHDKZI</id>
+        <link href="https://www.youtube.com/watch?v=QAMYADHDKZI"/>
+        <updated>2023-03-17T14:03:44.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[僕から君たちへ。]]></title>
+        <id>https://www.youtube.com/watch?v=xkTyIRg-E7w</id>
+        <link href="https://www.youtube.com/watch?v=xkTyIRg-E7w"/>
+        <updated>2023-03-17T12:03:38.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#shorts 】unlasting / LiSA【#花鋏キョウ #歌ってみた 】]]></title>
         <id>https://www.youtube.com/watch?v=rp_oyLplAow</id>
         <link href="https://www.youtube.com/watch?v=rp_oyLplAow"/>
@@ -1203,12 +1662,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=xDEVzJJ1R80</id>
+        <link href="https://www.youtube.com/watch?v=xDEVzJJ1R80"/>
+        <updated>2023-03-17T00:23:41.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【初見さん大歓迎！】約半年ぶりのAPEX！元マスターなんだから勝てるよね？【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=j3Pu4O4y-Fc</id>
         <link href="https://www.youtube.com/watch?v=j3Pu4O4y-Fc"/>
         <updated>2023-03-16T21:35:38.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】のんびりお話しましょ🐰💛【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=hqisH5vLiSo</id>
+        <link href="https://www.youtube.com/watch?v=hqisH5vLiSo"/>
+        <updated>2023-03-16T14:53:47.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=1xtDO2xQabc</id>
+        <link href="https://www.youtube.com/watch?v=1xtDO2xQabc"/>
+        <updated>2023-03-16T13:23:40.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1227,6 +1713,15 @@
         <updated>2023-03-16T00:51:41.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🔆朝活】逃がすわけなくない？⛓️初見さん歓迎【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=6Kz7L34x-5E</id>
+        <link href="https://www.youtube.com/watch?v=6Kz7L34x-5E"/>
+        <updated>2023-03-15T22:52:26.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -1254,6 +1749,15 @@
         <updated>2023-03-15T14:28:19.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #36 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RJyWqv3xfqs</id>
+        <link href="https://www.youtube.com/watch?v=RJyWqv3xfqs"/>
+        <updated>2023-03-15T12:43:05.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1311,12 +1815,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】おつかいしながら魔法学校…やれやれ、だぜ…【天川はの】#07]]></title>
+        <id>https://www.youtube.com/watch?v=7Jlq6aH1OMY</id>
+        <link href="https://www.youtube.com/watch?v=7Jlq6aH1OMY"/>
+        <updated>2023-03-14T15:44:02.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なにか渡したいものありますでしょう？ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=XnZh63qybxA</id>
+        <link href="https://www.youtube.com/watch?v=XnZh63qybxA"/>
+        <updated>2023-03-14T15:11:58.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡声優さんについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=oDaZbOplMdA</id>
         <link href="https://www.youtube.com/watch?v=oDaZbOplMdA"/>
         <updated>2023-03-14T14:24:34.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【サンブレイク】自力で克服バルファルク行けるように MR160 を目指すツキヒコ【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=9JD4WgWizOQ</id>
+        <link href="https://www.youtube.com/watch?v=9JD4WgWizOQ"/>
+        <updated>2023-03-14T13:52:31.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1356,6 +1887,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hueubfsCB-k</id>
+        <link href="https://www.youtube.com/watch?v=hueubfsCB-k"/>
+        <updated>2023-03-12T23:07:32.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[みつけて！！！初見歓迎！登録者7000人耐久！～WBCをそえて～⚡SingingStream👽KARAOKE【 #弾き語り / #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=u50WfOb-wH4</id>
         <link href="https://www.youtube.com/watch?v=u50WfOb-wH4"/>
@@ -1374,6 +1914,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【👂ASMR】久しぶりにマッサージされちゃう？オイル/パウダー/手袋【 EarMassage/ASMR for sleep/Whispering/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=93LJtTiK0QU</id>
+        <link href="https://www.youtube.com/watch?v=93LJtTiK0QU"/>
+        <updated>2023-03-12T16:22:45.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】まだまだ愛が欲しいうさぎ💛💛【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=9JLkEQ6f1BM</id>
+        <link href="https://www.youtube.com/watch?v=9JLkEQ6f1BM"/>
+        <updated>2023-03-12T15:14:41.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=RK_fNW2xAsc</id>
+        <link href="https://www.youtube.com/watch?v=RK_fNW2xAsc"/>
+        <updated>2023-03-12T14:15:37.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 singing stream🥂#耐久歌枠  】初見さん大歓迎～／７か月記念の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8qBCKrnguNs</id>
         <link href="https://www.youtube.com/watch?v=8qBCKrnguNs"/>
@@ -1383,12 +1950,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【🐔Ultimate Chicken Horse🍽️】激闘の中、休息は素早く行うもの！今こそHuel💪【Parfait/天川はの/夢川かなう/月紫アリア】]]></title>
+        <id>https://www.youtube.com/watch?v=FMJvvn8zjuk</id>
+        <link href="https://www.youtube.com/watch?v=FMJvvn8zjuk"/>
+        <updated>2023-03-12T14:07:13.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ #shorts]]></title>
         <id>https://www.youtube.com/watch?v=LENoQnlmsKs</id>
         <link href="https://www.youtube.com/watch?v=LENoQnlmsKs"/>
         <updated>2023-03-12T11:00:15.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】気が付けばもう○年来の相棒…。ご愛用品を教えて！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=UCBdIS5klZM</id>
+        <link href="https://www.youtube.com/watch?v=UCBdIS5klZM"/>
+        <updated>2023-03-11T15:39:19.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1437,6 +2022,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】もう…いいよ。ホラゲは癒しだよ…🐰【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=Pq9SYLy8-Qo</id>
+        <link href="https://www.youtube.com/watch?v=Pq9SYLy8-Qo"/>
+        <updated>2023-03-10T17:24:06.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】はのが最強魔女になるもんっっ【天川はの】#06]]></title>
+        <id>https://www.youtube.com/watch?v=P4SEVAJZn9k</id>
+        <link href="https://www.youtube.com/watch?v=P4SEVAJZn9k"/>
+        <updated>2023-03-10T17:18:53.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ASMR】超絶気持ちいい耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=4-3s1_-xu9g</id>
         <link href="https://www.youtube.com/watch?v=4-3s1_-xu9g"/>
@@ -1455,12 +2058,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ラブラブスクールデイズ】美少女だ！恋愛ゲームさいこー✨✨【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=ZxkZbOweFnQ</id>
+        <link href="https://www.youtube.com/watch?v=ZxkZbOweFnQ"/>
+        <updated>2023-03-09T15:32:37.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=umBoEm-IlV4</id>
         <link href="https://www.youtube.com/watch?v=umBoEm-IlV4"/>
         <updated>2023-03-09T13:53:56.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談/FreeTalk】フーンミアマネってそう思ってたんダ～～！ミアマネに尋問してみた【水瓶ミア / VTuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Rum5o4ncdyA</id>
+        <link href="https://www.youtube.com/watch?v=Rum5o4ncdyA"/>
+        <updated>2023-03-09T13:16:26.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -1515,6 +2136,15 @@
         <updated>2023-03-07T15:16:28.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】最強の魔女になるのが夢なんだからさ【天川はの】#05]]></title>
+        <id>https://www.youtube.com/watch?v=_RtskRTiFzo</id>
+        <link href="https://www.youtube.com/watch?v=_RtskRTiFzo"/>
+        <updated>2023-03-07T14:55:48.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
