@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T04:34:41.981Z</id>
+    <id>urn:2023-04-04T05:05:54.795Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T04:34:41.981Z</updated>
+    <updated>2023-04-04T05:05:54.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[1周年ありがとうございましたー！（でっかい声） 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-_x6wGtYKTI</id>
+        <link href="https://www.youtube.com/watch?v=-_x6wGtYKTI"/>
+        <updated>2023-04-04T04:55:40.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】いつもありがとうだ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=hUiRg6M6M1A</id>
+        <link href="https://www.youtube.com/watch?v=hUiRg6M6M1A"/>
+        <updated>2023-04-04T04:35:37.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
@@ -1329,15 +1347,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】春になったね【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kE8gRM-J8kg</id>
-        <link href="https://www.youtube.com/watch?v=kE8gRM-J8kg"/>
-        <updated>2023-03-22T21:44:32.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【👂ASMR】シャンプーしてあげますからね【Shampoo/Water Sounds/EarMassage/Whispering/Binaural】]]></title>
         <id>https://www.youtube.com/watch?v=aCTbFxfn3AM</id>
         <link href="https://www.youtube.com/watch?v=aCTbFxfn3AM"/>
@@ -2001,15 +2010,6 @@
         <updated>2023-03-13T22:44:14.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[この世で一番まったりエンジョイ勢のデイリーと素材集め  #原神 #genshinimpact 【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=DCymBen2OAM</id>
-        <link href="https://www.youtube.com/watch?v=DCymBen2OAM"/>
-        <updated>2023-03-13T19:20:18.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
