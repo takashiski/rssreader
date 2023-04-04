@@ -531,6 +531,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a3hNUbQI3Qc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a3hNUbQI3Qc",
+          "publishedOn": "2023-04-04T12:50:42.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！定期お歌枠の時間だよ！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=og-d8eqigmc",
           "author": null,
           "description": "",
@@ -668,16 +678,6 @@
           "publishedOn": "2023-03-28T10:00:29.000Z",
           "wordCount": null,
           "title": "シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AELLVvTMb3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AELLVvTMb3s",
-          "publishedOn": "2023-03-28T02:12:35.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
