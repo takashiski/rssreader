@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T16:36:49.384Z</id>
+    <id>urn:2023-04-04T17:05:13.638Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T16:36:49.384Z</updated>
+    <updated>2023-04-04T17:05:13.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】もどってきたぞ～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=jvXQ_kbNnl0</id>
+        <link href="https://www.youtube.com/watch?v=jvXQ_kbNnl0"/>
+        <updated>2023-04-04T17:00:44.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！定期お歌枠の時間だよ！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=a3hNUbQI3Qc</id>
+        <link href="https://www.youtube.com/watch?v=a3hNUbQI3Qc"/>
+        <updated>2023-04-04T16:59:21.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=p5lqSsNk090</id>
+        <link href="https://www.youtube.com/watch?v=p5lqSsNk090"/>
+        <updated>2023-04-04T16:56:49.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨おきろ～朝が来たぞ～…ｚｚｚｚｚｚｚ💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Lk2yZIP_fWE</id>
+        <link href="https://www.youtube.com/watch?v=Lk2yZIP_fWE"/>
+        <updated>2023-04-04T16:37:14.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】雑談しながらしっとり歌う🌙‬睡眠導入｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cDQ79zp7Um8</id>
@@ -856,15 +892,6 @@
         <id>https://www.youtube.com/watch?v=i3GCk1amnyo</id>
         <link href="https://www.youtube.com/watch?v=i3GCk1amnyo"/>
         <updated>2023-03-28T10:00:29.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=AELLVvTMb3s</id>
-        <link href="https://www.youtube.com/watch?v=AELLVvTMb3s"/>
-        <updated>2023-03-28T02:12:35.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -2172,15 +2199,6 @@
         <updated>2023-03-11T11:28:13.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Power Wash Simulator】お掃除💧しながらまったり雑談するぞお💜 Talk stream【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8GdFx93xF-4</id>
-        <link href="https://www.youtube.com/watch?v=8GdFx93xF-4"/>
-        <updated>2023-03-11T10:57:00.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
