@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T11:34:17.081Z</id>
+    <id>urn:2023-04-04T12:07:46.456Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T11:34:17.081Z</updated>
+    <updated>2023-04-04T12:07:46.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【重大告知】Re:AcT春の特別企画！舞台は〇〇！【リアクト／Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_j4oCxZ58Is</id>
+        <link href="https://www.youtube.com/watch?v=_j4oCxZ58Is"/>
+        <updated>2023-04-04T11:55:26.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【⭐️復活🎉】Youtubeを封じられていた子供の復活!!告知もあるよ【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=DK1kKNBdx_o</id>
@@ -210,15 +219,6 @@
         <updated>2023-04-03T10:21:22.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重大告知】Re:AcT春の特別企画！舞台は〇〇！【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_j4oCxZ58Is</id>
-        <link href="https://www.youtube.com/watch?v=_j4oCxZ58Is"/>
-        <updated>2023-04-03T08:07:09.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
