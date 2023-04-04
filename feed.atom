@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T18:34:21.026Z</id>
+    <id>urn:2023-04-04T19:05:23.255Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T18:34:21.026Z</updated>
+    <updated>2023-04-04T19:05:23.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2023-04-04T14:52:30.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】気持ち良すぎて耳がとろける♡安眠耳かきはいかが？【Ear Cleaning/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=_cXImEym144</id>
-        <link href="https://www.youtube.com/watch?v=_cXImEym144"/>
-        <updated>2023-04-04T13:38:34.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1578,6 +1569,15 @@
         <updated>2023-03-21T13:18:38.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゆるゲー】ゲームセンターにある「アレ」でコラボしてみた！　#いるりす　 /スイーツプッシャーフレンズ【柚原いづみ/大浦るかこ/稀羽すう/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=spWYg6Nc_cs</id>
+        <link href="https://www.youtube.com/watch?v=spWYg6Nc_cs"/>
+        <updated>2023-03-21T12:37:56.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
