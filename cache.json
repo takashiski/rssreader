@@ -464,6 +464,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=p5lqSsNk090",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p5lqSsNk090",
+          "publishedOn": "2023-04-04T11:01:26.000Z",
+          "wordCount": null,
+          "title": "【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XMW0VP2-qQ8",
           "author": null,
           "description": "",
@@ -835,16 +845,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=hUiRg6M6M1A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hUiRg6M6M1A",
-          "publishedOn": "2023-04-04T04:35:37.000Z",
-          "wordCount": null,
-          "title": "【雑談】いつもありがとうだ！ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=U1c6NglyxR8",
           "author": null,
           "description": "",
@@ -982,6 +982,16 @@
           "publishedOn": "2023-03-23T12:35:07.000Z",
           "wordCount": null,
           "title": "【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kE8gRM-J8kg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kE8gRM-J8kg",
+          "publishedOn": "2023-03-22T21:44:32.000Z",
+          "wordCount": null,
+          "title": "【歌枠】春になったね【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1773,6 +1783,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=lGj6aM-mDXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lGj6aM-mDXk",
+          "publishedOn": "2023-04-04T10:49:48.000Z",
+          "wordCount": null,
+          "title": "【戦国大河】ソシャゲ経験ほぼゼロのウサギが濃厚戦国生活！？【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=77xF3CPV5J0",
           "author": null,
