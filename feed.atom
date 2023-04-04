@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T16:05:59.904Z</id>
+    <id>urn:2023-04-04T16:36:49.384Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T16:05:59.904Z</updated>
+    <updated>2023-04-04T16:36:49.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】雑談しながらしっとり歌う🌙‬睡眠導入｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cDQ79zp7Um8</id>
+        <link href="https://www.youtube.com/watch?v=cDQ79zp7Um8"/>
+        <updated>2023-04-04T16:26:01.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1周年ありがとうございましたー！（でっかい声） 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-_x6wGtYKTI</id>
@@ -60,15 +69,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！定期お歌枠の時間だよ！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=a3hNUbQI3Qc</id>
-        <link href="https://www.youtube.com/watch?v=a3hNUbQI3Qc"/>
-        <updated>2023-04-04T12:50:42.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【重大告知】Re:AcT春の特別企画！舞台は〇〇！【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_j4oCxZ58Is</id>
         <link href="https://www.youtube.com/watch?v=_j4oCxZ58Is"/>
@@ -93,24 +93,6 @@
         <updated>2023-04-04T11:11:48.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p5lqSsNk090</id>
-        <link href="https://www.youtube.com/watch?v=p5lqSsNk090"/>
-        <updated>2023-04-04T11:01:26.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】もどってきたぞ～～～⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=jvXQ_kbNnl0</id>
-        <link href="https://www.youtube.com/watch?v=jvXQ_kbNnl0"/>
-        <updated>2023-04-04T10:24:33.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -474,7 +456,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
         <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
         <updated>2023-04-01T07:47:51.000Z</updated>
@@ -874,6 +856,15 @@
         <id>https://www.youtube.com/watch?v=i3GCk1amnyo</id>
         <link href="https://www.youtube.com/watch?v=i3GCk1amnyo"/>
         <updated>2023-03-28T10:00:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！誕生日まであと3ヶ月！！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AELLVvTMb3s</id>
+        <link href="https://www.youtube.com/watch?v=AELLVvTMb3s"/>
+        <updated>2023-03-28T02:12:35.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1839,15 +1830,6 @@
         <updated>2023-03-17T09:09:41.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【魔女の家】ホラゲは嫌だホラゲは嫌だホラゲは嫌ｄ「いいからやれ」【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=j5F-GkuE5lY</id>
-        <link href="https://www.youtube.com/watch?v=j5F-GkuE5lY"/>
-        <updated>2023-03-17T06:00:57.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
