@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T01:32:52.710Z</id>
+    <id>urn:2023-04-04T02:19:13.953Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T01:32:52.710Z</updated>
+    <updated>2023-04-04T02:19:13.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2334,24 +2334,6 @@
         <updated>2023-03-05T15:38:07.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】愛のレベルアップをめざせ✨✨【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=4wFMkSzRdQA</id>
-        <link href="https://www.youtube.com/watch?v=4wFMkSzRdQA"/>
-        <updated>2023-03-05T14:18:01.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Undertale】完全初見アンダーテール 01【#かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=iz35aN6BSdY</id>
-        <link href="https://www.youtube.com/watch?v=iz35aN6BSdY"/>
-        <updated>2023-03-05T14:13:15.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
