@@ -2058,6 +2058,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-bo9381Z9nM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-bo9381Z9nM",
+          "publishedOn": "2023-04-05T18:33:29.000Z",
+          "wordCount": null,
+          "title": "【KU100 ASMR/睡眠導入】脳までとろける気持ち良い耳かき・耳ふー♡【Ear Cleaning/Mouth Sound/Binaural/Whispering】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_cXImEym144",
           "author": null,
           "description": "",
@@ -2195,16 +2205,6 @@
           "publishedOn": "2023-03-23T15:42:54.000Z",
           "wordCount": null,
           "title": "【バトオペ2ガチャ？】えっ汎用グフ…！？お財布氷河期だから、見るだけ…見るだけ…/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K38HwZyHXfs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K38HwZyHXfs",
-          "publishedOn": "2023-03-21T17:41:47.000Z",
-          "wordCount": null,
-          "title": "【ギルドメンバー100人求】「賞金50万円」をGETするのは一体誰！？ロードモバイル×えるすりー【Lords Mobile/姫熊りぼん】",
           "imageUrl": null
         }
       ]
@@ -2372,16 +2372,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
-          "publishedOn": "2023-04-05T07:53:50.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】カスタム参加するぞ～！ / w 飛良ひかり、渋谷ハル【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=DEGKR7w5lF8",
           "author": null,
           "description": "",
@@ -2519,6 +2509,16 @@
           "publishedOn": "2023-03-12T16:23:22.000Z",
           "wordCount": null,
           "title": "【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=LENoQnlmsKs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LENoQnlmsKs",
+          "publishedOn": "2023-03-12T11:00:15.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ #shorts",
           "imageUrl": null
         }
       ]
