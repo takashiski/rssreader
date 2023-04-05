@@ -521,16 +521,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=-xlAhlqy2Ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-xlAhlqy2Ys",
-          "publishedOn": "2023-04-05T05:32:49.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつ歌枠#8！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=a3hNUbQI3Qc",
           "author": null,
           "description": "",
@@ -668,6 +658,16 @@
           "publishedOn": "2023-03-28T17:03:44.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！可愛くて元気な女の子！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i3GCk1amnyo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i3GCk1amnyo",
+          "publishedOn": "2023-03-28T10:00:29.000Z",
+          "wordCount": null,
+          "title": "シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -2498,6 +2498,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uu0D75LCG8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uu0D75LCG8c",
+          "publishedOn": "2023-04-05T09:18:20.000Z",
+          "wordCount": null,
+          "title": "【ロードモバイル】このゲームの進め方をだれかおしえてください【Vtuber / 水瓶ミア】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2bfuG1Gtz7Q",
           "author": null,

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T09:06:02.610Z</id>
+    <id>urn:2023-04-05T09:34:20.554Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T09:06:02.610Z</updated>
+    <updated>2023-04-05T09:34:20.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ロードモバイル】このゲームの進め方をだれかおしえてください【Vtuber / 水瓶ミア】]]></title>
+        <id>https://www.youtube.com/watch?v=uu0D75LCG8c</id>
+        <link href="https://www.youtube.com/watch?v=uu0D75LCG8c"/>
+        <updated>2023-04-05T09:18:20.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】新スプリット始まったからやるぞ～！ / w 飛良ひかり【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=b6XJRk2Foqc</id>
@@ -39,15 +48,6 @@
         <updated>2023-04-05T06:44:48.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#8！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-xlAhlqy2Ys</id>
-        <link href="https://www.youtube.com/watch?v=-xlAhlqy2Ys"/>
-        <updated>2023-04-05T05:32:49.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -948,6 +948,15 @@
         <updated>2023-03-28T10:45:54.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i3GCk1amnyo</id>
+        <link href="https://www.youtube.com/watch?v=i3GCk1amnyo"/>
+        <updated>2023-03-28T10:00:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
