@@ -2342,6 +2342,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
+          "publishedOn": "2023-04-05T07:53:50.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】新スプリット始まったからやるぞ～！ / w 飛良ひかり【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DEGKR7w5lF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DEGKR7w5lF8",
+          "publishedOn": "2023-04-05T07:50:17.000Z",
+          "wordCount": null,
+          "title": "【 #獅子神レオナ新衣装 】新しいお洋服かったからみんな見て～～！🧡 .*゜ 【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
           "author": null,
           "description": "",
@@ -2469,26 +2489,6 @@
           "publishedOn": "2023-03-12T16:23:22.000Z",
           "wordCount": null,
           "title": "【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LENoQnlmsKs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LENoQnlmsKs",
-          "publishedOn": "2023-03-12T11:00:15.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bq49XfBtFRI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bq49XfBtFRI",
-          "publishedOn": "2023-03-07T14:37:50.000Z",
-          "wordCount": null,
-          "title": "【Joggernauts】ちゃんと協力しないとクリアできませんからね。⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
