@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T23:05:31.492Z</id>
+    <id>urn:2023-04-05T23:34:15.868Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T23:05:31.492Z</updated>
+    <updated>2023-04-05T23:34:15.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1644,7 +1644,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vRzjbOfUlEg</id>
         <link href="https://www.youtube.com/watch?v=vRzjbOfUlEg"/>
         <updated>2023-03-22T01:32:52.000Z</updated>
