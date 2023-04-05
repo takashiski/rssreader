@@ -1139,6 +1139,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=k44UeoicCao",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=k44UeoicCao",
+          "publishedOn": "2023-04-05T10:07:31.000Z",
+          "wordCount": null,
+          "title": "〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=H7J8bAFHRXQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H7J8bAFHRXQ",
+          "publishedOn": "2023-04-05T10:07:03.000Z",
+          "wordCount": null,
+          "title": "〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6HqnOkpb088",
           "author": null,
           "description": "",
@@ -1266,26 +1286,6 @@
           "publishedOn": "2023-03-18T16:07:19.000Z",
           "wordCount": null,
           "title": "【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
-          "publishedOn": "2023-03-17T12:03:38.000Z",
-          "wordCount": null,
-          "title": "僕から君たちへ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
-          "publishedOn": "2023-03-17T00:23:41.000Z",
-          "wordCount": null,
-          "title": "✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
@@ -2185,16 +2185,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=xJOUdfzeeIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xJOUdfzeeIo",
-          "publishedOn": "2023-04-05T06:44:48.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】いっしょにおうた楽しみたい水曜日ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=TYuyUhR6i9s",
           "author": null,
           "description": "",
@@ -2332,6 +2322,16 @@
           "publishedOn": "2023-03-17T17:51:50.000Z",
           "wordCount": null,
           "title": "【原神#38】綾人信者の神里綾人伝説任務。。。⚔【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vlfjB8n5DsI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vlfjB8n5DsI",
+          "publishedOn": "2023-03-15T10:09:50.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
