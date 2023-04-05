@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T06:35:08.037Z</id>
+    <id>urn:2023-04-05T07:05:47.059Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T06:35:08.037Z</updated>
+    <updated>2023-04-05T07:05:47.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／のんびりランチタイム歌枠～～！🍚楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=n7n6ZfoaYhg</id>
+        <link href="https://www.youtube.com/watch?v=n7n6ZfoaYhg"/>
+        <updated>2023-04-05T07:00:34.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】いっしょにおうた楽しみたい水曜日ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=xJOUdfzeeIo</id>
+        <link href="https://www.youtube.com/watch?v=xJOUdfzeeIo"/>
+        <updated>2023-04-05T06:44:48.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#8！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-xlAhlqy2Ys</id>
@@ -120,6 +138,15 @@
         <updated>2023-04-04T14:52:30.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #はののの 】GeoGuessr！ここはどこ、、？わたしはだれ、、？【#彩雲のの/ #天川はの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=T3F1elmEy90</id>
+        <link href="https://www.youtube.com/watch?v=T3F1elmEy90"/>
+        <updated>2023-04-04T13:37:50.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -276,6 +303,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[祝！Live2Dアップデートだ～～～～！いろんなのの見て！！！！！ 【 #彩雲のの  / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=AzY9KhwVaHw</id>
+        <link href="https://www.youtube.com/watch?v=AzY9KhwVaHw"/>
+        <updated>2023-04-03T10:22:27.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=_LWDRUO3Gns</id>
         <link href="https://www.youtube.com/watch?v=_LWDRUO3Gns"/>
@@ -339,12 +375,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ZhAbeW6cpBc</id>
+        <link href="https://www.youtube.com/watch?v=ZhAbeW6cpBc"/>
+        <updated>2023-04-02T13:55:15.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深すぎる家だった……！次は謎の厨房！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=QU492FdH2fA</id>
+        <link href="https://www.youtube.com/watch?v=QU492FdH2fA"/>
+        <updated>2023-04-02T13:52:22.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[デビュー1周年記念歌枠リレー /  1st Anniversary #つばぐら1周年 【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=tpFtHHDihRs</id>
         <link href="https://www.youtube.com/watch?v=tpFtHHDihRs"/>
         <updated>2023-04-02T13:10:16.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年 【 #彩雲のの  / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=1cx6RZ72lcg</id>
+        <link href="https://www.youtube.com/watch?v=1cx6RZ72lcg"/>
+        <updated>2023-04-02T12:32:36.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -417,6 +480,15 @@
         <updated>2023-04-01T18:32:04.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/吐息/バイノーラル【Shampoo/relax/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=JYvccKgBqkw</id>
+        <link href="https://www.youtube.com/watch?v=JYvccKgBqkw"/>
+        <updated>2023-04-01T16:25:16.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -582,6 +654,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで 春よ、来い 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=t9tlnL5zwZ8</id>
+        <link href="https://www.youtube.com/watch?v=t9tlnL5zwZ8"/>
+        <updated>2023-03-31T12:00:42.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／3月ラスト＆おひさしぶりだ～～～好きに歌うよう🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nW0t7ZXJ4gY</id>
         <link href="https://www.youtube.com/watch?v=nW0t7ZXJ4gY"/>
@@ -717,6 +798,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがアルジャーノンを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=CDBE8c0kwi8</id>
+        <link href="https://www.youtube.com/watch?v=CDBE8c0kwi8"/>
+        <updated>2023-03-29T12:00:09.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[撫でんな / 柊マグネタイト【歌ってみた】#新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=32134sgjERE</id>
         <link href="https://www.youtube.com/watch?v=32134sgjERE"/>
@@ -834,6 +924,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】桜が満開だね～🌸karaoke【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=GoEWVK-W7rE</id>
+        <link href="https://www.youtube.com/watch?v=GoEWVK-W7rE"/>
+        <updated>2023-03-28T10:45:54.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早起きさんおいで】バーチャルアイドル、手のひらでおしゃべりする。【Free Talk/朝活雑談】]]></title>
         <id>https://www.youtube.com/watch?v=MxPlXOdSq9k</id>
         <link href="https://www.youtube.com/watch?v=MxPlXOdSq9k"/>
@@ -849,6 +948,15 @@
         <updated>2023-03-28T00:06:17.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談/talking stream】歌枠リレーの打ち上げしよ～🍻🍣【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=XTXarSNavuw</id>
+        <link href="https://www.youtube.com/watch?v=XTXarSNavuw"/>
+        <updated>2023-03-28T00:00:27.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -903,6 +1011,15 @@
         <updated>2023-03-27T12:06:37.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerが春泥棒を歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=UEZeEuFF5ZA</id>
+        <link href="https://www.youtube.com/watch?v=UEZeEuFF5ZA"/>
+        <updated>2023-03-27T12:00:30.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -969,6 +1086,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerが残響散歌を歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=8kLqWVsjvuk</id>
+        <link href="https://www.youtube.com/watch?v=8kLqWVsjvuk"/>
+        <updated>2023-03-26T12:00:06.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#VirtualonMusic】第2回！3D音楽番組「Virtual on Music」ゲスト 朝ノ瑠璃【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-1LqtU0R36Q</id>
         <link href="https://www.youtube.com/watch?v=-1LqtU0R36Q"/>
@@ -984,6 +1110,33 @@
         <updated>2023-03-26T10:45:17.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #春のVtuber音楽祭 】８番手！ピアノ弾き語りで癒されて❤【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=zF2Kiq-GjvE</id>
+        <link href="https://www.youtube.com/watch?v=zF2Kiq-GjvE"/>
+        <updated>2023-03-26T10:27:25.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡歌と来期アニメについてちょびっと語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=gCoO_UGAHUI</id>
+        <link href="https://www.youtube.com/watch?v=gCoO_UGAHUI"/>
+        <updated>2023-03-26T10:27:14.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】おはゲリラ！本番に向けて最終練習～～！弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-j8D79gJnPc</id>
+        <link href="https://www.youtube.com/watch?v=-j8D79gJnPc"/>
+        <updated>2023-03-26T10:10:56.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -1011,6 +1164,15 @@
         <updated>2023-03-26T02:30:30.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】超絶気持ちいい耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=5u8CbJdGXuU</id>
+        <link href="https://www.youtube.com/watch?v=5u8CbJdGXuU"/>
+        <updated>2023-03-25T17:27:00.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1056,6 +1218,15 @@
         <updated>2023-03-25T13:00:11.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがベテルギウスを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=ZdYfYE4kzNY</id>
+        <link href="https://www.youtube.com/watch?v=ZdYfYE4kzNY"/>
+        <updated>2023-03-25T12:00:21.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -1167,6 +1338,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがノーチラスを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=zE0ImDL-0u0</id>
+        <link href="https://www.youtube.com/watch?v=zE0ImDL-0u0"/>
+        <updated>2023-03-24T12:00:46.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[☀朝活雑談 / 朝だな。初見さん、大歓迎しちゃうんだけどな～～チラチラ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=eW66Neg7YU8</id>
         <link href="https://www.youtube.com/watch?v=eW66Neg7YU8"/>
@@ -1221,12 +1401,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
+        <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
+        <updated>2023-03-23T14:03:31.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[◆初おうち３D歌枠✨ /sing / 一緒にカラオケいこっ♡待ち合わせは駅。 / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=1n_TgkcJuoE</id>
         <link href="https://www.youtube.com/watch?v=1n_TgkcJuoE"/>
         <updated>2023-03-23T12:51:23.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがすずめを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=Q-anG79s5ck</id>
+        <link href="https://www.youtube.com/watch?v=Q-anG79s5ck"/>
+        <updated>2023-03-23T12:00:16.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -1317,6 +1515,15 @@
         <updated>2023-03-22T13:47:28.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがカタオモイを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=AS7xZ8MONK0</id>
+        <link href="https://www.youtube.com/watch?v=AS7xZ8MONK0"/>
+        <updated>2023-03-22T12:00:06.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -1536,6 +1743,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡ちょびっとお歌を歌おう！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=4_-bbR_5vTc</id>
+        <link href="https://www.youtube.com/watch?v=4_-bbR_5vTc"/>
+        <updated>2023-03-19T06:15:16.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【朝活】休日の朝いっしょに過ごそ☀最近のこと話したい！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=LUL5G2XkuIc</id>
         <link href="https://www.youtube.com/watch?v=LUL5G2XkuIc"/>
@@ -1551,6 +1767,15 @@
         <updated>2023-03-18T22:35:46.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】長め / 超絶気持ちいいシャンプー♡寝落ち確実/囁き/吐息/バイノーラル【Shampoo/relax/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=odImkU-PmkQ</id>
+        <link href="https://www.youtube.com/watch?v=odImkU-PmkQ"/>
+        <updated>2023-03-18T17:41:57.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1761,15 +1986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】ボカロ縛りおうた！🎤いっしょに楽しも～～໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=vlfjB8n5DsI</id>
-        <link href="https://www.youtube.com/watch?v=vlfjB8n5DsI"/>
-        <updated>2023-03-15T10:09:50.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎✨おはよおお…朝だよお…💜起きろ❕ goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xDomTIzpRFA</id>
         <link href="https://www.youtube.com/watch?v=xDomTIzpRFA"/>
@@ -1821,6 +2037,15 @@
         <updated>2023-03-14T15:11:58.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡声優さんについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=oDaZbOplMdA</id>
+        <link href="https://www.youtube.com/watch?v=oDaZbOplMdA"/>
+        <updated>2023-03-14T14:24:34.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1968,6 +2193,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡久しぶりにお歌を歌おう！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eGDbXfwLjJM</id>
+        <link href="https://www.youtube.com/watch?v=eGDbXfwLjJM"/>
+        <updated>2023-03-11T11:28:13.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も結局夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=s7y_akhZ0kA</id>
         <link href="https://www.youtube.com/watch?v=s7y_akhZ0kA"/>
@@ -1995,6 +2229,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】超絶気持ちいい耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】]]></title>
+        <id>https://www.youtube.com/watch?v=4-3s1_-xu9g</id>
+        <link href="https://www.youtube.com/watch?v=4-3s1_-xu9g"/>
+        <updated>2023-03-10T16:37:43.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／鼻声だけど夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ybh43sNOqDQ</id>
         <link href="https://www.youtube.com/watch?v=Ybh43sNOqDQ"/>
@@ -2010,6 +2253,15 @@
         <updated>2023-03-09T15:32:37.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=umBoEm-IlV4</id>
+        <link href="https://www.youtube.com/watch?v=umBoEm-IlV4"/>
+        <updated>2023-03-09T13:53:56.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -2040,12 +2292,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 雑談🥂 】初見さん大歓迎～／週の半ばのんびりお話タイム～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=tj2e_r_hukM</id>
-        <link href="https://www.youtube.com/watch?v=tj2e_r_hukM"/>
-        <updated>2023-03-08T19:36:13.000Z</updated>
+        <title type="html"><![CDATA[【参加型】楽しかったじゃんけんをもう一度！ #fingger 【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FQHsdjF0j5w</id>
+        <link href="https://www.youtube.com/watch?v=FQHsdjF0j5w"/>
+        <updated>2023-03-08T14:04:51.000Z</updated>
         <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
