@@ -2372,6 +2372,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
+          "publishedOn": "2023-04-05T19:48:03.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】カスタム参加するぞ～！ / w 飛良ひかり、渋谷ハル【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DEGKR7w5lF8",
           "author": null,
           "description": "",
@@ -2509,16 +2519,6 @@
           "publishedOn": "2023-03-12T16:23:22.000Z",
           "wordCount": null,
           "title": "【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LENoQnlmsKs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LENoQnlmsKs",
-          "publishedOn": "2023-03-12T11:00:15.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】小悪魔だってかまわない！ / Covered by 獅子神レオナ #shorts",
           "imageUrl": null
         }
       ]
