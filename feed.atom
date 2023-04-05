@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T00:19:19.706Z</id>
+    <id>urn:2023-04-05T00:49:09.581Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T00:19:19.706Z</updated>
+    <updated>2023-04-05T00:49:09.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨おきろ～朝が来たぞ～…ｚｚｚｚｚｚｚ💜 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Lk2yZIP_fWE</id>
+        <link href="https://www.youtube.com/watch?v=Lk2yZIP_fWE"/>
+        <updated>2023-04-05T00:24:50.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=H7J8bAFHRXQ</id>
@@ -2037,15 +2046,6 @@
         <updated>2023-03-14T13:52:31.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】ホワイトデー…アリアに会いにくること💗 いっしょに過ごそ🍪💗 Talking stream【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Hdds5Fafyj4</id>
-        <link href="https://www.youtube.com/watch?v=Hdds5Fafyj4"/>
-        <updated>2023-03-14T12:23:22.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
