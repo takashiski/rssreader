@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "【#小夜シグレ デビュー！】3月10日(金)20:00よりデビュー初配信！【Re:AcT Gaming】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YPkzBjQnl9k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YPkzBjQnl9k",
-          "publishedOn": "2023-03-07T10:00:31.000Z",
-          "wordCount": null,
-          "title": "【#狐宵いなり デビュー！】3月10日(金)19:00よりデビュー初配信！【Re:AcT Gaming】",
-          "imageUrl": null
         }
       ]
     },
@@ -845,6 +835,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kBWO9461L0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kBWO9461L0A",
+          "publishedOn": "2023-04-05T21:42:07.000Z",
+          "wordCount": null,
+          "title": "【歌枠】めちゃくちゃ春じゃん【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hUiRg6M6M1A",
           "author": null,
           "description": "",
@@ -982,16 +982,6 @@
           "publishedOn": "2023-03-24T12:39:05.000Z",
           "wordCount": null,
           "title": "【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iROJEU3efH0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iROJEU3efH0",
-          "publishedOn": "2023-03-23T12:35:07.000Z",
-          "wordCount": null,
-          "title": "【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
