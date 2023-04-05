@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T09:34:20.554Z</id>
+    <id>urn:2023-04-05T10:06:27.616Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T09:34:20.554Z</updated>
+    <updated>2023-04-05T10:06:27.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adoさんと可愛くデュエットしてみた🤍 #新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ptsijWroKNs</id>
+        <link href="https://www.youtube.com/watch?v=ptsijWroKNs"/>
+        <updated>2023-04-05T09:52:18.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ロードモバイル】このゲームの進め方をだれかおしえてください【Vtuber / 水瓶ミア】]]></title>
         <id>https://www.youtube.com/watch?v=uu0D75LCG8c</id>
@@ -51,30 +60,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】めちゃくちゃ春じゃん【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kBWO9461L0A</id>
-        <link href="https://www.youtube.com/watch?v=kBWO9461L0A"/>
-        <updated>2023-04-05T03:42:06.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎✨おきろ～朝が来たぞ～…ｚｚｚｚｚｚｚ💜 goodmorning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Lk2yZIP_fWE</id>
         <link href="https://www.youtube.com/watch?v=Lk2yZIP_fWE"/>
         <updated>2023-04-05T00:24:50.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=H7J8bAFHRXQ</id>
-        <link href="https://www.youtube.com/watch?v=H7J8bAFHRXQ"/>
-        <updated>2023-04-04T19:22:00.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -951,15 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=i3GCk1amnyo</id>
-        <link href="https://www.youtube.com/watch?v=i3GCk1amnyo"/>
-        <updated>2023-03-28T10:00:29.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【早起きさんおいで】バーチャルアイドル、手のひらでおしゃべりする。【Free Talk/朝活雑談】]]></title>
         <id>https://www.youtube.com/watch?v=MxPlXOdSq9k</id>
         <link href="https://www.youtube.com/watch?v=MxPlXOdSq9k"/>
@@ -1446,6 +1428,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iROJEU3efH0</id>
+        <link href="https://www.youtube.com/watch?v=iROJEU3efH0"/>
+        <updated>2023-03-23T12:35:07.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがすずめを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
         <id>https://www.youtube.com/watch?v=Q-anG79s5ck</id>
         <link href="https://www.youtube.com/watch?v=Q-anG79s5ck"/>
@@ -1911,6 +1902,15 @@
         <updated>2023-03-17T09:09:41.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=xDEVzJJ1R80</id>
+        <link href="https://www.youtube.com/watch?v=xDEVzJJ1R80"/>
+        <updated>2023-03-17T00:23:41.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

@@ -521,6 +521,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ptsijWroKNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ptsijWroKNs",
+          "publishedOn": "2023-04-05T09:52:18.000Z",
+          "wordCount": null,
+          "title": "Adoさんと可愛くデュエットしてみた🤍 #新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a3hNUbQI3Qc",
           "author": null,
           "description": "",
@@ -658,16 +668,6 @@
           "publishedOn": "2023-03-28T17:03:44.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！可愛くて元気な女の子！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i3GCk1amnyo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i3GCk1amnyo",
-          "publishedOn": "2023-03-28T10:00:29.000Z",
-          "wordCount": null,
-          "title": "シンデレラボーイ ハモリチャレンジしてみたwww #新人vtuber #るっくあっとたらん #神輿たらん #ブルアカ #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -835,16 +835,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=kBWO9461L0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kBWO9461L0A",
-          "publishedOn": "2023-04-05T03:42:06.000Z",
-          "wordCount": null,
-          "title": "【歌枠】めちゃくちゃ春じゃん【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=hUiRg6M6M1A",
           "author": null,
           "description": "",
@@ -982,6 +972,16 @@
           "publishedOn": "2023-03-24T12:39:05.000Z",
           "wordCount": null,
           "title": "【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iROJEU3efH0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iROJEU3efH0",
+          "publishedOn": "2023-03-23T12:35:07.000Z",
+          "wordCount": null,
+          "title": "【雑談】Live2dあっぷでーーーーーーーと！私を見ろ！ 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1139,16 +1139,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=H7J8bAFHRXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H7J8bAFHRXQ",
-          "publishedOn": "2023-04-04T19:22:00.000Z",
-          "wordCount": null,
-          "title": "〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=6HqnOkpb088",
           "author": null,
           "description": "",
@@ -1286,6 +1276,16 @@
           "publishedOn": "2023-03-17T12:03:38.000Z",
           "wordCount": null,
           "title": "僕から君たちへ。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xDEVzJJ1R80",
+          "publishedOn": "2023-03-17T00:23:41.000Z",
+          "wordCount": null,
+          "title": "✨初見さん大歓迎✨ / ３Dお披露目、ついに明日だね... 前夜祭温野菜/ morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         }
       ]
