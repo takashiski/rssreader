@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T14:34:49.875Z</id>
+    <id>urn:2023-04-05T15:05:56.549Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T14:34:49.875Z</updated>
+    <updated>2023-04-05T15:05:56.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡声優さんについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=oDaZbOplMdA</id>
+        <link href="https://www.youtube.com/watch?v=oDaZbOplMdA"/>
+        <updated>2023-04-05T14:37:25.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】ねむと一緒にぽやぽやうとうとしませんか…🤍？そのまま一緒におやすみなさい…🌙💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=WpoUaGFT9iw</id>
+        <link href="https://www.youtube.com/watch?v=WpoUaGFT9iw"/>
+        <updated>2023-04-05T14:31:28.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【⭐️復活🎉】Youtubeを封じられていた子供の復活!!告知もあるよ【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=DK1kKNBdx_o</id>
+        <link href="https://www.youtube.com/watch?v=DK1kKNBdx_o"/>
+        <updated>2023-04-05T14:30:15.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『 ちゅ、多様性。 』ver.天川はの]]></title>
         <id>https://www.youtube.com/watch?v=5At5-cQQqFI</id>
@@ -46,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=-xlAhlqy2Ys</id>
         <link href="https://www.youtube.com/watch?v=-xlAhlqy2Ys"/>
         <updated>2023-04-05T11:20:56.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Q Remastered】頭久しぶりにフル回転するぞ！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=SFh03SyRkyI</id>
-        <link href="https://www.youtube.com/watch?v=SFh03SyRkyI"/>
-        <updated>2023-04-05T11:16:43.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -856,6 +874,15 @@
         <id>https://www.youtube.com/watch?v=32134sgjERE</id>
         <link href="https://www.youtube.com/watch?v=32134sgjERE"/>
         <updated>2023-03-29T10:03:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#5 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IjZyBsIYO-Q</id>
+        <link href="https://www.youtube.com/watch?v=IjZyBsIYO-Q"/>
+        <updated>2023-03-29T09:18:22.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
