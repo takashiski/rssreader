@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-05T11:34:29.773Z</id>
+    <id>urn:2023-04-05T12:08:14.645Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T11:34:29.773Z</updated>
+    <updated>2023-04-05T12:08:14.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ロードモバイル】このゲームの進め方をだれかおしえてください【Vtuber / 水瓶ミア】]]></title>
+        <id>https://www.youtube.com/watch?v=uu0D75LCG8c</id>
+        <link href="https://www.youtube.com/watch?v=uu0D75LCG8c"/>
+        <updated>2023-04-05T12:00:19.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【夕暮れ時、廃校にて。】学校で探索ゲーム開始…。【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=bnspdHPNXPw</id>
+        <link href="https://www.youtube.com/watch?v=bnspdHPNXPw"/>
+        <updated>2023-04-05T11:37:51.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#8！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-xlAhlqy2Ys</id>

@@ -1764,6 +1764,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bnspdHPNXPw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bnspdHPNXPw",
+          "publishedOn": "2023-04-05T11:37:51.000Z",
+          "wordCount": null,
+          "title": "【夕暮れ時、廃校にて。】学校で探索ゲーム開始…。【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lGj6aM-mDXk",
           "author": null,
           "description": "",
@@ -2498,6 +2508,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uu0D75LCG8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uu0D75LCG8c",
+          "publishedOn": "2023-04-05T12:00:19.000Z",
+          "wordCount": null,
+          "title": "【ロードモバイル】このゲームの進め方をだれかおしえてください【Vtuber / 水瓶ミア】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2bfuG1Gtz7Q",
           "author": null,
