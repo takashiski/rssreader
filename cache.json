@@ -511,6 +511,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pBoE32zLZvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pBoE32zLZvw",
+          "publishedOn": "2023-04-06T18:10:46.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！夜更かししよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L5eCBSJzAJ4",
           "author": null,
           "description": "",
@@ -648,16 +658,6 @@
           "publishedOn": "2023-03-30T09:48:58.000Z",
           "wordCount": null,
           "title": "ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GEiWwFmtsxQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GEiWwFmtsxQ",
-          "publishedOn": "2023-03-29T15:06:54.000Z",
-          "wordCount": null,
-          "title": "【雑談】ラウワンコラボ終わっちゃう！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
