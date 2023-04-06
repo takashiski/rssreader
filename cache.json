@@ -521,6 +521,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pBoE32zLZvw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pBoE32zLZvw",
+          "publishedOn": "2023-04-06T14:06:46.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！夜更かししよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SFh03SyRkyI",
           "author": null,
           "description": "",
@@ -658,16 +668,6 @@
           "publishedOn": "2023-03-29T15:06:54.000Z",
           "wordCount": null,
           "title": "【雑談】ラウワンコラボ終わっちゃう！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=32134sgjERE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=32134sgjERE",
-          "publishedOn": "2023-03-29T10:03:59.000Z",
-          "wordCount": null,
-          "title": "撫でんな / 柊マグネタイト【歌ってみた】#新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -2058,6 +2058,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=od3ZEkBpFoA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=od3ZEkBpFoA",
+          "publishedOn": "2023-04-06T14:24:54.000Z",
+          "wordCount": null,
+          "title": "【熊の歌枠】初見さん大歓迎♡今夜は特別🎶真の姿で歌ってみた！/Singing Stream【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-bo9381Z9nM",
           "author": null,
           "description": "",
@@ -2195,16 +2205,6 @@
           "publishedOn": "2023-03-23T18:36:27.000Z",
           "wordCount": null,
           "title": "【ASMR】耳責め！睡眠導入♡音圧ごりごり耳かきはいかが？【Ear Cleaning/Whispering/作業BGM】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AkGCSEIOKrw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AkGCSEIOKrw",
-          "publishedOn": "2023-03-23T15:42:54.000Z",
-          "wordCount": null,
-          "title": "【バトオペ2ガチャ？】えっ汎用グフ…！？お財布氷河期だから、見るだけ…見るだけ…/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】",
           "imageUrl": null
         }
       ]
@@ -2662,6 +2662,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QU492FdH2fA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QU492FdH2fA",
+          "publishedOn": "2023-04-06T14:21:50.000Z",
+          "wordCount": null,
+          "title": "【#クロエのレクイエム】闇が深すぎる家だった……！次は謎の厨房！！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KNhaZOtYRv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KNhaZOtYRv8",
+          "publishedOn": "2023-04-06T14:20:11.000Z",
+          "wordCount": null,
+          "title": "【ASMR】週末の癒し / 超絶気持ちいいシャンプー♡寝落ち確実/囁き/吐息/バイノーラル【Shampoo/relax/Binaural/Whispering/asmr】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xbMqCHhoe3U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xbMqCHhoe3U",
+          "publishedOn": "2023-04-06T14:18:20.000Z",
+          "wordCount": null,
+          "title": "【#クロエのレクイエム】闇が深すぎる2人……！そろそろ佳境！？【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oDaZbOplMdA",
           "author": null,
