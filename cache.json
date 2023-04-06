@@ -511,16 +511,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=L5eCBSJzAJ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L5eCBSJzAJ4",
-          "publishedOn": "2023-04-05T16:05:53.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】みくりんとコラボお歌枠！！ KARAOKE【新人VTuber/神輿たらん/星衣未空莉】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=SFh03SyRkyI",
           "author": null,
           "description": "",
@@ -658,6 +648,16 @@
           "publishedOn": "2023-03-29T15:06:54.000Z",
           "wordCount": null,
           "title": "【雑談】ラウワンコラボ終わっちゃう！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=32134sgjERE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=32134sgjERE",
+          "publishedOn": "2023-03-29T10:03:59.000Z",
+          "wordCount": null,
+          "title": "撫でんな / 柊マグネタイト【歌ってみた】#新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
