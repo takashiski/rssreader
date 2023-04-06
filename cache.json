@@ -678,16 +678,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=jkJ5785srGs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jkJ5785srGs",
-          "publishedOn": "2023-04-06T07:44:24.000Z",
-          "wordCount": null,
-          "title": "【雑談/talking stream】一周年ありがとうございました㊗✨【#彩雲のの /#新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=T3F1elmEy90",
           "author": null,
           "description": "",
@@ -825,6 +815,16 @@
           "publishedOn": "2023-03-23T12:00:16.000Z",
           "wordCount": null,
           "title": "【歌枠/切り抜き】癒し系Vingerがすずめを歌ってみたら・・・【#shorts /#彩雲のの 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AS7xZ8MONK0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AS7xZ8MONK0",
+          "publishedOn": "2023-03-22T12:00:06.000Z",
+          "wordCount": null,
+          "title": "【歌枠/切り抜き】癒し系Vingerがカタオモイを歌ってみたら・・・【#shorts /#彩雲のの 】",
           "imageUrl": null
         }
       ]
@@ -1139,6 +1139,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tw9XjNnbyPs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tw9XjNnbyPs",
+          "publishedOn": "2023-04-06T11:09:53.000Z",
+          "wordCount": null,
+          "title": "◆おうち３D歌枠✨ /sing / き、君たち～～～っ💦 / karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=k44UeoicCao",
           "author": null,
           "description": "",
@@ -1276,16 +1286,6 @@
           "publishedOn": "2023-03-18T16:07:19.000Z",
           "wordCount": null,
           "title": "【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
-          "publishedOn": "2023-03-17T12:03:38.000Z",
-          "wordCount": null,
-          "title": "僕から君たちへ。",
           "imageUrl": null
         }
       ]
@@ -1773,6 +1773,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=s1z0KABTTC0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s1z0KABTTC0",
+          "publishedOn": "2023-04-06T11:02:30.000Z",
+          "wordCount": null,
+          "title": "【moon】愛について、まだ何も知りません…🐰【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bnspdHPNXPw",
           "author": null,

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T11:05:25.466Z</id>
+    <id>urn:2023-04-06T11:34:17.909Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T11:05:25.466Z</updated>
+    <updated>2023-04-06T11:34:17.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / き、君たち～～～っ💦 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=tw9XjNnbyPs</id>
+        <link href="https://www.youtube.com/watch?v=tw9XjNnbyPs"/>
+        <updated>2023-04-06T11:09:53.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】愛について、まだ何も知りません…🐰【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=s1z0KABTTC0</id>
+        <link href="https://www.youtube.com/watch?v=s1z0KABTTC0"/>
+        <updated>2023-04-06T11:02:30.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ハモリカラオケ】めざせポケモンマスター 一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=upQrLucYdRU</id>
@@ -39,15 +57,6 @@
         <updated>2023-04-06T08:43:22.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/talking stream】一周年ありがとうございました㊗✨【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=jkJ5785srGs</id>
-        <link href="https://www.youtube.com/watch?v=jkJ5785srGs"/>
-        <updated>2023-04-06T07:44:24.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -1662,6 +1671,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがカタオモイを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
+        <id>https://www.youtube.com/watch?v=AS7xZ8MONK0</id>
+        <link href="https://www.youtube.com/watch?v=AS7xZ8MONK0"/>
+        <updated>2023-03-22T12:00:06.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #37 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ugFBqnoTDnM</id>
         <link href="https://www.youtube.com/watch?v=ugFBqnoTDnM"/>
@@ -1956,15 +1974,6 @@
         <updated>2023-03-17T14:03:44.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僕から君たちへ。]]></title>
-        <id>https://www.youtube.com/watch?v=xkTyIRg-E7w</id>
-        <link href="https://www.youtube.com/watch?v=xkTyIRg-E7w"/>
-        <updated>2023-03-17T12:03:38.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
