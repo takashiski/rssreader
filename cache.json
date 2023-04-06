@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Orx7So-XYns",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Orx7So-XYns",
+          "publishedOn": "2023-04-06T18:44:24.000Z",
+          "wordCount": null,
+          "title": "【＃お歌大好きV大集合歌枠リレー】お歌大好きな酒クズいばら姫、日中だけど歌います👑🥂 singing stream【美睡シュカ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VQOsFwTpTxQ",
           "author": null,
           "description": "",
@@ -257,16 +267,6 @@
           "publishedOn": "2023-03-11T15:36:13.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／いつもより少し早めの歌だよおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=s7y_akhZ0kA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s7y_akhZ0kA",
-          "publishedOn": "2023-03-10T18:59:54.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／今日も結局夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]

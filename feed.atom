@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T18:34:22.814Z</id>
+    <id>urn:2023-04-06T19:05:17.504Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T18:34:22.814Z</updated>
+    <updated>2023-04-06T19:05:17.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【＃お歌大好きV大集合歌枠リレー】お歌大好きな酒クズいばら姫、日中だけど歌います👑🥂 singing stream【美睡シュカ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Orx7So-XYns</id>
+        <link href="https://www.youtube.com/watch?v=Orx7So-XYns"/>
+        <updated>2023-04-06T18:44:24.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜更かししよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=pBoE32zLZvw</id>
@@ -2289,15 +2298,6 @@
         <updated>2023-03-11T11:28:13.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今日も結局夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=s7y_akhZ0kA</id>
-        <link href="https://www.youtube.com/watch?v=s7y_akhZ0kA"/>
-        <updated>2023-03-10T18:59:54.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
