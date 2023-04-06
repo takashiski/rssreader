@@ -2372,16 +2372,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=dTgqdpUYxKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dTgqdpUYxKo",
-          "publishedOn": "2023-04-06T09:29:46.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】明日は新衣装お披露目～！の前のおうた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=b6XJRk2Foqc",
           "author": null,
           "description": "",
@@ -2519,6 +2509,16 @@
           "publishedOn": "2023-03-13T22:44:14.000Z",
           "wordCount": null,
           "title": "【 朝活】おはよ～～～～～～！！🌤【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hBs-w1u81ZQ",
+          "publishedOn": "2023-03-12T16:23:22.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
