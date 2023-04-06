@@ -120,6 +120,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VQOsFwTpTxQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VQOsFwTpTxQ",
+          "publishedOn": "2023-04-06T13:14:00.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／深夜の定期歌枠～～！🌃楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=n7n6ZfoaYhg",
           "author": null,
           "description": "",
@@ -257,16 +267,6 @@
           "publishedOn": "2023-03-10T18:59:54.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／今日も結局夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ybh43sNOqDQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ybh43sNOqDQ",
-          "publishedOn": "2023-03-09T19:06:22.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／鼻声だけど夜更かし歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1460,16 +1460,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=jSXBZeNByOk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jSXBZeNByOk",
-          "publishedOn": "2023-04-06T03:18:55.000Z",
-          "wordCount": null,
-          "title": "【PsychoBreak/サイコブレイク】脳汁回収いたします🧠#1【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=tWvKk-AprxI",
           "author": null,
           "description": "",
@@ -1607,6 +1597,16 @@
           "publishedOn": "2023-03-12T23:07:32.000Z",
           "wordCount": null,
           "title": "【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=RK_fNW2xAsc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RK_fNW2xAsc",
+          "publishedOn": "2023-03-12T14:15:37.000Z",
+          "wordCount": null,
+          "title": "【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
         }
       ]
@@ -1773,16 +1773,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=s1z0KABTTC0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s1z0KABTTC0",
-          "publishedOn": "2023-04-06T11:02:30.000Z",
-          "wordCount": null,
-          "title": "【moon】愛について、まだ何も知りません…🐰【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=bnspdHPNXPw",
           "author": null,
