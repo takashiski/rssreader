@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T15:34:31.979Z</id>
+    <id>urn:2023-04-06T16:06:27.089Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T15:34:31.979Z</updated>
+    <updated>2023-04-06T16:06:27.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,15 +12,6 @@
         <updated>2023-04-06T15:33:37.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【熊の歌枠】初見さん大歓迎♡今夜は特別🎶真の姿で歌ってみた！/Singing Stream【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=od3ZEkBpFoA</id>
-        <link href="https://www.youtube.com/watch?v=od3ZEkBpFoA"/>
-        <updated>2023-04-06T14:24:54.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1587,6 +1578,15 @@
         <updated>2023-03-23T16:14:29.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バトオペ2ガチャ？】えっ汎用グフ…！？お財布氷河期だから、見るだけ…見るだけ…/機動戦士ガンダムバトルオペレーション2/Gundam Battle Operation 2【姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=AkGCSEIOKrw</id>
+        <link href="https://www.youtube.com/watch?v=AkGCSEIOKrw"/>
+        <updated>2023-03-23T15:42:54.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
