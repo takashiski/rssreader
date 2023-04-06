@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T03:05:56.124Z</id>
+    <id>urn:2023-04-06T03:34:32.411Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T03:05:56.124Z</updated>
+    <updated>2023-04-06T03:34:32.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】脳汁回収いたします🧠#1【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=jSXBZeNByOk</id>
+        <link href="https://www.youtube.com/watch?v=jSXBZeNByOk"/>
+        <updated>2023-04-06T03:18:55.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎💯100人とおはよう！ 【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=zy3mUQSTPWI</id>
@@ -2184,15 +2193,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=RK_fNW2xAsc</id>
-        <link href="https://www.youtube.com/watch?v=RK_fNW2xAsc"/>
-        <updated>2023-03-12T14:15:37.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂#耐久歌枠  】初見さん大歓迎～／７か月記念の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8qBCKrnguNs</id>
         <link href="https://www.youtube.com/watch?v=8qBCKrnguNs"/>
@@ -2352,15 +2352,6 @@
         <updated>2023-03-08T10:00:06.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！maipe---su⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ghWigF7LctI</id>
-        <link href="https://www.youtube.com/watch?v=ghWigF7LctI"/>
-        <updated>2023-03-07T15:16:28.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
 </feed>
