@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T15:05:54.918Z</id>
+    <id>urn:2023-04-06T15:34:31.979Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T15:05:54.919Z</updated>
+    <updated>2023-04-06T15:34:31.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】明日は新衣装お披露目～！の前のおうた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=dTgqdpUYxKo</id>
+        <link href="https://www.youtube.com/watch?v=dTgqdpUYxKo"/>
+        <updated>2023-04-06T15:33:37.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【熊の歌枠】初見さん大歓迎♡今夜は特別🎶真の姿で歌ってみた！/Singing Stream【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=od3ZEkBpFoA</id>
@@ -1617,15 +1626,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【🪄ホグワーツレガシー】セバスチャンを止めたい運動【天川はの】#10]]></title>
-        <id>https://www.youtube.com/watch?v=IYbpJyeDGHA</id>
-        <link href="https://www.youtube.com/watch?v=IYbpJyeDGHA"/>
-        <updated>2023-03-23T08:45:03.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【👂ASMR】お耳ゼロ距離で癒しの時間をどうぞ？ガチ恋距離【EarCleaning/EarMassage/ASMR for sleep/Whispering/Binaural】]]></title>
         <id>https://www.youtube.com/watch?v=B_ETJZIlbjU</id>
         <link href="https://www.youtube.com/watch?v=B_ETJZIlbjU"/>
@@ -2217,15 +2217,6 @@
         <updated>2023-03-12T17:19:16.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=hBs-w1u81ZQ</id>
-        <link href="https://www.youtube.com/watch?v=hBs-w1u81ZQ"/>
-        <updated>2023-03-12T16:23:22.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
