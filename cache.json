@@ -1139,16 +1139,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=tw9XjNnbyPs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tw9XjNnbyPs",
-          "publishedOn": "2023-04-05T20:47:46.000Z",
-          "wordCount": null,
-          "title": "◆おうち３D歌枠✨ /sing / き、君たち～～～っ💦 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=k44UeoicCao",
           "author": null,
           "description": "",
@@ -1287,6 +1277,16 @@
           "wordCount": null,
           "title": "【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xkTyIRg-E7w",
+          "publishedOn": "2023-03-17T12:03:38.000Z",
+          "wordCount": null,
+          "title": "僕から君たちへ。",
+          "imageUrl": null
         }
       ]
     },
@@ -1352,6 +1352,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=upQrLucYdRU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=upQrLucYdRU",
+          "publishedOn": "2023-04-06T11:00:39.000Z",
+          "wordCount": null,
+          "title": "【ハモリカラオケ】めざせポケモンマスター 一緒に歌って？#shorts #かしこまり",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2dz9TpiwtFs",
           "author": null,

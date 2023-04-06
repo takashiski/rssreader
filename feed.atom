@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T10:34:20.737Z</id>
+    <id>urn:2023-04-06T11:05:25.466Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-06T10:34:20.737Z</updated>
+    <updated>2023-04-06T11:05:25.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ハモリカラオケ】めざせポケモンマスター 一緒に歌って？#shorts #かしこまり]]></title>
+        <id>https://www.youtube.com/watch?v=upQrLucYdRU</id>
+        <link href="https://www.youtube.com/watch?v=upQrLucYdRU"/>
+        <updated>2023-04-06T11:00:39.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】リトバス同時視聴～⚾withお酒とケーキ🍹🍰【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vryWeK106Js</id>
@@ -66,15 +75,6 @@
         <updated>2023-04-05T21:42:07.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / き、君たち～～～っ💦 / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=tw9XjNnbyPs</id>
-        <link href="https://www.youtube.com/watch?v=tw9XjNnbyPs"/>
-        <updated>2023-04-05T20:47:46.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1956,6 +1956,15 @@
         <updated>2023-03-17T14:03:44.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[僕から君たちへ。]]></title>
+        <id>https://www.youtube.com/watch?v=xkTyIRg-E7w</id>
+        <link href="https://www.youtube.com/watch?v=xkTyIRg-E7w"/>
+        <updated>2023-03-17T12:03:38.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
