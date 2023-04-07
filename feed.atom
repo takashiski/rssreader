@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T05:34:21.364Z</id>
+    <id>urn:2023-04-07T06:06:35.149Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T05:34:21.364Z</updated>
+    <updated>2023-04-07T06:06:35.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳独占♡どきどきするのに安眠できる耳かき・リップ音【Ear Cleaning/Mouth Sound/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=-di_kNLuzBU</id>
+        <link href="https://www.youtube.com/watch?v=-di_kNLuzBU"/>
+        <updated>2023-04-07T06:03:26.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#9！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2GU6DExpVJo</id>
+        <link href="https://www.youtube.com/watch?v=2GU6DExpVJo"/>
+        <updated>2023-04-07T05:53:59.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お化け屋敷清掃】逃げながらお掃除するホラーゲーム！？/Paranormal Cleanup【#りりあこ調査隊】]]></title>
         <id>https://www.youtube.com/watch?v=ej2i5fH3GoI</id>
@@ -978,15 +996,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=zfPhef_a3Ss</id>
-        <link href="https://www.youtube.com/watch?v=zfPhef_a3Ss"/>
-        <updated>2023-03-30T09:48:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=mX8XPENohKY</id>
         <link href="https://www.youtube.com/watch?v=mX8XPENohKY"/>
@@ -1488,15 +1497,6 @@
         <updated>2023-03-25T00:46:36.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】母性溢れる睡眠導入♡安心したいひとおいで♡耳かき/マッサージ/囁き【Ear Cleaning/Massage/Whispering/睡眠導入/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=iTstQifZQSc</id>
-        <link href="https://www.youtube.com/watch?v=iTstQifZQSc"/>
-        <updated>2023-03-24T18:30:41.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
