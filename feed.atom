@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T19:05:26.250Z</id>
+    <id>urn:2023-04-07T19:34:26.956Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T19:05:26.250Z</updated>
+    <updated>2023-04-07T19:34:26.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -109,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=1y04KSx1WAw</id>
         <link href="https://www.youtube.com/watch?v=1y04KSx1WAw"/>
         <updated>2023-04-07T12:20:44.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yy9zm74dbu8</id>
-        <link href="https://www.youtube.com/watch?v=yy9zm74dbu8"/>
-        <updated>2023-04-07T12:20:01.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -957,6 +948,15 @@
         <updated>2023-03-31T18:04:29.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！深夜に歌っちゃお~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=REOPQSPSLeg</id>
+        <link href="https://www.youtube.com/watch?v=REOPQSPSLeg"/>
+        <updated>2023-03-31T17:26:04.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

@@ -531,16 +531,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=yy9zm74dbu8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yy9zm74dbu8",
-          "publishedOn": "2023-04-07T12:20:01.000Z",
-          "wordCount": null,
-          "title": "#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=2GU6DExpVJo",
           "author": null,
           "description": "",
@@ -668,6 +658,16 @@
           "publishedOn": "2023-04-01T03:16:29.000Z",
           "wordCount": null,
           "title": "【おえかきの森】参加型で遊ぶぞ~！急遽ゲーム変更！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=REOPQSPSLeg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=REOPQSPSLeg",
+          "publishedOn": "2023-03-31T17:26:04.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！深夜に歌っちゃお~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
