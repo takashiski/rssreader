@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T10:05:48.077Z</id>
+    <id>urn:2023-04-07T10:34:12.029Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T10:05:48.077Z</updated>
+    <updated>2023-04-07T10:34:12.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#9！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2GU6DExpVJo</id>
+        <link href="https://www.youtube.com/watch?v=2GU6DExpVJo"/>
+        <updated>2023-04-07T10:09:25.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】まったりお歌の時間です⛅karaoke【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=kIgenNvQ82s</id>
@@ -1011,15 +1020,6 @@
         <updated>2023-03-30T10:30:05.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=zfPhef_a3Ss</id>
-        <link href="https://www.youtube.com/watch?v=zfPhef_a3Ss"/>
-        <updated>2023-03-30T09:48:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

@@ -511,6 +511,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2GU6DExpVJo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2GU6DExpVJo",
+          "publishedOn": "2023-04-07T10:09:25.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつ歌枠#9！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pBoE32zLZvw",
           "author": null,
           "description": "",
@@ -648,16 +658,6 @@
           "publishedOn": "2023-03-30T18:15:48.000Z",
           "wordCount": null,
           "title": "【歌雑/sing＆talk】初見さん大歓迎！振り返りとお歌！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zfPhef_a3Ss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zfPhef_a3Ss",
-          "publishedOn": "2023-03-30T09:48:58.000Z",
-          "wordCount": null,
-          "title": "ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts",
           "imageUrl": null
         }
       ]
