@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T12:41:24.507Z</id>
+    <id>urn:2023-04-07T13:06:18.096Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T12:41:24.507Z</updated>
+    <updated>2023-04-07T13:06:18.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ParanormalCleanup】え❔事故物件を、お掃除、する…❔💦【月紫アリア/リクム/来音こくり/姫熊りぼん/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Ld4Q4nd9KFs</id>
+        <link href="https://www.youtube.com/watch?v=Ld4Q4nd9KFs"/>
+        <updated>2023-04-07T12:48:17.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お化け屋敷清掃】逃げながらお掃除するホラーゲーム！？/Paranormal Cleanup【#りりあこ /来音こくり/月紫アリア/リクム/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=ej2i5fH3GoI</id>
+        <link href="https://www.youtube.com/watch?v=ej2i5fH3GoI"/>
+        <updated>2023-04-07T12:47:49.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】まったりお歌の時間です⛅karaoke【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=kIgenNvQ82s</id>
@@ -1509,15 +1527,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】母性溢れる睡眠導入♡安心したいひとおいで♡耳かき/マッサージ/囁き【Ear Cleaning/Massage/Whispering/睡眠導入/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=iTstQifZQSc</id>
-        <link href="https://www.youtube.com/watch?v=iTstQifZQSc"/>
-        <updated>2023-03-24T18:30:41.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[誕生日カウントダウン]]></title>
         <id>https://www.youtube.com/watch?v=p9hmrSGyorU</id>
         <link href="https://www.youtube.com/watch?v=p9hmrSGyorU"/>
@@ -2172,15 +2181,6 @@
         <updated>2023-03-14T17:26:23.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】心音耐久💓ドキドキ、落ち着く音で安心できる💓安眠誘導/heartbeat💓 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Rs85roXg4M8</id>
-        <link href="https://www.youtube.com/watch?v=Rs85roXg4M8"/>
-        <updated>2023-03-14T15:45:38.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
