@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T17:34:19.799Z</id>
+    <id>urn:2023-04-07T18:06:13.888Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T17:34:19.799Z</updated>
+    <updated>2023-04-07T18:06:13.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -138,15 +138,6 @@
         <updated>2023-04-07T06:59:23.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳独占♡どきどきするのに安眠できる耳かき・リップ音【Ear Cleaning/Mouth Sound/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=-di_kNLuzBU</id>
-        <link href="https://www.youtube.com/watch?v=-di_kNLuzBU"/>
-        <updated>2023-04-07T06:03:26.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1569,6 +1560,15 @@
         <updated>2023-03-25T00:46:36.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】母性溢れる睡眠導入♡安心したいひとおいで♡耳かき/マッサージ/囁き【Ear Cleaning/Massage/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=iTstQifZQSc</id>
+        <link href="https://www.youtube.com/watch?v=iTstQifZQSc"/>
+        <updated>2023-03-24T18:30:41.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
