@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T21:05:36.850Z</id>
+    <id>urn:2023-04-07T21:34:24.808Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T21:05:36.850Z</updated>
+    <updated>2023-04-07T21:34:24.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #03 / 完全初見🔥お前の故郷、救ったる！！〖九楽ライ/Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=yzPBbCZTPk4</id>
+        <link href="https://www.youtube.com/watch?v=yzPBbCZTPk4"/>
+        <updated>2023-04-07T21:05:07.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=yy9zm74dbu8</id>
@@ -1929,15 +1938,6 @@
         <updated>2023-03-19T21:35:13.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=QgXcuCwi79Q</id>
-        <link href="https://www.youtube.com/watch?v=QgXcuCwi79Q"/>
-        <updated>2023-03-19T15:06:01.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

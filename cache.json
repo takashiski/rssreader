@@ -1139,6 +1139,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yzPBbCZTPk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yzPBbCZTPk4",
+          "publishedOn": "2023-04-07T21:05:07.000Z",
+          "wordCount": null,
+          "title": "☆星のカービィWiiデラックス / #03 / 完全初見🔥お前の故郷、救ったる！！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NYZte8_jz6A",
           "author": null,
           "description": "",
@@ -1276,16 +1286,6 @@
           "publishedOn": "2023-03-20T16:33:34.000Z",
           "wordCount": null,
           "title": "◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
-          "publishedOn": "2023-03-19T15:06:01.000Z",
-          "wordCount": null,
-          "title": "【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
