@@ -434,16 +434,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=ACq9G00XPvY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ACq9G00XPvY",
-          "publishedOn": "2023-04-07T12:26:01.000Z",
-          "wordCount": null,
-          "title": "【Lobotomy Corporation】管理人、お仕事復帰ですっ❣(後編)【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=WpoUaGFT9iw",
           "author": null,
           "description": "",
@@ -1139,16 +1129,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=NYZte8_jz6A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NYZte8_jz6A",
-          "publishedOn": "2023-04-07T14:00:55.000Z",
-          "wordCount": null,
-          "title": "◆お風呂 🛁 / 入ってるみたいなウィスパーお歌と雑談🧼/ sing and talk【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=tw9XjNnbyPs",
           "author": null,
           "description": "",
@@ -1286,6 +1266,16 @@
           "publishedOn": "2023-03-19T15:06:01.000Z",
           "wordCount": null,
           "title": "【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=A6YWgQex64E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A6YWgQex64E",
+          "publishedOn": "2023-03-18T16:07:19.000Z",
+          "wordCount": null,
+          "title": "【＃九楽ライ３Ｄ 】✨３Ｄお披露目Live✨ニートだけど、踊って歌って飛んで跳ねて！？【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
