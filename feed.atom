@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T14:05:43.888Z</id>
+    <id>urn:2023-04-07T14:34:26.642Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T14:05:43.888Z</updated>
+    <updated>2023-04-07T14:34:26.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨土曜日のお昼はかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=cujJNLzm_cc</id>
+        <link href="https://www.youtube.com/watch?v=cujJNLzm_cc"/>
+        <updated>2023-04-07T14:32:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】つくぴちお花見🌸もぐもぐいつも食べててごめん🐟🦇💗 #つくつくぴっち【月紫アリア/夢川かなう/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=rCVTlZcZhsw</id>
+        <link href="https://www.youtube.com/watch?v=rCVTlZcZhsw"/>
+        <updated>2023-04-07T14:14:06.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆お風呂 🛁 / 入ってるみたいなウィスパーお歌と雑談🧼/ sing and talk【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NYZte8_jz6A</id>
@@ -399,15 +417,6 @@
         <updated>2023-04-05T09:52:18.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #獅子神レオナ新衣装 】新しいお洋服かったからみんな見て～～！🧡 .*゜ 【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DEGKR7w5lF8</id>
-        <link href="https://www.youtube.com/watch?v=DEGKR7w5lF8"/>
-        <updated>2023-04-05T07:50:17.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2121,15 +2130,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
-        <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
-        <updated>2023-03-15T17:24:21.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
         <link href="https://www.youtube.com/watch?v=qd-dkUYQH5I"/>
@@ -2163,15 +2163,6 @@
         <updated>2023-03-15T12:00:26.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨おはよおお…朝だよお…💜起きろ❕ goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=xDomTIzpRFA</id>
-        <link href="https://www.youtube.com/watch?v=xDomTIzpRFA"/>
-        <updated>2023-03-15T00:20:58.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2253,6 +2244,15 @@
         <updated>2023-03-12T17:19:16.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】この季節は己とのたたかい⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=hBs-w1u81ZQ</id>
+        <link href="https://www.youtube.com/watch?v=hBs-w1u81ZQ"/>
+        <updated>2023-03-12T16:23:22.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
