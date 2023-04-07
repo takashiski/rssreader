@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T11:34:06.663Z</id>
+    <id>urn:2023-04-07T12:07:33.880Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T11:34:06.663Z</updated>
+    <updated>2023-04-07T12:07:33.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】Figaroさんと！歌枠コラボ 💐 #稀羽ふぃがろ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QXSnqK_hXFs</id>
+        <link href="https://www.youtube.com/watch?v=QXSnqK_hXFs"/>
+        <updated>2023-04-07T11:36:43.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=1y04KSx1WAw</id>
@@ -2181,15 +2190,6 @@
         <updated>2023-03-14T15:44:02.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なにか渡したいものありますでしょう？ 【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=XnZh63qybxA</id>
-        <link href="https://www.youtube.com/watch?v=XnZh63qybxA"/>
-        <updated>2023-03-14T15:11:58.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
