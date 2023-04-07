@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T13:06:18.096Z</id>
+    <id>urn:2023-04-07T13:34:18.473Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T13:06:18.096Z</updated>
+    <updated>2023-04-07T13:34:18.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】管理人、お仕事復帰ですっ❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=smbWDD-yg70</id>
+        <link href="https://www.youtube.com/watch?v=smbWDD-yg70"/>
+        <updated>2023-04-07T13:22:09.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ParanormalCleanup】え❔事故物件を、お掃除、する…❔💦【月紫アリア/リクム/来音こくり/姫熊りぼん/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Ld4Q4nd9KFs</id>
