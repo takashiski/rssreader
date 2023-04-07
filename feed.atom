@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-07T08:34:19.075Z</id>
+    <id>urn:2023-04-07T09:05:52.249Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T08:34:19.075Z</updated>
+    <updated>2023-04-07T09:05:52.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠/singing stream 】まったりお歌の時間です⛅karaoke【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=kIgenNvQ82s</id>
+        <link href="https://www.youtube.com/watch?v=kIgenNvQ82s"/>
+        <updated>2023-04-07T08:37:54.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】Figaroさんと！歌枠コラボ 💐 #稀羽ふぃがろ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QXSnqK_hXFs</id>
@@ -39,15 +48,6 @@
         <updated>2023-04-07T06:03:26.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#9！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2GU6DExpVJo</id>
-        <link href="https://www.youtube.com/watch?v=2GU6DExpVJo"/>
-        <updated>2023-04-07T05:53:59.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1014,6 +1014,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ツインテールあなたの好み🤍 #新人vtuber #るっくあっとたらん #歌ってみた #honeyworks #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=zfPhef_a3Ss</id>
+        <link href="https://www.youtube.com/watch?v=zfPhef_a3Ss"/>
+        <updated>2023-03-30T09:48:58.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=mX8XPENohKY</id>
         <link href="https://www.youtube.com/watch?v=mX8XPENohKY"/>
@@ -1641,15 +1650,6 @@
         <updated>2023-03-23T12:51:23.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがすずめを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
-        <id>https://www.youtube.com/watch?v=Q-anG79s5ck</id>
-        <link href="https://www.youtube.com/watch?v=Q-anG79s5ck"/>
-        <updated>2023-03-23T12:00:16.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
