@@ -257,6 +257,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NgNES1zyUqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NgNES1zyUqg",
+          "publishedOn": "2023-04-08T06:04:13.000Z",
+          "wordCount": null,
+          "title": "メン限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Y4g6aCpUM6Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y4g6aCpUM6Q",
+          "publishedOn": "2023-04-08T05:45:11.000Z",
+          "wordCount": null,
+          "title": "【歌枠】古のボカロ縛り2007～｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zy3mUQSTPWI",
           "author": null,
           "description": "",
@@ -384,26 +404,6 @@
           "publishedOn": "2023-03-22T13:58:26.000Z",
           "wordCount": null,
           "title": "【歌枠】毎日歌枠 ✧ バースデーまであと３日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vRzjbOfUlEg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vRzjbOfUlEg",
-          "publishedOn": "2023-03-22T01:32:52.000Z",
-          "wordCount": null,
-          "title": "【歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mADA8ajwX3k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mADA8ajwX3k",
-          "publishedOn": "2023-03-20T17:56:08.000Z",
-          "wordCount": null,
-          "title": "【睡眠導入】ピアノオンリー歌枠🎹Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1603,7 +1603,7 @@
           "link": "https://www.youtube.com/watch?v=cujJNLzm_cc",
           "publishedOn": "2023-04-07T14:32:24.000Z",
           "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨土曜日のお昼はかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】",
+          "title": "【歌枠/singing】初見大歓迎✨3D❕土曜日のお昼はかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】",
           "imageUrl": null
         },
         {
