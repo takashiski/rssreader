@@ -678,6 +678,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eF3DJzWSWrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eF3DJzWSWrI",
+          "publishedOn": "2023-04-08T12:00:32.000Z",
+          "wordCount": null,
+          "title": "【 #shorts 】Vsingerが一発録りで 春を告げる 歌ってみた【#彩雲のの / #新人vtuber 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kIgenNvQ82s",
           "author": null,
           "description": "",
@@ -816,16 +826,6 @@
           "wordCount": null,
           "title": "【歌枠/切り抜き】癒し系Vingerがベテルギウスを歌ってみたら・・・【#shorts /#彩雲のの 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zE0ImDL-0u0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zE0ImDL-0u0",
-          "publishedOn": "2023-03-24T12:00:46.000Z",
-          "wordCount": null,
-          "title": "【歌枠/切り抜き】癒し系Vingerがノーチラスを歌ってみたら・・・【#shorts /#彩雲のの 】",
-          "imageUrl": null
         }
       ]
     },
@@ -834,6 +834,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrG8pzkq_cCCLcN5wgrzNw",
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=FV68Myh8MIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FV68Myh8MIU",
+          "publishedOn": "2023-04-08T11:42:54.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見さん歓迎♡定期歌枠の時間だ！！！！！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kBWO9461L0A",
           "author": null,
@@ -972,16 +982,6 @@
           "publishedOn": "2023-03-25T11:23:45.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♡うたうたうよ【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8r3alRAFvDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8r3alRAFvDs",
-          "publishedOn": "2023-03-24T12:39:05.000Z",
-          "wordCount": null,
-          "title": "【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
