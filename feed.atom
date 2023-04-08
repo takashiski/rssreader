@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T01:31:13.970Z</id>
+    <id>urn:2023-04-08T02:15:01.955Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T01:31:13.970Z</updated>
+    <updated>2023-04-08T02:15:01.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】古のボカロ縛り2007～｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Y4g6aCpUM6Q</id>
+        <link href="https://www.youtube.com/watch?v=Y4g6aCpUM6Q"/>
+        <updated>2023-04-08T02:00:56.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☆星のカービィWiiデラックス / #03 / 完全初見🔥お前の故郷、救ったる！！〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=yzPBbCZTPk4</id>
@@ -1869,15 +1878,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【睡眠導入】ピアノオンリー歌枠🎹Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mADA8ajwX3k</id>
-        <link href="https://www.youtube.com/watch?v=mADA8ajwX3k"/>
-        <updated>2023-03-20T17:56:08.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=XINxbGl1Wng</id>
         <link href="https://www.youtube.com/watch?v=XINxbGl1Wng"/>
@@ -2352,15 +2352,6 @@
         <updated>2023-03-09T15:32:37.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】初めてやるよ！とにかく楽譜を集めよう！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=umBoEm-IlV4</id>
-        <link href="https://www.youtube.com/watch?v=umBoEm-IlV4"/>
-        <updated>2023-03-09T13:53:56.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
 </feed>
