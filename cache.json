@@ -100,16 +100,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=DB-RKhR4vi4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DB-RKhR4vi4",
-          "publishedOn": "2023-04-08T14:32:21.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／5000人ありがとう！感謝の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Orx7So-XYns",
           "author": null,
           "description": "",
@@ -247,6 +237,16 @@
           "publishedOn": "2023-03-14T17:26:23.000Z",
           "wordCount": null,
           "title": "【 雑談🥂 】ホワイトデーだし、リスナーにファンサする。【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8qBCKrnguNs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8qBCKrnguNs",
+          "publishedOn": "2023-03-12T14:12:57.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂#耐久歌枠  】初見さん大歓迎～／７か月記念の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1139,6 +1139,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MMdrVKmiTCQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MMdrVKmiTCQ",
+          "publishedOn": "2023-04-08T17:31:00.000Z",
+          "wordCount": null,
+          "title": "◆おうち３D歌枠✨ /sing / UTAUYO! / karaoke【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yzPBbCZTPk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yzPBbCZTPk4",
+          "publishedOn": "2023-04-08T17:16:06.000Z",
+          "wordCount": null,
+          "title": "☆星のカービィWiiデラックス / #03 / 完全初見🔥お前の故郷、救ったる！！〖九楽ライ/Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NYZte8_jz6A",
           "author": null,
           "description": "",
@@ -1266,26 +1286,6 @@
           "publishedOn": "2023-03-23T12:51:23.000Z",
           "wordCount": null,
           "title": "◆初おうち３D歌枠✨ /sing / 一緒にカラオケいこっ♡待ち合わせは駅。 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XINxbGl1Wng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XINxbGl1Wng",
-          "publishedOn": "2023-03-20T16:33:34.000Z",
-          "wordCount": null,
-          "title": "◆おうち３D / 雑談 / おうちでもお披露目✨立体的なんだが～～～！？【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QgXcuCwi79Q",
-          "publishedOn": "2023-03-19T15:06:01.000Z",
-          "wordCount": null,
-          "title": "【＃九楽ライ３Ｄ 】裏話やオフショなどっ！まったり同時視聴とかもしちゃう？？【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
