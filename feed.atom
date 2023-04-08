@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T14:05:29.807Z</id>
+    <id>urn:2023-04-08T14:34:19.040Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T14:05:29.807Z</updated>
+    <updated>2023-04-08T14:34:19.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／5000人ありがとう！感謝の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DB-RKhR4vi4</id>
+        <link href="https://www.youtube.com/watch?v=DB-RKhR4vi4"/>
+        <updated>2023-04-08T14:32:21.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】つくぴちお花見🌸もぐもぐいつも食べててごめん🐟🦇💗 #つくつくぴっち【月紫アリア/夢川かなう/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=rCVTlZcZhsw</id>
+        <link href="https://www.youtube.com/watch?v=rCVTlZcZhsw"/>
+        <updated>2023-04-08T14:10:17.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】春っぽい歌教えて🌸 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=o_XyBwd11L8</id>
@@ -57,15 +75,6 @@
         <updated>2023-04-08T10:57:51.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【懺悔】あなたの犯した罪は何ですか？【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jo2uIb_F0bU</id>
-        <link href="https://www.youtube.com/watch?v=jo2uIb_F0bU"/>
-        <updated>2023-04-08T10:28:01.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -993,6 +1002,15 @@
         <updated>2023-04-01T03:22:24.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【おえかきの森】参加型で遊ぶぞ~！急遽ゲーム変更！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1AUoPEjJ3A0</id>
+        <link href="https://www.youtube.com/watch?v=1AUoPEjJ3A0"/>
+        <updated>2023-04-01T03:16:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2157,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
-        <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
-        <updated>2023-03-15T17:24:21.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
         <link href="https://www.youtube.com/watch?v=qd-dkUYQH5I"/>
@@ -2289,15 +2298,6 @@
         <updated>2023-03-12T15:14:41.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂#耐久歌枠  】初見さん大歓迎～／７か月記念の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8qBCKrnguNs</id>
-        <link href="https://www.youtube.com/watch?v=8qBCKrnguNs"/>
-        <updated>2023-03-12T14:12:57.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
