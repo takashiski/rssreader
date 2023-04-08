@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T09:34:06.065Z</id>
+    <id>urn:2023-04-08T10:05:49.112Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T09:34:06.065Z</updated>
+    <updated>2023-04-08T10:05:49.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -111,15 +111,6 @@
         <updated>2023-04-07T14:34:09.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨3D❕土曜日のお昼はかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=cujJNLzm_cc</id>
-        <link href="https://www.youtube.com/watch?v=cujJNLzm_cc"/>
-        <updated>2023-04-07T14:32:24.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2145,6 +2136,15 @@
         <updated>2023-03-15T22:52:26.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨まったりかわいいお歌🎵💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=5hnXm7n9i60</id>
+        <link href="https://www.youtube.com/watch?v=5hnXm7n9i60"/>
+        <updated>2023-03-15T17:24:21.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
