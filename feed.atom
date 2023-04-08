@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T17:34:14.693Z</id>
+    <id>urn:2023-04-08T18:06:00.237Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T17:34:14.693Z</updated>
+    <updated>2023-04-08T18:06:00.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／5000人ありがとう！感謝の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DB-RKhR4vi4</id>
+        <link href="https://www.youtube.com/watch?v=DB-RKhR4vi4"/>
+        <updated>2023-04-08T17:39:48.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-WCLLd_4NUY</id>
+        <link href="https://www.youtube.com/watch?v=-WCLLd_4NUY"/>
+        <updated>2023-04-08T17:32:51.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / UTAUYO! / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=MMdrVKmiTCQ</id>
@@ -2076,15 +2094,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷりマッサージ💗ぐっすり眠れる…💗 massage only（oil/cream）【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=J91Ck2vHCuA</id>
-        <link href="https://www.youtube.com/watch?v=J91Ck2vHCuA"/>
-        <updated>2023-03-17T17:19:37.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QAMYADHDKZI</id>
         <link href="https://www.youtube.com/watch?v=QAMYADHDKZI"/>
@@ -2298,15 +2307,6 @@
         <updated>2023-03-12T15:14:41.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂#耐久歌枠  】初見さん大歓迎～／７か月記念の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8qBCKrnguNs</id>
-        <link href="https://www.youtube.com/watch?v=8qBCKrnguNs"/>
-        <updated>2023-03-12T14:12:57.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
