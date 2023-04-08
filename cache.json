@@ -678,6 +678,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=It3qXCuHMk0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=It3qXCuHMk0",
+          "publishedOn": "2023-04-08T15:57:42.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】春を待つ／Islet(cover)【#彩雲のの/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eF3DJzWSWrI",
           "author": null,
           "description": "",
@@ -815,16 +825,6 @@
           "publishedOn": "2023-03-26T10:10:56.000Z",
           "wordCount": null,
           "title": "【 歌枠/singing stream 】おはゲリラ！本番に向けて最終練習～～！弾き語り！🎹 sing with the piano【#彩雲のの /#新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZdYfYE4kzNY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZdYfYE4kzNY",
-          "publishedOn": "2023-03-25T12:00:21.000Z",
-          "wordCount": null,
-          "title": "【歌枠/切り抜き】癒し系Vingerがベテルギウスを歌ってみたら・・・【#shorts /#彩雲のの 】",
           "imageUrl": null
         }
       ]
@@ -1763,16 +1763,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Ae4hvuiJvFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ae4hvuiJvFs",
-          "publishedOn": "2023-04-08T12:17:13.000Z",
-          "wordCount": null,
-          "title": "【スナックつきみ】1カ月くらい寝かしてゴメン！大事にしてるもの教えて！後編【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=s1z0KABTTC0",
           "author": null,

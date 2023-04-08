@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T15:34:17.713Z</id>
+    <id>urn:2023-04-08T16:06:03.336Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T15:34:17.713Z</updated>
+    <updated>2023-04-08T16:06:03.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】春を待つ／Islet(cover)【#彩雲のの/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=It3qXCuHMk0</id>
+        <link href="https://www.youtube.com/watch?v=It3qXCuHMk0"/>
+        <updated>2023-04-08T15:57:42.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活雑談】あなたが来ないと始まらないのよ/Free Talk【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=lMagbLUbd7A</id>
@@ -66,15 +75,6 @@
         <updated>2023-04-08T13:47:45.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】1カ月くらい寝かしてゴメン！大事にしてるもの教えて！後編【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=Ae4hvuiJvFs</id>
-        <link href="https://www.youtube.com/watch?v=Ae4hvuiJvFs"/>
-        <updated>2023-04-08T12:17:13.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1605,15 +1605,6 @@
         <updated>2023-03-25T13:00:11.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerがベテルギウスを歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
-        <id>https://www.youtube.com/watch?v=ZdYfYE4kzNY</id>
-        <link href="https://www.youtube.com/watch?v=ZdYfYE4kzNY"/>
-        <updated>2023-03-25T12:00:21.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
