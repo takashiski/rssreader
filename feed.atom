@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T11:05:51.665Z</id>
+    <id>urn:2023-04-08T11:34:25.821Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T11:05:51.665Z</updated>
+    <updated>2023-04-08T11:34:25.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【魔女の家】クリアしろと言われたので･･･【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7U9OHcicRl0</id>
+        <link href="https://www.youtube.com/watch?v=7U9OHcicRl0"/>
+        <updated>2023-04-08T10:57:51.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【懺悔】あなたの犯した罪は何ですか？【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jo2uIb_F0bU</id>
@@ -57,15 +66,6 @@
         <updated>2023-04-08T04:27:33.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡定期歌枠の時間だ！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FV68Myh8MIU</id>
-        <link href="https://www.youtube.com/watch?v=FV68Myh8MIU"/>
-        <updated>2023-04-08T04:08:43.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1662,6 +1662,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【キミガシネ #5】第２章始まってるけど結構かなりストーリー重い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=8r3alRAFvDs</id>
+        <link href="https://www.youtube.com/watch?v=8r3alRAFvDs"/>
+        <updated>2023-03-24T12:39:05.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
         <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
@@ -1821,15 +1830,6 @@
         <updated>2023-03-22T03:25:31.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vRzjbOfUlEg</id>
-        <link href="https://www.youtube.com/watch?v=vRzjbOfUlEg"/>
-        <updated>2023-03-22T01:32:52.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
