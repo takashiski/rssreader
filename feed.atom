@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T23:34:09.606Z</id>
+    <id>urn:2023-04-09T00:23:16.970Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T23:34:09.606Z</updated>
+    <updated>2023-04-09T00:23:16.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活雑談】あなたが来ないと始まらないのよ/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=lMagbLUbd7A</id>
+        <link href="https://www.youtube.com/watch?v=lMagbLUbd7A"/>
+        <updated>2023-04-09T00:20:44.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】WAW鎮圧、HE装備、祝福……⚔🥼🕚今日も管理人は大忙しです💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4LR-96Z9xOo</id>
@@ -93,15 +102,6 @@
         <updated>2023-04-08T15:57:42.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活雑談】あなたが来ないと始まらないのよ/Free Talk【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=lMagbLUbd7A</id>
-        <link href="https://www.youtube.com/watch?v=lMagbLUbd7A"/>
-        <updated>2023-04-08T15:07:24.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
