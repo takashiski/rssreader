@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T15:05:44.682Z</id>
+    <id>urn:2023-04-09T15:34:09.458Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T15:05:44.682Z</updated>
+    <updated>2023-04-09T15:34:09.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【岡山モモの推理ノート】その辺の大学生が殺人事件を推理！？ 助けてあげなくちゃ…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=BGEI5xTsWQc</id>
+        <link href="https://www.youtube.com/watch?v=BGEI5xTsWQc"/>
+        <updated>2023-04-09T15:29:32.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
+        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
+        <updated>2023-04-09T15:25:15.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡今季アニメについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=EuSabOLYhIU</id>
@@ -24,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/ぴぴすぴる】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=sIdKfTTfHI8</id>
         <link href="https://www.youtube.com/watch?v=sIdKfTTfHI8"/>
         <updated>2023-04-09T13:37:37.000Z</updated>
@@ -66,24 +84,6 @@
         <updated>2023-04-09T09:36:48.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【menber only】作業をするぞ【】]]></title>
-        <id>https://www.youtube.com/watch?v=nlIJbwZS8sk</id>
-        <link href="https://www.youtube.com/watch?v=nlIJbwZS8sk"/>
-        <updated>2023-04-09T09:33:21.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】ちょっとランクとV最協カスタムDAY1 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XSYknPAsC8s</id>
-        <link href="https://www.youtube.com/watch?v=XSYknPAsC8s"/>
-        <updated>2023-04-09T07:31:20.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -795,15 +795,6 @@
         <updated>2023-04-03T18:14:00.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
-        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
-        <updated>2023-04-03T17:43:12.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1815,6 +1806,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[◆初おうち３D歌枠✨ /sing / 一緒にカラオケいこっ♡待ち合わせは駅。 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=1n_TgkcJuoE</id>
+        <link href="https://www.youtube.com/watch?v=1n_TgkcJuoE"/>
+        <updated>2023-03-23T12:51:23.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ハモリにつられるな】結束バンド「ギターと孤独と蒼い惑星」一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=-L_2stWfNE8</id>
         <link href="https://www.youtube.com/watch?v=-L_2stWfNE8"/>
@@ -2280,6 +2280,15 @@
         <updated>2023-03-14T12:00:20.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 朝活】おはよ～～～～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=CVi5mGISfvI</id>
+        <link href="https://www.youtube.com/watch?v=CVi5mGISfvI"/>
+        <updated>2023-03-13T22:44:14.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
