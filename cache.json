@@ -257,6 +257,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7U9OHcicRl0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7U9OHcicRl0",
+          "publishedOn": "2023-04-09T10:38:42.000Z",
+          "wordCount": null,
+          "title": "【魔女の家】クリアしろと言われたので･･･【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Y4g6aCpUM6Q",
           "author": null,
           "description": "",
@@ -395,16 +405,6 @@
           "wordCount": null,
           "title": "【歌枠】毎日歌枠 ✧ バースデーまであと３日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vRzjbOfUlEg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vRzjbOfUlEg",
-          "publishedOn": "2023-03-22T01:32:52.000Z",
-          "wordCount": null,
-          "title": "【歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -413,6 +413,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi6nuuHhOj_usxkjlcHdRXw",
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QmBPMh9NyVw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QmBPMh9NyVw",
+          "publishedOn": "2023-04-09T10:43:58.000Z",
+          "wordCount": null,
+          "title": "【#歌枠 】今日も楽しくおうたを歌うよ～❣全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4LR-96Z9xOo",
           "author": null,

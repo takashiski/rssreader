@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T10:34:21.713Z</id>
+    <id>urn:2023-04-09T11:05:17.950Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T10:34:21.713Z</updated>
+    <updated>2023-04-09T11:05:17.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠 】今日も楽しくおうたを歌うよ～❣全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QmBPMh9NyVw</id>
+        <link href="https://www.youtube.com/watch?v=QmBPMh9NyVw"/>
+        <updated>2023-04-09T10:43:58.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【魔女の家】クリアしろと言われたので･･･【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7U9OHcicRl0</id>
+        <link href="https://www.youtube.com/watch?v=7U9OHcicRl0"/>
+        <updated>2023-04-09T10:38:42.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】突発性歌枠【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=4KgPbJuTccY</id>
@@ -1875,15 +1893,6 @@
         <updated>2023-03-22T03:25:31.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】毎日歌枠 ✧ バースデーまであと４日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vRzjbOfUlEg</id>
-        <link href="https://www.youtube.com/watch?v=vRzjbOfUlEg"/>
-        <updated>2023-03-22T01:32:52.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
