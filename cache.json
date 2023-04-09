@@ -2352,6 +2352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XSYknPAsC8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XSYknPAsC8s",
+          "publishedOn": "2023-04-09T07:31:20.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】ちょっとランクとV最協カスタムDAY1 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DEGKR7w5lF8",
           "author": null,
           "description": "",
@@ -2490,16 +2500,6 @@
           "wordCount": null,
           "title": "【 APEX 】がんばってつよくなるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CVi5mGISfvI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CVi5mGISfvI",
-          "publishedOn": "2023-03-13T22:44:14.000Z",
-          "wordCount": null,
-          "title": "【 朝活】おはよ～～～～～～！！🌤【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -2632,6 +2632,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=4KgPbJuTccY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4KgPbJuTccY",
+          "publishedOn": "2023-04-09T08:00:35.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】突発性歌枠【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KNhaZOtYRv8",
           "author": null,

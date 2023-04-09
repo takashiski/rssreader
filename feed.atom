@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T07:34:36.821Z</id>
+    <id>urn:2023-04-09T08:05:48.396Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T07:34:36.821Z</updated>
+    <updated>2023-04-09T08:05:48.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】突発性歌枠【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=4KgPbJuTccY</id>
+        <link href="https://www.youtube.com/watch?v=4KgPbJuTccY"/>
+        <updated>2023-04-09T08:00:35.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】ちょっとランクとV最協カスタムDAY1 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XSYknPAsC8s</id>
+        <link href="https://www.youtube.com/watch?v=XSYknPAsC8s"/>
+        <updated>2023-04-09T07:31:20.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠 】今日も楽しくおうたを歌うよ～❣全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QmBPMh9NyVw</id>
@@ -2253,15 +2271,6 @@
         <updated>2023-03-14T12:00:20.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 朝活】おはよ～～～～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=CVi5mGISfvI</id>
-        <link href="https://www.youtube.com/watch?v=CVi5mGISfvI"/>
-        <updated>2023-03-13T22:44:14.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
