@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T23:05:49.163Z</id>
+    <id>urn:2023-04-09T23:34:10.960Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T23:05:49.163Z</updated>
+    <updated>2023-04-09T23:34:10.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=k276GlNI4Uw</id>
+        <link href="https://www.youtube.com/watch?v=k276GlNI4Uw"/>
+        <updated>2023-04-09T23:15:50.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#29【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=w9ZsFkFfR4I</id>
@@ -91,15 +100,6 @@
         <id>https://www.youtube.com/watch?v=-O1EHpaxpBk</id>
         <link href="https://www.youtube.com/watch?v=-O1EHpaxpBk"/>
         <updated>2023-04-09T15:47:15.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=k276GlNI4Uw</id>
-        <link href="https://www.youtube.com/watch?v=k276GlNI4Uw"/>
-        <updated>2023-04-09T15:39:29.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -2370,15 +2370,6 @@
         <updated>2023-03-11T14:17:33.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡久しぶりにお歌を歌おう！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=eGDbXfwLjJM</id>
-        <link href="https://www.youtube.com/watch?v=eGDbXfwLjJM"/>
-        <updated>2023-03-11T11:28:13.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
 </feed>
