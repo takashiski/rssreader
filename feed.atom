@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T16:05:54.498Z</id>
+    <id>urn:2023-04-09T16:35:29.464Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T16:05:54.498Z</updated>
+    <updated>2023-04-09T16:35:29.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=LiuuxitqJvA</id>
+        <link href="https://www.youtube.com/watch?v=LiuuxitqJvA"/>
+        <updated>2023-04-09T16:09:13.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#おうち３D /#歌枠 】今日も盛り上がってくよ🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=JhQrplcd_ec</id>
@@ -174,15 +183,6 @@
         <updated>2023-04-08T17:39:48.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗気持ちよく眠りについちゃう、耳かき&マッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=-WCLLd_4NUY</id>
-        <link href="https://www.youtube.com/watch?v=-WCLLd_4NUY"/>
-        <updated>2023-04-08T17:32:51.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1788,15 +1788,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】初見さん大歓迎🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=CDvnvuoDHR8</id>
-        <link href="https://www.youtube.com/watch?v=CDvnvuoDHR8"/>
-        <updated>2023-03-24T13:10:49.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
         <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
@@ -2145,6 +2136,15 @@
         <updated>2023-03-18T01:10:50.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷりマッサージ💗ぐっすり眠れる…💗 massage only（oil/cream）【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=J91Ck2vHCuA</id>
+        <link href="https://www.youtube.com/watch?v=J91Ck2vHCuA"/>
+        <updated>2023-03-17T17:19:37.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
