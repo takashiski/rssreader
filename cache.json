@@ -531,16 +531,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=sIdKfTTfHI8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIdKfTTfHI8",
-          "publishedOn": "2023-04-09T13:37:37.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=jo2uIb_F0bU",
           "author": null,
           "description": "",
@@ -678,6 +668,16 @@
           "publishedOn": "2023-04-02T01:39:59.000Z",
           "wordCount": null,
           "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=USz0FXCRero",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=USz0FXCRero",
+          "publishedOn": "2023-04-01T12:38:24.000Z",
+          "wordCount": null,
+          "title": "#9【ホグワーツ・レガシー】サブクエでレベル上げする！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
