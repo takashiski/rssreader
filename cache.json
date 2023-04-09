@@ -835,16 +835,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=cEIKJWyluDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cEIKJWyluDs",
-          "publishedOn": "2023-04-08T16:10:33.000Z",
-          "wordCount": null,
-          "title": "【朝活】ねむい♬ ねむい♬【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=FV68Myh8MIU",
           "author": null,
           "description": "",
@@ -982,6 +972,16 @@
           "publishedOn": "2023-03-26T13:49:27.000Z",
           "wordCount": null,
           "title": "【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-o70Y8eh3bM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-o70Y8eh3bM",
+          "publishedOn": "2023-03-25T11:23:45.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見さん歓迎♡うたうたうよ【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
