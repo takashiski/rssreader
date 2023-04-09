@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-09T11:34:08.334Z</id>
+    <id>urn:2023-04-09T12:06:41.058Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T11:34:08.334Z</updated>
+    <updated>2023-04-09T12:06:41.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】春を待つ／Islet(cover)【#彩雲のの/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=It3qXCuHMk0</id>
+        <link href="https://www.youtube.com/watch?v=It3qXCuHMk0"/>
+        <updated>2023-04-09T12:00:08.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠 】今日も楽しくおうたを歌うよ～❣全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QmBPMh9NyVw</id>
@@ -42,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE【新人VTuber/神輿たらん/ぴぴすぴる】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE #ツイぴた【新人VTuber/神輿たらん/ぴぴすぴる】]]></title>
         <id>https://www.youtube.com/watch?v=tpTuPXLbKCU</id>
         <link href="https://www.youtube.com/watch?v=tpTuPXLbKCU"/>
         <updated>2023-04-09T09:25:22.000Z</updated>
@@ -138,15 +147,6 @@
         <updated>2023-04-08T16:32:35.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】春を待つ／Islet(cover)【#彩雲のの/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=It3qXCuHMk0</id>
-        <link href="https://www.youtube.com/watch?v=It3qXCuHMk0"/>
-        <updated>2023-04-08T15:57:42.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
