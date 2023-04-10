@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T12:07:18.786Z</id>
+    <id>urn:2023-04-10T12:41:28.641Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T12:07:18.786Z</updated>
+    <updated>2023-04-10T12:41:28.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【美少女ホラー】今宵、真のヤンデレが決まる…！/ラブラブスクールデイズ【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=j1i1jiE88fw</id>
+        <link href="https://www.youtube.com/watch?v=j1i1jiE88fw"/>
+        <updated>2023-04-10T12:35:23.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】魔光リサと歌枠"オフ"コラボ 😈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=0xayMG0KCZs</id>
+        <link href="https://www.youtube.com/watch?v=0xayMG0KCZs"/>
+        <updated>2023-04-10T12:02:39.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】彩雲ののちゃんと歌枠コラボ 🌈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=lVXKnUcQfMo</id>
@@ -1473,15 +1491,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】1時間ずっと耳ふー耐久♡あまあま囁き♡【Ear Blowing/Whispering/睡眠導入/作業BGM】]]></title>
-        <id>https://www.youtube.com/watch?v=_uoJvGorSQ4</id>
-        <link href="https://www.youtube.com/watch?v=_uoJvGorSQ4"/>
-        <updated>2023-03-28T17:00:27.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=b0dkmx36614</id>
         <link href="https://www.youtube.com/watch?v=b0dkmx36614"/>
@@ -2073,15 +2082,6 @@
         <updated>2023-03-20T12:00:08.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=HlIL-xIhCcU</id>
-        <link href="https://www.youtube.com/watch?v=HlIL-xIhCcU"/>
-        <updated>2023-03-19T21:35:13.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
