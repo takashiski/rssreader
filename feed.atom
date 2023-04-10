@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T08:34:46.001Z</id>
+    <id>urn:2023-04-10T09:06:14.237Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T08:34:46.001Z</updated>
+    <updated>2023-04-10T09:06:14.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#varkshorts 】話題のアプリで踊ってみた🩵 【#vtuber /#猫乃ユキノ 】]]></title>
+        <id>https://www.youtube.com/watch?v=1j77wYynnDw</id>
+        <link href="https://www.youtube.com/watch?v=1j77wYynnDw"/>
+        <updated>2023-04-10T08:50:13.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】彩雲ののちゃんと歌枠コラボ 🌈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=lVXKnUcQfMo</id>
@@ -1596,15 +1605,6 @@
         <updated>2023-03-26T19:04:56.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=WDzRJP0Esec</id>
-        <link href="https://www.youtube.com/watch?v=WDzRJP0Esec"/>
-        <updated>2023-03-26T15:13:31.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
