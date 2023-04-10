@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T01:32:31.097Z</id>
+    <id>urn:2023-04-10T02:17:33.358Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T01:32:31.097Z</updated>
+    <updated>2023-04-10T02:17:33.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE #ツイぴた【新人VTuber/神輿たらん/ぴぴすぴる】]]></title>
+        <id>https://www.youtube.com/watch?v=tpTuPXLbKCU</id>
+        <link href="https://www.youtube.com/watch?v=tpTuPXLbKCU"/>
+        <updated>2023-04-10T01:33:05.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=k276GlNI4Uw</id>
@@ -1092,15 +1101,6 @@
         <updated>2023-04-02T06:09:21.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=QaOOUY2UMh0</id>
-        <link href="https://www.youtube.com/watch?v=QaOOUY2UMh0"/>
-        <updated>2023-04-02T01:39:59.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

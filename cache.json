@@ -531,6 +531,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tpTuPXLbKCU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tpTuPXLbKCU",
+          "publishedOn": "2023-04-10T01:33:05.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE #ツイぴた【新人VTuber/神輿たらん/ぴぴすぴる】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sIdKfTTfHI8",
           "author": null,
           "description": "",
@@ -668,16 +678,6 @@
           "publishedOn": "2023-04-02T10:40:45.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QaOOUY2UMh0",
-          "publishedOn": "2023-04-02T01:39:59.000Z",
-          "wordCount": null,
-          "title": "【シチュボ】毎月1日はシチュエーションボイス！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
