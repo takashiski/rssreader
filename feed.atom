@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T09:34:15.034Z</id>
+    <id>urn:2023-04-10T10:05:59.798Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T09:34:15.034Z</updated>
+    <updated>2023-04-10T10:05:59.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=GeioUdVmgNU</id>
+        <link href="https://www.youtube.com/watch?v=GeioUdVmgNU"/>
+        <updated>2023-04-10T09:43:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨ 忙しい朝でも、挨拶くらいできるよねええ！？💜【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Kc1Jpbah2Zk</id>
+        <link href="https://www.youtube.com/watch?v=Kc1Jpbah2Zk"/>
+        <updated>2023-04-10T09:38:41.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】深夜にこそこそ、まったりお話～🌸 初見さんも歓迎ちゅ💜✨【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=jhkU6lVuvzw</id>
+        <link href="https://www.youtube.com/watch?v=jhkU6lVuvzw"/>
+        <updated>2023-04-10T09:36:39.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#varkshorts 】話題のアプリで踊ってみた🩵 【#vtuber /#猫乃ユキノ 】]]></title>
         <id>https://www.youtube.com/watch?v=1j77wYynnDw</id>
@@ -21,15 +48,6 @@
         <updated>2023-04-10T07:52:44.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】新衣装でおうたわく～⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6y9EIgO0CJw</id>
-        <link href="https://www.youtube.com/watch?v=6y9EIgO0CJw"/>
-        <updated>2023-04-10T05:37:18.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -1401,15 +1419,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見大歓迎✨かわいい女の子と一日はじめちゃお？💜 good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=yBn8oopJZhc</id>
-        <link href="https://www.youtube.com/watch?v=yBn8oopJZhc"/>
-        <updated>2023-03-29T01:19:11.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=u44Qro9fU0M</id>
         <link href="https://www.youtube.com/watch?v=u44Qro9fU0M"/>
@@ -1443,15 +1452,6 @@
         <updated>2023-03-28T17:00:27.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】ひさしぶり、ただいま～🌸【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Bj6EyASJcp8</id>
-        <link href="https://www.youtube.com/watch?v=Bj6EyASJcp8"/>
-        <updated>2023-03-28T15:34:26.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -2085,15 +2085,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕おうたの時間だよ～～～～～～💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=83eieTK7Rso</id>
-        <link href="https://www.youtube.com/watch?v=83eieTK7Rso"/>
-        <updated>2023-03-19T09:35:32.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】酒クズで歌が大好きないばら姫👑🥂楽しく歌っちゃうぞおおお【美睡シュカ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=cLxdY3NDbIY</id>
         <link href="https://www.youtube.com/watch?v=cLxdY3NDbIY"/>
@@ -2262,6 +2253,15 @@
         <updated>2023-03-15T12:00:26.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】がんばってつよくなるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=orDP_MAKdWc</id>
+        <link href="https://www.youtube.com/watch?v=orDP_MAKdWc"/>
+        <updated>2023-03-14T19:29:18.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

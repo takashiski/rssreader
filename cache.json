@@ -1597,6 +1597,36 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GeioUdVmgNU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GeioUdVmgNU",
+          "publishedOn": "2023-04-10T09:43:04.000Z",
+          "wordCount": null,
+          "title": "【雑談】３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Kc1Jpbah2Zk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kc1Jpbah2Zk",
+          "publishedOn": "2023-04-10T09:38:41.000Z",
+          "wordCount": null,
+          "title": "【朝活】初見歓迎✨ 忙しい朝でも、挨拶くらいできるよねええ！？💜【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jhkU6lVuvzw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jhkU6lVuvzw",
+          "publishedOn": "2023-04-10T09:36:39.000Z",
+          "wordCount": null,
+          "title": "【雑談】深夜にこそこそ、まったりお話～🌸 初見さんも歓迎ちゅ💜✨【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-WCLLd_4NUY",
           "author": null,
           "description": "",
@@ -1714,36 +1744,6 @@
           "publishedOn": "2023-03-29T17:45:35.000Z",
           "wordCount": null,
           "title": "【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yBn8oopJZhc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yBn8oopJZhc",
-          "publishedOn": "2023-03-29T01:19:11.000Z",
-          "wordCount": null,
-          "title": "【朝活】初見大歓迎✨かわいい女の子と一日はじめちゃお？💜 good morning【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Bj6EyASJcp8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Bj6EyASJcp8",
-          "publishedOn": "2023-03-28T15:34:26.000Z",
-          "wordCount": null,
-          "title": "【雑談】ひさしぶり、ただいま～🌸【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=83eieTK7Rso",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=83eieTK7Rso",
-          "publishedOn": "2023-03-19T09:35:32.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨３D❕おうたの時間だよ～～～～～～💜 karaoke【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2342,16 +2342,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=6y9EIgO0CJw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6y9EIgO0CJw",
-          "publishedOn": "2023-04-10T05:37:18.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】新衣装でおうたわく～⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=XSYknPAsC8s",
           "author": null,
           "description": "",
@@ -2489,6 +2479,16 @@
           "publishedOn": "2023-03-15T14:28:19.000Z",
           "wordCount": null,
           "title": "【 #エグゾプライマルOBT先行配信 】気になってたゲームを先行プレイで遊んじゃおう！⋆͛👾⋆͛【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=orDP_MAKdWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=orDP_MAKdWc",
+          "publishedOn": "2023-03-14T19:29:18.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】がんばってつよくなるぞ！⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
