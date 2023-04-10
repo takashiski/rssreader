@@ -1002,6 +1002,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lVXKnUcQfMo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lVXKnUcQfMo",
+          "publishedOn": "2023-04-10T11:47:19.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】彩雲ののちゃんと歌枠コラボ 🌈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=w9ZsFkFfR4I",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2023-03-19T21:35:13.000Z",
           "wordCount": null,
           "title": "#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QAMYADHDKZI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QAMYADHDKZI",
-          "publishedOn": "2023-03-17T14:03:44.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1613,7 +1613,7 @@
           "link": "https://www.youtube.com/watch?v=GeioUdVmgNU",
           "publishedOn": "2023-04-10T09:43:04.000Z",
           "wordCount": null,
-          "title": "【雑談】３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】",
+          "title": "【雑談】おうち３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】",
           "imageUrl": null
         },
         {

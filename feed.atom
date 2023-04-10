@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T11:34:21.250Z</id>
+    <id>urn:2023-04-10T12:07:18.786Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T11:34:21.250Z</updated>
+    <updated>2023-04-10T12:07:18.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】彩雲ののちゃんと歌枠コラボ 🌈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=lVXKnUcQfMo</id>
+        <link href="https://www.youtube.com/watch?v=lVXKnUcQfMo"/>
+        <updated>2023-04-10T11:47:19.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】新衣装でおうたわく～⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6y9EIgO0CJw</id>
@@ -42,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】]]></title>
+        <title type="html"><![CDATA[【雑談】おうち３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=GeioUdVmgNU</id>
         <link href="https://www.youtube.com/watch?v=GeioUdVmgNU"/>
         <updated>2023-04-10T09:43:04.000Z</updated>
@@ -2163,15 +2172,6 @@
         <updated>2023-03-18T01:10:50.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！チャンネル登録者数5万人耐久歌枠 ✦ KARAOKE ✦【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=QAMYADHDKZI</id>
-        <link href="https://www.youtube.com/watch?v=QAMYADHDKZI"/>
-        <updated>2023-03-17T14:03:44.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
