@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T16:05:59.586Z</id>
+    <id>urn:2023-04-10T16:35:28.627Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T16:05:59.586Z</updated>
+    <updated>2023-04-10T16:35:28.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【カリンバ】まったりカリンバ練習🌙すやすやしよう～【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=5TCiIgIknLU</id>
+        <link href="https://www.youtube.com/watch?v=5TCiIgIknLU"/>
+        <updated>2023-04-10T16:07:22.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆Live2D / うごイラ制作作業雑談。アーカイブメン限定いくかも/ free talk【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-4kZqsaXpp4</id>
@@ -82,15 +91,6 @@
         <id>https://www.youtube.com/watch?v=Kc1Jpbah2Zk</id>
         <link href="https://www.youtube.com/watch?v=Kc1Jpbah2Zk"/>
         <updated>2023-04-10T09:38:41.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】深夜にこそこそ、まったりお話～🌸 初見さんも歓迎ちゅ💜✨【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=jhkU6lVuvzw</id>
-        <link href="https://www.youtube.com/watch?v=jhkU6lVuvzw"/>
-        <updated>2023-04-10T09:36:39.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1428,6 +1428,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=77Plh7EQKSA</id>
+        <link href="https://www.youtube.com/watch?v=77Plh7EQKSA"/>
+        <updated>2023-03-29T17:45:35.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
         <link href="https://www.youtube.com/watch?v=_QPEenjHyf8"/>
@@ -1488,6 +1497,15 @@
         <updated>2023-03-28T17:16:43.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】1時間ずっと耳ふー耐久♡あまあま囁き♡【Ear Blowing/Whispering/睡眠導入/作業BGM】]]></title>
+        <id>https://www.youtube.com/watch?v=_uoJvGorSQ4</id>
+        <link href="https://www.youtube.com/watch?v=_uoJvGorSQ4"/>
+        <updated>2023-03-28T17:00:27.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2145,15 +2163,6 @@
         <updated>2023-03-18T15:20:03.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8h3INEBy-y8</id>
-        <link href="https://www.youtube.com/watch?v=8h3INEBy-y8"/>
-        <updated>2023-03-18T10:25:30.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>

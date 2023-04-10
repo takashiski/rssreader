@@ -1627,16 +1627,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=jhkU6lVuvzw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jhkU6lVuvzw",
-          "publishedOn": "2023-04-10T09:36:39.000Z",
-          "wordCount": null,
-          "title": "【雑談】深夜にこそこそ、まったりお話～🌸 初見さんも歓迎ちゅ💜✨【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=-WCLLd_4NUY",
           "author": null,
           "description": "",
@@ -1744,6 +1734,16 @@
           "publishedOn": "2023-03-30T09:36:00.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎✨３D❕古のボカロ縛りで盛り上がろ💜 karaoke【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=77Plh7EQKSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=77Plh7EQKSA",
+          "publishedOn": "2023-03-29T17:45:35.000Z",
+          "wordCount": null,
+          "title": "【ASMR】安眠誘導💗おいで？寝かしつけてあげる💗 ear cleaning/massage 【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2166,6 +2166,16 @@
           "wordCount": null,
           "title": "【ASMR】どきどき睡眠導入♡酔っぱらいが添い寝したいそうです。心音・囁き・耳ふー【Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_uoJvGorSQ4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_uoJvGorSQ4",
+          "publishedOn": "2023-03-28T17:00:27.000Z",
+          "wordCount": null,
+          "title": "【ASMR】1時間ずっと耳ふー耐久♡あまあま囁き♡【Ear Blowing/Whispering/睡眠導入/作業BGM】",
+          "imageUrl": null
         }
       ]
     },
@@ -2174,6 +2184,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5TCiIgIknLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5TCiIgIknLU",
+          "publishedOn": "2023-04-10T16:07:22.000Z",
+          "wordCount": null,
+          "title": "【カリンバ】まったりカリンバ練習🌙すやすやしよう～【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NpTEZdQEKIg",
           "author": null,
@@ -2312,16 +2332,6 @@
           "publishedOn": "2023-03-19T03:56:58.000Z",
           "wordCount": null,
           "title": "【朝活】休日の朝いっしょに過ごそ☀最近のこと話したい！【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8h3INEBy-y8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8h3INEBy-y8",
-          "publishedOn": "2023-03-18T10:25:30.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
