@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T13:06:35.162Z</id>
+    <id>urn:2023-04-10T13:34:10.217Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T13:06:35.162Z</updated>
+    <updated>2023-04-10T13:34:10.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【カリンバ】まったりカリンバ練習🌙すやすやしよう～【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=5TCiIgIknLU</id>
+        <link href="https://www.youtube.com/watch?v=5TCiIgIknLU"/>
+        <updated>2023-04-10T13:10:32.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【美少女ホラー】今宵、真のヤンデレが決まる…！/ラブラブスクールデイズ【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=j1i1jiE88fw</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】魔光リサと歌枠"オフ"コラボ 😈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 #歌枠 】魔光リサと歌枠"オフ"コラボ 😈 #まこうすわ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=0xayMG0KCZs</id>
         <link href="https://www.youtube.com/watch?v=0xayMG0KCZs"/>
         <updated>2023-04-10T12:02:39.000Z</updated>
@@ -2154,15 +2163,6 @@
         <updated>2023-03-18T15:20:03.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】たのしいかわいいおうたのじかん🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=8h3INEBy-y8</id>
-        <link href="https://www.youtube.com/watch?v=8h3INEBy-y8"/>
-        <updated>2023-03-18T10:25:30.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
