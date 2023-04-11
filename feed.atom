@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T11:34:14.096Z</id>
+    <id>urn:2023-04-11T12:07:34.684Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T11:34:14.096Z</updated>
+    <updated>2023-04-11T12:07:34.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=UUCRqzqziZI</id>
+        <link href="https://www.youtube.com/watch?v=UUCRqzqziZI"/>
+        <updated>2023-04-11T11:57:48.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】魔光リサと歌枠"オフ"コラボ 😈 #まこうすわ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=0xayMG0KCZs</id>
@@ -1227,15 +1236,6 @@
         <updated>2023-04-02T11:09:43.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=bOnxOZ7kSN8</id>
-        <link href="https://www.youtube.com/watch?v=bOnxOZ7kSN8"/>
-        <updated>2023-04-02T10:40:45.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
