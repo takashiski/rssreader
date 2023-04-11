@@ -2185,6 +2185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r1mmhjaideQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r1mmhjaideQ",
+          "publishedOn": "2023-04-11T20:14:53.000Z",
+          "wordCount": null,
+          "title": "【生誕&３Dお披露目✨】わらわの夢叶える瞬間みてて！✨めでたい日！！ #夢川かなう生誕3Dお披露目【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mbfun_I57Do",
           "author": null,
           "description": "",
@@ -2322,16 +2332,6 @@
           "publishedOn": "2023-03-21T13:18:38.000Z",
           "wordCount": null,
           "title": "【重大告知】やっと言えるのじゃ…！いろいろあるから全部きいてね、、🐟໒꒱·ﾟ【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xhoozRkXlkw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xhoozRkXlkw",
-          "publishedOn": "2023-03-20T13:56:00.000Z",
-          "wordCount": null,
-          "title": "【ロードモバイル】参加型！わらわのピンチなのじゃ。。。⚔【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
