@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T11:05:27.080Z</id>
+    <id>urn:2023-04-11T11:34:14.096Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T11:05:27.080Z</updated>
+    <updated>2023-04-11T11:34:14.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】魔光リサと歌枠"オフ"コラボ 😈 #まこうすわ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=0xayMG0KCZs</id>
+        <link href="https://www.youtube.com/watch?v=0xayMG0KCZs"/>
+        <updated>2023-04-11T11:24:09.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】連勤終わり、癒しのアイス♡ 鼻声を添えて…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=rh8h7q87eIo</id>
+        <link href="https://www.youtube.com/watch?v=rh8h7q87eIo"/>
+        <updated>2023-04-11T11:17:19.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【VARKSHORTS】デートの帰り道で… #varkshorts #shorts #vtuber #月紫アリア]]></title>
         <id>https://www.youtube.com/watch?v=VnKPjusPMYM</id>
@@ -111,15 +129,6 @@
         <updated>2023-04-10T16:07:22.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】魔光リサと歌枠"オフ"コラボ 😈 #まこうすわ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=0xayMG0KCZs</id>
-        <link href="https://www.youtube.com/watch?v=0xayMG0KCZs"/>
-        <updated>2023-04-10T12:02:39.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
