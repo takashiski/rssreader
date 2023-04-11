@@ -541,16 +541,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=UUCRqzqziZI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UUCRqzqziZI",
-          "publishedOn": "2023-04-11T11:57:48.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！お歌の時間！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=tpTuPXLbKCU",
           "author": null,
           "description": "",
@@ -688,6 +678,16 @@
           "publishedOn": "2023-04-03T11:02:48.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
+          "publishedOn": "2023-04-02T10:40:45.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2342,16 +2342,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=5r7htM-uCRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5r7htM-uCRQ",
-          "publishedOn": "2023-04-11T08:55:41.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=0chMp4huUIE",
           "author": null,
           "description": "",
@@ -2489,6 +2479,16 @@
           "publishedOn": "2023-03-19T14:47:44.000Z",
           "wordCount": null,
           "title": "【 歌枠】なにをうたおうかな～～！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8LB0dn6rjR4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8LB0dn6rjR4",
+          "publishedOn": "2023-03-18T22:35:46.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】常にいい位置からちゃーらい⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
