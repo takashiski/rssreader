@@ -2185,6 +2185,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mbfun_I57Do",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mbfun_I57Do",
+          "publishedOn": "2023-04-11T15:41:34.000Z",
+          "wordCount": null,
+          "title": "【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5TCiIgIknLU",
           "author": null,
           "description": "",
@@ -2322,16 +2332,6 @@
           "publishedOn": "2023-03-20T13:56:00.000Z",
           "wordCount": null,
           "title": "【ロードモバイル】参加型！わらわのピンチなのじゃ。。。⚔【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LUL5G2XkuIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LUL5G2XkuIc",
-          "publishedOn": "2023-03-19T03:56:58.000Z",
-          "wordCount": null,
-          "title": "【朝活】休日の朝いっしょに過ごそ☀最近のこと話したい！【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
