@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-11T19:05:24.861Z</id>
+    <id>urn:2023-04-11T19:34:15.680Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T19:05:24.861Z</updated>
+    <updated>2023-04-11T19:34:15.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=5r7htM-uCRQ</id>
+        <link href="https://www.youtube.com/watch?v=5r7htM-uCRQ"/>
+        <updated>2023-04-11T18:55:40.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】たーっぷりマッサージでお耳の癒しタイム🤍💭ねむが幸せにしてあげましょう…🤍【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JYzJbeF2kME</id>
@@ -2172,15 +2181,6 @@
         <updated>2023-03-19T06:15:16.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】常にいい位置からちゃーらい⋆͛👾⋆͛　w/飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8LB0dn6rjR4</id>
-        <link href="https://www.youtube.com/watch?v=8LB0dn6rjR4"/>
-        <updated>2023-03-18T22:35:46.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
