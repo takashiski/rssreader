@@ -404,6 +404,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oJwietFEsjo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oJwietFEsjo",
+          "publishedOn": "2023-04-11T13:17:08.000Z",
+          "wordCount": null,
+          "title": "【視聴者参加型】『 ＃戦国大河 』🌸ねむ、もっと強くなりたい…！【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QmBPMh9NyVw",
           "author": null,
           "description": "",
@@ -1743,16 +1753,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=rh8h7q87eIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rh8h7q87eIo",
-          "publishedOn": "2023-04-11T11:17:19.000Z",
-          "wordCount": null,
-          "title": "【雑談】連勤終わり、癒しのアイス♡ 鼻声を添えて…【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=BGEI5xTsWQc",
           "author": null,
