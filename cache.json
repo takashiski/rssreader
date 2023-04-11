@@ -541,6 +541,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UUCRqzqziZI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UUCRqzqziZI",
+          "publishedOn": "2023-04-11T17:08:50.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！お歌の時間！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tpTuPXLbKCU",
           "author": null,
           "description": "",
@@ -678,16 +688,6 @@
           "publishedOn": "2023-04-03T11:02:48.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bOnxOZ7kSN8",
-          "publishedOn": "2023-04-02T10:40:45.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつのお歌！#6 KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
