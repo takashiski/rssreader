@@ -1460,6 +1460,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-O1EHpaxpBk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-O1EHpaxpBk",
+          "publishedOn": "2023-04-11T16:16:19.000Z",
+          "wordCount": null,
+          "title": "【PsychoBreak/サイコブレイク】もうトラップには引っかからないゼ🧠#2【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=smKUOU7vDIs",
           "author": null,
           "description": "",
@@ -1597,16 +1607,6 @@
           "publishedOn": "2023-03-28T13:35:23.000Z",
           "wordCount": null,
           "title": "【#雑談 】ほろ酔いお姉さんのお悩み相談室🥂【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vOzTJva_PKI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vOzTJva_PKI",
-          "publishedOn": "2023-03-26T23:09:54.000Z",
-          "wordCount": null,
-          "title": "【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
         }
       ]
