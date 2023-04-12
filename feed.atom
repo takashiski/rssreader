@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T22:34:19.195Z</id>
+    <id>urn:2023-04-12T23:05:38.761Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T22:34:19.195Z</updated>
+    <updated>2023-04-12T23:05:38.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 朝活】ねむねむあさかつのじかん🌤【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BbA8PtZrfdY</id>
+        <link href="https://www.youtube.com/watch?v=BbA8PtZrfdY"/>
+        <updated>2023-04-12T22:52:28.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=b65eH3iOm0Q</id>
         <link href="https://www.youtube.com/watch?v=b65eH3iOm0Q"/>
         <updated>2023-04-12T22:25:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zKMghOcfoJo</id>
-        <link href="https://www.youtube.com/watch?v=zKMghOcfoJo"/>
-        <updated>2023-04-12T22:23:15.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
@@ -244,15 +244,6 @@
         <id>https://www.youtube.com/watch?v=RlgbHEs2vws</id>
         <link href="https://www.youtube.com/watch?v=RlgbHEs2vws"/>
         <updated>2023-04-12T09:00:17.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 朝活】ねむねむあさかつのじかん🌤【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=BbA8PtZrfdY</id>
-        <link href="https://www.youtube.com/watch?v=BbA8PtZrfdY"/>
-        <updated>2023-04-12T08:53:15.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>

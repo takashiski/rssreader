@@ -277,16 +277,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=zKMghOcfoJo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zKMghOcfoJo",
-          "publishedOn": "2023-04-12T22:23:15.000Z",
-          "wordCount": null,
-          "title": "【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=DRSLAp9IvjA",
           "author": null,
           "description": "",
@@ -2382,6 +2372,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BbA8PtZrfdY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BbA8PtZrfdY",
+          "publishedOn": "2023-04-12T22:52:28.000Z",
+          "wordCount": null,
+          "title": "【 朝活】ねむねむあさかつのじかん🌤【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6N-ImUsBOwg",
           "author": null,
           "description": "",
@@ -2399,16 +2399,6 @@
           "publishedOn": "2023-04-12T09:00:17.000Z",
           "wordCount": null,
           "title": "獅子神レオナ 4th LIVE「言の葉」30秒CM #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BbA8PtZrfdY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BbA8PtZrfdY",
-          "publishedOn": "2023-04-12T08:53:15.000Z",
-          "wordCount": null,
-          "title": "【 朝活】ねむねむあさかつのじかん🌤【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         },
         {
