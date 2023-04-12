@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T10:34:09.021Z</id>
+    <id>urn:2023-04-12T11:05:37.719Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T10:34:09.021Z</updated>
+    <updated>2023-04-12T11:05:37.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】でびゅ8カ月らし？しずかめ？⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=8M537lAbnPs</id>
+        <link href="https://www.youtube.com/watch?v=8M537lAbnPs"/>
+        <updated>2023-04-12T10:59:46.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】ラストムーブ、いくぜ！だ【天川はの】#11]]></title>
+        <id>https://www.youtube.com/watch?v=iCsH1CGreFc</id>
+        <link href="https://www.youtube.com/watch?v=iCsH1CGreFc"/>
+        <updated>2023-04-12T10:52:01.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【VARKSHORTS】ラーメンまてまて〜🍜 #varkshorts #shorts #vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=P4fByfYmiiI</id>
+        <link href="https://www.youtube.com/watch?v=P4fByfYmiiI"/>
+        <updated>2023-04-12T10:45:02.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新衣装トレーラー】新しいわらわもよろしくじゃよ！🐟𓂃𓈒໒꒱‪𓏸【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=dC_Niv7b-mc</id>
+        <link href="https://www.youtube.com/watch?v=dC_Niv7b-mc"/>
+        <updated>2023-04-12T10:32:18.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】アニソン縛り！！おやつ歌枠#11  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AxV2fjziCwM</id>
@@ -1500,15 +1536,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗綿棒でザリザリ耳かきと心地良いマッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=TDiyYtwXyoM</id>
-        <link href="https://www.youtube.com/watch?v=TDiyYtwXyoM"/>
-        <updated>2023-03-31T17:05:08.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NBjiU96MOiU</id>
         <link href="https://www.youtube.com/watch?v=NBjiU96MOiU"/>
@@ -2145,15 +2172,6 @@
         <updated>2023-03-21T13:31:40.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重大告知】やっと言えるのじゃ…！いろいろあるから全部きいてね、、🐟໒꒱·ﾟ【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=iRIHCu7Ll9c</id>
-        <link href="https://www.youtube.com/watch?v=iRIHCu7Ll9c"/>
-        <updated>2023-03-21T13:18:38.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
