@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T13:07:34.674Z</id>
+    <id>urn:2023-04-12T13:34:27.058Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T13:07:34.674Z</updated>
+    <updated>2023-04-12T13:34:27.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[スメールの新マップをひやかしに行こう！  #原神 #genshinimpact 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=jisTyEY9m6Y</id>
+        <link href="https://www.youtube.com/watch?v=jisTyEY9m6Y"/>
+        <updated>2023-04-12T13:23:18.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】泣いてすっきりしたい日💧 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=DGiS7Loi4WA</id>
+        <link href="https://www.youtube.com/watch?v=DGiS7Loi4WA"/>
+        <updated>2023-04-12T13:18:32.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】酔い止めを飲むのを忘れない🧠#3【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=5iz2SwoEIv0</id>
@@ -1221,15 +1239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【性格診断】ユキノってどんな性格？？MBTI診断🪔【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=tWvKk-AprxI</id>
-        <link href="https://www.youtube.com/watch?v=tWvKk-AprxI"/>
-        <updated>2023-04-04T14:52:30.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #はののの 】GeoGuessr！ここはどこ、、？わたしはだれ、、？【#彩雲のの/ #天川はの /#新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=T3F1elmEy90</id>
         <link href="https://www.youtube.com/watch?v=T3F1elmEy90"/>
@@ -2145,15 +2154,6 @@
         <updated>2023-03-22T13:47:28.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #37 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ugFBqnoTDnM</id>
-        <link href="https://www.youtube.com/watch?v=ugFBqnoTDnM"/>
-        <updated>2023-03-22T11:50:21.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
