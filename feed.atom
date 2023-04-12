@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T15:34:26.658Z</id>
+    <id>urn:2023-04-12T16:06:26.910Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T15:34:26.658Z</updated>
+    <updated>2023-04-12T16:06:26.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🪄ホグワーツレガシー】ラストムーブ、いくぜ！だ【天川はの】#11]]></title>
+        <id>https://www.youtube.com/watch?v=iCsH1CGreFc</id>
+        <link href="https://www.youtube.com/watch?v=iCsH1CGreFc"/>
+        <updated>2023-04-12T15:39:42.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見さんもおはよう！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DRSLAp9IvjA</id>
+        <link href="https://www.youtube.com/watch?v=DRSLAp9IvjA"/>
+        <updated>2023-04-12T15:37:11.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 talk🥂 #雑談 】🍰と🍾でKPする🥂8ヶ月記念雑談✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RkN3wr_Cn0Y</id>
@@ -190,15 +208,6 @@
         <id>https://www.youtube.com/watch?v=BbA8PtZrfdY</id>
         <link href="https://www.youtube.com/watch?v=BbA8PtZrfdY"/>
         <updated>2023-04-12T08:53:15.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY4！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6N-ImUsBOwg</id>
-        <link href="https://www.youtube.com/watch?v=6N-ImUsBOwg"/>
-        <updated>2023-04-12T08:49:31.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
@@ -2013,15 +2022,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[誕生日カウントダウン]]></title>
-        <id>https://www.youtube.com/watch?v=p9hmrSGyorU</id>
-        <link href="https://www.youtube.com/watch?v=p9hmrSGyorU"/>
-        <updated>2023-03-24T17:25:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】おつかれさまの癒しおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YYv_JGfWZR0</id>
         <link href="https://www.youtube.com/watch?v=YYv_JGfWZR0"/>
@@ -2109,6 +2109,15 @@
         <updated>2023-03-22T15:59:47.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】みんなの歌ってほしい曲を歌う⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9gdOJfiiuWQ</id>
+        <link href="https://www.youtube.com/watch?v=9gdOJfiiuWQ"/>
+        <updated>2023-03-22T14:52:55.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

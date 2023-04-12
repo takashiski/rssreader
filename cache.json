@@ -267,6 +267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DRSLAp9IvjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRSLAp9IvjA",
+          "publishedOn": "2023-04-12T15:37:11.000Z",
+          "wordCount": null,
+          "title": "【朝活】初見さんもおはよう！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zKMghOcfoJo",
           "author": null,
           "description": "",
@@ -404,16 +414,6 @@
           "publishedOn": "2023-03-25T13:00:11.000Z",
           "wordCount": null,
           "title": "【歌ってみた】Last Night, Good Night【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p9hmrSGyorU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p9hmrSGyorU",
-          "publishedOn": "2023-03-24T17:25:40.000Z",
-          "wordCount": null,
-          "title": "誕生日カウントダウン",
           "imageUrl": null
         }
       ]
@@ -1931,6 +1931,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iCsH1CGreFc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iCsH1CGreFc",
+          "publishedOn": "2023-04-12T15:39:42.000Z",
+          "wordCount": null,
+          "title": "【🪄ホグワーツレガシー】ラストムーブ、いくぜ！だ【天川はの】#11",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VwzgOSnyJ3c",
           "author": null,
           "description": "",
@@ -2392,16 +2402,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=6N-ImUsBOwg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6N-ImUsBOwg",
-          "publishedOn": "2023-04-12T08:49:31.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】V最協カスタムDAY4！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=5r7htM-uCRQ",
           "author": null,
           "description": "",
@@ -2519,6 +2519,16 @@
           "publishedOn": "2023-03-23T22:46:42.000Z",
           "wordCount": null,
           "title": "【 朝活】朝になったぞ～～～！！🌤【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=9gdOJfiiuWQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9gdOJfiiuWQ",
+          "publishedOn": "2023-03-22T14:52:55.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】みんなの歌ってほしい曲を歌う⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
