@@ -277,16 +277,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=r1Gn0BEVT-o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r1Gn0BEVT-o",
-          "publishedOn": "2023-04-12T09:51:16.000Z",
-          "wordCount": null,
-          "title": "【8ヶ月記念🎊歌枠】プチLIVE ✧ 8ｍonth Anniversary｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Qr90SEqPVOQ",
           "author": null,
           "description": "",
@@ -414,6 +404,16 @@
           "publishedOn": "2023-03-24T17:25:40.000Z",
           "wordCount": null,
           "title": "誕生日カウントダウン",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8Sj2xyVSe8k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8Sj2xyVSe8k",
+          "publishedOn": "2023-03-24T16:52:36.000Z",
+          "wordCount": null,
+          "title": "【歌枠】毎日歌枠 ✧ バースデーまであと１日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
