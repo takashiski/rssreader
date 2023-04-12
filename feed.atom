@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T12:42:45.685Z</id>
+    <id>urn:2023-04-12T13:07:34.674Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T12:42:45.685Z</updated>
+    <updated>2023-04-12T13:07:34.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】酔い止めを飲むのを忘れない🧠#3【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5iz2SwoEIv0</id>
+        <link href="https://www.youtube.com/watch?v=5iz2SwoEIv0"/>
+        <updated>2023-04-12T13:00:24.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=PElGn1uvwGw</id>
+        <link href="https://www.youtube.com/watch?v=PElGn1uvwGw"/>
+        <updated>2023-04-12T12:53:19.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【The Forest】食人鬼と無人島で共同生活！？【Vtuber /#猫乃ユキノ #石狩あかり 】]]></title>
+        <id>https://www.youtube.com/watch?v=XDYl9ypKyqk</id>
+        <link href="https://www.youtube.com/watch?v=XDYl9ypKyqk"/>
+        <updated>2023-04-12T12:52:22.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 talk🥂 #雑談 】🍰と🍾でKPする🥂8ヶ月記念雑談✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RkN3wr_Cn0Y</id>
@@ -1329,15 +1356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=_LWDRUO3Gns</id>
-        <link href="https://www.youtube.com/watch?v=_LWDRUO3Gns"/>
-        <updated>2023-04-02T23:11:22.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=0XBaEGdLaTk</id>
         <link href="https://www.youtube.com/watch?v=0XBaEGdLaTk"/>
@@ -1362,15 +1380,6 @@
         <updated>2023-04-02T16:26:09.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=EWkPhInmHUM</id>
-        <link href="https://www.youtube.com/watch?v=EWkPhInmHUM"/>
-        <updated>2023-04-02T15:13:59.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1488,15 +1497,6 @@
         <updated>2023-04-01T16:16:43.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】鼻声すぎる歌枠👃 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=txUrT4pjmi0</id>
-        <link href="https://www.youtube.com/watch?v=txUrT4pjmi0"/>
-        <updated>2023-04-01T13:40:34.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
