@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T11:05:37.719Z</id>
+    <id>urn:2023-04-12T11:34:17.431Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T11:05:37.719Z</updated>
+    <updated>2023-04-12T11:34:17.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Last Night, Good Night 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ]]></title>
+        <id>https://www.youtube.com/watch?v=vT2NHIzXOdw</id>
+        <link href="https://www.youtube.com/watch?v=vT2NHIzXOdw"/>
+        <updated>2023-04-12T11:21:00.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】でびゅ8カ月らし？しずかめ？⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=8M537lAbnPs</id>
@@ -2008,15 +2017,6 @@
         <id>https://www.youtube.com/watch?v=p9hmrSGyorU</id>
         <link href="https://www.youtube.com/watch?v=p9hmrSGyorU"/>
         <updated>2023-03-24T17:25:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】毎日歌枠 ✧ バースデーまであと１日！｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8Sj2xyVSe8k</id>
-        <link href="https://www.youtube.com/watch?v=8Sj2xyVSe8k"/>
-        <updated>2023-03-24T16:52:36.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
