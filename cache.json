@@ -2382,6 +2382,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6N-ImUsBOwg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6N-ImUsBOwg",
+          "publishedOn": "2023-04-12T18:05:01.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】V最協カスタムDAY4！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RlgbHEs2vws",
           "author": null,
           "description": "",
@@ -2519,16 +2529,6 @@
           "publishedOn": "2023-03-23T22:46:42.000Z",
           "wordCount": null,
           "title": "【 朝活】朝になったぞ～～～！！🌤【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9gdOJfiiuWQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9gdOJfiiuWQ",
-          "publishedOn": "2023-03-22T14:52:55.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】みんなの歌ってほしい曲を歌う⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
