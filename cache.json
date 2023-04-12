@@ -885,6 +885,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9mHTuCEQKxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9mHTuCEQKxs",
+          "publishedOn": "2023-04-12T21:43:50.000Z",
+          "wordCount": null,
+          "title": "【歌枠】YOASOBIさんの新曲がとてもよかった【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j0wm2-RbHoE",
           "author": null,
           "description": "",
@@ -1022,16 +1032,6 @@
           "publishedOn": "2023-03-29T00:20:24.000Z",
           "wordCount": null,
           "title": "【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4qWDMPxsXkQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4qWDMPxsXkQ",
-          "publishedOn": "2023-03-28T00:06:17.000Z",
-          "wordCount": null,
-          "title": "【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】",
           "imageUrl": null
         }
       ]
