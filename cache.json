@@ -698,6 +698,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ajl-u1XpmmY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ajl-u1XpmmY",
+          "publishedOn": "2023-04-12T01:21:23.000Z",
+          "wordCount": null,
+          "title": "【 歌枠/singing stream 】九楽ライ先輩とコラボ歌枠🎤✨#ライのの karaoke【#彩雲のの / #新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gku_N5CZtzY",
           "author": null,
           "description": "",
@@ -835,16 +845,6 @@
           "publishedOn": "2023-03-26T12:00:06.000Z",
           "wordCount": null,
           "title": "【歌枠/切り抜き】癒し系Vingerが残響散歌を歌ってみたら・・・【#shorts /#彩雲のの 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zF2Kiq-GjvE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zF2Kiq-GjvE",
-          "publishedOn": "2023-03-26T10:27:25.000Z",
-          "wordCount": null,
-          "title": "【 #春のVtuber音楽祭 】８番手！ピアノ弾き語りで癒されて❤【#彩雲のの / #新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1372,6 +1372,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
+          "publishedOn": "2023-04-11T04:04:00.000Z",
+          "wordCount": null,
+          "title": "【本日初配信】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=upQrLucYdRU",
           "author": null,
