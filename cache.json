@@ -561,6 +561,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AxV2fjziCwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AxV2fjziCwM",
+          "publishedOn": "2023-04-12T10:16:15.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】アニソン縛り！！おやつ歌枠#11  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=o4vT-vKYsMU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o4vT-vKYsMU",
+          "publishedOn": "2023-04-12T10:14:23.000Z",
+          "wordCount": null,
+          "title": "【本気で】死ぬな！ / こっちのけんと【歌ってみた】#新人vtuber #ハモリチャレンジ  #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UUCRqzqziZI",
           "author": null,
           "description": "",
@@ -688,26 +708,6 @@
           "publishedOn": "2023-04-04T16:59:21.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！定期お歌枠の時間だよ！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=og-d8eqigmc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=og-d8eqigmc",
-          "publishedOn": "2023-04-03T16:03:37.000Z",
-          "wordCount": null,
-          "title": "【Slither.io】たらんを一位まで連れてって！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NaezBd-r7aE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NaezBd-r7aE",
-          "publishedOn": "2023-04-03T11:02:48.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]

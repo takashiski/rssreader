@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T10:06:15.692Z</id>
+    <id>urn:2023-04-12T10:34:09.021Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T10:06:15.693Z</updated>
+    <updated>2023-04-12T10:34:09.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】アニソン縛り！！おやつ歌枠#11  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AxV2fjziCwM</id>
+        <link href="https://www.youtube.com/watch?v=AxV2fjziCwM"/>
+        <updated>2023-04-12T10:16:15.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【本気で】死ぬな！ / こっちのけんと【歌ってみた】#新人vtuber #ハモリチャレンジ  #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=o4vT-vKYsMU</id>
+        <link href="https://www.youtube.com/watch?v=o4vT-vKYsMU"/>
+        <updated>2023-04-12T10:14:23.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8ヶ月記念🎊歌枠】プチLIVE ✧ 8ｍonth Anniversary｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=r1Gn0BEVT-o</id>
@@ -1203,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Slither.io】たらんを一位まで連れてって！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=og-d8eqigmc</id>
-        <link href="https://www.youtube.com/watch?v=og-d8eqigmc"/>
-        <updated>2023-04-03T16:03:37.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=h0Ig0yiaDjw</id>
         <link href="https://www.youtube.com/watch?v=h0Ig0yiaDjw"/>
@@ -1227,15 +1236,6 @@
         <updated>2023-04-03T14:39:32.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！動画354本記念おやつ歌枠！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=NaezBd-r7aE</id>
-        <link href="https://www.youtube.com/watch?v=NaezBd-r7aE"/>
-        <updated>2023-04-03T11:02:48.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
