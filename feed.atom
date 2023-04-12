@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T17:05:46.980Z</id>
+    <id>urn:2023-04-12T17:34:22.520Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T17:05:46.980Z</updated>
+    <updated>2023-04-12T17:34:22.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【原神】ナヒーダ、ではなく申鶴を育てないといけないの 【 #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=j0wm2-RbHoE</id>
+        <link href="https://www.youtube.com/watch?v=j0wm2-RbHoE"/>
+        <updated>2023-04-12T17:11:51.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】3.3万人耐久歌枠…！！新しい人にたくさん知ってもらえたらいいな～ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=2kc4CdRT-GU</id>
+        <link href="https://www.youtube.com/watch?v=2kc4CdRT-GU"/>
+        <updated>2023-04-12T17:09:33.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】でびゅ8カ月らし？オタク語り？⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=8M537lAbnPs</id>
@@ -165,15 +183,6 @@
         <updated>2023-04-12T10:14:23.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】今日でデビュー8ヶ月💖ちょっぴり最近のこと振り返ったり、これからのことを考えたり🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-L2rdivT49A</id>
-        <link href="https://www.youtube.com/watch?v=-L2rdivT49A"/>
-        <updated>2023-04-12T09:08:32.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1860,15 +1869,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=ngWSPAP9dKo</id>
-        <link href="https://www.youtube.com/watch?v=ngWSPAP9dKo"/>
-        <updated>2023-03-26T13:49:27.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #春のVtuber音楽祭 】アコギ弾き語り⚡SingingStream👽KARAOKE【 #弾き語り / #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=asyw1PqlFYE</id>
         <link href="https://www.youtube.com/watch?v=asyw1PqlFYE"/>
@@ -2163,15 +2163,6 @@
         <updated>2023-03-21T15:47:33.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重大告知】やっと言えるのじゃ…！いろいろあるから全部きいてね、、🐟໒꒱·ﾟ【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=iRIHCu7Ll9c</id>
-        <link href="https://www.youtube.com/watch?v=iRIHCu7Ll9c"/>
-        <updated>2023-03-21T13:18:38.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
