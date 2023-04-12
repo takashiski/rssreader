@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T12:07:23.568Z</id>
+    <id>urn:2023-04-12T12:42:45.685Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T12:07:23.568Z</updated>
+    <updated>2023-04-12T12:42:45.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 talk🥂 #雑談 】🍰と🍾でKPする🥂8ヶ月記念雑談✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RkN3wr_Cn0Y</id>
+        <link href="https://www.youtube.com/watch?v=RkN3wr_Cn0Y"/>
+        <updated>2023-04-12T12:40:42.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【8ヶ月記念日】『休むな！8分音符ちゃん』やるよ～！！お祝いしに来て！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jx2eqA0KF2Y</id>
+        <link href="https://www.youtube.com/watch?v=jx2eqA0KF2Y"/>
+        <updated>2023-04-12T12:26:49.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
+        <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
+        <updated>2023-04-12T12:13:54.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】もっともっと愛されたい…♡🐰【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=Ywn6JN24_zU</id>
+        <link href="https://www.youtube.com/watch?v=Ywn6JN24_zU"/>
+        <updated>2023-04-12T12:09:56.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Night, Good Night 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ]]></title>
         <id>https://www.youtube.com/watch?v=vT2NHIzXOdw</id>
@@ -1122,15 +1158,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！定期お歌枠の時間だよ！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=a3hNUbQI3Qc</id>
-        <link href="https://www.youtube.com/watch?v=a3hNUbQI3Qc"/>
-        <updated>2023-04-04T16:59:21.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=p5lqSsNk090</id>
         <link href="https://www.youtube.com/watch?v=p5lqSsNk090"/>
@@ -2157,15 +2184,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 スイーツプッシャーフレンズ 】お菓子を救う。  #いるりす 柚原いづみ / 大浦るかこ / 姫熊りぼん【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=_6JGIZ2Zgkc</id>
-        <link href="https://www.youtube.com/watch?v=_6JGIZ2Zgkc"/>
-        <updated>2023-03-21T13:31:40.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🔆朝活】めっちゃ健康で充実した毎日を送る子供🐤初見さん歓迎【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=FEqHNcSOygE</id>
         <link href="https://www.youtube.com/watch?v=FEqHNcSOygE"/>
@@ -2208,15 +2226,6 @@
         <updated>2023-03-20T12:00:08.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=HlIL-xIhCcU</id>
-        <link href="https://www.youtube.com/watch?v=HlIL-xIhCcU"/>
-        <updated>2023-03-19T21:35:13.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2343,15 +2352,6 @@
         <updated>2023-03-15T22:52:26.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週の半分だ！24時からの深夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=qd-dkUYQH5I</id>
-        <link href="https://www.youtube.com/watch?v=qd-dkUYQH5I"/>
-        <updated>2023-03-15T17:17:34.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
