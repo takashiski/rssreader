@@ -257,6 +257,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r1Gn0BEVT-o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r1Gn0BEVT-o",
+          "publishedOn": "2023-04-12T09:51:16.000Z",
+          "wordCount": null,
+          "title": "【8ヶ月記念🎊歌枠】プチLIVE ✧ 8ｍonth Anniversary｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Qr90SEqPVOQ",
           "author": null,
           "description": "",
@@ -394,16 +404,6 @@
           "publishedOn": "2023-03-24T16:52:36.000Z",
           "wordCount": null,
           "title": "【歌枠】毎日歌枠 ✧ バースデーまであと１日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TZW4sgZ7FzQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TZW4sgZ7FzQ",
-          "publishedOn": "2023-03-23T16:14:29.000Z",
-          "wordCount": null,
-          "title": "【歌枠】毎日歌枠 ✧ バースデーまであと２日！｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -875,16 +875,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=9mHTuCEQKxs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9mHTuCEQKxs",
-          "publishedOn": "2023-04-12T04:58:18.000Z",
-          "wordCount": null,
-          "title": "【歌枠】YOASOBIさんの新曲がとてもよかった【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=cEIKJWyluDs",
           "author": null,
           "description": "",
@@ -1022,6 +1012,16 @@
           "publishedOn": "2023-03-28T00:06:17.000Z",
           "wordCount": null,
           "title": "【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
+          "publishedOn": "2023-03-26T13:49:27.000Z",
+          "wordCount": null,
+          "title": "【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
