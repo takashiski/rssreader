@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-12T19:05:30.347Z</id>
+    <id>urn:2023-04-12T19:34:28.614Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-12T19:05:30.347Z</updated>
+    <updated>2023-04-12T19:34:28.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🍣ド深夜に寿司屋開店する！新鮮なの入ってるよ！🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=7kZl0TlQBIU</id>
+        <link href="https://www.youtube.com/watch?v=7kZl0TlQBIU"/>
+        <updated>2023-04-12T19:14:02.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ESU_FWCVjjc</id>
+        <link href="https://www.youtube.com/watch?v=ESU_FWCVjjc"/>
+        <updated>2023-04-12T19:08:11.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY4！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6N-ImUsBOwg</id>
@@ -1203,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！定期お歌枠の時間だよ！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=a3hNUbQI3Qc</id>
-        <link href="https://www.youtube.com/watch?v=a3hNUbQI3Qc"/>
-        <updated>2023-04-04T16:59:21.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=p5lqSsNk090</id>
         <link href="https://www.youtube.com/watch?v=p5lqSsNk090"/>
@@ -1569,15 +1578,6 @@
         <updated>2023-03-31T23:27:12.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】ぎゅっ♡絶対眠れる音圧耳かき/心音【Ear Cleaning/Heart Beat/Binaural/Whispering/Ear Blowing/Relaxation】]]></title>
-        <id>https://www.youtube.com/watch?v=xeFHQOVp-W4</id>
-        <link href="https://www.youtube.com/watch?v=xeFHQOVp-W4"/>
-        <updated>2023-03-31T18:04:29.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
