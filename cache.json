@@ -855,6 +855,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9mHTuCEQKxs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9mHTuCEQKxs",
+          "publishedOn": "2023-04-12T04:58:18.000Z",
+          "wordCount": null,
+          "title": "【歌枠】YOASOBIさんの新曲がとてもよかった【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cEIKJWyluDs",
           "author": null,
           "description": "",
@@ -992,16 +1002,6 @@
           "publishedOn": "2023-03-28T00:06:17.000Z",
           "wordCount": null,
           "title": "【Re:AcT×パレプロ】パッションで勝利する、のみ。 【 #生リサ /魔光リサ視点】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ngWSPAP9dKo",
-          "publishedOn": "2023-03-26T13:49:27.000Z",
-          "wordCount": null,
-          "title": "【朝活】希望の朝だ♬ 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1372,6 +1372,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfiK42sBHraMBK6eNWtsy7A",
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
+          "publishedOn": "2023-04-12T04:45:41.000Z",
+          "wordCount": null,
+          "title": "【本日初配信】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=upQrLucYdRU",
           "author": null,
