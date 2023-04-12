@@ -1092,16 +1092,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Ui359NKfm_k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ui359NKfm_k",
-          "publishedOn": "2023-04-04T04:15:46.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=tpFtHHDihRs",
           "author": null,
           "description": "",
@@ -1189,6 +1179,16 @@
           "publishedOn": "2023-03-21T13:31:40.000Z",
           "wordCount": null,
           "title": "【 スイーツプッシャーフレンズ 】お菓子を救う。  #いるりす 柚原いづみ / 大浦るかこ / 姫熊りぼん【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HlIL-xIhCcU",
+          "publishedOn": "2023-03-19T21:35:13.000Z",
+          "wordCount": null,
+          "title": "#27【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
