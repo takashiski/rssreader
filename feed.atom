@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T13:07:33.518Z</id>
+    <id>urn:2023-04-13T13:34:47.255Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T13:07:33.518Z</updated>
+    <updated>2023-04-13T13:34:47.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】おうち３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=GeioUdVmgNU</id>
+        <link href="https://www.youtube.com/watch?v=GeioUdVmgNU"/>
+        <updated>2023-04-13T13:26:31.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
@@ -640,15 +649,6 @@
         <id>https://www.youtube.com/watch?v=rbENSI9m-cA</id>
         <link href="https://www.youtube.com/watch?v=rbENSI9m-cA"/>
         <updated>2023-04-10T10:30:29.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】おうち３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=GeioUdVmgNU</id>
-        <link href="https://www.youtube.com/watch?v=GeioUdVmgNU"/>
-        <updated>2023-04-10T09:43:04.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
