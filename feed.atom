@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T08:06:27.105Z</id>
+    <id>urn:2023-04-13T08:34:54.015Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T08:06:27.105Z</updated>
+    <updated>2023-04-13T08:34:54.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【AmongUs】パッションで人狼！？！？【天川はの】]]></title>
+        <title type="html"><![CDATA[【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fjtkylwoS0s</id>
+        <link href="https://www.youtube.com/watch?v=fjtkylwoS0s"/>
+        <updated>2023-04-13T08:07:39.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🚀AmongUs】パッション💛で人狼！？！？【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=84cL1AmxEDM</id>
         <link href="https://www.youtube.com/watch?v=84cL1AmxEDM"/>
         <updated>2023-04-13T08:04:56.000Z</updated>
@@ -1218,15 +1227,6 @@
         <updated>2023-04-05T12:00:19.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠#8！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-xlAhlqy2Ys</id>
-        <link href="https://www.youtube.com/watch?v=-xlAhlqy2Ys"/>
-        <updated>2023-04-05T11:20:56.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

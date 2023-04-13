@@ -561,6 +561,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fjtkylwoS0s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fjtkylwoS0s",
+          "publishedOn": "2023-04-13T08:07:39.000Z",
+          "wordCount": null,
+          "title": "【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
           "author": null,
           "description": "",
@@ -698,16 +708,6 @@
           "publishedOn": "2023-04-05T14:59:44.000Z",
           "wordCount": null,
           "title": "【Q Remastered】頭久しぶりにフル回転するぞ！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-xlAhlqy2Ys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-xlAhlqy2Ys",
-          "publishedOn": "2023-04-05T11:20:56.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！おやつ歌枠#8！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1937,7 +1937,7 @@
           "link": "https://www.youtube.com/watch?v=84cL1AmxEDM",
           "publishedOn": "2023-04-13T08:04:56.000Z",
           "wordCount": null,
-          "title": "【AmongUs】パッションで人狼！？！？【天川はの】",
+          "title": "【🚀AmongUs】パッション💛で人狼！？！？【天川はの】",
           "imageUrl": null
         },
         {
