@@ -1383,16 +1383,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=zdj8pQT8wL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zdj8pQT8wL8",
-          "publishedOn": "2023-04-12T05:39:43.000Z",
-          "wordCount": null,
-          "title": "【春アニメ何見る？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
           "author": null,
           "description": "",
@@ -1794,6 +1784,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ywn6JN24_zU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ywn6JN24_zU",
+          "publishedOn": "2023-04-13T03:27:20.000Z",
+          "wordCount": null,
+          "title": "【moon】もっともっと愛されたい…♡🐰【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rh8h7q87eIo",
           "author": null,
           "description": "",
@@ -2028,16 +2028,6 @@
           "publishedOn": "2023-03-15T22:52:26.000Z",
           "wordCount": null,
           "title": "【🔆朝活】逃がすわけなくない？⛓️初見さん歓迎【天川はの】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7Jlq6aH1OMY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7Jlq6aH1OMY",
-          "publishedOn": "2023-03-14T15:44:02.000Z",
-          "wordCount": null,
-          "title": "【🪄ホグワーツレガシー】おつかいしながら魔法学校…やれやれ、だぜ…【天川はの】#07",
           "imageUrl": null
         }
       ]
