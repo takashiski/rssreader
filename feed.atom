@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T02:38:47.795Z</id>
+    <id>urn:2023-04-13T03:05:53.335Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T02:38:47.795Z</updated>
+    <updated>2023-04-13T03:05:53.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【8ヶ月記念日】『休むな！8分音符ちゃん』やるよ～！！お祝いしに来て！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jx2eqA0KF2Y</id>
+        <link href="https://www.youtube.com/watch?v=jx2eqA0KF2Y"/>
+        <updated>2023-04-13T02:53:42.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=mbfun_I57Do</id>
+        <link href="https://www.youtube.com/watch?v=mbfun_I57Do"/>
+        <updated>2023-04-13T02:43:42.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8ヶ月記念🎊歌枠】プチLIVE ✧ 8 Month Anniversary｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=r1Gn0BEVT-o</id>
@@ -1194,15 +1212,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adoさんと可愛くデュエットしてみた🤍 #新人vtuber #るっくあっとたらん #神輿たらん #歌ってみた #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ptsijWroKNs</id>
-        <link href="https://www.youtube.com/watch?v=ptsijWroKNs"/>
-        <updated>2023-04-05T09:52:18.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／のんびりランチタイム歌枠～～！🍚楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=n7n6ZfoaYhg</id>
         <link href="https://www.youtube.com/watch?v=n7n6ZfoaYhg"/>
@@ -2019,15 +2028,6 @@
         <updated>2023-03-25T00:46:36.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】おつかれさまの癒しおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YYv_JGfWZR0</id>
-        <link href="https://www.youtube.com/watch?v=YYv_JGfWZR0"/>
-        <updated>2023-03-24T16:52:33.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
