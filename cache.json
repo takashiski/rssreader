@@ -561,6 +561,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
+          "publishedOn": "2023-04-13T06:03:16.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jx2eqA0KF2Y",
           "author": null,
           "description": "",
@@ -568,16 +578,6 @@
           "publishedOn": "2023-04-13T02:53:42.000Z",
           "wordCount": null,
           "title": "【8ヶ月記念日】『休むな！8分音符ちゃん』やるよ～！！お祝いしに来て！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
-          "publishedOn": "2023-04-12T19:08:11.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
