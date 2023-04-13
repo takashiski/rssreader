@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T00:49:40.924Z</id>
+    <id>urn:2023-04-13T01:32:47.179Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T00:49:40.925Z</updated>
+    <updated>2023-04-13T01:32:47.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見さんもおはよう！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DRSLAp9IvjA</id>
+        <link href="https://www.youtube.com/watch?v=DRSLAp9IvjA"/>
+        <updated>2023-04-13T01:22:24.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活雑談】うますぎる朝ごはんの話、聞いてく？/Free Talk【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=k-qBh00F-qw</id>
@@ -111,15 +120,6 @@
         <updated>2023-04-12T15:39:42.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見さんもおはよう！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DRSLAp9IvjA</id>
-        <link href="https://www.youtube.com/watch?v=DRSLAp9IvjA"/>
-        <updated>2023-04-12T15:37:11.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
