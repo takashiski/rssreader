@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T15:08:05.732Z</id>
+    <id>urn:2023-04-13T15:34:21.696Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T15:08:05.732Z</updated>
+    <updated>2023-04-13T15:34:21.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🚀AmongUs】パッション💛で人狼！？！？【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=84cL1AmxEDM</id>
+        <link href="https://www.youtube.com/watch?v=84cL1AmxEDM"/>
+        <updated>2023-04-13T15:07:30.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃうよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=C6Bw186EyoM</id>
@@ -30,15 +39,6 @@
         <updated>2023-04-13T13:26:31.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
-        <link href="https://www.youtube.com/watch?v=axkprSyPGck"/>
-        <updated>2023-04-13T12:33:56.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>

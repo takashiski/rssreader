@@ -1834,16 +1834,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=axkprSyPGck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=axkprSyPGck",
-          "publishedOn": "2023-04-13T12:33:56.000Z",
-          "wordCount": null,
-          "title": "【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Ywn6JN24_zU",
           "author": null,
           "description": "",
@@ -1970,6 +1960,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ9SJLG7dA00M7VoEe4ltw",
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=84cL1AmxEDM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=84cL1AmxEDM",
+          "publishedOn": "2023-04-13T15:07:30.000Z",
+          "wordCount": null,
+          "title": "【🚀AmongUs】パッション💛で人狼！？！？【天川はの】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=iCsH1CGreFc",
           "author": null,
