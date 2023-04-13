@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=e_uLzdJ0Dv0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e_uLzdJ0Dv0",
+          "publishedOn": "2023-04-13T12:01:19.000Z",
+          "wordCount": null,
+          "title": "【#春の歌姫Vによる歌枠リレー】エルフの歌でマターリしようずｗ🎤🌸｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r1Gn0BEVT-o",
           "author": null,
           "description": "",
@@ -404,16 +414,6 @@
           "publishedOn": "2023-03-27T16:25:22.000Z",
           "wordCount": null,
           "title": "【後夜祭】スパチャお礼と裏話【#ククルア爆誕2023】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ftwU9d17TdE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ftwU9d17TdE",
-          "publishedOn": "2023-03-26T20:23:05.000Z",
-          "wordCount": null,
-          "title": "バースデーイラスト描く",
           "imageUrl": null
         }
       ]
@@ -591,16 +591,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=fjtkylwoS0s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fjtkylwoS0s",
-          "publishedOn": "2023-04-13T08:07:39.000Z",
-          "wordCount": null,
-          "title": "【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
           "author": null,
           "description": "",
@@ -728,6 +718,16 @@
           "publishedOn": "2023-04-06T16:35:33.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】みくりんとコラボお歌枠！！ KARAOKE【新人VTuber/神輿たらん/星衣未空莉】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SFh03SyRkyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SFh03SyRkyI",
+          "publishedOn": "2023-04-05T14:59:44.000Z",
+          "wordCount": null,
+          "title": "【Q Remastered】頭久しぶりにフル回転するぞ！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1833,6 +1833,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEZGNJDqv-isWSPRsEhnRA",
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=axkprSyPGck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=axkprSyPGck",
+          "publishedOn": "2023-04-13T12:33:56.000Z",
+          "wordCount": null,
+          "title": "【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ywn6JN24_zU",
           "author": null,

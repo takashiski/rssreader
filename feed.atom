@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T12:07:42.849Z</id>
+    <id>urn:2023-04-13T12:43:17.085Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T12:07:42.849Z</updated>
+    <updated>2023-04-13T12:43:17.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
+        <link href="https://www.youtube.com/watch?v=axkprSyPGck"/>
+        <updated>2023-04-13T12:33:56.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【先行体験】アースリバイバルでマルチしてみる！！w/稀羽すう【 #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_AZriXg14J4</id>
@@ -12,6 +21,15 @@
         <updated>2023-04-13T12:04:18.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#春の歌姫Vによる歌枠リレー】エルフの歌でマターリしようずｗ🎤🌸｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=e_uLzdJ0Dv0</id>
+        <link href="https://www.youtube.com/watch?v=e_uLzdJ0Dv0"/>
+        <updated>2023-04-13T12:01:19.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -91,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=9hIWVLy0vH8</id>
         <link href="https://www.youtube.com/watch?v=9hIWVLy0vH8"/>
         <updated>2023-04-13T09:33:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=fjtkylwoS0s</id>
-        <link href="https://www.youtube.com/watch?v=fjtkylwoS0s"/>
-        <updated>2023-04-13T08:07:39.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1248,6 +1257,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【Q Remastered】頭久しぶりにフル回転するぞ！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=SFh03SyRkyI</id>
+        <link href="https://www.youtube.com/watch?v=SFh03SyRkyI"/>
+        <updated>2023-04-05T14:59:44.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡声優さんについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=oDaZbOplMdA</id>
         <link href="https://www.youtube.com/watch?v=oDaZbOplMdA"/>
@@ -1965,15 +1983,6 @@
         <updated>2023-03-27T10:30:25.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バースデーイラスト描く]]></title>
-        <id>https://www.youtube.com/watch?v=ftwU9d17TdE</id>
-        <link href="https://www.youtube.com/watch?v=ftwU9d17TdE"/>
-        <updated>2023-03-26T20:23:05.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
