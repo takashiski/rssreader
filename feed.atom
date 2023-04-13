@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T11:34:17.236Z</id>
+    <id>urn:2023-04-13T12:07:42.849Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T11:34:17.236Z</updated>
+    <updated>2023-04-13T12:07:42.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【先行体験】アースリバイバルでマルチしてみる！！w/稀羽すう【 #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_AZriXg14J4</id>
+        <link href="https://www.youtube.com/watch?v=_AZriXg14J4"/>
+        <updated>2023-04-13T12:04:18.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り 】きょうこそしっとり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=ZtFFBa5LsuY</id>
+        <link href="https://www.youtube.com/watch?v=ZtFFBa5LsuY"/>
+        <updated>2023-04-13T11:37:33.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】リトバス同時視聴～⚾一期の最終回まで❣【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ZWB2ZYCKPkY</id>
@@ -237,15 +255,6 @@
         <updated>2023-04-12T17:42:24.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神】ナヒーダ、ではなく申鶴を育てないといけないの 【 #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=j0wm2-RbHoE</id>
-        <link href="https://www.youtube.com/watch?v=j0wm2-RbHoE"/>
-        <updated>2023-04-12T17:11:51.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
