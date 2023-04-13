@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T10:34:09.140Z</id>
+    <id>urn:2023-04-13T11:05:47.201Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T10:34:09.140Z</updated>
+    <updated>2023-04-13T11:05:47.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【VARKSHORTS】over #varkshorts #shorts #vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=j6hXkA4Ails</id>
+        <link href="https://www.youtube.com/watch?v=j6hXkA4Ails"/>
+        <updated>2023-04-13T10:30:11.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSR 猫乃ユキノ🌨 #varkshorts #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=ODM3lkPeh8g</id>
@@ -204,15 +213,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】3.3万人耐久歌枠…！！新しい人にたくさん知ってもらえたらいいな～ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2kc4CdRT-GU</id>
-        <link href="https://www.youtube.com/watch?v=2kc4CdRT-GU"/>
-        <updated>2023-04-12T17:09:33.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】でびゅ8カ月らし？オタク語り？⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=8M537lAbnPs</id>
         <link href="https://www.youtube.com/watch?v=8M537lAbnPs"/>
@@ -282,6 +282,15 @@
         <updated>2023-04-12T12:52:22.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=AYLFdbfOJwk</id>
+        <link href="https://www.youtube.com/watch?v=AYLFdbfOJwk"/>
+        <updated>2023-04-12T12:20:17.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1599,15 +1608,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕アニソン縛りで楽しくうたうぞおお💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=0O1g1MgnChI</id>
-        <link href="https://www.youtube.com/watch?v=0O1g1MgnChI"/>
-        <updated>2023-04-01T09:38:13.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
         <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
@@ -2064,6 +2064,15 @@
         <updated>2023-03-25T00:46:36.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】おつかれさまの癒しおうた🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YYv_JGfWZR0</id>
+        <link href="https://www.youtube.com/watch?v=YYv_JGfWZR0"/>
+        <updated>2023-03-24T16:52:33.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
