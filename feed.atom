@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T14:34:22.597Z</id>
+    <id>urn:2023-04-13T15:08:05.732Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T14:34:22.597Z</updated>
+    <updated>2023-04-13T15:08:05.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃうよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=C6Bw186EyoM</id>
+        <link href="https://www.youtube.com/watch?v=C6Bw186EyoM"/>
+        <updated>2023-04-13T14:38:17.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇宙熊が侵略しに来た！！！ #shorts #varkshorts]]></title>
         <id>https://www.youtube.com/watch?v=CoOdaoE5Zeg</id>
@@ -228,15 +237,6 @@
         <updated>2023-04-12T22:52:28.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=b65eH3iOm0Q</id>
-        <link href="https://www.youtube.com/watch?v=b65eH3iOm0Q"/>
-        <updated>2023-04-12T22:25:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1257,15 +1257,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Q Remastered】頭久しぶりにフル回転するぞ！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=SFh03SyRkyI</id>
-        <link href="https://www.youtube.com/watch?v=SFh03SyRkyI"/>
-        <updated>2023-04-05T14:59:44.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡声優さんについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=oDaZbOplMdA</id>
         <link href="https://www.youtube.com/watch?v=oDaZbOplMdA"/>
@@ -1974,6 +1965,15 @@
         <updated>2023-03-27T10:30:25.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バースデーイラスト描く]]></title>
+        <id>https://www.youtube.com/watch?v=ftwU9d17TdE</id>
+        <link href="https://www.youtube.com/watch?v=ftwU9d17TdE"/>
+        <updated>2023-03-26T20:23:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
