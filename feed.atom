@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T16:36:25.390Z</id>
+    <id>urn:2023-04-13T17:05:39.102Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T16:36:25.390Z</updated>
+    <updated>2023-04-13T17:05:39.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY５！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Yd3YE905XR0</id>
+        <link href="https://www.youtube.com/watch?v=Yd3YE905XR0"/>
+        <updated>2023-04-13T16:43:08.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
@@ -2127,15 +2136,6 @@
         <updated>2023-03-24T01:08:48.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 朝活】朝になったぞ～～～！！🌤【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3MMBKDUyPRg</id>
-        <link href="https://www.youtube.com/watch?v=3MMBKDUyPRg"/>
-        <updated>2023-03-23T22:46:42.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
