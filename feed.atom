@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T14:05:54.876Z</id>
+    <id>urn:2023-04-14T14:34:13.836Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T14:05:54.876Z</updated>
+    <updated>2023-04-14T14:34:13.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -471,15 +471,6 @@
         <updated>2023-04-12T12:53:19.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=AYLFdbfOJwk</id>
-        <link href="https://www.youtube.com/watch?v=AYLFdbfOJwk"/>
-        <updated>2023-04-12T12:20:17.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2172,6 +2163,15 @@
         <updated>2023-03-24T13:12:41.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
+        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
+        <updated>2023-03-24T12:05:15.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
