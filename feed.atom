@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-13T23:34:24.091Z</id>
+    <id>urn:2023-04-14T00:20:27.907Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T23:34:24.091Z</updated>
+    <updated>2023-04-14T00:20:27.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fjtkylwoS0s</id>
+        <link href="https://www.youtube.com/watch?v=fjtkylwoS0s"/>
+        <updated>2023-04-14T00:13:45.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神】ナヒーダ、ではなく申鶴を育てないといけないの 【 #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=j0wm2-RbHoE</id>
+        <link href="https://www.youtube.com/watch?v=j0wm2-RbHoE"/>
+        <updated>2023-04-13T23:53:34.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #弾き語り 】きょうこそしっとり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ZtFFBa5LsuY</id>
@@ -1104,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】みくりんとコラボお歌枠！！ KARAOKE【新人VTuber/神輿たらん/星衣未空莉】]]></title>
-        <id>https://www.youtube.com/watch?v=L5eCBSJzAJ4</id>
-        <link href="https://www.youtube.com/watch?v=L5eCBSJzAJ4"/>
-        <updated>2023-04-06T16:35:33.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【熊の歌枠】初見さん大歓迎♡今夜は特別🎶真の姿で歌ってみた！/Singing Stream【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=od3ZEkBpFoA</id>
         <link href="https://www.youtube.com/watch?v=od3ZEkBpFoA"/>
@@ -1833,15 +1842,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=u44Qro9fU0M</id>
-        <link href="https://www.youtube.com/watch?v=u44Qro9fU0M"/>
-        <updated>2023-03-29T00:20:24.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
         <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
@@ -2388,15 +2388,6 @@
         <updated>2023-03-15T22:52:26.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#shorts 】フィクサー / ぬゆり【#花鋏キョウ #歌ってみた 】]]></title>
-        <id>https://www.youtube.com/watch?v=innuzHJsvw8</id>
-        <link href="https://www.youtube.com/watch?v=innuzHJsvw8"/>
-        <updated>2023-03-15T12:00:26.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
     </entry>
 </feed>

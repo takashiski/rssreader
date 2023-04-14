@@ -571,6 +571,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fjtkylwoS0s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fjtkylwoS0s",
+          "publishedOn": "2023-04-14T00:13:45.000Z",
+          "wordCount": null,
+          "title": "【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C6Bw186EyoM",
           "author": null,
           "description": "",
@@ -708,16 +718,6 @@
           "publishedOn": "2023-04-06T18:10:46.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！夜更かししよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L5eCBSJzAJ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L5eCBSJzAJ4",
-          "publishedOn": "2023-04-06T16:35:33.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】みくりんとコラボお歌枠！！ KARAOKE【新人VTuber/神輿たらん/星衣未空莉】",
           "imageUrl": null
         }
       ]
@@ -885,6 +885,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j0wm2-RbHoE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j0wm2-RbHoE",
+          "publishedOn": "2023-04-13T23:53:34.000Z",
+          "wordCount": null,
+          "title": "【原神】ナヒーダ、ではなく申鶴を育てないといけないの 【 #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_AZriXg14J4",
           "author": null,
           "description": "",
@@ -1022,16 +1032,6 @@
           "publishedOn": "2023-03-29T17:25:33.000Z",
           "wordCount": null,
           "title": "【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u44Qro9fU0M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u44Qro9fU0M",
-          "publishedOn": "2023-03-29T00:20:24.000Z",
-          "wordCount": null,
-          "title": "【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2663,16 +2663,6 @@
           "publishedOn": "2023-03-16T12:00:38.000Z",
           "wordCount": null,
           "title": "【#shorts 】海の幽霊 / 米津玄師【#花鋏キョウ #歌ってみた 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=innuzHJsvw8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=innuzHJsvw8",
-          "publishedOn": "2023-03-15T12:00:26.000Z",
-          "wordCount": null,
-          "title": "【#shorts 】フィクサー / ぬゆり【#花鋏キョウ #歌ってみた 】",
           "imageUrl": null
         }
       ]
