@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T16:06:27.627Z</id>
+    <id>urn:2023-04-14T16:36:27.675Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T16:06:27.627Z</updated>
+    <updated>2023-04-14T16:36:27.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2023-04-14T15:32:00.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】ガチ恋距離でドキドキ安眠しよ♡耳かき・タッピング・囁き【Ear Cleaning/Ear Tapping/Mouth Sound/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=XRfCk-xKDOU</id>
-        <link href="https://www.youtube.com/watch?v=XRfCk-xKDOU"/>
-        <updated>2023-04-14T13:55:49.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1596,6 +1587,15 @@
         <updated>2023-04-02T19:30:47.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】睡眠導入♡耳奥まで届くオイルマッサージととんとん気持ち良いタッピングで熟睡。【Oil Ear Massage/Ear Tapping/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=v0Kwsuhipzw</id>
+        <link href="https://www.youtube.com/watch?v=v0Kwsuhipzw"/>
+        <updated>2023-04-02T17:43:40.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
