@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T22:34:13.631Z</id>
+    <id>urn:2023-04-14T23:05:47.810Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T22:34:13.632Z</updated>
+    <updated>2023-04-14T23:05:47.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【先行体験】アースリバイバルでマルチしてみる！！w/稀羽すう【 #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_AZriXg14J4</id>
+        <link href="https://www.youtube.com/watch?v=_AZriXg14J4"/>
+        <updated>2023-04-14T23:02:50.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=eDB5wbjiUPM</id>
@@ -1902,15 +1911,6 @@
         <updated>2023-03-29T12:00:09.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=u44Qro9fU0M</id>
-        <link href="https://www.youtube.com/watch?v=u44Qro9fU0M"/>
-        <updated>2023-03-29T00:20:24.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

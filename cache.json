@@ -895,6 +895,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_AZriXg14J4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_AZriXg14J4",
+          "publishedOn": "2023-04-14T23:02:50.000Z",
+          "wordCount": null,
+          "title": "【先行体験】アースリバイバルでマルチしてみる！！w/稀羽すう【 #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j0wm2-RbHoE",
           "author": null,
           "description": "",
@@ -1032,16 +1042,6 @@
           "publishedOn": "2023-03-29T17:25:33.000Z",
           "wordCount": null,
           "title": "【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u44Qro9fU0M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u44Qro9fU0M",
-          "publishedOn": "2023-03-29T00:20:24.000Z",
-          "wordCount": null,
-          "title": "【ABZU】海の旅に出かける（私はカナヅチ）【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
