@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T02:38:48.413Z</id>
+    <id>urn:2023-04-14T03:05:49.155Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T02:38:48.413Z</updated>
+    <updated>2023-04-14T03:05:49.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=b65eH3iOm0Q</id>
+        <link href="https://www.youtube.com/watch?v=b65eH3iOm0Q"/>
+        <updated>2023-04-14T02:57:17.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fjtkylwoS0s</id>
@@ -1965,15 +1974,6 @@
         <updated>2023-03-27T10:30:25.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バースデーイラスト描く]]></title>
-        <id>https://www.youtube.com/watch?v=ftwU9d17TdE</id>
-        <link href="https://www.youtube.com/watch?v=ftwU9d17TdE"/>
-        <updated>2023-03-26T20:23:05.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
