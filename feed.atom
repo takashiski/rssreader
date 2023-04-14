@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-14T09:34:29.120Z</id>
+    <id>urn:2023-04-14T10:06:06.688Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T09:34:29.120Z</updated>
+    <updated>2023-04-14T10:06:06.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【VARKSHORTS】レトロゲーム🎮 #varkshorts #shorts #vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=vDRUj5K0-9g</id>
+        <link href="https://www.youtube.com/watch?v=vDRUj5K0-9g"/>
+        <updated>2023-04-14T10:00:48.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かしこまり先輩と『めざせポケモンマスター』歌ってみた #新人vtuber #歌ってみた #ハモリチャレンジ #るっくあっとたらん #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=YSuEhRZ9LmQ</id>
+        <link href="https://www.youtube.com/watch?v=YSuEhRZ9LmQ"/>
+        <updated>2023-04-14T10:00:32.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣季節がだんだん近づいて来たね…🏖️【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=mpzoI5hdHdk</id>
@@ -1131,15 +1149,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜更かししよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=pBoE32zLZvw</id>
-        <link href="https://www.youtube.com/watch?v=pBoE32zLZvw"/>
-        <updated>2023-04-06T18:10:46.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜の定期歌枠～～！🌃楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=VQOsFwTpTxQ</id>
         <link href="https://www.youtube.com/watch?v=VQOsFwTpTxQ"/>
@@ -1560,15 +1569,6 @@
         <updated>2023-04-02T17:43:40.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR / 雑談】スライム作り💗 バイノーラル雑談で寝落ち💗 slime making【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=XeTb7-OUE8o</id>
-        <link href="https://www.youtube.com/watch?v=XeTb7-OUE8o"/>
-        <updated>2023-04-02T16:26:09.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
