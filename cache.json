@@ -424,6 +424,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=eDB5wbjiUPM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eDB5wbjiUPM",
+          "publishedOn": "2023-04-14T19:47:33.000Z",
+          "wordCount": null,
+          "title": "【Lobotomy Corporation】いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mpzoI5hdHdk",
           "author": null,
           "description": "",
@@ -561,16 +571,6 @@
           "publishedOn": "2023-03-26T02:30:37.000Z",
           "wordCount": null,
           "title": "【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_SLIKsRAhIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_SLIKsRAhIU",
-          "publishedOn": "2023-03-23T16:53:34.000Z",
-          "wordCount": null,
-          "title": "【復帰配信】ただいまー♡配信復活だっ🗝💭💕【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
