@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T15:34:10.808Z</id>
+    <id>urn:2023-04-15T16:05:42.113Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T15:34:10.808Z</updated>
+    <updated>2023-04-15T16:05:42.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-04-15T12:57:51.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #弾き語り 】ひきがたり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=WlaLOjiP99s</id>
-        <link href="https://www.youtube.com/watch?v=WlaLOjiP99s"/>
-        <updated>2023-04-15T12:10:02.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -381,15 +372,6 @@
         <updated>2023-04-13T11:18:58.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=_yfqWYPI71c</id>
-        <link href="https://www.youtube.com/watch?v=_yfqWYPI71c"/>
-        <updated>2023-04-13T11:05:07.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2217,6 +2199,15 @@
         <updated>2023-03-24T13:12:41.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
+        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
+        <updated>2023-03-24T12:05:15.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
