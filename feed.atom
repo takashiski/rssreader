@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T11:05:39.499Z</id>
+    <id>urn:2023-04-15T11:34:22.996Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T11:05:39.499Z</updated>
+    <updated>2023-04-15T11:34:22.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=eDB5wbjiUPM</id>
+        <link href="https://www.youtube.com/watch?v=eDB5wbjiUPM"/>
+        <updated>2023-04-15T11:04:07.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】憧れのペットとの生活♡ 【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=Xd3CL0MIeZg</id>
@@ -2199,15 +2208,6 @@
         <updated>2023-03-24T01:08:48.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復帰配信】ただいまー♡配信復活だっ🗝💭💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_SLIKsRAhIU</id>
-        <link href="https://www.youtube.com/watch?v=_SLIKsRAhIU"/>
-        <updated>2023-03-23T16:53:34.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
