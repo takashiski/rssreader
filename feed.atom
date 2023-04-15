@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T14:05:42.234Z</id>
+    <id>urn:2023-04-15T14:34:06.155Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T14:05:42.234Z</updated>
+    <updated>2023-04-15T14:34:06.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【VTuber】ハルカ - YOASOBI  歌ってみた / 女性カバー【水瓶ミア】]]></title>
+        <id>https://www.youtube.com/watch?v=P6fXcpP4rCw</id>
+        <link href="https://www.youtube.com/watch?v=P6fXcpP4rCw"/>
+        <updated>2023-04-15T14:23:33.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆雑談/ 体調不良からの復活。あとOP動画完成した！ちょっと話してかない？/ free talk【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=czDgckapuss</id>
@@ -30,15 +39,6 @@
         <updated>2023-04-15T12:10:02.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UB-1グランプリ】うまい棒って何味が一番おいしいの？【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=gZWUPB6UTY0</id>
-        <link href="https://www.youtube.com/watch?v=gZWUPB6UTY0"/>
-        <updated>2023-04-15T11:26:34.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1182,6 +1182,15 @@
         <updated>2023-04-08T05:14:04.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=yy9zm74dbu8</id>
+        <link href="https://www.youtube.com/watch?v=yy9zm74dbu8"/>
+        <updated>2023-04-07T20:05:27.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

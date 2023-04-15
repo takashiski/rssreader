@@ -601,16 +601,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=gZWUPB6UTY0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gZWUPB6UTY0",
-          "publishedOn": "2023-04-15T11:26:34.000Z",
-          "wordCount": null,
-          "title": "【UB-1グランプリ】うまい棒って何味が一番おいしいの？【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=3Ny0A2n03mk",
           "author": null,
           "description": "",
@@ -748,6 +738,16 @@
           "publishedOn": "2023-04-08T14:48:02.000Z",
           "wordCount": null,
           "title": "【懺悔】あなたの犯した罪は何ですか？【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yy9zm74dbu8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yy9zm74dbu8",
+          "publishedOn": "2023-04-07T20:05:27.000Z",
+          "wordCount": null,
+          "title": "#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2608,6 +2608,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=P6fXcpP4rCw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P6fXcpP4rCw",
+          "publishedOn": "2023-04-15T14:23:33.000Z",
+          "wordCount": null,
+          "title": "【VTuber】ハルカ - YOASOBI  歌ってみた / 女性カバー【水瓶ミア】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uu0D75LCG8c",
           "author": null,
