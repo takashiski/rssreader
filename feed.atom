@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T05:05:47.606Z</id>
+    <id>urn:2023-04-15T05:34:21.880Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T05:05:47.606Z</updated>
+    <updated>2023-04-15T05:34:21.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,15 +30,6 @@
         <updated>2023-04-15T03:03:00.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週末、歌で癒されていかない？🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6F3QS1aNmeM</id>
-        <link href="https://www.youtube.com/watch?v=6F3QS1aNmeM"/>
-        <updated>2023-04-15T03:00:00.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -2325,6 +2316,15 @@
         <updated>2023-03-19T12:00:05.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】酒クズで歌が大好きないばら姫👑🥂楽しく歌っちゃうぞおおお【美睡シュカ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=cLxdY3NDbIY</id>
+        <link href="https://www.youtube.com/watch?v=cLxdY3NDbIY"/>
+        <updated>2023-03-19T07:23:42.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
