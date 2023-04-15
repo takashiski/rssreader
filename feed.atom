@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T21:05:36.976Z</id>
+    <id>urn:2023-04-15T21:34:12.087Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T21:05:36.976Z</updated>
+    <updated>2023-04-15T21:34:12.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠 】本日はボカロ祭り💕全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7klefmux9EU</id>
+        <link href="https://www.youtube.com/watch?v=7klefmux9EU"/>
+        <updated>2023-04-15T21:17:07.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週末、歌で癒されていかない？🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6F3QS1aNmeM</id>
@@ -1986,15 +1995,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
-        <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
-        <updated>2023-03-28T18:48:38.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[家 飲 み な う【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=gwU9kjiSRX8</id>
         <link href="https://www.youtube.com/watch?v=gwU9kjiSRX8"/>
@@ -2136,15 +2136,6 @@
         <updated>2023-03-26T07:14:18.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【視聴者参加型】『戦国大河』！ねむと一緒に天下統一しちゃお…🏯🤍？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=djgCxojIWc4</id>
-        <link href="https://www.youtube.com/watch?v=djgCxojIWc4"/>
-        <updated>2023-03-26T02:30:37.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
