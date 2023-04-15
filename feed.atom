@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T13:05:56.980Z</id>
+    <id>urn:2023-04-15T13:34:08.910Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T13:05:56.980Z</updated>
+    <updated>2023-04-15T13:34:08.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -978,21 +978,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#おうち３D /#歌枠 】今日も盛り上がってくよ🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=JhQrplcd_ec</id>
-        <link href="https://www.youtube.com/watch?v=JhQrplcd_ec"/>
-        <updated>2023-04-09T15:58:58.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【岡山モモの推理ノート】その辺の大学生が殺人事件を推理！？ 助けてあげなくちゃ…【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=BGEI5xTsWQc</id>
         <link href="https://www.youtube.com/watch?v=BGEI5xTsWQc"/>
         <updated>2023-04-09T15:29:32.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
+        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
+        <updated>2023-04-09T15:25:15.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
