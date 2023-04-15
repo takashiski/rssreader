@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T11:34:22.996Z</id>
+    <id>urn:2023-04-15T12:06:45.039Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T11:34:22.996Z</updated>
+    <updated>2023-04-15T12:06:45.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【UB-1グランプリ】うまい棒って何味が一番おいしいの？【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gZWUPB6UTY0</id>
+        <link href="https://www.youtube.com/watch?v=gZWUPB6UTY0"/>
+        <updated>2023-04-15T11:26:34.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=eDB5wbjiUPM</id>
@@ -1155,15 +1164,6 @@
         <updated>2023-04-08T05:14:04.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yy9zm74dbu8</id>
-        <link href="https://www.youtube.com/watch?v=yy9zm74dbu8"/>
-        <updated>2023-04-07T20:05:27.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
