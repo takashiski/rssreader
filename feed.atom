@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T02:39:24.847Z</id>
+    <id>urn:2023-04-15T03:05:55.588Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T02:39:24.847Z</updated>
+    <updated>2023-04-15T03:05:55.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週末、歌で癒されていかない？🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6F3QS1aNmeM</id>
+        <link href="https://www.youtube.com/watch?v=6F3QS1aNmeM"/>
+        <updated>2023-04-15T03:00:00.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=AYLFdbfOJwk</id>
+        <link href="https://www.youtube.com/watch?v=AYLFdbfOJwk"/>
+        <updated>2023-04-15T02:41:48.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最終回【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=hEDJi1qGjTM</id>
@@ -2166,15 +2184,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
-        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
-        <updated>2023-03-24T12:05:15.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
         <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
@@ -2310,15 +2319,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】酒クズで歌が大好きないばら姫👑🥂楽しく歌っちゃうぞおおお【美睡シュカ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cLxdY3NDbIY</id>
-        <link href="https://www.youtube.com/watch?v=cLxdY3NDbIY"/>
-        <updated>2023-03-19T07:23:42.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】初見さん大歓迎期間♡ちょびっとお歌を歌おう！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=4_-bbR_5vTc</id>
         <link href="https://www.youtube.com/watch?v=4_-bbR_5vTc"/>
@@ -2379,15 +2379,6 @@
         <updated>2023-03-16T21:35:38.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】のんびりお話しましょ🐰💛【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=hqisH5vLiSo</id>
-        <link href="https://www.youtube.com/watch?v=hqisH5vLiSo"/>
-        <updated>2023-03-16T14:53:47.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>
