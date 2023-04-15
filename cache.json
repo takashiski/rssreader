@@ -1189,6 +1189,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=26xcVqdAvH8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=26xcVqdAvH8",
+          "publishedOn": "2023-04-15T22:17:49.000Z",
+          "wordCount": null,
+          "title": "◆アース：リバイバル / 一緒にマルチで遊んでくれる仲間を連れて来たぞ✨2人でSFサバイバル🔥【九楽ライ/稀羽すう/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=czDgckapuss",
           "author": null,
           "description": "",
@@ -1316,16 +1326,6 @@
           "publishedOn": "2023-03-26T07:14:18.000Z",
           "wordCount": null,
           "title": "◆おうち３D歌枠✨ /sing / 日曜さ、僕と過ごさない？♡ / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VIT1w1WCGG4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VIT1w1WCGG4",
-          "publishedOn": "2023-03-25T11:53:07.000Z",
-          "wordCount": null,
-          "title": "☆星のカービィWiiデラックス / #01 / 完全初見🔥丸顔仲間ぽよ！！！！！！！〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]

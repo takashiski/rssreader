@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T22:05:34.019Z</id>
+    <id>urn:2023-04-15T22:34:11.541Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T22:05:34.019Z</updated>
+    <updated>2023-04-15T22:34:11.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆アース：リバイバル / 一緒にマルチで遊んでくれる仲間を連れて来たぞ✨2人でSFサバイバル🔥【九楽ライ/稀羽すう/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=26xcVqdAvH8</id>
+        <link href="https://www.youtube.com/watch?v=26xcVqdAvH8"/>
+        <updated>2023-04-15T22:17:49.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠 】本日はボカロ祭り💕全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7klefmux9EU</id>
@@ -2172,15 +2181,6 @@
         <updated>2023-03-25T14:33:43.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #01 / 完全初見🔥丸顔仲間ぽよ！！！！！！！〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=VIT1w1WCGG4</id>
-        <link href="https://www.youtube.com/watch?v=VIT1w1WCGG4"/>
-        <updated>2023-03-25T11:53:07.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
