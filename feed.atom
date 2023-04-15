@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T13:34:08.910Z</id>
+    <id>urn:2023-04-15T14:05:42.234Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T13:34:08.910Z</updated>
+    <updated>2023-04-15T14:05:42.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆雑談/ 体調不良からの復活。あとOP動画完成した！ちょっと話してかない？/ free talk【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=czDgckapuss</id>
+        <link href="https://www.youtube.com/watch?v=czDgckapuss"/>
+        <updated>2023-04-15T13:41:19.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#雑談】全快とまではいかないけど、回復のご報告とか！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=fqKr0Sl78zk</id>
@@ -93,15 +102,6 @@
         <updated>2023-04-15T09:00:24.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】VTuber最協決定戦 本番！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=m7rkgA3-B5I</id>
-        <link href="https://www.youtube.com/watch?v=m7rkgA3-B5I"/>
-        <updated>2023-04-15T06:36:36.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2049,6 +2049,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 APEX 】ランクしたりなんやしたり⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JoBJ8r53eAE</id>
+        <link href="https://www.youtube.com/watch?v=JoBJ8r53eAE"/>
+        <updated>2023-03-27T19:46:43.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【原神#39】世界任務⌇層岩巨淵深遊記⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=_b4Ook5mJxQ</id>
         <link href="https://www.youtube.com/watch?v=_b4Ook5mJxQ"/>
@@ -2217,15 +2226,6 @@
         <updated>2023-03-24T13:12:41.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☀朝活雑談 / 朝だな。初見さん、大歓迎しちゃうんだけどな～～チラチラ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
-        <id>https://www.youtube.com/watch?v=eW66Neg7YU8</id>
-        <link href="https://www.youtube.com/watch?v=eW66Neg7YU8"/>
-        <updated>2023-03-24T01:08:48.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
