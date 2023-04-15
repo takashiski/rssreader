@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T22:34:11.541Z</id>
+    <id>urn:2023-04-15T23:05:47.516Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T22:34:11.541Z</updated>
+    <updated>2023-04-15T23:05:47.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2388,15 +2388,6 @@
         <updated>2023-03-17T12:00:45.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W/X/Y(Tani Yuuki) #shorts #かしこまり]]></title>
-        <id>https://www.youtube.com/watch?v=DSrrtVmUO24</id>
-        <link href="https://www.youtube.com/watch?v=DSrrtVmUO24"/>
-        <updated>2023-03-17T11:00:11.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
