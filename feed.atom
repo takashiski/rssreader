@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T16:05:42.113Z</id>
+    <id>urn:2023-04-15T16:35:34.992Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T16:05:42.113Z</updated>
+    <updated>2023-04-15T16:35:34.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=_yfqWYPI71c</id>
+        <link href="https://www.youtube.com/watch?v=_yfqWYPI71c"/>
+        <updated>2023-04-15T16:25:03.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【🎤耐久歌枠】初見さん歓迎💛95000人登録者を目指して歌う子供がいるみたい【karaoke/天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=O7wlIrHr3qI</id>
+        <link href="https://www.youtube.com/watch?v=O7wlIrHr3qI"/>
+        <updated>2023-04-15T16:05:09.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】吐息たっぷり耳ふーと音圧強め耳かきでとろける夜【Ear Cleaning/Ear Tapping/Mouth Sound/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=G2n2PAjxzQk</id>
@@ -39,15 +57,6 @@
         <updated>2023-04-15T14:23:33.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆雑談/ 体調不良からの復活。あとOP動画完成した！ちょっと話してかない？/ free talk【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=czDgckapuss</id>
-        <link href="https://www.youtube.com/watch?v=czDgckapuss"/>
-        <updated>2023-04-15T13:41:19.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -2067,15 +2076,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#28【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=Mjhg4PfR_tI</id>
-        <link href="https://www.youtube.com/watch?v=Mjhg4PfR_tI"/>
-        <updated>2023-03-26T19:04:56.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #春のVtuber音楽祭 】アコギ弾き語り⚡SingingStream👽KARAOKE【 #弾き語り / #歌枠 】【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=asyw1PqlFYE</id>
         <link href="https://www.youtube.com/watch?v=asyw1PqlFYE"/>
@@ -2202,12 +2202,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 昼下がりに寄り添うまったり歌枠 🌸 KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cAMPGkZt7b8</id>
-        <link href="https://www.youtube.com/watch?v=cAMPGkZt7b8"/>
-        <updated>2023-03-24T12:05:15.000Z</updated>
+        <title type="html"><![CDATA[☀朝活雑談 / 朝だな。初見さん、大歓迎しちゃうんだけどな～～チラチラ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=eW66Neg7YU8</id>
+        <link href="https://www.youtube.com/watch?v=eW66Neg7YU8"/>
+        <updated>2023-03-24T01:08:48.000Z</updated>
         <author>
-            <name>稀羽すう - Suu Usuwa -</name>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
