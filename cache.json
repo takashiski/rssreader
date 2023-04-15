@@ -905,6 +905,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Cx_pYzRowjQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Cx_pYzRowjQ",
+          "publishedOn": "2023-04-15T03:54:23.000Z",
+          "wordCount": null,
+          "title": "【歌枠】て、定期歌枠？！？！？！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_AZriXg14J4",
           "author": null,
           "description": "",
@@ -1042,16 +1052,6 @@
           "publishedOn": "2023-03-30T23:51:07.000Z",
           "wordCount": null,
           "title": "【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_QPEenjHyf8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_QPEenjHyf8",
-          "publishedOn": "2023-03-29T17:25:33.000Z",
-          "wordCount": null,
-          "title": "【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
