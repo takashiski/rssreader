@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T06:34:33.596Z</id>
+    <id>urn:2023-04-15T07:06:04.856Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T06:34:33.596Z</updated>
+    <updated>2023-04-15T07:06:04.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】VTuber最協決定戦 本番！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=m7rkgA3-B5I</id>
+        <link href="https://www.youtube.com/watch?v=m7rkgA3-B5I"/>
+        <updated>2023-04-15T06:36:36.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】て、定期歌枠？！？！？！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Cx_pYzRowjQ</id>
@@ -2001,15 +2010,6 @@
         <updated>2023-03-27T23:50:49.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】ランクしたりなんやしたり⋆͛👾⋆͛【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JoBJ8r53eAE</id>
-        <link href="https://www.youtube.com/watch?v=JoBJ8r53eAE"/>
-        <updated>2023-03-27T19:46:43.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
