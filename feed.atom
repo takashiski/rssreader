@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T09:34:11.904Z</id>
+    <id>urn:2023-04-15T10:05:41.195Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T09:34:11.904Z</updated>
+    <updated>2023-04-15T10:05:41.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[最終回・後編【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3Ny0A2n03mk</id>
+        <link href="https://www.youtube.com/watch?v=3Ny0A2n03mk"/>
+        <updated>2023-04-15T09:47:43.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ＳＳＲかしこまり出ちゃった！？ #shorts #varkshorts #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=tAHMNBQiHA8</id>
@@ -93,15 +102,6 @@
         <updated>2023-04-14T23:02:50.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=eDB5wbjiUPM</id>
-        <link href="https://www.youtube.com/watch?v=eDB5wbjiUPM"/>
-        <updated>2023-04-14T19:47:33.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1230,15 +1230,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1y04KSx1WAw</id>
-        <link href="https://www.youtube.com/watch?v=1y04KSx1WAw"/>
-        <updated>2023-04-07T12:20:44.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】Figaroさんと！まったり歌枠コラボ 💐 #稀羽ふぃがろ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QXSnqK_hXFs</id>
         <link href="https://www.youtube.com/watch?v=QXSnqK_hXFs"/>
@@ -2193,6 +2184,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【復帰配信】ただいまー♡配信復活だっ🗝💭💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_SLIKsRAhIU</id>
+        <link href="https://www.youtube.com/watch?v=_SLIKsRAhIU"/>
+        <updated>2023-03-23T16:53:34.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
         <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
@@ -2388,15 +2388,6 @@
         <updated>2023-03-17T11:00:11.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初見さん大歓迎！】約半年ぶりのAPEX！元マスターなんだから勝てるよね？【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=j3Pu4O4y-Fc</id>
-        <link href="https://www.youtube.com/watch?v=j3Pu4O4y-Fc"/>
-        <updated>2023-03-16T21:35:38.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
