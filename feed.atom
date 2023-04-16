@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T01:33:13.639Z</id>
+    <id>urn:2023-04-16T02:21:11.679Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T01:33:13.639Z</updated>
+    <updated>2023-04-16T02:21:11.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【朝活】天気晴れになれ、おはあよ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kdDLBezb8Cw</id>
-        <link href="https://www.youtube.com/watch?v=kdDLBezb8Cw"/>
-        <updated>2023-04-15T23:43:15.000Z</updated>
+        <title type="html"><![CDATA[【#おうち３D /#歌枠 】今日も盛り上がってくよ🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=JhQrplcd_ec</id>
+        <link href="https://www.youtube.com/watch?v=JhQrplcd_ec"/>
+        <updated>2023-04-16T01:19:35.000Z</updated>
         <author>
-            <name>魔光リサ - Lisa Makoh -</name>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1023,15 +1023,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
-        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
-        <updated>2023-04-09T15:25:15.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡今季アニメについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=EuSabOLYhIU</id>
         <link href="https://www.youtube.com/watch?v=EuSabOLYhIU"/>
@@ -1983,6 +1974,15 @@
         <updated>2023-03-30T01:00:38.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
+        <link href="https://www.youtube.com/watch?v=_QPEenjHyf8"/>
+        <updated>2023-03-29T17:25:33.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
