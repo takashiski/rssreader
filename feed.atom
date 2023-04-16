@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T14:05:34.095Z</id>
+    <id>urn:2023-04-16T14:34:17.197Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T14:05:34.095Z</updated>
+    <updated>2023-04-16T14:34:17.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -183,15 +183,6 @@
         <updated>2023-04-15T22:17:49.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
-        <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
-        <updated>2023-04-15T21:24:24.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -2073,6 +2064,15 @@
         <updated>2023-03-29T12:00:09.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
+        <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
+        <updated>2023-03-28T18:48:38.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
