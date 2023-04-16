@@ -895,6 +895,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kdDLBezb8Cw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kdDLBezb8Cw",
+          "publishedOn": "2023-04-15T23:43:15.000Z",
+          "wordCount": null,
+          "title": "【朝活】天気晴れになれ、おはあよ【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_AZriXg14J4",
           "author": null,
           "description": "",
@@ -1032,16 +1042,6 @@
           "publishedOn": "2023-03-30T23:51:07.000Z",
           "wordCount": null,
           "title": "【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_QPEenjHyf8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_QPEenjHyf8",
-          "publishedOn": "2023-03-29T17:25:33.000Z",
-          "wordCount": null,
-          "title": "【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2643,16 +2643,6 @@
           "publishedOn": "2023-03-19T12:00:05.000Z",
           "wordCount": null,
           "title": "【#shorts 】アディショナルメモリー / じん【#花鋏キョウ  #歌ってみた 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rp_oyLplAow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rp_oyLplAow",
-          "publishedOn": "2023-03-17T12:00:45.000Z",
-          "wordCount": null,
-          "title": "【#shorts 】unlasting / LiSA【#花鋏キョウ #歌ってみた 】",
           "imageUrl": null
         }
       ]
