@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T09:05:47.912Z</id>
+    <id>urn:2023-04-16T09:34:14.534Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T09:05:47.912Z</updated>
+    <updated>2023-04-16T09:34:14.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[恋愛ゲームかしこまり攻略きちゃ！？ #shorts #varkshorts #vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=LogpiuDruxs</id>
+        <link href="https://www.youtube.com/watch?v=LogpiuDruxs"/>
+        <updated>2023-04-16T09:00:11.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠 】本日はボカロ祭り💕全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7klefmux9EU</id>
