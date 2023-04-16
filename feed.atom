@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T05:05:46.201Z</id>
+    <id>urn:2023-04-16T05:34:32.885Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T05:05:46.201Z</updated>
+    <updated>2023-04-16T05:34:32.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[oekaki]]></title>
-        <id>https://www.youtube.com/watch?v=wezKgUuVFqU</id>
-        <link href="https://www.youtube.com/watch?v=wezKgUuVFqU"/>
-        <updated>2023-04-16T05:03:38.000Z</updated>
+        <title type="html"><![CDATA[【 #弾き語り 】ひきがたり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=WlaLOjiP99s</id>
+        <link href="https://www.youtube.com/watch?v=WlaLOjiP99s"/>
+        <updated>2023-04-16T05:15:39.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #バイオハザードヴィレッジ 】バイオ８ 最期まで駆け抜けるぜ！#9 【#紅龍イサナ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6FocG5MiUx4</id>
-        <link href="https://www.youtube.com/watch?v=6FocG5MiUx4"/>
-        <updated>2023-04-16T05:02:37.000Z</updated>
+        <title type="html"><![CDATA[oekaki]]></title>
+        <id>https://www.youtube.com/watch?v=wezKgUuVFqU</id>
+        <link href="https://www.youtube.com/watch?v=wezKgUuVFqU"/>
+        <updated>2023-04-16T05:03:38.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
@@ -75,6 +75,15 @@
         <updated>2023-04-15T22:17:49.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
+        <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
+        <updated>2023-04-15T21:24:24.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -138,15 +147,6 @@
         <updated>2023-04-15T14:35:18.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【緊張で腹痛】賞金50万円をかけた戦い最終日🔥ロードモバイル×えるすりー【Lords Mobile/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=Wj-hHsAUKjM</id>
-        <link href="https://www.youtube.com/watch?v=Wj-hHsAUKjM"/>
-        <updated>2023-04-15T14:35:05.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1596,6 +1596,15 @@
         <updated>2023-04-05T00:24:50.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】気持ち良すぎて耳がとろける♡安眠耳かきはいかが？【Ear Cleaning/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=_cXImEym144</id>
+        <link href="https://www.youtube.com/watch?v=_cXImEym144"/>
+        <updated>2023-04-04T19:15:36.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
