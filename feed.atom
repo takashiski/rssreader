@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T08:06:17.416Z</id>
+    <id>urn:2023-04-16T08:34:22.242Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T08:06:17.416Z</updated>
+    <updated>2023-04-16T08:34:22.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -118,15 +118,6 @@
         <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
         <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
         <updated>2023-04-15T21:24:24.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠 】本日はボカロ祭り💕全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7klefmux9EU</id>
-        <link href="https://www.youtube.com/watch?v=7klefmux9EU"/>
-        <updated>2023-04-15T21:17:07.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
@@ -2046,6 +2037,15 @@
         <updated>2023-03-29T12:00:09.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
+        <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
+        <updated>2023-03-28T18:48:38.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
