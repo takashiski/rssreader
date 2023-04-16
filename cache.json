@@ -53,16 +53,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=wezKgUuVFqU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wezKgUuVFqU",
-          "publishedOn": "2023-04-16T05:03:38.000Z",
-          "wordCount": null,
-          "title": "oekaki",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=6FocG5MiUx4",
           "author": null,
           "description": "",
@@ -621,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7aIyECK6gzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7aIyECK6gzo",
+          "publishedOn": "2023-04-16T06:41:22.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gZWUPB6UTY0",
           "author": null,
           "description": "",
@@ -758,16 +758,6 @@
           "publishedOn": "2023-04-09T19:06:54.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jo2uIb_F0bU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jo2uIb_F0bU",
-          "publishedOn": "2023-04-08T14:48:02.000Z",
-          "wordCount": null,
-          "title": "【懺悔】あなたの犯した罪は何ですか？【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]

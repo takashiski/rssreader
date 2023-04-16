@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T06:34:28.925Z</id>
+    <id>urn:2023-04-16T07:05:26.876Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T06:34:28.925Z</updated>
+    <updated>2023-04-16T07:05:26.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7aIyECK6gzo</id>
+        <link href="https://www.youtube.com/watch?v=7aIyECK6gzo"/>
+        <updated>2023-04-16T06:41:22.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【生誕&３Ｄお披露目振り返り】当日のおはなししたいし皆の感想も聞かせてー！✨【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=HsqcUNkOhdw</id>
@@ -46,15 +55,6 @@
         <id>https://www.youtube.com/watch?v=WlaLOjiP99s</id>
         <link href="https://www.youtube.com/watch?v=WlaLOjiP99s"/>
         <updated>2023-04-16T05:15:39.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oekaki]]></title>
-        <id>https://www.youtube.com/watch?v=wezKgUuVFqU</id>
-        <link href="https://www.youtube.com/watch?v=wezKgUuVFqU"/>
-        <updated>2023-04-16T05:03:38.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
@@ -1227,15 +1227,6 @@
         <updated>2023-04-08T14:48:46.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【懺悔】あなたの犯した罪は何ですか？【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jo2uIb_F0bU</id>
-        <link href="https://www.youtube.com/watch?v=jo2uIb_F0bU"/>
-        <updated>2023-04-08T14:48:02.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
