@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T02:21:11.679Z</id>
+    <id>urn:2023-04-16T02:41:10.552Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T02:21:11.680Z</updated>
+    <updated>2023-04-16T02:41:10.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】天気晴れになれ、おはあよ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=kdDLBezb8Cw</id>
+        <link href="https://www.youtube.com/watch?v=kdDLBezb8Cw"/>
+        <updated>2023-04-16T02:39:09.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【生誕&３Ｄお披露目振り返り】当日のおはなししたいし皆の感想も聞かせてー！✨【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=HsqcUNkOhdw</id>
+        <link href="https://www.youtube.com/watch?v=HsqcUNkOhdw"/>
+        <updated>2023-04-16T02:27:52.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UB-1グランプリ】うまい棒って何味が一番おいしいの？【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gZWUPB6UTY0</id>
+        <link href="https://www.youtube.com/watch?v=gZWUPB6UTY0"/>
+        <updated>2023-04-16T02:26:37.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#おうち３D /#歌枠 】今日も盛り上がってくよ🤍 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=JhQrplcd_ec</id>
@@ -1212,15 +1239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#10【Hogwarts legacy】終わらせる勢いでやるぞ！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yy9zm74dbu8</id>
-        <link href="https://www.youtube.com/watch?v=yy9zm74dbu8"/>
-        <updated>2023-04-07T20:05:27.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳独占♡どきどきするのに安眠できる耳かき・リップ音【Ear Cleaning/Mouth Sound/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=-di_kNLuzBU</id>
         <link href="https://www.youtube.com/watch?v=-di_kNLuzBU"/>
@@ -1977,15 +1995,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】久々のランチタイム歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=_QPEenjHyf8</id>
-        <link href="https://www.youtube.com/watch?v=_QPEenjHyf8"/>
-        <updated>2023-03-29T17:25:33.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】暁月クララちゃんといっしょに歌う！🎤💓【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=qm1QVirHP-s</id>
         <link href="https://www.youtube.com/watch?v=qm1QVirHP-s"/>
@@ -2064,15 +2073,6 @@
         <updated>2023-03-27T23:50:49.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#39】世界任務⌇層岩巨淵深遊記⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=_b4Ook5mJxQ</id>
-        <link href="https://www.youtube.com/watch?v=_b4Ook5mJxQ"/>
-        <updated>2023-03-27T14:05:27.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
