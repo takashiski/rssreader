@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T11:05:36.712Z</id>
+    <id>urn:2023-04-16T11:34:17.412Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T11:05:36.712Z</updated>
+    <updated>2023-04-16T11:34:17.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【AlexiA～アレクシア～】すべてを明らかにしたい…。もうひとつの終わりへ。※ネタバレ注意【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=hHIYWxKIXwE</id>
+        <link href="https://www.youtube.com/watch?v=hHIYWxKIXwE"/>
+        <updated>2023-04-16T11:30:48.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3D】今日からかなうは、アリアの… 🦇🐟 #VTuber #shorts #月紫アリア #夢川かなう #つくつくぴっち]]></title>
         <id>https://www.youtube.com/watch?v=hLtO5kwWFXk</id>
