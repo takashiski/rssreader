@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T13:34:10.913Z</id>
+    <id>urn:2023-04-16T14:05:34.095Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T13:34:10.913Z</updated>
+    <updated>2023-04-16T14:05:34.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[oekaki]]></title>
+        <id>https://www.youtube.com/watch?v=PvgZkglmqz4</id>
+        <link href="https://www.youtube.com/watch?v=PvgZkglmqz4"/>
+        <updated>2023-04-16T13:26:31.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】プチお披露目あり！お話ししよ！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7Arww6tA5FE</id>
+        <link href="https://www.youtube.com/watch?v=7Arww6tA5FE"/>
+        <updated>2023-04-16T13:25:47.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🚫メン限】ひそひそお話しの回【はのを愛でたい♡以上プランメンバー】]]></title>
         <id>https://www.youtube.com/watch?v=qEitUWtvRzw</id>
@@ -1074,15 +1092,6 @@
         <updated>2023-04-09T20:28:11.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sIdKfTTfHI8</id>
-        <link href="https://www.youtube.com/watch?v=sIdKfTTfHI8"/>
-        <updated>2023-04-09T19:06:54.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
