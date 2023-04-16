@@ -464,6 +464,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nDlRsCjFsrw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nDlRsCjFsrw",
+          "publishedOn": "2023-04-16T14:38:04.000Z",
+          "wordCount": null,
+          "title": "【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7klefmux9EU",
           "author": null,
           "description": "",
@@ -601,16 +611,6 @@
           "publishedOn": "2023-04-01T07:04:56.000Z",
           "wordCount": null,
           "title": "【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6_otFWg5J-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6_otFWg5J-Q",
-          "publishedOn": "2023-03-28T18:48:38.000Z",
-          "wordCount": null,
-          "title": "【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -935,16 +935,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=-FIoMBw5e-g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-FIoMBw5e-g",
-          "publishedOn": "2023-04-16T05:49:59.000Z",
-          "wordCount": null,
-          "title": "【販売促進】 今日まで？！今日までなの？！？！？！【 つばぐら /Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=kdDLBezb8Cw",
           "author": null,
           "description": "",
@@ -1082,6 +1072,16 @@
           "publishedOn": "2023-03-31T13:02:29.000Z",
           "wordCount": null,
           "title": "【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=oUbLMIwhJk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oUbLMIwhJk4",
+          "publishedOn": "2023-03-30T23:51:07.000Z",
+          "wordCount": null,
+          "title": "【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1680,11 +1680,11 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=LiuuxitqJvA",
+          "id": "https://www.youtube.com/watch?v=5b9bZFCLCgI",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=LiuuxitqJvA",
-          "publishedOn": "2023-04-09T16:09:13.000Z",
+          "link": "https://www.youtube.com/watch?v=5b9bZFCLCgI",
+          "publishedOn": "2023-04-09T15:25:15.000Z",
           "wordCount": null,
           "title": "【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】",
           "imageUrl": null
@@ -2341,7 +2341,7 @@
           "link": "https://www.youtube.com/watch?v=QmJccBbOpxI",
           "publishedOn": "2023-04-14T13:00:11.000Z",
           "wordCount": null,
-          "title": "【歌ってみた】トウキョウシャンディランデヴ/夢川かなう【feat.花譜，ツミキ】",
+          "title": "【歌ってみた】トウキョウ・シャンディ・ランデヴ/夢川かなう【feat.花譜，ツミキ】",
           "imageUrl": null
         },
         {

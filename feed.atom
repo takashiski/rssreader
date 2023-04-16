@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T14:34:17.197Z</id>
+    <id>urn:2023-04-16T15:05:48.398Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T14:34:17.197Z</updated>
+    <updated>2023-04-16T15:05:48.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
+        <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
+        <updated>2023-04-16T14:38:04.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[oekaki]]></title>
         <id>https://www.youtube.com/watch?v=PvgZkglmqz4</id>
@@ -120,15 +129,6 @@
         <updated>2023-04-16T05:54:31.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【販売促進】 今日まで？！今日までなの？！？！？！【 つばぐら /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-FIoMBw5e-g</id>
-        <link href="https://www.youtube.com/watch?v=-FIoMBw5e-g"/>
-        <updated>2023-04-16T05:49:59.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -384,7 +384,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌ってみた】トウキョウシャンディランデヴ/夢川かなう【feat.花譜，ツミキ】]]></title>
+        <title type="html"><![CDATA[【歌ってみた】トウキョウ・シャンディ・ランデヴ/夢川かなう【feat.花譜，ツミキ】]]></title>
         <id>https://www.youtube.com/watch?v=QmJccBbOpxI</id>
         <link href="https://www.youtube.com/watch?v=QmJccBbOpxI"/>
         <updated>2023-04-14T13:00:11.000Z</updated>
@@ -1113,21 +1113,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=LiuuxitqJvA</id>
-        <link href="https://www.youtube.com/watch?v=LiuuxitqJvA"/>
-        <updated>2023-04-09T16:09:13.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【岡山モモの推理ノート】その辺の大学生が殺人事件を推理！？ 助けてあげなくちゃ…【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=BGEI5xTsWQc</id>
         <link href="https://www.youtube.com/watch?v=BGEI5xTsWQc"/>
         <updated>2023-04-09T15:29:32.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
+        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
+        <updated>2023-04-09T15:25:15.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -2004,6 +2004,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【先行体験】SFサバイバルRPG！アースリバイバルやってみる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=oUbLMIwhJk4</id>
+        <link href="https://www.youtube.com/watch?v=oUbLMIwhJk4"/>
+        <updated>2023-03-30T23:51:07.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=08ailPUSBc4</id>
         <link href="https://www.youtube.com/watch?v=08ailPUSBc4"/>
@@ -2064,15 +2073,6 @@
         <updated>2023-03-29T12:00:09.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】わくVの感想会とか戦場のお話しとか歌リレーのお話しとか❣ゆるゆるおはなしする～🌸✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6_otFWg5J-Q</id>
-        <link href="https://www.youtube.com/watch?v=6_otFWg5J-Q"/>
-        <updated>2023-03-28T18:48:38.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
