@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T16:05:50.907Z</id>
+    <id>urn:2023-04-16T16:35:35.391Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T16:05:50.907Z</updated>
+    <updated>2023-04-16T16:35:35.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【AlexiA～アレクシア～】すべてを明らかにしたい…。もうひとつの終わりへ。※ネタバレ注意【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=hHIYWxKIXwE</id>
+        <link href="https://www.youtube.com/watch?v=hHIYWxKIXwE"/>
+        <updated>2023-04-16T16:23:52.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活雑談】朝は苦手だけど、あなたのために起きたの！（圧）/Free Talk【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=E_32VKqGaFM</id>
@@ -39,15 +48,6 @@
         <updated>2023-04-16T14:38:04.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】プチお披露目あり！お話ししよ！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7Arww6tA5FE</id>
-        <link href="https://www.youtube.com/watch?v=7Arww6tA5FE"/>
-        <updated>2023-04-16T13:25:47.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1074,6 +1074,15 @@
         <updated>2023-04-09T20:28:11.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=sIdKfTTfHI8</id>
+        <link href="https://www.youtube.com/watch?v=sIdKfTTfHI8"/>
+        <updated>2023-04-09T19:06:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
