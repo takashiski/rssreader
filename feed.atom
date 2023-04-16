@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T04:34:24.384Z</id>
+    <id>urn:2023-04-16T05:05:46.201Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T04:34:24.384Z</updated>
+    <updated>2023-04-16T05:05:46.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[oekaki]]></title>
+        <id>https://www.youtube.com/watch?v=wezKgUuVFqU</id>
+        <link href="https://www.youtube.com/watch?v=wezKgUuVFqU"/>
+        <updated>2023-04-16T05:03:38.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #バイオハザードヴィレッジ 】バイオ８ 最期まで駆け抜けるぜ！#9 【#紅龍イサナ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6FocG5MiUx4</id>
+        <link href="https://www.youtube.com/watch?v=6FocG5MiUx4"/>
+        <updated>2023-04-16T05:02:37.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】憧れのペットとの生活♡ 【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=Xd3CL0MIeZg</id>

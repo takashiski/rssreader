@@ -43,6 +43,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wezKgUuVFqU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wezKgUuVFqU",
+          "publishedOn": "2023-04-16T05:03:38.000Z",
+          "wordCount": null,
+          "title": "oekaki",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6FocG5MiUx4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6FocG5MiUx4",
+          "publishedOn": "2023-04-16T05:02:37.000Z",
+          "wordCount": null,
+          "title": "【 #バイオハザードヴィレッジ 】バイオ８ 最期まで駆け抜けるぜ！#9 【#紅龍イサナ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hdagi55EhN0",
           "author": null,
           "description": "",
