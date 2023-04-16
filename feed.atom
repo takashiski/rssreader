@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T11:34:17.412Z</id>
+    <id>urn:2023-04-16T12:07:07.158Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T11:34:17.412Z</updated>
+    <updated>2023-04-16T12:07:07.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,15 +39,6 @@
         <updated>2023-04-16T08:47:05.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7aIyECK6gzo</id>
-        <link href="https://www.youtube.com/watch?v=7aIyECK6gzo"/>
-        <updated>2023-04-16T06:41:22.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -91,15 +82,6 @@
         <id>https://www.youtube.com/watch?v=WlaLOjiP99s</id>
         <link href="https://www.youtube.com/watch?v=WlaLOjiP99s"/>
         <updated>2023-04-16T05:15:39.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #バイオハザードヴィレッジ 】バイオ８ 最期まで駆け抜けるぜ！#9 【#紅龍イサナ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6FocG5MiUx4</id>
-        <link href="https://www.youtube.com/watch?v=6FocG5MiUx4"/>
-        <updated>2023-04-16T05:02:37.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
@@ -507,15 +489,6 @@
         <updated>2023-04-13T13:26:31.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#春の歌姫Vによる歌枠リレー】エルフの歌でマターリしようずｗ🎤🌸｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=e_uLzdJ0Dv0</id>
-        <link href="https://www.youtube.com/watch?v=e_uLzdJ0Dv0"/>
-        <updated>2023-04-13T12:01:19.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1245,6 +1218,15 @@
         <updated>2023-04-08T14:48:46.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【懺悔】あなたの犯した罪は何ですか？【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jo2uIb_F0bU</id>
+        <link href="https://www.youtube.com/watch?v=jo2uIb_F0bU"/>
+        <updated>2023-04-08T14:48:02.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2118,6 +2100,15 @@
         <updated>2023-03-27T23:50:49.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【後夜祭】スパチャお礼と裏話【#ククルア爆誕2023】]]></title>
+        <id>https://www.youtube.com/watch?v=F2TZVa8In9Q</id>
+        <link href="https://www.youtube.com/watch?v=F2TZVa8In9Q"/>
+        <updated>2023-03-27T16:25:22.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
