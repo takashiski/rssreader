@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-16T22:34:24.656Z</id>
+    <id>urn:2023-04-16T23:05:47.926Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T22:34:24.656Z</updated>
+    <updated>2023-04-16T23:05:47.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -762,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=PElGn1uvwGw</id>
-        <link href="https://www.youtube.com/watch?v=PElGn1uvwGw"/>
-        <updated>2023-04-12T12:53:19.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
         <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
@@ -1128,6 +1119,15 @@
         <updated>2023-04-09T15:29:32.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5b9bZFCLCgI</id>
+        <link href="https://www.youtube.com/watch?v=5b9bZFCLCgI"/>
+        <updated>2023-04-09T15:25:15.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
