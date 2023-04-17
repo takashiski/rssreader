@@ -601,6 +601,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7Arww6tA5FE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Arww6tA5FE",
+          "publishedOn": "2023-04-17T04:16:57.000Z",
+          "wordCount": null,
+          "title": "【雑談】プチお披露目あり！お話ししよ！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7aIyECK6gzo",
           "author": null,
           "description": "",
@@ -738,16 +748,6 @@
           "publishedOn": "2023-04-10T01:33:05.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE #ツイぴた【新人VTuber/神輿たらん/ぴぴすぴる】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=sIdKfTTfHI8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sIdKfTTfHI8",
-          "publishedOn": "2023-04-09T19:06:54.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！夜中に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
