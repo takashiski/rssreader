@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-17T10:34:33.164Z</id>
+    <id>urn:2023-04-17T11:05:42.372Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T10:34:33.164Z</updated>
+    <updated>2023-04-17T11:05:42.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HJfkN_tur3c</id>
+        <link href="https://www.youtube.com/watch?v=HJfkN_tur3c"/>
+        <updated>2023-04-17T10:51:47.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】振り返り雑談歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=GK--BPU7ims</id>
+        <link href="https://www.youtube.com/watch?v=GK--BPU7ims"/>
+        <updated>2023-04-17T10:49:36.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=PElGn1uvwGw</id>
+        <link href="https://www.youtube.com/watch?v=PElGn1uvwGw"/>
+        <updated>2023-04-17T10:42:16.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜歌枠、ここでのんびりしていかない？🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=9tLRYPf5ku0</id>
@@ -39,15 +66,6 @@
         <updated>2023-04-17T05:46:40.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】振り返り雑談歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=GK--BPU7ims</id>
-        <link href="https://www.youtube.com/watch?v=GK--BPU7ims"/>
-        <updated>2023-04-17T05:34:44.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1122,15 +1140,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=k276GlNI4Uw</id>
-        <link href="https://www.youtube.com/watch?v=k276GlNI4Uw"/>
-        <updated>2023-04-09T23:15:50.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#29【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=w9ZsFkFfR4I</id>
         <link href="https://www.youtube.com/watch?v=w9ZsFkFfR4I"/>
@@ -1929,15 +1938,6 @@
         <updated>2023-04-01T11:15:41.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
-        <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
-        <updated>2023-04-01T07:47:51.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
