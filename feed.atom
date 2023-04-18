@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T07:34:21.851Z</id>
+    <id>urn:2023-04-18T08:06:23.165Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T07:34:21.851Z</updated>
+    <updated>2023-04-18T08:06:23.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=EIyFd5w5rNw</id>
+        <link href="https://www.youtube.com/watch?v=EIyFd5w5rNw"/>
+        <updated>2023-04-18T07:56:52.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本地図🗾テストを開催します【天川はの/彩雲のの】]]></title>
         <id>https://www.youtube.com/watch?v=eUPMhMxZZS4</id>
@@ -1992,15 +2001,6 @@
         <updated>2023-04-01T11:15:41.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
-        <link href="https://www.youtube.com/watch?v=casV1IWfB90"/>
-        <updated>2023-04-01T07:04:56.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
