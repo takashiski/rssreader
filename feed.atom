@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-17T23:34:25.098Z</id>
+    <id>urn:2023-04-18T00:20:45.834Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T23:34:25.098Z</updated>
+    <updated>2023-04-18T00:20:45.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2395,15 +2395,6 @@
         <id>https://www.youtube.com/watch?v=5jrHeI4T7Sw</id>
         <link href="https://www.youtube.com/watch?v=5jrHeI4T7Sw"/>
         <updated>2023-03-20T12:00:08.000Z</updated>
-        <author>
-            <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#shorts 】アディショナルメモリー / じん【#花鋏キョウ  #歌ってみた 】]]></title>
-        <id>https://www.youtube.com/watch?v=9cg2oK4INiQ</id>
-        <link href="https://www.youtube.com/watch?v=9cg2oK4INiQ"/>
-        <updated>2023-03-19T12:00:05.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
         </author>
