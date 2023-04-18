@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T17:05:21.282Z</id>
+    <id>urn:2023-04-18T17:34:16.577Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T17:05:21.282Z</updated>
+    <updated>2023-04-18T17:34:16.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=EIyFd5w5rNw</id>
+        <link href="https://www.youtube.com/watch?v=EIyFd5w5rNw"/>
+        <updated>2023-04-18T17:18:27.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / リアル膝枕でうっとり耳かき...♡〖knee pillow ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=X2cuEdg_Q2s</id>
@@ -75,15 +84,6 @@
         <updated>2023-04-18T13:35:39.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】甘やかし全肯定で耳かきされたら安眠間違いなし♡【Ear Cleaning/Ear Tapping/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=OsUVU95qGnc</id>
-        <link href="https://www.youtube.com/watch?v=OsUVU95qGnc"/>
-        <updated>2023-04-18T13:16:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1545,6 +1545,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【お化け屋敷清掃】逃げながらお掃除するホラーゲーム！？/Paranormal Cleanup【#りりあこ /来音こくり/月紫アリア/リクム/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=ej2i5fH3GoI</id>
+        <link href="https://www.youtube.com/watch?v=ej2i5fH3GoI"/>
+        <updated>2023-04-07T12:47:49.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】まったりお歌の時間です⛅karaoke【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=kIgenNvQ82s</id>
         <link href="https://www.youtube.com/watch?v=kIgenNvQ82s"/>
@@ -2037,15 +2046,6 @@
         <updated>2023-04-01T11:15:41.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=casV1IWfB90</id>
-        <link href="https://www.youtube.com/watch?v=casV1IWfB90"/>
-        <updated>2023-04-01T07:04:56.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
