@@ -454,16 +454,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=EIyFd5w5rNw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EIyFd5w5rNw",
-          "publishedOn": "2023-04-18T07:56:52.000Z",
-          "wordCount": null,
-          "title": "【Lobotomy Corporation】今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=nDlRsCjFsrw",
           "author": null,
           "description": "",
@@ -601,6 +591,16 @@
           "publishedOn": "2023-04-03T14:39:32.000Z",
           "wordCount": null,
           "title": "【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=casV1IWfB90",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=casV1IWfB90",
+          "publishedOn": "2023-04-01T07:04:56.000Z",
+          "wordCount": null,
+          "title": "【 #歌うまV歌枠リレー 】ねむのおうた、あなたの心に響かせます🤍一緒に楽しんでね～っ🌸💭singing stream/KARAOKE💫【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
