@@ -758,6 +758,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7aJzp3YlTyc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7aJzp3YlTyc",
+          "publishedOn": "2023-04-18T07:02:30.000Z",
+          "wordCount": null,
+          "title": "【 歌枠/singing stream 】ゲリラ！お歌の時間だよ【#彩雲のの / #新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gku_N5CZtzY",
           "author": null,
           "description": "",
@@ -895,16 +905,6 @@
           "publishedOn": "2023-03-27T12:00:30.000Z",
           "wordCount": null,
           "title": "【歌枠/切り抜き】癒し系Vingerが春泥棒を歌ってみたら・・・【#shorts /#彩雲のの 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8kLqWVsjvuk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8kLqWVsjvuk",
-          "publishedOn": "2023-03-26T12:00:06.000Z",
-          "wordCount": null,
-          "title": "【歌枠/切り抜き】癒し系Vingerが残響散歌を歌ってみたら・・・【#shorts /#彩雲のの 】",
           "imageUrl": null
         }
       ]
@@ -2010,6 +2010,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ9SJLG7dA00M7VoEe4ltw",
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eUPMhMxZZS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eUPMhMxZZS4",
+          "publishedOn": "2023-04-18T07:04:37.000Z",
+          "wordCount": null,
+          "title": "日本地図🗾テストを開催します【天川はの/彩雲のの】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=O7wlIrHr3qI",
           "author": null,
