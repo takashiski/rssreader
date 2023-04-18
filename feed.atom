@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T16:34:30.939Z</id>
+    <id>urn:2023-04-18T17:05:21.282Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T16:34:30.939Z</updated>
+    <updated>2023-04-18T17:05:21.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 広告なし! / リアル膝枕でうっとり耳かき...♡〖knee pillow ear cleaning / binaural / JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=X2cuEdg_Q2s</id>
+        <link href="https://www.youtube.com/watch?v=X2cuEdg_Q2s"/>
+        <updated>2023-04-18T16:51:22.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】生意気な妹💗たっぷり癒してあげるね、お兄ちゃん💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=FwCcLY3Sqz0</id>
@@ -2226,15 +2235,6 @@
         <updated>2023-03-27T12:00:30.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=OZIZy76qfP8</id>
-        <link href="https://www.youtube.com/watch?v=OZIZy76qfP8"/>
-        <updated>2023-03-27T10:30:25.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
