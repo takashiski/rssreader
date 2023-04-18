@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HJfkN_tur3c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HJfkN_tur3c",
+          "publishedOn": "2023-04-18T15:15:54.000Z",
+          "wordCount": null,
+          "title": "【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GK--BPU7ims",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2023-04-02T06:09:21.000Z",
           "wordCount": null,
           "title": "【#お花見飲酒歌枠リレー】ゆっくりしていってね！！！🌸🍻｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=00Xj3SAATXM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=00Xj3SAATXM",
-          "publishedOn": "2023-04-01T07:47:51.000Z",
-          "wordCount": null,
-          "title": "【歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -925,16 +925,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=nODa29mfYXs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nODa29mfYXs",
-          "publishedOn": "2023-04-18T10:43:04.000Z",
-          "wordCount": null,
-          "title": "めっめっめえめっっめめめめめｍんばーおんりー",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=-FIoMBw5e-g",
           "author": null,
           "description": "",
@@ -1072,6 +1062,16 @@
           "publishedOn": "2023-04-01T11:15:41.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
+          "publishedOn": "2023-03-31T13:02:29.000Z",
+          "wordCount": null,
+          "title": "【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]

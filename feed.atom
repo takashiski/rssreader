@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T15:06:26.933Z</id>
+    <id>urn:2023-04-18T15:34:46.293Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T15:06:26.933Z</updated>
+    <updated>2023-04-18T15:34:46.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HJfkN_tur3c</id>
+        <link href="https://www.youtube.com/watch?v=HJfkN_tur3c"/>
+        <updated>2023-04-18T15:15:54.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4bngbUKbzng</id>
@@ -93,15 +102,6 @@
         <updated>2023-04-18T10:57:36.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[めっめっめえめっっめめめめめｍんばーおんりー]]></title>
-        <id>https://www.youtube.com/watch?v=nODa29mfYXs</id>
-        <link href="https://www.youtube.com/watch?v=nODa29mfYXs"/>
-        <updated>2023-04-18T10:43:04.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2040,15 +2040,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
-        <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
-        <updated>2023-04-01T07:47:51.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[じゅ、じゅじゅじゅ、じゅうだいはっぴょうぉうぉうぉう！？！？]]></title>
         <id>https://www.youtube.com/watch?v=ogdYfei8mPY</id>
         <link href="https://www.youtube.com/watch?v=ogdYfei8mPY"/>
@@ -2091,6 +2082,15 @@
         <updated>2023-03-31T13:04:30.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=idqvM2qtP6Y</id>
+        <link href="https://www.youtube.com/watch?v=idqvM2qtP6Y"/>
+        <updated>2023-03-31T13:02:29.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
