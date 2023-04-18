@@ -915,6 +915,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nODa29mfYXs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nODa29mfYXs",
+          "publishedOn": "2023-04-18T10:43:04.000Z",
+          "wordCount": null,
+          "title": "めっめっめえめっっめめめめめｍんばーおんりー",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-FIoMBw5e-g",
           "author": null,
           "description": "",
@@ -1052,16 +1062,6 @@
           "publishedOn": "2023-04-01T11:15:41.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
-          "publishedOn": "2023-03-31T13:02:29.000Z",
-          "wordCount": null,
-          "title": "【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -1698,16 +1698,6 @@
           "wordCount": null,
           "title": "【#varkshorts 】猫ちゃんなでな〜で🐱🐾【#vtuber / #猫乃ユキノ 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1j77wYynnDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1j77wYynnDw",
-          "publishedOn": "2023-04-10T08:50:13.000Z",
-          "wordCount": null,
-          "title": "【#varkshorts 】話題のアプリで踊ってみた🩵 【#vtuber /#猫乃ユキノ 】",
-          "imageUrl": null
         }
       ]
     },
@@ -1716,6 +1706,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5XQhzMH08PgWa4Zp02Gcsw",
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=XsxORy6qBWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XsxORy6qBWM",
+          "publishedOn": "2023-04-18T10:59:33.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見大歓迎✨かわいいお歌を、たくさん歌う💜 karaoke【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=OfTfzR15V7g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OfTfzR15V7g",
+          "publishedOn": "2023-04-18T10:57:36.000Z",
+          "wordCount": null,
+          "title": "【朝活】初見歓迎✨毎週水曜日の朝は、アリアの時間💜 good morning【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=r0zj6BT_zmk",
           "author": null,
@@ -1844,26 +1854,6 @@
           "publishedOn": "2023-04-10T10:30:29.000Z",
           "wordCount": null,
           "title": "【VARKSHORTS】kawaii エフェクトダンス💜 #varkshorts  #shorts #vtuber #月紫アリア",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-WCLLd_4NUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-WCLLd_4NUY",
-          "publishedOn": "2023-04-09T16:47:15.000Z",
-          "wordCount": null,
-          "title": "【ASMR】安眠誘導💗気持ちよく眠りについちゃう、耳かき&マッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rCVTlZcZhsw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rCVTlZcZhsw",
-          "publishedOn": "2023-04-08T14:10:17.000Z",
-          "wordCount": null,
-          "title": "【雑談】つくぴちお花見🌸もぐもぐいつも食べててごめん🐟🦇💗 #つくつくぴっち【月紫アリア/夢川かなう/Vtuber】",
           "imageUrl": null
         }
       ]
