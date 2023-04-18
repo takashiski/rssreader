@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T11:34:10.886Z</id>
+    <id>urn:2023-04-18T12:07:42.956Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T11:34:10.886Z</updated>
+    <updated>2023-04-18T12:07:42.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホラー】やってんなぁ【#閉店事件】]]></title>
+        <id>https://www.youtube.com/watch?v=LNOXyvpmsDk</id>
+        <link href="https://www.youtube.com/watch?v=LNOXyvpmsDk"/>
+        <updated>2023-04-18T11:37:24.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【moon】すっかり釣り人になったうさぎ🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=BOMRSw9X_bM</id>
@@ -1383,15 +1392,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / UTAUYO! / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=MMdrVKmiTCQ</id>
-        <link href="https://www.youtube.com/watch?v=MMdrVKmiTCQ"/>
-        <updated>2023-04-08T17:31:00.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[☆星のカービィWiiデラックス / #03 / 完全初見🔥お前の故郷、救ったる！！〖九楽ライ/Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=yzPBbCZTPk4</id>
         <link href="https://www.youtube.com/watch?v=yzPBbCZTPk4"/>
@@ -2244,6 +2244,15 @@
         <updated>2023-03-26T10:27:14.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜さ、僕と過ごさない？♡ / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NB_gwNEzzdQ</id>
+        <link href="https://www.youtube.com/watch?v=NB_gwNEzzdQ"/>
+        <updated>2023-03-26T07:14:18.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

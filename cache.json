@@ -1259,16 +1259,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=MMdrVKmiTCQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MMdrVKmiTCQ",
-          "publishedOn": "2023-04-08T17:31:00.000Z",
-          "wordCount": null,
-          "title": "◆おうち３D歌枠✨ /sing / UTAUYO! / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=yzPBbCZTPk4",
           "author": null,
           "description": "",
@@ -1366,6 +1356,16 @@
           "publishedOn": "2023-03-27T10:30:25.000Z",
           "wordCount": null,
           "title": "◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=NB_gwNEzzdQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NB_gwNEzzdQ",
+          "publishedOn": "2023-03-26T07:14:18.000Z",
+          "wordCount": null,
+          "title": "◆おうち３D歌枠✨ /sing / 日曜さ、僕と過ごさない？♡ / karaoke【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2638,6 +2638,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPuEfqwYbpn7e2jWdQeWew",
       "siteUrl": "https://www.youtube.com/channel/UCpPuEfqwYbpn7e2jWdQeWew",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LNOXyvpmsDk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LNOXyvpmsDk",
+          "publishedOn": "2023-04-18T11:37:24.000Z",
+          "wordCount": null,
+          "title": "【ホラー】やってんなぁ【#閉店事件】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=P6fXcpP4rCw",
           "author": null,
