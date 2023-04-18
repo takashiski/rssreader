@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T14:05:53.525Z</id>
+    <id>urn:2023-04-18T14:37:05.903Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T14:05:53.525Z</updated>
+    <updated>2023-04-18T14:37:05.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / UTAUYO! / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=MMdrVKmiTCQ</id>
+        <link href="https://www.youtube.com/watch?v=MMdrVKmiTCQ"/>
+        <updated>2023-04-18T14:27:24.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ユノりぼ姉妹】あのアニメの話が、ついに姉妹でできる……！？【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KqEeiBZQhmI</id>
@@ -105,15 +114,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=4bngbUKbzng</id>
-        <link href="https://www.youtube.com/watch?v=4bngbUKbzng"/>
-        <updated>2023-04-18T08:35:40.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=EIyFd5w5rNw</id>
         <link href="https://www.youtube.com/watch?v=EIyFd5w5rNw"/>
@@ -192,15 +192,6 @@
         <updated>2023-04-17T11:17:01.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=HJfkN_tur3c</id>
-        <link href="https://www.youtube.com/watch?v=HJfkN_tur3c"/>
-        <updated>2023-04-17T10:51:47.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2049,6 +2040,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠】🎊プチお披露目＆4000人達成感謝🎊｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=00Xj3SAATXM</id>
+        <link href="https://www.youtube.com/watch?v=00Xj3SAATXM"/>
+        <updated>2023-04-01T07:47:51.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[じゅ、じゅじゅじゅ、じゅうだいはっぴょうぉうぉうぉう！？！？]]></title>
         <id>https://www.youtube.com/watch?v=ogdYfei8mPY</id>
         <link href="https://www.youtube.com/watch?v=ogdYfei8mPY"/>
@@ -2166,6 +2166,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[家 飲 み な う【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gwU9kjiSRX8</id>
+        <link href="https://www.youtube.com/watch?v=gwU9kjiSRX8"/>
+        <updated>2023-03-28T17:16:43.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=b0dkmx36614</id>
         <link href="https://www.youtube.com/watch?v=b0dkmx36614"/>
@@ -2271,15 +2280,6 @@
         <updated>2023-03-26T10:27:14.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜さ、僕と過ごさない？♡ / karaoke【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NB_gwNEzzdQ</id>
-        <link href="https://www.youtube.com/watch?v=NB_gwNEzzdQ"/>
-        <updated>2023-03-26T07:14:18.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
