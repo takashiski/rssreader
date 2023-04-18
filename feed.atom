@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T13:34:27.134Z</id>
+    <id>urn:2023-04-18T14:05:53.525Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T13:34:27.134Z</updated>
+    <updated>2023-04-18T14:05:53.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ユノりぼ姉妹】あのアニメの話が、ついに姉妹でできる……！？【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=KqEeiBZQhmI</id>
+        <link href="https://www.youtube.com/watch?v=KqEeiBZQhmI"/>
+        <updated>2023-04-18T13:49:06.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #minecraft 】羽を求めて三千里🐥【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=hKg6SEWKimk</id>
+        <link href="https://www.youtube.com/watch?v=hKg6SEWKimk"/>
+        <updated>2023-04-18T13:46:43.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本地図🗾テストを開催します【天川はの/彩雲のの】]]></title>
+        <id>https://www.youtube.com/watch?v=eUPMhMxZZS4</id>
+        <link href="https://www.youtube.com/watch?v=eUPMhMxZZS4"/>
+        <updated>2023-04-18T13:35:39.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】甘やかし全肯定で耳かきされたら安眠間違いなし♡【Ear Cleaning/Ear Tapping/Relax Sounds/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=OsUVU95qGnc</id>
@@ -30,15 +57,6 @@
         <updated>2023-04-18T11:37:24.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】すっかり釣り人になったうさぎ🐰【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=BOMRSw9X_bM</id>
-        <link href="https://www.youtube.com/watch?v=BOMRSw9X_bM"/>
-        <updated>2023-04-18T11:25:58.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1272,15 +1290,6 @@
         <updated>2023-04-10T10:30:29.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#varkshorts 】話題のアプリで踊ってみた🩵 【#vtuber /#猫乃ユキノ 】]]></title>
-        <id>https://www.youtube.com/watch?v=1j77wYynnDw</id>
-        <link href="https://www.youtube.com/watch?v=1j77wYynnDw"/>
-        <updated>2023-04-10T08:50:13.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>

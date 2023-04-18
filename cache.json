@@ -1570,6 +1570,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hKg6SEWKimk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hKg6SEWKimk",
+          "publishedOn": "2023-04-18T13:46:43.000Z",
+          "wordCount": null,
+          "title": "【 #minecraft 】羽を求めて三千里🐥【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PElGn1uvwGw",
           "author": null,
           "description": "",
@@ -1707,16 +1717,6 @@
           "publishedOn": "2023-04-11T09:02:04.000Z",
           "wordCount": null,
           "title": "【#varkshorts 】猫ちゃんなでな〜で🐱🐾【#vtuber / #猫乃ユキノ 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1j77wYynnDw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1j77wYynnDw",
-          "publishedOn": "2023-04-10T08:50:13.000Z",
-          "wordCount": null,
-          "title": "【#varkshorts 】話題のアプリで踊ってみた🩵 【#vtuber /#猫乃ユキノ 】",
           "imageUrl": null
         }
       ]
@@ -1884,16 +1884,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=BOMRSw9X_bM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BOMRSw9X_bM",
-          "publishedOn": "2023-04-18T11:25:58.000Z",
-          "wordCount": null,
-          "title": "【moon】すっかり釣り人になったうさぎ🐰【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=hHIYWxKIXwE",
           "author": null,
           "description": "",
@@ -2040,6 +2030,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ9SJLG7dA00M7VoEe4ltw",
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eUPMhMxZZS4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eUPMhMxZZS4",
+          "publishedOn": "2023-04-18T13:35:39.000Z",
+          "wordCount": null,
+          "title": "日本地図🗾テストを開催します【天川はの/彩雲のの】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=O7wlIrHr3qI",
           "author": null,
@@ -2742,6 +2742,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=KqEeiBZQhmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KqEeiBZQhmI",
+          "publishedOn": "2023-04-18T13:49:06.000Z",
+          "wordCount": null,
+          "title": "【#ユノりぼ姉妹】あのアニメの話が、ついに姉妹でできる……！？【宇佐美ユノ / 姫熊りぼん / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=fqKr0Sl78zk",
           "author": null,
