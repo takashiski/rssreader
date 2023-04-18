@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T02:39:07.119Z</id>
+    <id>urn:2023-04-18T03:05:44.577Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T02:39:07.119Z</updated>
+    <updated>2023-04-18T03:05:44.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【危険】宇宙熊アイドルを舐めるとこうなるぜ。 #shorts #varkshorts]]></title>
+        <id>https://www.youtube.com/watch?v=nJSnxt3fowE</id>
+        <link href="https://www.youtube.com/watch?v=nJSnxt3fowE"/>
+        <updated>2023-04-18T03:00:18.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ホラー】やってんなぁ【#閉店事件】]]></title>
         <id>https://www.youtube.com/watch?v=LNOXyvpmsDk</id>
@@ -1506,15 +1515,6 @@
         <updated>2023-04-06T17:30:37.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【熊の歌枠】初見さん大歓迎♡今夜は特別🎶真の姿で歌ってみた！/Singing Stream【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=od3ZEkBpFoA</id>
-        <link href="https://www.youtube.com/watch?v=od3ZEkBpFoA"/>
-        <updated>2023-04-06T16:19:00.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
