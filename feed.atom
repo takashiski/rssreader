@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T17:34:16.577Z</id>
+    <id>urn:2023-04-18T18:06:16.696Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T17:34:16.577Z</updated>
+    <updated>2023-04-18T18:06:16.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】甘やかし全肯定で耳かきされたら安眠間違いなし♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=OsUVU95qGnc</id>
+        <link href="https://www.youtube.com/watch?v=OsUVU95qGnc"/>
+        <updated>2023-04-18T17:31:58.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=EIyFd5w5rNw</id>
@@ -1542,15 +1551,6 @@
         <updated>2023-04-07T13:22:09.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お化け屋敷清掃】逃げながらお掃除するホラーゲーム！？/Paranormal Cleanup【#りりあこ /来音こくり/月紫アリア/リクム/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=ej2i5fH3GoI</id>
-        <link href="https://www.youtube.com/watch?v=ej2i5fH3GoI"/>
-        <updated>2023-04-07T12:47:49.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
