@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T09:06:13.697Z</id>
+    <id>urn:2023-04-19T09:34:27.718Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T09:06:13.697Z</updated>
+    <updated>2023-04-19T09:34:27.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】すーぱーかいぬし様限定☁ Only for Superkainushi. 【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=Z8S7_yXgqLw</id>
+        <link href="https://www.youtube.com/watch?v=Z8S7_yXgqLw"/>
+        <updated>2023-04-19T09:18:08.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=X4xSKkQ9Kmw</id>
+        <link href="https://www.youtube.com/watch?v=X4xSKkQ9Kmw"/>
+        <updated>2023-04-19T09:08:10.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=AMCiyxzcUCk</id>
+        <link href="https://www.youtube.com/watch?v=AMCiyxzcUCk"/>
+        <updated>2023-04-19T09:07:26.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【復帰配信】ただいまー！会いたかった！！zatsudan!!!【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=CDr-ShumThQ</id>
@@ -1149,15 +1176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ズームッズームッ🩵 #vtuber #varkshorts]]></title>
-        <id>https://www.youtube.com/watch?v=DblZt5uWOUc</id>
-        <link href="https://www.youtube.com/watch?v=DblZt5uWOUc"/>
-        <updated>2023-04-12T08:24:57.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／8ヶ月記念歌枠～～🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=CLfJSKHHEHg</id>
         <link href="https://www.youtube.com/watch?v=CLfJSKHHEHg"/>
@@ -1221,15 +1239,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】もうトラップには引っかからないゼ🧠#2【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=-O1EHpaxpBk</id>
-        <link href="https://www.youtube.com/watch?v=-O1EHpaxpBk"/>
-        <updated>2023-04-11T16:16:19.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】男性ボーカルアニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Qr90SEqPVOQ</id>
         <link href="https://www.youtube.com/watch?v=Qr90SEqPVOQ"/>
@@ -1272,15 +1281,6 @@
         <updated>2023-04-11T10:30:10.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#varkshorts 】猫ちゃんなでな〜で🐱🐾【#vtuber / #猫乃ユキノ 】]]></title>
-        <id>https://www.youtube.com/watch?v=smKUOU7vDIs</id>
-        <link href="https://www.youtube.com/watch?v=smKUOU7vDIs"/>
-        <updated>2023-04-11T09:02:04.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
