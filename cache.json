@@ -1082,6 +1082,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4w3Ova8J7bM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4w3Ova8J7bM",
+          "publishedOn": "2023-04-19T12:32:09.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎！ちぃちゃいお知らせあります / 水曜定期歌枠 #39 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4bngbUKbzng",
           "author": null,
           "description": "",
@@ -1099,16 +1109,6 @@
           "publishedOn": "2023-04-15T16:25:03.000Z",
           "wordCount": null,
           "title": "#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4w3Ova8J7bM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4w3Ova8J7bM",
-          "publishedOn": "2023-04-15T16:20:37.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】初見さん大歓迎！ちぃちゃいお知らせあります / 水曜定期歌枠 #39 ✦　KARAOKE ✦ 【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -2040,6 +2040,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ9SJLG7dA00M7VoEe4ltw",
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6uPXdZ7SU1o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6uPXdZ7SU1o",
+          "publishedOn": "2023-04-19T12:20:28.000Z",
+          "wordCount": null,
+          "title": "び で お",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=eUPMhMxZZS4",
           "author": null,
