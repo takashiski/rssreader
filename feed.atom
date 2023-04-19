@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T04:05:59.988Z</id>
+    <id>urn:2023-04-19T04:34:45.351Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T04:05:59.988Z</updated>
+    <updated>2023-04-19T04:34:45.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【恋の悩みは恋で消せ！】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=r4PQDVyBN8I</id>
+        <link href="https://www.youtube.com/watch?v=r4PQDVyBN8I"/>
+        <updated>2023-04-19T04:22:41.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／今週もがんばってこ～～～！！歌うぞおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=rM_iloN10PQ</id>
@@ -165,15 +174,6 @@
         <updated>2023-04-18T09:04:57.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【恋の悩みは恋で消せ！】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=r4PQDVyBN8I</id>
-        <link href="https://www.youtube.com/watch?v=r4PQDVyBN8I"/>
-        <updated>2023-04-18T05:16:17.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
