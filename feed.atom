@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T09:34:27.718Z</id>
+    <id>urn:2023-04-19T10:06:21.951Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T09:34:27.718Z</updated>
+    <updated>2023-04-19T10:06:21.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ハモリチャレンジ】逆光 / Ado #るーとも #onepiece #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VnfkdONlssk</id>
+        <link href="https://www.youtube.com/watch?v=VnfkdONlssk"/>
+        <updated>2023-04-19T10:00:20.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】青汁を毎日飲んでいます🥒 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=01kUtcPqnvA</id>
+        <link href="https://www.youtube.com/watch?v=01kUtcPqnvA"/>
+        <updated>2023-04-19T09:40:44.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第4話〜第6話】同時視聴｜少女革命ウテナ【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=LKlxk-rOQwA</id>
+        <link href="https://www.youtube.com/watch?v=LKlxk-rOQwA"/>
+        <updated>2023-04-19T09:39:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】すーぱーかいぬし様限定☁ Only for Superkainushi. 【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=Z8S7_yXgqLw</id>
@@ -1095,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】酔い止めを飲むのを忘れない🧠#3【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=5iz2SwoEIv0</id>
-        <link href="https://www.youtube.com/watch?v=5iz2SwoEIv0"/>
-        <updated>2023-04-12T13:00:24.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
         <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
@@ -1144,15 +1162,6 @@
         <id>https://www.youtube.com/watch?v=AxV2fjziCwM</id>
         <link href="https://www.youtube.com/watch?v=AxV2fjziCwM"/>
         <updated>2023-04-12T10:16:15.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【本気で】死ぬな！ / こっちのけんと【歌ってみた】#新人vtuber #ハモリチャレンジ  #歌ってみた #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=o4vT-vKYsMU</id>
-        <link href="https://www.youtube.com/watch?v=o4vT-vKYsMU"/>
-        <updated>2023-04-12T10:14:23.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -2055,15 +2064,6 @@
         <updated>2023-04-02T08:07:27.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#お花見飲酒歌枠リレー】ゆっくりしていってね！！！🌸🍻｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ha4QLOfel88</id>
-        <link href="https://www.youtube.com/watch?v=ha4QLOfel88"/>
-        <updated>2023-04-02T06:09:21.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
