@@ -2335,16 +2335,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=DUTwt11T6lo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DUTwt11T6lo",
-          "publishedOn": "2023-04-19T12:36:06.000Z",
-          "wordCount": null,
-          "title": "【#歌枠】いろいろあったなのおはなししながらおうたෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=fg0kxmO5Nd8",
           "author": null,
           "description": "",
@@ -2482,6 +2472,16 @@
           "publishedOn": "2023-03-31T16:42:27.000Z",
           "wordCount": null,
           "title": "【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=08ailPUSBc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=08ailPUSBc4",
+          "publishedOn": "2023-03-30T14:17:48.000Z",
+          "wordCount": null,
+          "title": "【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
