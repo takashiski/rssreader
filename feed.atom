@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T16:36:55.154Z</id>
+    <id>urn:2023-04-19T17:05:47.911Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T16:36:55.154Z</updated>
+    <updated>2023-04-19T17:05:47.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【👻Bendy and the Ink Machine🖊️】デ●ズニー！？カートゥーンな世界でホラー！？；；※悲鳴注意【天川はの】#02]]></title>
+        <id>https://www.youtube.com/watch?v=hsDqGAMAwHc</id>
+        <link href="https://www.youtube.com/watch?v=hsDqGAMAwHc"/>
+        <updated>2023-04-19T16:59:39.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】いろいろあったなのおはなししながらおうたෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DUTwt11T6lo</id>
+        <link href="https://www.youtube.com/watch?v=DUTwt11T6lo"/>
+        <updated>2023-04-19T16:31:25.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【凸待ち / 重大告知】#月紫アリア２周年 ✨ 盛りだくさん❕お祝いして～🎉💜✨ Debut 2nd anniversary 💗【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=k_PVBb5_i1I</id>
@@ -19,15 +37,6 @@
         <id>https://www.youtube.com/watch?v=XTpGj2a20oE</id>
         <link href="https://www.youtube.com/watch?v=XTpGj2a20oE"/>
         <updated>2023-04-19T14:53:18.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雑談【メン限】]]></title>
-        <id>https://www.youtube.com/watch?v=RuLSng9jj7k</id>
-        <link href="https://www.youtube.com/watch?v=RuLSng9jj7k"/>
-        <updated>2023-04-19T14:42:32.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -192,15 +201,6 @@
         <updated>2023-04-18T17:18:27.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆ASMR / 広告なし! / リアル膝枕でうっとり耳かき...♡〖knee pillow ear cleaning / binaural / JapaneseVtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=X2cuEdg_Q2s</id>
-        <link href="https://www.youtube.com/watch?v=X2cuEdg_Q2s"/>
-        <updated>2023-04-18T16:51:22.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1194,6 +1194,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【本気で】死ぬな！ / こっちのけんと【歌ってみた】#新人vtuber #ハモリチャレンジ  #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=o4vT-vKYsMU</id>
+        <link href="https://www.youtube.com/watch?v=o4vT-vKYsMU"/>
+        <updated>2023-04-12T10:14:23.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【告知】獅子神レオナ 4th LIVE「言の葉」30秒CM]]></title>
         <id>https://www.youtube.com/watch?v=YnFaNWcwIEU</id>
         <link href="https://www.youtube.com/watch?v=YnFaNWcwIEU"/>
@@ -2166,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=08ailPUSBc4</id>
-        <link href="https://www.youtube.com/watch?v=08ailPUSBc4"/>
-        <updated>2023-03-30T14:17:48.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#ほろ酔い女子会 お花見して盛大に酔っぱらうぞ!【姫熊りぼん/丸餅つきみ/稀羽すう/＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2dz9TpiwtFs</id>
         <link href="https://www.youtube.com/watch?v=2dz9TpiwtFs"/>
@@ -2271,6 +2271,15 @@
         <updated>2023-03-27T12:00:30.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆1st Anniversary!?✨/ おいら、デビューしてから1年たったらしいぞ！！！【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OZIZy76qfP8</id>
+        <link href="https://www.youtube.com/watch?v=OZIZy76qfP8"/>
+        <updated>2023-03-27T10:30:25.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
