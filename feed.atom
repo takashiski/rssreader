@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T08:34:56.273Z</id>
+    <id>urn:2023-04-19T09:06:13.697Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T08:34:56.273Z</updated>
+    <updated>2023-04-19T09:06:13.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【復帰配信】ただいまー！会いたかった！！zatsudan!!!【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=CDr-ShumThQ</id>
+        <link href="https://www.youtube.com/watch?v=CDr-ShumThQ"/>
+        <updated>2023-04-19T08:51:35.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XTpGj2a20oE</id>
+        <link href="https://www.youtube.com/watch?v=XTpGj2a20oE"/>
+        <updated>2023-04-19T08:43:48.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 公認ミラー配信 】モンスターハンターライズ：サンブレイク最新情報ちぇっく！【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=GHuOXz8IfTQ</id>
@@ -1203,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！お歌の時間！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=UUCRqzqziZI</id>
-        <link href="https://www.youtube.com/watch?v=UUCRqzqziZI"/>
-        <updated>2023-04-11T17:08:50.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】もうトラップには引っかからないゼ🧠#2【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=-O1EHpaxpBk</id>
         <link href="https://www.youtube.com/watch?v=-O1EHpaxpBk"/>
@@ -1335,15 +1344,6 @@
         <updated>2023-04-10T10:30:29.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE #ツイぴた【新人VTuber/神輿たらん/ぴぴすぴる】]]></title>
-        <id>https://www.youtube.com/watch?v=tpTuPXLbKCU</id>
-        <link href="https://www.youtube.com/watch?v=tpTuPXLbKCU"/>
-        <updated>2023-04-10T01:33:05.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>

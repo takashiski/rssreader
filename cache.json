@@ -611,6 +611,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CDr-ShumThQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CDr-ShumThQ",
+          "publishedOn": "2023-04-19T08:51:35.000Z",
+          "wordCount": null,
+          "title": "【復帰配信】ただいまー！会いたかった！！zatsudan!!!【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XTpGj2a20oE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XTpGj2a20oE",
+          "publishedOn": "2023-04-19T08:43:48.000Z",
+          "wordCount": null,
+          "title": "再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7Arww6tA5FE",
           "author": null,
           "description": "",
@@ -738,26 +758,6 @@
           "publishedOn": "2023-04-12T10:14:23.000Z",
           "wordCount": null,
           "title": "【本気で】死ぬな！ / こっちのけんと【歌ってみた】#新人vtuber #ハモリチャレンジ  #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UUCRqzqziZI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UUCRqzqziZI",
-          "publishedOn": "2023-04-11T17:08:50.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！お歌の時間！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tpTuPXLbKCU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tpTuPXLbKCU",
-          "publishedOn": "2023-04-10T01:33:05.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】すぴちゃとコラボお歌枠！！ KARAOKE #ツイぴた【新人VTuber/神輿たらん/ぴぴすぴる】",
           "imageUrl": null
         }
       ]
