@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T12:42:31.185Z</id>
+    <id>urn:2023-04-19T13:07:31.333Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T12:42:31.185Z</updated>
+    <updated>2023-04-19T13:07:31.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】いろいろあったなのおはなししながらおうたෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DUTwt11T6lo</id>
+        <link href="https://www.youtube.com/watch?v=DUTwt11T6lo"/>
+        <updated>2023-04-19T12:36:06.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎！ちぃちゃいお知らせあります / 水曜定期歌枠 #39 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=4w3Ova8J7bM</id>
@@ -1140,10 +1149,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】酔い止めを飲むのを忘れない🧠#3【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=5iz2SwoEIv0</id>
-        <link href="https://www.youtube.com/watch?v=5iz2SwoEIv0"/>
-        <updated>2023-04-12T13:00:24.000Z</updated>
+        <title type="html"><![CDATA[【#歌枠】泣いてすっきりしたい日💧 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=DGiS7Loi4WA</id>
+        <link href="https://www.youtube.com/watch?v=DGiS7Loi4WA"/>
+        <updated>2023-04-12T13:18:32.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -2184,15 +2193,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#夢川かなう新衣装】かわいすぎる２年半ぶりの新衣装！！！【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=08ailPUSBc4</id>
-        <link href="https://www.youtube.com/watch?v=08ailPUSBc4"/>
-        <updated>2023-03-30T14:17:48.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#ほろ酔い女子会 お花見して盛大に酔っぱらうぞ!【姫熊りぼん/丸餅つきみ/稀羽すう/＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2dz9TpiwtFs</id>
         <link href="https://www.youtube.com/watch?v=2dz9TpiwtFs"/>
@@ -2442,15 +2442,6 @@
         <updated>2023-03-21T15:47:33.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🔆朝活】めっちゃ健康で充実した毎日を送る子供🐤初見さん歓迎【天川はの】]]></title>
-        <id>https://www.youtube.com/watch?v=FEqHNcSOygE</id>
-        <link href="https://www.youtube.com/watch?v=FEqHNcSOygE"/>
-        <updated>2023-03-21T01:03:29.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
 </feed>
