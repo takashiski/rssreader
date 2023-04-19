@@ -2492,16 +2492,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=GHuOXz8IfTQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GHuOXz8IfTQ",
-          "publishedOn": "2023-04-19T07:39:17.000Z",
-          "wordCount": null,
-          "title": "【 公認ミラー配信 】モンスターハンターライズ：サンブレイク最新情報ちぇっく！【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=m7rkgA3-B5I",
           "author": null,
           "description": "",
@@ -2639,6 +2629,16 @@
           "publishedOn": "2023-04-02T19:30:47.000Z",
           "wordCount": null,
           "title": "【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nnP04hPpfOI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nnP04hPpfOI",
+          "publishedOn": "2023-03-31T12:53:43.000Z",
+          "wordCount": null,
+          "title": "【 雑談】バーチャルあべのハルカスっていったいなーに？【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
