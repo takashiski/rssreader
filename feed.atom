@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T00:23:12.686Z</id>
+    <id>urn:2023-04-19T00:49:45.631Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T00:23:12.686Z</updated>
+    <updated>2023-04-19T00:49:45.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨毎週水曜日の朝は、アリアの時間💜 good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OfTfzR15V7g</id>
+        <link href="https://www.youtube.com/watch?v=OfTfzR15V7g"/>
+        <updated>2023-04-19T00:33:33.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】ゲリラ！お歌の時間だよ【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=7aJzp3YlTyc</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=XsxORy6qBWM</id>
         <link href="https://www.youtube.com/watch?v=XsxORy6qBWM"/>
         <updated>2023-04-18T10:59:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨毎週水曜日の朝は、アリアの時間💜 good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=OfTfzR15V7g</id>
-        <link href="https://www.youtube.com/watch?v=OfTfzR15V7g"/>
-        <updated>2023-04-18T10:57:36.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
