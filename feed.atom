@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T10:06:21.951Z</id>
+    <id>urn:2023-04-19T10:34:38.478Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T10:06:21.951Z</updated>
+    <updated>2023-04-19T10:34:38.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-04-19T09:07:26.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復帰配信】ただいまー！会いたかった！！zatsudan!!!【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=CDr-ShumThQ</id>
-        <link href="https://www.youtube.com/watch?v=CDr-ShumThQ"/>
-        <updated>2023-04-19T08:51:35.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1162,6 +1153,15 @@
         <id>https://www.youtube.com/watch?v=AxV2fjziCwM</id>
         <link href="https://www.youtube.com/watch?v=AxV2fjziCwM"/>
         <updated>2023-04-12T10:16:15.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【本気で】死ぬな！ / こっちのけんと【歌ってみた】#新人vtuber #ハモリチャレンジ  #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=o4vT-vKYsMU</id>
+        <link href="https://www.youtube.com/watch?v=o4vT-vKYsMU"/>
+        <updated>2023-04-12T10:14:23.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
