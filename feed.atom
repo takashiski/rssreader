@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T11:05:23.103Z</id>
+    <id>urn:2023-04-19T11:34:11.838Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T11:05:23.103Z</updated>
+    <updated>2023-04-19T11:34:11.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【membership】おひさびさ、めげ🥂近況報告【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=KAzzDXdFR0c</id>
+        <link href="https://www.youtube.com/watch?v=KAzzDXdFR0c"/>
+        <updated>2023-04-19T11:28:12.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第4話〜第6話】同時視聴｜少女革命ウテナ【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=UVt2bKjfhPw</id>
+        <link href="https://www.youtube.com/watch?v=UVt2bKjfhPw"/>
+        <updated>2023-04-19T11:27:56.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Q REMASTERED】物理演算パズルって何？？？【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=ATylNuDAf74</id>
+        <link href="https://www.youtube.com/watch?v=ATylNuDAf74"/>
+        <updated>2023-04-19T11:27:26.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【メン限】『リトルバスターズ！〜Refrain〜』同時視聴～⚾✨今夜から2期に突入です💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2VMJowjn6sY</id>
+        <link href="https://www.youtube.com/watch?v=2VMJowjn6sY"/>
+        <updated>2023-04-19T11:10:15.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ハモリチャレンジ】逆光 / Ado #るーとも #onepiece #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=VnfkdONlssk</id>
@@ -21,15 +57,6 @@
         <updated>2023-04-19T09:40:44.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第4話〜第6話】同時視聴｜少女革命ウテナ【メン限】]]></title>
-        <id>https://www.youtube.com/watch?v=LKlxk-rOQwA</id>
-        <link href="https://www.youtube.com/watch?v=LKlxk-rOQwA"/>
-        <updated>2023-04-19T09:39:05.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1554,15 +1581,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳独占♡どきどきするのに安眠できる耳かき・リップ音【Ear Cleaning/Mouth Sound/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=-di_kNLuzBU</id>
-        <link href="https://www.youtube.com/watch?v=-di_kNLuzBU"/>
-        <updated>2023-04-07T18:17:21.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】管理人、お仕事復帰ですっ❣(後編)【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ACq9G00XPvY</id>
         <link href="https://www.youtube.com/watch?v=ACq9G00XPvY"/>
@@ -1938,15 +1956,6 @@
         <updated>2023-04-03T15:25:14.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XMW0VP2-qQ8</id>
-        <link href="https://www.youtube.com/watch?v=XMW0VP2-qQ8"/>
-        <updated>2023-04-03T14:39:32.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -2334,15 +2343,6 @@
         <updated>2023-03-25T14:33:43.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂/ #歌枠 】初見さん大歓迎～／週末きちゃああ！歌うよおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3Qvvj6MtQ60</id>
-        <link href="https://www.youtube.com/watch?v=3Qvvj6MtQ60"/>
-        <updated>2023-03-25T05:11:46.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
