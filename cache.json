@@ -1894,6 +1894,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fArgNaHEmCc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fArgNaHEmCc",
+          "publishedOn": "2023-04-20T11:38:49.000Z",
+          "wordCount": null,
+          "title": "【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃんわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YM7UPlMxXS0",
           "author": null,
           "description": "",
@@ -2031,16 +2041,6 @@
           "publishedOn": "2023-03-28T15:02:20.000Z",
           "wordCount": null,
           "title": "【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PZ74lMZilAM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PZ74lMZilAM",
-          "publishedOn": "2023-03-25T15:12:28.000Z",
-          "wordCount": null,
-          "title": "【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
@@ -2204,7 +2204,7 @@
           "link": "https://www.youtube.com/watch?v=Gw_5YePC4-w",
           "publishedOn": "2023-04-20T15:39:06.000Z",
           "wordCount": null,
-          "title": "【KU100 ASMR/睡眠導入】高音質。ドキドキするのに眠れる♡癒しのゴシゴシ耳かき【Ear Cleaning/Relax Sounds/Binaural/Whispering】",
+          "title": "【ASMR/睡眠導入】ドキドキするのに眠れる♡癒しのゴシゴシ耳かき【Ear Cleaning/Relax Sounds/Binaural/Whispering】",
           "imageUrl": null
         },
         {
