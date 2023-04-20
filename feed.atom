@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T15:34:24.668Z</id>
+    <id>urn:2023-04-20T16:06:14.066Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T15:34:24.668Z</updated>
+    <updated>2023-04-20T16:06:14.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
+        <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
+        <updated>2023-04-20T15:59:44.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】高音質。ドキドキするのに眠れる♡癒しのゴシゴシ耳かき【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=Gw_5YePC4-w</id>
+        <link href="https://www.youtube.com/watch?v=Gw_5YePC4-w"/>
+        <updated>2023-04-20T15:39:06.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ  #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=HebK8kwMh3o</id>
@@ -75,15 +93,6 @@
         <updated>2023-04-20T09:50:30.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WKM-SUclS0U</id>
-        <link href="https://www.youtube.com/watch?v=WKM-SUclS0U"/>
-        <updated>2023-04-20T08:27:20.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1653,15 +1662,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳独占♡どきどきするのに安眠できる耳かき・リップ音【Ear Cleaning/Mouth Sound/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=-di_kNLuzBU</id>
-        <link href="https://www.youtube.com/watch?v=-di_kNLuzBU"/>
-        <updated>2023-04-07T18:17:21.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】管理人、お仕事復帰ですっ❣(後編)【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ACq9G00XPvY</id>
         <link href="https://www.youtube.com/watch?v=ACq9G00XPvY"/>
@@ -2031,6 +2031,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XMW0VP2-qQ8</id>
+        <link href="https://www.youtube.com/watch?v=XMW0VP2-qQ8"/>
+        <updated>2023-04-03T14:39:32.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌ってみた】デビルじゃないもん by魔光リサ]]></title>
         <id>https://www.youtube.com/watch?v=U1c6NglyxR8</id>
         <link href="https://www.youtube.com/watch?v=U1c6NglyxR8"/>
@@ -2253,15 +2262,6 @@
         <updated>2023-03-30T10:30:05.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝活ゲリラ歌枠 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rDI22_C9Q08</id>
-        <link href="https://www.youtube.com/watch?v=rDI22_C9Q08"/>
-        <updated>2023-03-30T01:00:38.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
