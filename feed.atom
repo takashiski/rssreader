@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T12:07:34.431Z</id>
+    <id>urn:2023-04-20T12:42:09.211Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T12:07:34.431Z</updated>
+    <updated>2023-04-20T12:42:09.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ  #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=HebK8kwMh3o</id>
+        <link href="https://www.youtube.com/watch?v=HebK8kwMh3o"/>
+        <updated>2023-04-20T12:22:57.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！しっとりお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=u_3szQZ5eos</id>
+        <link href="https://www.youtube.com/watch?v=u_3szQZ5eos"/>
+        <updated>2023-04-20T12:12:08.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌ってみた 】レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ]]></title>
         <id>https://www.youtube.com/watch?v=mRYF3W58wlU</id>
@@ -42,21 +60,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【ツミキ】]]></title>
+        <title type="html"><![CDATA[【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【DECO*27】]]></title>
         <id>https://www.youtube.com/watch?v=JkWFBvPhIik</id>
         <link href="https://www.youtube.com/watch?v=JkWFBvPhIik"/>
         <updated>2023-04-20T11:00:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ちょっと早めの夜歌！歌うぞおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LJ7migtbsyY</id>
-        <link href="https://www.youtube.com/watch?v=LJ7migtbsyY"/>
-        <updated>2023-04-20T10:21:46.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -1128,15 +1137,6 @@
         <updated>2023-04-13T03:27:20.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【8ヶ月記念日】『休むな！8分音符ちゃん』やるよ～！！お祝いしに来て！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jx2eqA0KF2Y</id>
-        <link href="https://www.youtube.com/watch?v=jx2eqA0KF2Y"/>
-        <updated>2023-04-13T02:53:42.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2397,6 +2397,15 @@
         <updated>2023-03-25T14:33:43.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂/ #歌枠 】初見さん大歓迎～／週末きちゃああ！歌うよおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3Qvvj6MtQ60</id>
+        <link href="https://www.youtube.com/watch?v=3Qvvj6MtQ60"/>
+        <updated>2023-03-25T05:11:46.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
