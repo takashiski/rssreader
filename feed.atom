@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T16:36:34.161Z</id>
+    <id>urn:2023-04-20T17:05:52.258Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T16:36:34.161Z</updated>
+    <updated>2023-04-20T17:05:52.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=WKM-SUclS0U</id>
+        <link href="https://www.youtube.com/watch?v=WKM-SUclS0U"/>
+        <updated>2023-04-20T16:38:17.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】朝ごはん一緒に食べよ～🥞！生活リズムを改善したい朝活☀【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=I5iXtP1qe8w</id>
+        <link href="https://www.youtube.com/watch?v=I5iXtP1qe8w"/>
+        <updated>2023-04-20T16:30:00.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
@@ -111,15 +129,6 @@
         <updated>2023-04-20T05:07:34.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】最近のことゆっくりはなすのじゃ～🐟ෆ。【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=IT_2EEPRvhc</id>
-        <link href="https://www.youtube.com/watch?v=IT_2EEPRvhc"/>
-        <updated>2023-04-20T04:54:23.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1950,15 +1959,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p5lqSsNk090</id>
-        <link href="https://www.youtube.com/watch?v=p5lqSsNk090"/>
-        <updated>2023-04-04T16:56:49.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1周年ありがとうございましたー！（でっかい声） 【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-_x6wGtYKTI</id>
         <link href="https://www.youtube.com/watch?v=-_x6wGtYKTI"/>
@@ -2037,15 +2037,6 @@
         <updated>2023-04-03T15:25:14.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XMW0VP2-qQ8</id>
-        <link href="https://www.youtube.com/watch?v=XMW0VP2-qQ8"/>
-        <updated>2023-04-03T14:39:32.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -2208,6 +2199,15 @@
         <updated>2023-03-31T23:27:12.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NBjiU96MOiU</id>
+        <link href="https://www.youtube.com/watch?v=NBjiU96MOiU"/>
+        <updated>2023-03-31T16:42:27.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
