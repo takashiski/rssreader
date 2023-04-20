@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T10:34:19.108Z</id>
+    <id>urn:2023-04-20T11:05:32.364Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T10:34:19.108Z</updated>
+    <updated>2023-04-20T11:05:32.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【ツミキ】]]></title>
+        <id>https://www.youtube.com/watch?v=JkWFBvPhIik</id>
+        <link href="https://www.youtube.com/watch?v=JkWFBvPhIik"/>
+        <updated>2023-04-20T11:00:08.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌ってみた 】？？？]]></title>
+        <id>https://www.youtube.com/watch?v=mRYF3W58wlU</id>
+        <link href="https://www.youtube.com/watch?v=mRYF3W58wlU"/>
+        <updated>2023-04-20T10:35:23.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ちょっと早めの夜歌！歌うぞおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LJ7migtbsyY</id>
@@ -201,15 +219,6 @@
         <updated>2023-04-19T09:40:44.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【ツミキ】]]></title>
-        <id>https://www.youtube.com/watch?v=JkWFBvPhIik</id>
-        <link href="https://www.youtube.com/watch?v=JkWFBvPhIik"/>
-        <updated>2023-04-19T09:25:21.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
