@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T11:34:22.849Z</id>
+    <id>urn:2023-04-20T12:07:34.431Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T11:34:22.849Z</updated>
+    <updated>2023-04-20T12:07:34.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌ってみた 】レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ]]></title>
+        <id>https://www.youtube.com/watch?v=mRYF3W58wlU</id>
+        <link href="https://www.youtube.com/watch?v=mRYF3W58wlU"/>
+        <updated>2023-04-20T12:00:11.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【メンバーシップ限定】お絵描きしながらしゃべるのです]]></title>
+        <id>https://www.youtube.com/watch?v=wA5OxnoyW4c</id>
+        <link href="https://www.youtube.com/watch?v=wA5OxnoyW4c"/>
+        <updated>2023-04-20T11:58:29.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【戦国大河】ついに決着！！長い戦いを乗り越えた盟主つきみと誉れ高き つきみ荘！！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=YM7UPlMxXS0</id>
+        <link href="https://www.youtube.com/watch?v=YM7UPlMxXS0"/>
+        <updated>2023-04-20T11:36:10.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ハモリカラオケ】「鬼滅の刃」刀鍛冶の里編「絆ノ奇跡」MAN WITH A MISSION×milet 一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=Yrqy9u5nQhY</id>
@@ -21,15 +48,6 @@
         <updated>2023-04-20T11:00:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌ってみた 】？？？]]></title>
-        <id>https://www.youtube.com/watch?v=mRYF3W58wlU</id>
-        <link href="https://www.youtube.com/watch?v=mRYF3W58wlU"/>
-        <updated>2023-04-20T10:35:23.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
     <entry>
@@ -93,15 +111,6 @@
         <updated>2023-04-20T04:22:44.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホラゲ】Layers of fear う、うわああああああ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=lQvXUMv0ZTY</id>
-        <link href="https://www.youtube.com/watch?v=lQvXUMv0ZTY"/>
-        <updated>2023-04-20T01:59:47.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -2211,6 +2220,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=idqvM2qtP6Y</id>
+        <link href="https://www.youtube.com/watch?v=idqvM2qtP6Y"/>
+        <updated>2023-03-31T13:02:29.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #shorts 】Vsingerが一発録りで 春よ、来い 歌ってみた【#彩雲のの / #新人vtuber 】]]></title>
         <id>https://www.youtube.com/watch?v=t9tlnL5zwZ8</id>
         <link href="https://www.youtube.com/watch?v=t9tlnL5zwZ8"/>
@@ -2244,15 +2262,6 @@
         <updated>2023-03-30T10:30:05.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝活ゲリラ歌枠 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rDI22_C9Q08</id>
-        <link href="https://www.youtube.com/watch?v=rDI22_C9Q08"/>
-        <updated>2023-03-30T01:00:38.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
