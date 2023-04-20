@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T04:34:45.075Z</id>
+    <id>urn:2023-04-20T05:06:03.602Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T04:34:45.076Z</updated>
+    <updated>2023-04-20T05:06:03.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】最近のことゆっくりはなすのじゃ～🐟ෆ。【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=IT_2EEPRvhc</id>
+        <link href="https://www.youtube.com/watch?v=IT_2EEPRvhc"/>
+        <updated>2023-04-20T04:54:23.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ミラノ風ドリアしか勝たん】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=s5DxM2LNPP4</id>
@@ -2145,15 +2154,6 @@
         <updated>2023-03-31T23:27:12.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新衣装振り返り】こだわりポイントとか話しながらじっくり見る！まだ見せてないものありました…。【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NBjiU96MOiU</id>
-        <link href="https://www.youtube.com/watch?v=NBjiU96MOiU"/>
-        <updated>2023-03-31T16:42:27.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
