@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T23:34:23.503Z</id>
+    <id>urn:2023-04-20T00:20:50.221Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T23:34:23.503Z</updated>
+    <updated>2023-04-20T00:20:50.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -69,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】]]></title>
+        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=gEcpzms5ZOw</id>
         <link href="https://www.youtube.com/watch?v=gEcpzms5ZOw"/>
         <updated>2023-04-19T13:14:15.000Z</updated>
