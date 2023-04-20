@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T03:34:20.239Z</id>
+    <id>urn:2023-04-20T04:05:58.640Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T03:34:20.239Z</updated>
+    <updated>2023-04-20T04:05:58.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -165,15 +165,6 @@
         <updated>2023-04-19T09:07:26.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ミラノ風ドリアしか勝たん】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=s5DxM2LNPP4</id>
-        <link href="https://www.youtube.com/watch?v=s5DxM2LNPP4"/>
-        <updated>2023-04-19T05:07:08.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
@@ -2442,15 +2433,6 @@
         <updated>2023-03-21T17:13:06.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】愛のためなら眠気にも負けない！…どやろか【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=nfAe2OUzcPs</id>
-        <link href="https://www.youtube.com/watch?v=nfAe2OUzcPs"/>
-        <updated>2023-03-21T15:47:33.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>
