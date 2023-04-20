@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T11:05:32.364Z</id>
+    <id>urn:2023-04-20T11:34:22.849Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T11:05:32.364Z</updated>
+    <updated>2023-04-20T11:34:22.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ハモリカラオケ】「鬼滅の刃」刀鍛冶の里編「絆ノ奇跡」MAN WITH A MISSION×milet 一緒に歌って？#shorts #かしこまり]]></title>
+        <id>https://www.youtube.com/watch?v=Yrqy9u5nQhY</id>
+        <link href="https://www.youtube.com/watch?v=Yrqy9u5nQhY"/>
+        <updated>2023-04-20T11:00:20.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【ツミキ】]]></title>
         <id>https://www.youtube.com/watch?v=JkWFBvPhIik</id>
@@ -2406,15 +2415,6 @@
         <updated>2023-03-23T14:03:31.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ハモリにつられるな】結束バンド「ギターと孤独と蒼い惑星」一緒に歌って？#shorts #かしこまり]]></title>
-        <id>https://www.youtube.com/watch?v=-L_2stWfNE8</id>
-        <link href="https://www.youtube.com/watch?v=-L_2stWfNE8"/>
-        <updated>2023-03-23T11:00:00.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
