@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T01:32:44.735Z</id>
+    <id>urn:2023-04-20T02:18:28.262Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T01:32:44.735Z</updated>
+    <updated>2023-04-20T02:18:28.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ホラゲ】Layers of fear う、うわああああああ 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=lQvXUMv0ZTY</id>
+        <link href="https://www.youtube.com/watch?v=lQvXUMv0ZTY"/>
+        <updated>2023-04-20T01:59:47.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡今季アニメについて語る！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=EuSabOLYhIU</id>
+        <link href="https://www.youtube.com/watch?v=EuSabOLYhIU"/>
+        <updated>2023-04-20T01:26:13.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】酔い止めを飲むのを忘れない🧠#3【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=5iz2SwoEIv0</id>
@@ -2154,15 +2172,6 @@
         <updated>2023-03-31T13:04:30.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=idqvM2qtP6Y</id>
-        <link href="https://www.youtube.com/watch?v=idqvM2qtP6Y"/>
-        <updated>2023-03-31T13:02:29.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

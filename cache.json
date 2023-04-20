@@ -925,6 +925,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lQvXUMv0ZTY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lQvXUMv0ZTY",
+          "publishedOn": "2023-04-20T01:59:47.000Z",
+          "wordCount": null,
+          "title": "【ホラゲ】Layers of fear う、うわああああああ 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=-FIoMBw5e-g",
           "author": null,
           "description": "",
@@ -1062,16 +1072,6 @@
           "publishedOn": "2023-04-01T11:15:41.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=idqvM2qtP6Y",
-          "publishedOn": "2023-03-31T13:02:29.000Z",
-          "wordCount": null,
-          "title": "【ホラゲ】Layers of fear こわいらしい 【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2742,6 +2742,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EuSabOLYhIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EuSabOLYhIU",
+          "publishedOn": "2023-04-20T01:26:13.000Z",
+          "wordCount": null,
+          "title": "【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡今季アニメについて語る！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=KqEeiBZQhmI",
           "author": null,
