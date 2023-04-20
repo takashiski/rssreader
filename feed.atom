@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T19:05:32.809Z</id>
+    <id>urn:2023-04-20T19:34:08.461Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T19:05:32.809Z</updated>
+    <updated>2023-04-20T19:34:08.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】ドキドキするのに眠れる♡癒しのゴシゴシ耳かき【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=Gw_5YePC4-w</id>
+        <link href="https://www.youtube.com/watch?v=Gw_5YePC4-w"/>
+        <updated>2023-04-20T19:08:03.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=WKM-SUclS0U</id>
@@ -39,15 +48,6 @@
         <updated>2023-04-20T12:22:57.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【睡眠導入】初見さん大歓迎！！まったりはなそ~！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=u_3szQZ5eos</id>
-        <link href="https://www.youtube.com/watch?v=u_3szQZ5eos"/>
-        <updated>2023-04-20T12:12:08.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1149,6 +1149,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【8ヶ月記念日】『休むな！8分音符ちゃん』やるよ～！！お祝いしに来て！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jx2eqA0KF2Y</id>
+        <link href="https://www.youtube.com/watch?v=jx2eqA0KF2Y"/>
+        <updated>2023-04-13T02:53:42.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=mbfun_I57Do</id>
         <link href="https://www.youtube.com/watch?v=mbfun_I57Do"/>
@@ -1668,15 +1677,6 @@
         <updated>2023-04-08T05:14:04.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳独占♡どきどきするのに安眠できる耳かき・リップ音【Ear Cleaning/Mouth Sound/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=-di_kNLuzBU</id>
-        <link href="https://www.youtube.com/watch?v=-di_kNLuzBU"/>
-        <updated>2023-04-07T18:17:21.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
