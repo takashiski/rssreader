@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=WKM-SUclS0U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=WKM-SUclS0U",
+          "publishedOn": "2023-04-20T08:27:20.000Z",
+          "wordCount": null,
+          "title": "【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EIyFd5w5rNw",
           "author": null,
           "description": "",
@@ -591,16 +601,6 @@
           "publishedOn": "2023-04-04T16:56:49.000Z",
           "wordCount": null,
           "title": "【#歌枠 】ゆるゆるおうたを歌いたい🤍💭singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XMW0VP2-qQ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XMW0VP2-qQ8",
-          "publishedOn": "2023-04-03T14:39:32.000Z",
-          "wordCount": null,
-          "title": "【雑談】歌うまV歌枠リレー嘘だらけの2日間🌸✨お疲れさまでした～💖【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1757,16 +1757,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=XsxORy6qBWM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XsxORy6qBWM",
-          "publishedOn": "2023-04-18T10:59:33.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見大歓迎✨かわいいお歌を、たくさん歌う💜 karaoke【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=r0zj6BT_zmk",
           "author": null,
           "description": "",
@@ -1874,6 +1864,16 @@
           "publishedOn": "2023-04-10T16:41:03.000Z",
           "wordCount": null,
           "title": "【雑談】深夜にこそこそ、まったりお話～🌸 初見さんも歓迎ちゅ💜✨【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rbENSI9m-cA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rbENSI9m-cA",
+          "publishedOn": "2023-04-10T10:30:29.000Z",
+          "wordCount": null,
+          "title": "【VARKSHORTS】kawaii エフェクトダンス💜 #varkshorts  #shorts #vtuber #月紫アリア",
           "imageUrl": null
         }
       ]
@@ -2492,6 +2492,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=JkWFBvPhIik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JkWFBvPhIik",
+          "publishedOn": "2023-04-19T09:25:21.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【ツミキ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m7rkgA3-B5I",
           "author": null,
           "description": "",
@@ -2619,16 +2629,6 @@
           "publishedOn": "2023-04-03T15:25:14.000Z",
           "wordCount": null,
           "title": "【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0XBaEGdLaTk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0XBaEGdLaTk",
-          "publishedOn": "2023-04-02T19:30:47.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】ランドスライドへようこそ。 / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
