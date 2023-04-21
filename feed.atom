@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T11:34:08.750Z</id>
+    <id>urn:2023-04-21T12:07:33.988Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T11:34:08.750Z</updated>
+    <updated>2023-04-21T12:07:33.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ガチャ】宇宙人と評される「ネオユニヴァース」を宇宙熊がお迎えする配信です。【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=Vy11pIPmnL4</id>
+        <link href="https://www.youtube.com/watch?v=Vy11pIPmnL4"/>
+        <updated>2023-04-21T12:02:16.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談/#たらおは】芸人2人！？ゲストは玉ノ井もなかちゃん！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IYPSqLyuWfU</id>
+        <link href="https://www.youtube.com/watch?v=IYPSqLyuWfU"/>
+        <updated>2023-04-21T11:28:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[˗ˋ 歌ってみた ˊ˗かわいい『トウキョウ・シャンディ・ランデヴ/MAISONdes』夢川かなう #歌ってみた #夢川かなう #shorts]]></title>
         <id>https://www.youtube.com/watch?v=v7--GXriP_s</id>
@@ -48,15 +66,6 @@
         <updated>2023-04-21T06:09:43.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ガチャ】宇宙人と評される「ネオユニヴァース」を宇宙熊がお迎えする配信です。【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=Vy11pIPmnL4</id>
-        <link href="https://www.youtube.com/watch?v=Vy11pIPmnL4"/>
-        <updated>2023-04-21T04:38:19.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -150,7 +159,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃんわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】]]></title>
+        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=fArgNaHEmCc</id>
         <link href="https://www.youtube.com/watch?v=fArgNaHEmCc"/>
         <updated>2023-04-20T11:38:49.000Z</updated>
@@ -1180,15 +1189,6 @@
         <id>https://www.youtube.com/watch?v=9hIWVLy0vH8</id>
         <link href="https://www.youtube.com/watch?v=9hIWVLy0vH8"/>
         <updated>2023-04-13T09:33:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ESU_FWCVjjc</id>
-        <link href="https://www.youtube.com/watch?v=ESU_FWCVjjc"/>
-        <updated>2023-04-13T06:03:16.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>

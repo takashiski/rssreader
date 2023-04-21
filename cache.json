@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
+          "publishedOn": "2023-04-21T11:28:54.000Z",
+          "wordCount": null,
+          "title": "【雑談/#たらおは】芸人2人！？ゲストは玉ノ井もなかちゃん！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u_3szQZ5eos",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-13T09:33:58.000Z",
           "wordCount": null,
           "title": "君の20秒私にください #超絶かわいい #新人vtuber  #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ESU_FWCVjjc",
-          "publishedOn": "2023-04-13T06:03:16.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1900,7 +1900,7 @@
           "link": "https://www.youtube.com/watch?v=fArgNaHEmCc",
           "publishedOn": "2023-04-20T11:38:49.000Z",
           "wordCount": null,
-          "title": "【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃんわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】",
+          "title": "【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】",
           "imageUrl": null
         },
         {
@@ -2182,7 +2182,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=Vy11pIPmnL4",
-          "publishedOn": "2023-04-21T04:38:19.000Z",
+          "publishedOn": "2023-04-21T12:02:16.000Z",
           "wordCount": null,
           "title": "【ガチャ】宇宙人と評される「ネオユニヴァース」を宇宙熊がお迎えする配信です。【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】",
           "imageUrl": null
