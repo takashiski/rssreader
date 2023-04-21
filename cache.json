@@ -935,6 +935,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u7gluOO4BjM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u7gluOO4BjM",
+          "publishedOn": "2023-04-21T07:23:04.000Z",
+          "wordCount": null,
+          "title": "【needy girl overdose】無知すぎてこのゲームは””戦い””だと思ってる 【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lQvXUMv0ZTY",
           "author": null,
           "description": "",
@@ -1072,16 +1082,6 @@
           "publishedOn": "2023-04-02T11:09:43.000Z",
           "wordCount": null,
           "title": "デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BCP8kbGFzjU",
-          "publishedOn": "2023-04-01T11:15:41.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
