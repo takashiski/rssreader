@@ -1894,6 +1894,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YM7UPlMxXS0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YM7UPlMxXS0",
+          "publishedOn": "2023-04-21T22:23:36.000Z",
+          "wordCount": null,
+          "title": "【戦国大河】ついに決着！！長い戦いを乗り越えた盟主つきみと誉れ高き つきみ荘！！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fArgNaHEmCc",
           "author": null,
           "description": "",
@@ -2031,16 +2041,6 @@
           "publishedOn": "2023-03-28T15:02:20.000Z",
           "wordCount": null,
           "title": "【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PZ74lMZilAM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PZ74lMZilAM",
-          "publishedOn": "2023-03-25T15:12:28.000Z",
-          "wordCount": null,
-          "title": "【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]

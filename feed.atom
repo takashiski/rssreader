@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T22:05:46.771Z</id>
+    <id>urn:2023-04-21T22:34:09.631Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T22:05:46.771Z</updated>
+    <updated>2023-04-21T22:34:09.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【戦国大河】ついに決着！！長い戦いを乗り越えた盟主つきみと誉れ高き つきみ荘！！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=YM7UPlMxXS0</id>
+        <link href="https://www.youtube.com/watch?v=YM7UPlMxXS0"/>
+        <updated>2023-04-21T22:23:36.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】お前さんのお悩み､歌で解決します ✧ #ククルアラッキーソング｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TQG6IzoZlgc</id>
@@ -2370,15 +2379,6 @@
         <updated>2023-03-25T17:27:00.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【戦国大河】視聴者参加型：リアクトタレント対抗戦！？勝利の女神に身をゆだねよ…【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=PZ74lMZilAM</id>
-        <link href="https://www.youtube.com/watch?v=PZ74lMZilAM"/>
-        <updated>2023-03-25T15:12:28.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
