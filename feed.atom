@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T03:34:21.153Z</id>
+    <id>urn:2023-04-21T04:06:01.078Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T03:34:21.153Z</updated>
+    <updated>2023-04-21T04:06:01.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -147,15 +147,6 @@
         <updated>2023-04-20T09:50:30.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【一番好きな所は顔】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Xo-AeyA01vE</id>
-        <link href="https://www.youtube.com/watch?v=Xo-AeyA01vE"/>
-        <updated>2023-04-20T05:07:34.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
@@ -2436,12 +2427,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【👂ASMR】シャンプーしてあげますからね【Shampoo/Water Sounds/EarMassage/Whispering/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=aCTbFxfn3AM</id>
-        <link href="https://www.youtube.com/watch?v=aCTbFxfn3AM"/>
-        <updated>2023-03-22T15:59:47.000Z</updated>
+        <title type="html"><![CDATA[【ハモリにつられるな】結束バンド「ギターと孤独と蒼い惑星」一緒に歌って？#shorts #かしこまり]]></title>
+        <id>https://www.youtube.com/watch?v=-L_2stWfNE8</id>
+        <link href="https://www.youtube.com/watch?v=-L_2stWfNE8"/>
+        <updated>2023-03-23T11:00:00.000Z</updated>
         <author>
-            <name>天川はの/AmakawaHano</name>
+            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
 </feed>
