@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T14:34:28.456Z</id>
+    <id>urn:2023-04-21T15:05:37.161Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T14:34:28.456Z</updated>
+    <updated>2023-04-21T15:05:37.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=fArgNaHEmCc</id>
+        <link href="https://www.youtube.com/watch?v=fArgNaHEmCc"/>
+        <updated>2023-04-21T14:46:38.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【needy girl overdose】無知すぎてこのゲームは””戦い””だと思ってる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=u7gluOO4BjM</id>
+        <link href="https://www.youtube.com/watch?v=u7gluOO4BjM"/>
+        <updated>2023-04-21T14:43:00.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】ボス・ベイビー (吹替版) 見る👶【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=tkKh21uRUNg</id>
@@ -2181,15 +2199,6 @@
         <updated>2023-04-01T16:16:43.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡１年目ラスト！歌枠♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=BCP8kbGFzjU</id>
-        <link href="https://www.youtube.com/watch?v=BCP8kbGFzjU"/>
-        <updated>2023-04-01T11:15:41.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
