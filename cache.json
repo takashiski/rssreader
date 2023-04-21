@@ -1239,16 +1239,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=u_V6AcAOhCw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u_V6AcAOhCw",
-          "publishedOn": "2023-04-21T11:02:50.000Z",
-          "wordCount": null,
-          "title": "【menber only】同時視聴だい！！！【】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=X2cuEdg_Q2s",
           "author": null,
           "description": "",
@@ -1386,6 +1376,16 @@
           "publishedOn": "2023-03-31T23:27:12.000Z",
           "wordCount": null,
           "title": "◆アース：リバイバル / SF終末世界を探索＆サバイバル！？新作ゲーム先行プレイしちゃうぞ✨【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Gq8xMvX3QZY",
+          "publishedOn": "2023-03-28T14:59:46.000Z",
+          "wordCount": null,
+          "title": "☆星のカービィWiiデラックス / #02 / 完全初見🔥ひとりでも2人分うるさい丸顔の冒険。〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
