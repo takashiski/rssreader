@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T09:06:00.024Z</id>
+    <id>urn:2023-04-21T09:34:24.971Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T09:06:00.024Z</updated>
+    <updated>2023-04-21T09:34:24.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】睡眠誘導💗可愛い女の子に癒されながら、安眠💗耳かき/マッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=HJ0xItzu3k0</id>
+        <link href="https://www.youtube.com/watch?v=HJ0xItzu3k0"/>
+        <updated>2023-04-21T09:31:16.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【needy girl overdose】無知すぎてこのゲームは””戦い””だと思ってる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=u7gluOO4BjM</id>
@@ -1497,15 +1506,6 @@
         <updated>2023-04-10T17:37:52.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】深夜にこそこそ、まったりお話～🌸 初見さんも歓迎ちゅ💜✨【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=jhkU6lVuvzw</id>
-        <link href="https://www.youtube.com/watch?v=jhkU6lVuvzw"/>
-        <updated>2023-04-10T16:41:03.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
