@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T16:36:21.952Z</id>
+    <id>urn:2023-04-21T17:05:56.317Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T16:36:21.952Z</updated>
+    <updated>2023-04-21T17:05:56.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！おひるのお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=kOhiNdlrLxo</id>
+        <link href="https://www.youtube.com/watch?v=kOhiNdlrLxo"/>
+        <updated>2023-04-21T16:29:35.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】日曜日の安定のおうたわらわෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=w56KBFe3d6Q</id>
@@ -1171,15 +1180,6 @@
         <id>https://www.youtube.com/watch?v=9hIWVLy0vH8</id>
         <link href="https://www.youtube.com/watch?v=9hIWVLy0vH8"/>
         <updated>2023-04-13T09:33:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃお！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ESU_FWCVjjc</id>
-        <link href="https://www.youtube.com/watch?v=ESU_FWCVjjc"/>
-        <updated>2023-04-13T06:03:16.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
