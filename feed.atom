@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T22:34:19.474Z</id>
+    <id>urn:2023-04-22T23:05:48.764Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T22:34:19.474Z</updated>
+    <updated>2023-04-22T23:05:48.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜の昼は僕と盛り上がる歌枠🔥 / karaoke【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=ch9tKJL-87c</id>
+        <link href="https://www.youtube.com/watch?v=ch9tKJL-87c"/>
+        <updated>2023-04-22T22:25:07.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠 】本日はアニソン祭り❣✨あなたの大好きな曲は入ってるかな…🤍💭singing stream/KARAOKE🌸【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=5q2YTOcdmSw</id>
@@ -2307,15 +2316,6 @@
         <updated>2023-03-28T15:02:20.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[☆星のカービィWiiデラックス / #02 / 完全初見🔥ひとりでも2人分うるさい丸顔の冒険。〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=Gq8xMvX3QZY</id>
-        <link href="https://www.youtube.com/watch?v=Gq8xMvX3QZY"/>
-        <updated>2023-03-28T14:59:46.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
