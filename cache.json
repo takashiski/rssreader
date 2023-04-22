@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Tol1zujNCYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tol1zujNCYE",
+          "publishedOn": "2023-04-22T13:24:52.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん20人に会いたい！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DUHzcWTr_Vk",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-04-15T00:43:35.000Z",
           "wordCount": null,
           "title": "最終回【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YSuEhRZ9LmQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YSuEhRZ9LmQ",
-          "publishedOn": "2023-04-14T10:00:32.000Z",
-          "wordCount": null,
-          "title": "かしこまり先輩と『めざせポケモンマスター』歌ってみた #新人vtuber #歌ってみた #ハモリチャレンジ #るっくあっとたらん #shorts",
           "imageUrl": null
         }
       ]

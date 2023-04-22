@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T13:05:56.847Z</id>
+    <id>urn:2023-04-22T13:34:16.736Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T13:05:56.847Z</updated>
+    <updated>2023-04-22T13:34:16.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん20人に会いたい！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Tol1zujNCYE</id>
+        <link href="https://www.youtube.com/watch?v=Tol1zujNCYE"/>
+        <updated>2023-04-22T13:24:52.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Overcooked!2】出会ったばかりの4人で協力！？みんなお料理できるもん🔥❄🦋🗝with 風吹スサノオ様  冬陽リッカ様  メラ・アカル様【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=EnOMbqGxXjQ</id>
@@ -1164,15 +1173,6 @@
         <updated>2023-04-14T10:00:48.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かしこまり先輩と『めざせポケモンマスター』歌ってみた #新人vtuber #歌ってみた #ハモリチャレンジ #るっくあっとたらん #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=YSuEhRZ9LmQ</id>
-        <link href="https://www.youtube.com/watch?v=YSuEhRZ9LmQ"/>
-        <updated>2023-04-14T10:00:32.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
