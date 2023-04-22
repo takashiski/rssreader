@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T10:34:17.597Z</id>
+    <id>urn:2023-04-22T11:05:39.849Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T10:34:17.598Z</updated>
+    <updated>2023-04-22T11:05:39.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=RZAkIfjBUtk</id>
+        <link href="https://www.youtube.com/watch?v=RZAkIfjBUtk"/>
+        <updated>2023-04-22T10:47:17.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】つきみの逆転はあるか！？飼ってみたいペット・後編 【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=u4odKKeoNrM</id>
+        <link href="https://www.youtube.com/watch?v=u4odKKeoNrM"/>
+        <updated>2023-04-22T10:30:45.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミニスカートで巨大化してはいけません！ #shorts #varkshorts #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=pYA2AiVqWTE</id>
@@ -21,15 +39,6 @@
         <updated>2023-04-22T09:00:25.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=RZAkIfjBUtk</id>
-        <link href="https://www.youtube.com/watch?v=RZAkIfjBUtk"/>
-        <updated>2023-04-22T04:05:20.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -174,6 +183,15 @@
         <updated>2023-04-21T06:09:43.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#リアクト学園】2023年4月29日  春の特別企画🌸 Re:AcT学園 まもなく開校！ 【リアクト／Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fMCqD37D5oA</id>
+        <link href="https://www.youtube.com/watch?v=fMCqD37D5oA"/>
+        <updated>2023-04-21T04:41:13.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
@@ -2289,15 +2307,6 @@
         <updated>2023-03-29T12:00:09.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=b0dkmx36614</id>
-        <link href="https://www.youtube.com/watch?v=b0dkmx36614"/>
-        <updated>2023-03-28T15:02:20.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
