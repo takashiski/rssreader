@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
+          "publishedOn": "2023-04-22T02:21:36.000Z",
+          "wordCount": null,
+          "title": "【雑談/#たらおは】芸人2人！？ゲストは玉ノ井もなかちゃん！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kOhiNdlrLxo",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-14T00:13:45.000Z",
           "wordCount": null,
           "title": "【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9hIWVLy0vH8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9hIWVLy0vH8",
-          "publishedOn": "2023-04-13T09:33:58.000Z",
-          "wordCount": null,
-          "title": "君の20秒私にください #超絶かわいい #新人vtuber  #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]

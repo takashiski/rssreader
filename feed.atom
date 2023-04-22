@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T02:18:58.511Z</id>
+    <id>urn:2023-04-22T02:39:54.723Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T02:18:58.511Z</updated>
+    <updated>2023-04-22T02:39:54.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談/#たらおは】芸人2人！？ゲストは玉ノ井もなかちゃん！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IYPSqLyuWfU</id>
+        <link href="https://www.youtube.com/watch?v=IYPSqLyuWfU"/>
+        <updated>2023-04-22T02:21:36.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ユノりぼ姉妹】あのアニメの話が、ついに姉妹でできる……！？【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KqEeiBZQhmI</id>
@@ -1209,15 +1218,6 @@
         <updated>2023-04-13T09:45:31.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[君の20秒私にください #超絶かわいい #新人vtuber  #るっくあっとたらん #歌ってみた #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=9hIWVLy0vH8</id>
-        <link href="https://www.youtube.com/watch?v=9hIWVLy0vH8"/>
-        <updated>2023-04-13T09:33:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
