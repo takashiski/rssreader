@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T15:05:47.090Z</id>
+    <id>urn:2023-04-22T15:34:16.354Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T15:05:47.090Z</updated>
+    <updated>2023-04-22T15:34:16.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xc4ORSslowY</id>
+        <link href="https://www.youtube.com/watch?v=xc4ORSslowY"/>
+        <updated>2023-04-22T15:21:36.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】同時視聴🎥コナン/から紅の恋歌💌【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=KnxayrKG934</id>
@@ -129,15 +138,6 @@
         <updated>2023-04-21T22:23:36.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】お前さんのお悩み､歌で解決します ✧ #ククルアラッキーソング｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TQG6IzoZlgc</id>
-        <link href="https://www.youtube.com/watch?v=TQG6IzoZlgc"/>
-        <updated>2023-04-21T17:58:28.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -291,15 +291,6 @@
         <updated>2023-04-20T16:38:17.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
-        <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
-        <updated>2023-04-20T15:59:44.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2226,6 +2217,15 @@
         <updated>2023-04-02T08:07:27.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#お花見飲酒歌枠リレー】ゆっくりしていってね！！！🌸🍻｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ha4QLOfel88</id>
+        <link href="https://www.youtube.com/watch?v=ha4QLOfel88"/>
+        <updated>2023-04-02T06:09:21.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>

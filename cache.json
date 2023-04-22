@@ -337,16 +337,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=TQG6IzoZlgc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TQG6IzoZlgc",
-          "publishedOn": "2023-04-21T17:58:28.000Z",
-          "wordCount": null,
-          "title": "【歌枠】お前さんのお悩み､歌で解決します ✧ #ククルアラッキーソング｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=gEcpzms5ZOw",
           "author": null,
           "description": "",
@@ -474,6 +464,16 @@
           "publishedOn": "2023-04-06T00:44:01.000Z",
           "wordCount": null,
           "title": "【朝活】初見歓迎💯100人とおはよう！ 【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ha4QLOfel88",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ha4QLOfel88",
+          "publishedOn": "2023-04-02T06:09:21.000Z",
+          "wordCount": null,
+          "title": "【#お花見飲酒歌枠リレー】ゆっくりしていってね！！！🌸🍻｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1112,6 +1112,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xc4ORSslowY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xc4ORSslowY",
+          "publishedOn": "2023-04-22T15:21:36.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AFtSXGV28FM",
           "author": null,
           "description": "",
@@ -1119,16 +1129,6 @@
           "publishedOn": "2023-04-21T14:34:22.000Z",
           "wordCount": null,
           "title": "NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fXfllCskOG8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fXfllCskOG8",
-          "publishedOn": "2023-04-20T15:59:44.000Z",
-          "wordCount": null,
-          "title": "#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
