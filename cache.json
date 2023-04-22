@@ -494,16 +494,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=w7pu9ZPtuAw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w7pu9ZPtuAw",
-          "publishedOn": "2023-04-22T11:15:47.000Z",
-          "wordCount": null,
-          "title": "【雑談】戦国大河お疲れさまでした🌸打ち上げじゃ～✨【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=I5iXtP1qe8w",
           "author": null,
           "description": "",
@@ -631,6 +621,16 @@
           "publishedOn": "2023-04-07T17:19:53.000Z",
           "wordCount": null,
           "title": "【Lobotomy Corporation】管理人、お仕事復帰ですっ❣(後編)【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=smbWDD-yg70",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=smbWDD-yg70",
+          "publishedOn": "2023-04-07T13:22:09.000Z",
+          "wordCount": null,
+          "title": "【Lobotomy Corporation】管理人、お仕事復帰ですっ❣【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
