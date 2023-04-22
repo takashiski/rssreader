@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Tol1zujNCYE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Tol1zujNCYE",
+          "publishedOn": "2023-04-22T03:06:59.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-14T07:48:08.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！！お昼に歌っちゃうよ~！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fjtkylwoS0s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fjtkylwoS0s",
-          "publishedOn": "2023-04-14T00:13:45.000Z",
-          "wordCount": null,
-          "title": "【雑談】なーちゃとメロンフラペチーノ飲みながらまったりお話し！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
