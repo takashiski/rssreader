@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T03:34:29.587Z</id>
+    <id>urn:2023-04-22T04:06:08.896Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T03:34:29.587Z</updated>
+    <updated>2023-04-22T04:06:08.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=RZAkIfjBUtk</id>
+        <link href="https://www.youtube.com/watch?v=RZAkIfjBUtk"/>
+        <updated>2023-04-22T04:05:20.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #弾き語り 】初見歓迎！まったりひきがたり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=5oEbkZ3Tx8U</id>
+        <link href="https://www.youtube.com/watch?v=5oEbkZ3Tx8U"/>
+        <updated>2023-04-22T03:34:31.000Z</updated>
+        <author>
+            <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Tol1zujNCYE</id>
@@ -2154,15 +2172,6 @@
         <updated>2023-04-02T12:32:36.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h-vVq6zkdaw</id>
-        <link href="https://www.youtube.com/watch?v=h-vVq6zkdaw"/>
-        <updated>2023-04-02T11:09:43.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

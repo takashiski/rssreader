@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC01dI90qNB6RhCt1tdXnQAg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5oEbkZ3Tx8U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5oEbkZ3Tx8U",
+          "publishedOn": "2023-04-22T03:34:31.000Z",
+          "wordCount": null,
+          "title": "【 #弾き語り 】初見歓迎！まったりひきがたり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HebK8kwMh3o",
           "author": null,
           "description": "",
@@ -935,6 +945,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=RZAkIfjBUtk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=RZAkIfjBUtk",
+          "publishedOn": "2023-04-22T04:05:20.000Z",
+          "wordCount": null,
+          "title": "【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u7gluOO4BjM",
           "author": null,
           "description": "",
@@ -1072,16 +1092,6 @@
           "publishedOn": "2023-04-02T14:00:07.000Z",
           "wordCount": null,
           "title": "【歌ってみた】Flyway by つばさぐらでーしょん",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h-vVq6zkdaw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h-vVq6zkdaw",
-          "publishedOn": "2023-04-02T11:09:43.000Z",
-          "wordCount": null,
-          "title": "デビュー1周年記念歌枠リレー / 1st Anniversary #つばぐら1周年【 魔光リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
