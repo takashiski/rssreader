@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-22T01:32:34.850Z</id>
+    <id>urn:2023-04-22T02:18:58.511Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-22T01:32:34.850Z</updated>
+    <updated>2023-04-22T02:18:58.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ユノりぼ姉妹】あのアニメの話が、ついに姉妹でできる……！？【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=KqEeiBZQhmI</id>
+        <link href="https://www.youtube.com/watch?v=KqEeiBZQhmI"/>
+        <updated>2023-04-22T02:01:40.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】泣いてすっきりしたい日💧 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=DGiS7Loi4WA</id>
+        <link href="https://www.youtube.com/watch?v=DGiS7Loi4WA"/>
+        <updated>2023-04-22T01:55:45.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【戦国大河】ついに決着！！長い戦いを乗り越えた盟主つきみと誉れ高き つきみ荘！！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=YM7UPlMxXS0</id>
@@ -1203,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JAMP😏❣️#varkshorts #vtuber]]></title>
-        <id>https://www.youtube.com/watch?v=aEkC2YFcTXQ</id>
-        <link href="https://www.youtube.com/watch?v=aEkC2YFcTXQ"/>
-        <updated>2023-04-13T04:31:09.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【春アニメ何見る？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=zdj8pQT8wL8</id>
         <link href="https://www.youtube.com/watch?v=zdj8pQT8wL8"/>
@@ -2406,15 +2415,6 @@
         <updated>2023-03-24T13:12:41.000Z</updated>
         <author>
             <name>花鋏キョウ/キョウちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深い家だった……！謎解きが始まる！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NiX14Vv3aaM</id>
-        <link href="https://www.youtube.com/watch?v=NiX14Vv3aaM"/>
-        <updated>2023-03-23T14:03:31.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
 </feed>
