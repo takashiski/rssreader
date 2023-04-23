@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rmel0JB_ObE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rmel0JB_ObE",
+          "publishedOn": "2023-04-23T05:58:29.000Z",
+          "wordCount": null,
+          "title": "【演奏】クラリネット練習するぞ～！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DUHzcWTr_Vk",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-04-15T09:47:43.000Z",
           "wordCount": null,
           "title": "最終回・後編【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hEDJi1qGjTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hEDJi1qGjTM",
-          "publishedOn": "2023-04-15T00:43:35.000Z",
-          "wordCount": null,
-          "title": "最終回【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T05:34:23.985Z</id>
+    <id>urn:2023-04-23T06:06:22.307Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T05:34:23.985Z</updated>
+    <updated>2023-04-23T06:06:22.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【演奏】クラリネット練習するぞ～！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rmel0JB_ObE</id>
+        <link href="https://www.youtube.com/watch?v=rmel0JB_ObE"/>
+        <updated>2023-04-23T05:58:29.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】つきみの逆転はあるか！？飼ってみたいペット・後編 【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=u4odKKeoNrM</id>
@@ -1092,15 +1101,6 @@
         <updated>2023-04-15T02:41:48.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最終回【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=hEDJi1qGjTM</id>
-        <link href="https://www.youtube.com/watch?v=hEDJi1qGjTM"/>
-        <updated>2023-04-15T00:43:35.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
