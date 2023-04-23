@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T16:35:33.397Z</id>
+    <id>urn:2023-04-23T17:05:32.737Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T16:35:33.397Z</updated>
+    <updated>2023-04-23T17:05:32.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,15 +30,6 @@
         <updated>2023-04-23T15:21:44.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】素手で♡すりすり気持ち良いマッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=txhxJ8ZSDGw</id>
-        <link href="https://www.youtube.com/watch?v=txhxJ8ZSDGw"/>
-        <updated>2023-04-23T13:47:24.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1722,6 +1713,15 @@
         <updated>2023-04-09T20:28:11.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳を優しく包み込む♡いろんなアイテムで責めまくり【Ear Cleaning/Ear Massage/Ear Tapping/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=iVX2U2yYPdE</id>
+        <link href="https://www.youtube.com/watch?v=iVX2U2yYPdE"/>
+        <updated>2023-04-09T17:48:03.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
