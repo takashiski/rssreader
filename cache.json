@@ -180,6 +180,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=U2k2JTffjeo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U2k2JTffjeo",
+          "publishedOn": "2023-04-23T08:19:27.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／ゲリラ歌枠！！今日も楽しく歌うぞおお🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LJ7migtbsyY",
           "author": null,
           "description": "",
@@ -317,16 +327,6 @@
           "publishedOn": "2023-04-02T08:07:27.000Z",
           "wordCount": null,
           "title": "【 #歌うまV歌枠リレー 】エイプリルフール２日目🐶清楚な酒クズ（！？）お歌大好きいばら姫👑🥂【美睡シュカ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nW0t7ZXJ4gY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nW0t7ZXJ4gY",
-          "publishedOn": "2023-03-31T07:52:02.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／3月ラスト＆おひさしぶりだ～～～好きに歌うよう🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
