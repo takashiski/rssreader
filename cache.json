@@ -955,16 +955,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=P6xKVwAR-Lk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=P6xKVwAR-Lk",
-          "publishedOn": "2023-04-23T00:08:51.000Z",
-          "wordCount": null,
-          "title": "【朝活】枠立った！！！！！！おはよ【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=RZAkIfjBUtk",
           "author": null,
           "description": "",
@@ -1102,6 +1092,16 @@
           "publishedOn": "2023-04-02T15:02:06.000Z",
           "wordCount": null,
           "title": "【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1ikB2x48wss",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1ikB2x48wss",
+          "publishedOn": "2023-04-02T14:00:07.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】Flyway by つばさぐらでーしょん",
           "imageUrl": null
         }
       ]
@@ -2714,18 +2714,7 @@
       "title": "花鋏キョウ/キョウちゃんねる",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4OeUf_KfYRrwksschtRYow",
       "siteUrl": "https://www.youtube.com/channel/UC4OeUf_KfYRrwksschtRYow",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=r0IeBJVgiWY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r0IeBJVgiWY",
-          "publishedOn": "2023-03-24T13:12:41.000Z",
-          "wordCount": null,
-          "title": "【LIVE】アコースティック歌枠✂ #2【#キョウの生放送 / 花鋏キョウ】",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Usami Yuno Ch. 宇佐美 ユノ",
