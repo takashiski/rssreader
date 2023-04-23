@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T16:05:43.176Z</id>
+    <id>urn:2023-04-23T16:35:33.397Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T16:05:43.176Z</updated>
+    <updated>2023-04-23T16:35:33.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】いっしょに迎える２周年💗 【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【ASMR】いっしょに迎える２周年💗 ※体調悪くて短いです😢 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=rls1XvaJRq4</id>
         <link href="https://www.youtube.com/watch?v=rls1XvaJRq4"/>
         <updated>2023-04-23T15:21:44.000Z</updated>
