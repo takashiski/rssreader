@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T02:43:32.971Z</id>
+    <id>urn:2023-04-23T03:06:00.891Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T02:43:32.971Z</updated>
+    <updated>2023-04-23T03:06:00.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜の昼は僕と盛り上がる歌枠🔥 / karaoke【九楽ライ/Vtuber】]]></title>
+        <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜の昼は僕と盛り上がる歌枠🔥ていうかもうすぐ３万人やんけ。 / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ch9tKJL-87c</id>
         <link href="https://www.youtube.com/watch?v=ch9tKJL-87c"/>
         <updated>2023-04-22T22:25:07.000Z</updated>
@@ -96,7 +96,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#Shorts / #切り抜き】Melty Magic歌ってみたw【#新人Vtuber/#美睡シュカ】]]></title>
+        <title type="html"><![CDATA[【#shorts / #切り抜き】Melty Magic歌ってみたw【#新人Vtuber/#美睡シュカ】]]></title>
         <id>https://www.youtube.com/watch?v=Vplw1a8T8aM</id>
         <link href="https://www.youtube.com/watch?v=Vplw1a8T8aM"/>
         <updated>2023-04-22T11:15:02.000Z</updated>
