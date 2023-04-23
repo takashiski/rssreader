@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T12:06:59.539Z</id>
+    <id>urn:2023-04-23T12:41:17.221Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T12:06:59.539Z</updated>
+    <updated>2023-04-23T12:41:17.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【membership】（超ひさびさ）参加型するよん / 雀魂ｄａｙｏ【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=T_wnFGHCHFE</id>
+        <link href="https://www.youtube.com/watch?v=T_wnFGHCHFE"/>
+        <updated>2023-04-23T12:40:10.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xc4ORSslowY</id>
+        <link href="https://www.youtube.com/watch?v=xc4ORSslowY"/>
+        <updated>2023-04-23T12:34:17.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#shorts / #切り抜き】Melty Magic歌ってみたw【#新人Vtuber/#美睡シュカ】]]></title>
+        <id>https://www.youtube.com/watch?v=4WJj3XLlBj4</id>
+        <link href="https://www.youtube.com/watch?v=4WJj3XLlBj4"/>
+        <updated>2023-04-23T12:32:35.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【熊です】ねこダンス踊ってみた #shorts #varkshorts]]></title>
+        <id>https://www.youtube.com/watch?v=PQeMqDSdwv4</id>
+        <link href="https://www.youtube.com/watch?v=PQeMqDSdwv4"/>
+        <updated>2023-04-23T12:15:01.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一度だけの恋なら/ワルキューレ 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ #橘シエナ]]></title>
         <id>https://www.youtube.com/watch?v=spGxBkjIn44</id>
@@ -127,15 +163,6 @@
         <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
         <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
         <updated>2023-04-22T15:38:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xc4ORSslowY</id>
-        <link href="https://www.youtube.com/watch?v=xc4ORSslowY"/>
-        <updated>2023-04-22T15:21:36.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
@@ -1761,15 +1788,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活雑談】あなたが来ないと始まらないのよ/Free Talk【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=lMagbLUbd7A</id>
-        <link href="https://www.youtube.com/watch?v=lMagbLUbd7A"/>
-        <updated>2023-04-09T00:20:44.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】WAW鎮圧、HE装備、祝福……⚔🥼🕚今日も管理人は大忙しです💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4LR-96Z9xOo</id>
         <link href="https://www.youtube.com/watch?v=4LR-96Z9xOo"/>
@@ -2157,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／4月初歌枠だ～～！🌸楽しく歌うよう🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=4rpNxBTOccQ</id>
-        <link href="https://www.youtube.com/watch?v=4rpNxBTOccQ"/>
-        <updated>2023-04-03T23:47:36.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / すぐにぐっすり夢の中♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=6HqnOkpb088</id>
         <link href="https://www.youtube.com/watch?v=6HqnOkpb088"/>
@@ -2262,15 +2271,6 @@
         <updated>2023-04-02T08:34:27.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌うまV歌枠リレー 】エイプリルフール２日目🐶清楚な酒クズ（！？）お歌大好きいばら姫👑🥂【美睡シュカ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=1g2zlj5x0tE</id>
-        <link href="https://www.youtube.com/watch?v=1g2zlj5x0tE"/>
-        <updated>2023-04-02T08:07:27.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
