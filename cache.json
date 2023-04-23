@@ -1914,6 +1914,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Oo5DlLOGDIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Oo5DlLOGDIY",
+          "publishedOn": "2023-04-23T10:01:30.000Z",
+          "wordCount": null,
+          "title": "【moon】超難関ギミックに打ち勝て！まけるなつきみとつきみ荘🐰【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u4odKKeoNrM",
           "author": null,
           "description": "",
@@ -2051,16 +2061,6 @@
           "publishedOn": "2023-04-04T13:26:41.000Z",
           "wordCount": null,
           "title": "【戦国大河】ソシャゲ経験ほぼゼロのウサギが濃厚戦国生活！？【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77xF3CPV5J0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77xF3CPV5J0",
-          "publishedOn": "2023-03-31T14:08:16.000Z",
-          "wordCount": null,
-          "title": "【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]

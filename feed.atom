@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T10:05:46.581Z</id>
+    <id>urn:2023-04-23T10:34:12.720Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T10:05:46.581Z</updated>
+    <updated>2023-04-23T10:34:12.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【moon】超難関ギミックに打ち勝て！まけるなつきみとつきみ荘🐰【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=Oo5DlLOGDIY</id>
+        <link href="https://www.youtube.com/watch?v=Oo5DlLOGDIY"/>
+        <updated>2023-04-23T10:01:30.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微動だにしないにゃんこまり #shorts #varkshorts #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=OAhJbzwROOQ</id>
@@ -2289,15 +2298,6 @@
         <updated>2023-03-31T23:27:12.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
-        <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
-        <updated>2023-03-31T14:08:16.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
