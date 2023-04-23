@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T03:06:00.891Z</id>
+    <id>urn:2023-04-23T03:34:19.750Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T03:06:00.891Z</updated>
+    <updated>2023-04-23T03:34:19.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】つきみの逆転はあるか！？飼ってみたいペット・後編 【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=u4odKKeoNrM</id>
+        <link href="https://www.youtube.com/watch?v=u4odKKeoNrM"/>
+        <updated>2023-04-23T03:10:40.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / 日曜の昼は僕と盛り上がる歌枠🔥ていうかもうすぐ３万人やんけ。 / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=ch9tKJL-87c</id>
@@ -2307,15 +2316,6 @@
         <updated>2023-03-29T12:00:09.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=b0dkmx36614</id>
-        <link href="https://www.youtube.com/watch?v=b0dkmx36614"/>
-        <updated>2023-03-28T15:02:20.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>

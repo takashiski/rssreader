@@ -1914,6 +1914,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=u4odKKeoNrM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=u4odKKeoNrM",
+          "publishedOn": "2023-04-23T03:10:40.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】つきみの逆転はあるか！？飼ってみたいペット・後編 【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YM7UPlMxXS0",
           "author": null,
           "description": "",
@@ -2051,16 +2061,6 @@
           "publishedOn": "2023-03-31T14:08:16.000Z",
           "wordCount": null,
           "title": "【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b0dkmx36614",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b0dkmx36614",
-          "publishedOn": "2023-03-28T15:02:20.000Z",
-          "wordCount": null,
-          "title": "【moon】お休みで復活のつきみは、今日もラブを探す！【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
