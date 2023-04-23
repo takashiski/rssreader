@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T12:41:17.221Z</id>
+    <id>urn:2023-04-23T13:05:53.693Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T12:41:17.221Z</updated>
+    <updated>2023-04-23T13:05:53.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,6 +12,15 @@
         <updated>2023-04-23T12:40:10.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】#超絶かわいい / HoneyWorks【オリジナルMV/月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OT6_ohB9Q1M</id>
+        <link href="https://www.youtube.com/watch?v=OT6_ohB9Q1M"/>
+        <updated>2023-04-23T12:37:58.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -123,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】睡眠誘導💗耳かき/マッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【ASMR】睡眠誘導💗２周年いっしょに迎えよ💗 耳かき/マッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=rls1XvaJRq4</id>
         <link href="https://www.youtube.com/watch?v=rls1XvaJRq4"/>
         <updated>2023-04-22T17:24:25.000Z</updated>
@@ -1590,15 +1599,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨ 忙しい朝でも、挨拶くらいできるよねええ！？💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Kc1Jpbah2Zk</id>
-        <link href="https://www.youtube.com/watch?v=Kc1Jpbah2Zk"/>
-        <updated>2023-04-11T23:54:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🍣ヘイ！お待ち！ド深夜に食べるお寿司はおいしい🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=19ZL9-JRvyY</id>
         <link href="https://www.youtube.com/watch?v=19ZL9-JRvyY"/>
@@ -2415,15 +2415,6 @@
         <updated>2023-03-25T14:33:43.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初見さん歓迎！】おうたああああああ！【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Y7s0Ww2UjrI</id>
-        <link href="https://www.youtube.com/watch?v=Y7s0Ww2UjrI"/>
-        <updated>2023-03-25T00:46:36.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
