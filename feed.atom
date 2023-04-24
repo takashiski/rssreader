@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T13:34:15.478Z</id>
+    <id>urn:2023-04-24T14:06:10.196Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T13:34:15.478Z</updated>
+    <updated>2023-04-24T14:06:10.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nPQ2Ptuwzsg</id>
+        <link href="https://www.youtube.com/watch?v=nPQ2Ptuwzsg"/>
+        <updated>2023-04-24T13:57:54.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活雑談】心やられてます。/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=c6K13VXaxt0</id>
+        <link href="https://www.youtube.com/watch?v=c6K13VXaxt0"/>
+        <updated>2023-04-24T13:33:13.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】今日もお疲れさまでした🤍たくさん頑張ったいい子さんを、たーっくさん癒やして寝かしつけてあげる…🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=l8ZxEWe0HyA</id>
@@ -987,15 +1005,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7aIyECK6gzo</id>
-        <link href="https://www.youtube.com/watch?v=7aIyECK6gzo"/>
-        <updated>2023-04-16T12:13:42.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#春の歌姫Vによる歌枠リレー】エルフの歌でマターリしようずｗ🎤🌸｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=e_uLzdJ0Dv0</id>
         <link href="https://www.youtube.com/watch?v=e_uLzdJ0Dv0"/>
@@ -1506,15 +1515,6 @@
         <updated>2023-04-12T21:43:50.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🍣ド深夜に寿司屋開店する！新鮮なの入ってるよ！🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=7kZl0TlQBIU</id>
-        <link href="https://www.youtube.com/watch?v=7kZl0TlQBIU"/>
-        <updated>2023-04-12T19:14:02.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>

@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
+          "publishedOn": "2023-04-24T13:57:54.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-04-17T04:16:57.000Z",
           "wordCount": null,
           "title": "【雑談】プチお披露目あり！お話ししよ！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7aIyECK6gzo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7aIyECK6gzo",
-          "publishedOn": "2023-04-16T12:13:42.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2178,6 +2178,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=c6K13VXaxt0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c6K13VXaxt0",
+          "publishedOn": "2023-04-24T13:33:13.000Z",
+          "wordCount": null,
+          "title": "【朝活雑談】心やられてます。/Free Talk【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=W03wcPcu2Vs",
           "author": null,
           "description": "",
@@ -2305,16 +2315,6 @@
           "publishedOn": "2023-04-12T23:47:21.000Z",
           "wordCount": null,
           "title": "【朝活雑談】うますぎる朝ごはんの話、聞いてく？/Free Talk【VTuber/姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7kZl0TlQBIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7kZl0TlQBIU",
-          "publishedOn": "2023-04-12T19:14:02.000Z",
-          "wordCount": null,
-          "title": "🍣ド深夜に寿司屋開店する！新鮮なの入ってるよ！🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】",
           "imageUrl": null
         }
       ]
