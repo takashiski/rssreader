@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T08:34:58.890Z</id>
+    <id>urn:2023-04-24T09:05:59.657Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T08:34:58.890Z</updated>
+    <updated>2023-04-24T09:05:59.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-04-23T17:03:07.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【魔女の家】分岐エンディング【無理】]]></title>
-        <id>https://www.youtube.com/watch?v=G1GQyex3tyI</id>
-        <link href="https://www.youtube.com/watch?v=G1GQyex3tyI"/>
-        <updated>2023-04-23T15:32:22.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1884,6 +1875,15 @@
         <updated>2023-04-08T11:42:54.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】古のボカロ縛り2007～｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Y4g6aCpUM6Q</id>
+        <link href="https://www.youtube.com/watch?v=Y4g6aCpUM6Q"/>
+        <updated>2023-04-08T05:45:11.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
