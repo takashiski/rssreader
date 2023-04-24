@@ -631,16 +631,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
-          "publishedOn": "2023-04-24T13:57:54.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
           "author": null,
           "description": "",
@@ -778,6 +768,16 @@
           "publishedOn": "2023-04-17T04:16:57.000Z",
           "wordCount": null,
           "title": "【雑談】プチお披露目あり！お話ししよ！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7aIyECK6gzo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7aIyECK6gzo",
+          "publishedOn": "2023-04-16T12:13:42.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
