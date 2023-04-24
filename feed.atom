@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T15:34:07.221Z</id>
+    <id>urn:2023-04-24T16:06:03.243Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T15:34:07.221Z</updated>
+    <updated>2023-04-24T16:06:03.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2023-04-24T13:25:53.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【高級非常食専用】とんとん寝かしつけ♡あなた専用の添い寝【メンバー限定】]]></title>
-        <id>https://www.youtube.com/watch?v=W03wcPcu2Vs</id>
-        <link href="https://www.youtube.com/watch?v=W03wcPcu2Vs"/>
-        <updated>2023-04-24T13:09:54.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1524,6 +1515,15 @@
         <updated>2023-04-12T21:43:50.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🍣ド深夜に寿司屋開店する！新鮮なの入ってるよ！🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=7kZl0TlQBIU</id>
+        <link href="https://www.youtube.com/watch?v=7kZl0TlQBIU"/>
+        <updated>2023-04-12T19:14:02.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
