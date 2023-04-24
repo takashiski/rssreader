@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T13:07:11.216Z</id>
+    <id>urn:2023-04-24T13:34:15.478Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T13:07:11.216Z</updated>
+    <updated>2023-04-24T13:34:15.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】今日もお疲れさまでした🤍たくさん頑張ったいい子さんを、たーっくさん癒やして寝かしつけてあげる…🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=l8ZxEWe0HyA</id>
+        <link href="https://www.youtube.com/watch?v=l8ZxEWe0HyA"/>
+        <updated>2023-04-24T13:25:53.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【高級非常食専用】とんとん寝かしつけ♡あなた専用の添い寝【メンバー限定】]]></title>
+        <id>https://www.youtube.com/watch?v=W03wcPcu2Vs</id>
+        <link href="https://www.youtube.com/watch?v=W03wcPcu2Vs"/>
+        <updated>2023-04-24T13:09:54.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌ってみた】#超絶かわいい / HoneyWorks【オリジナルMV/月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=OT6_ohB9Q1M</id>
@@ -1635,15 +1653,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🍣ヘイ！お待ち！ド深夜に食べるお寿司はおいしい🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=19ZL9-JRvyY</id>
-        <link href="https://www.youtube.com/watch?v=19ZL9-JRvyY"/>
-        <updated>2023-04-11T21:14:11.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=5r7htM-uCRQ</id>
         <link href="https://www.youtube.com/watch?v=5r7htM-uCRQ"/>
@@ -1812,15 +1821,6 @@
         <updated>2023-04-09T02:59:39.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】WAW鎮圧、HE装備、祝福……⚔🥼🕚今日も管理人は大忙しです💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=4LR-96Z9xOo</id>
-        <link href="https://www.youtube.com/watch?v=4LR-96Z9xOo"/>
-        <updated>2023-04-08T19:34:44.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
