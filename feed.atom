@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-23T23:34:19.314Z</id>
+    <id>urn:2023-04-24T00:22:32.238Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-23T23:34:19.314Z</updated>
+    <updated>2023-04-24T00:22:32.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Overcooked!2】出会ったばかりの4人で協力！？みんなお料理できるもん🔥❄🦋🗝with 風吹スサノオ様  冬陽リッカ様  メラ・アカル様【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=EnOMbqGxXjQ</id>
+        <link href="https://www.youtube.com/watch?v=EnOMbqGxXjQ"/>
+        <updated>2023-04-23T23:48:27.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【演奏】クラリネット練習するぞ～！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=rmel0JB_ObE</id>
@@ -1866,15 +1875,6 @@
         <updated>2023-04-08T05:14:04.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】管理人、お仕事復帰ですっ❣(後編)【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ACq9G00XPvY</id>
-        <link href="https://www.youtube.com/watch?v=ACq9G00XPvY"/>
-        <updated>2023-04-07T17:19:53.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
