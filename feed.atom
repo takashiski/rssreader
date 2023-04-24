@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T01:33:03.134Z</id>
+    <id>urn:2023-04-24T02:20:09.908Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T01:33:03.134Z</updated>
+    <updated>2023-04-24T02:20:09.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【moon】超難関ギミックに打ち勝て！まけるなつきみとつきみ荘🐰【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=Oo5DlLOGDIY</id>
+        <link href="https://www.youtube.com/watch?v=Oo5DlLOGDIY"/>
+        <updated>2023-04-24T01:53:26.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おひるに歌っちゃう！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=YbHExGCrXKo</id>
+        <link href="https://www.youtube.com/watch?v=YbHExGCrXKo"/>
+        <updated>2023-04-24T01:39:11.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Overcooked!2】出会ったばかりの4人で協力！？みんなお料理できるもん🔥❄🦋🗝with 風吹スサノオ様  冬陽リッカ様  メラ・アカル様【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=EnOMbqGxXjQ</id>
@@ -1128,15 +1146,6 @@
         <updated>2023-04-15T10:30:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最終回・後編【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3Ny0A2n03mk</id>
-        <link href="https://www.youtube.com/watch?v=3Ny0A2n03mk"/>
-        <updated>2023-04-15T09:47:43.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2289,15 +2298,6 @@
         <updated>2023-03-31T23:27:12.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=77xF3CPV5J0</id>
-        <link href="https://www.youtube.com/watch?v=77xF3CPV5J0"/>
-        <updated>2023-03-31T14:08:16.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>

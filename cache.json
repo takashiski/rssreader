@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YbHExGCrXKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YbHExGCrXKo",
+          "publishedOn": "2023-04-24T01:39:11.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！おひるに歌っちゃう！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rmel0JB_ObE",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-04-16T02:26:37.000Z",
           "wordCount": null,
           "title": "【UB-1グランプリ】うまい棒って何味が一番おいしいの？【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3Ny0A2n03mk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3Ny0A2n03mk",
-          "publishedOn": "2023-04-15T09:47:43.000Z",
-          "wordCount": null,
-          "title": "最終回・後編【Hogwarts Legacy】真END見るぞ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1904,6 +1904,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Oo5DlLOGDIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Oo5DlLOGDIY",
+          "publishedOn": "2023-04-24T01:53:26.000Z",
+          "wordCount": null,
+          "title": "【moon】超難関ギミックに打ち勝て！まけるなつきみとつきみ荘🐰【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u4odKKeoNrM",
           "author": null,
           "description": "",
@@ -2041,16 +2051,6 @@
           "publishedOn": "2023-04-04T13:26:41.000Z",
           "wordCount": null,
           "title": "【戦国大河】ソシャゲ経験ほぼゼロのウサギが濃厚戦国生活！？【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=77xF3CPV5J0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=77xF3CPV5J0",
-          "publishedOn": "2023-03-31T14:08:16.000Z",
-          "wordCount": null,
-          "title": "【落語風声劇】おひさしぶりのつきみのお話！よってらっしゃい！！ 落語・粗忽の使者【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
