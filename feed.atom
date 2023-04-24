@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T11:05:35.873Z</id>
+    <id>urn:2023-04-24T11:34:32.479Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T11:05:35.873Z</updated>
+    <updated>2023-04-24T11:34:32.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=X4xSKkQ9Kmw</id>
+        <link href="https://www.youtube.com/watch?v=X4xSKkQ9Kmw"/>
+        <updated>2023-04-24T11:11:30.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多]]></title>
         <id>https://www.youtube.com/watch?v=aD-ObCm3FlM</id>
@@ -1524,15 +1533,6 @@
         <updated>2023-04-12T15:20:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=BgM-e6M4QKU</id>
-        <link href="https://www.youtube.com/watch?v=BgM-e6M4QKU"/>
-        <updated>2023-04-12T15:09:05.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
