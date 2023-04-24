@@ -641,6 +641,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=YbHExGCrXKo",
           "author": null,
           "description": "",
@@ -778,16 +788,6 @@
           "publishedOn": "2023-04-16T12:13:42.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！！夕方にお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gZWUPB6UTY0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gZWUPB6UTY0",
-          "publishedOn": "2023-04-16T02:26:37.000Z",
-          "wordCount": null,
-          "title": "【UB-1グランプリ】うまい棒って何味が一番おいしいの？【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
