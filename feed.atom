@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T02:20:09.908Z</id>
+    <id>urn:2023-04-24T02:40:40.437Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T02:20:09.908Z</updated>
+    <updated>2023-04-24T02:40:40.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2406,15 +2406,6 @@
         <updated>2023-03-25T17:27:00.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【戦国大河】視聴者参加型！みんな集合～～！！リアクトメンバーで対戦勝負！？【Vtuber / 水瓶ミア】]]></title>
-        <id>https://www.youtube.com/watch?v=JXuHCUxdZhw</id>
-        <link href="https://www.youtube.com/watch?v=JXuHCUxdZhw"/>
-        <updated>2023-03-25T14:33:43.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
 </feed>
