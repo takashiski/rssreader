@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T14:06:10.196Z</id>
+    <id>urn:2023-04-24T14:34:19.056Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T14:06:10.196Z</updated>
+    <updated>2023-04-24T14:34:19.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -615,15 +615,6 @@
         <updated>2023-04-19T16:31:25.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【凸待ち / 重大告知】#月紫アリア２周年 ✨ 盛りだくさん❕お祝いして～🎉💜✨ Debut 2nd anniversary 💗【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=k_PVBb5_i1I</id>
-        <link href="https://www.youtube.com/watch?v=k_PVBb5_i1I"/>
-        <updated>2023-04-19T15:19:07.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1707,6 +1698,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【VARKSHORTS】デートの帰り道で… #varkshorts #shorts #vtuber #月紫アリア]]></title>
+        <id>https://www.youtube.com/watch?v=VnKPjusPMYM</id>
+        <link href="https://www.youtube.com/watch?v=VnKPjusPMYM"/>
+        <updated>2023-04-11T10:30:10.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[◆Live2D / うごイラ制作作業雑談。アーカイブメン限定いくかも/ free talk【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=-4kZqsaXpp4</id>
         <link href="https://www.youtube.com/watch?v=-4kZqsaXpp4"/>
@@ -2397,15 +2397,6 @@
         <updated>2023-03-26T10:27:14.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #戦国大河 】視聴者参加型！！戦じゃ！！！！！！おまえら天下取るぞ！！【 #紅龍イサナ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=LSKKBpoA4oE</id>
-        <link href="https://www.youtube.com/watch?v=LSKKBpoA4oE"/>
-        <updated>2023-03-26T02:30:30.000Z</updated>
-        <author>
-            <name>紅龍イサナ - Isana Kuryu -</name>
         </author>
     </entry>
 </feed>
