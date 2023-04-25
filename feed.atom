@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T14:05:48.868Z</id>
+    <id>urn:2023-04-25T14:34:11.947Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T14:05:48.868Z</updated>
+    <updated>2023-04-25T14:34:11.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -183,15 +183,6 @@
         <updated>2023-04-24T10:00:00.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】やっとうたえるぞ～～！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=kAEz0LMx8i0</id>
-        <link href="https://www.youtube.com/watch?v=kAEz0LMx8i0"/>
-        <updated>2023-04-24T07:56:40.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2217,6 +2208,15 @@
         <updated>2023-04-03T18:14:00.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=h0Ig0yiaDjw</id>
+        <link href="https://www.youtube.com/watch?v=h0Ig0yiaDjw"/>
+        <updated>2023-04-03T15:25:14.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
