@@ -2452,6 +2452,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kAEz0LMx8i0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kAEz0LMx8i0",
+          "publishedOn": "2023-04-25T14:41:18.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】やっとうたえるぞ～～！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JkWFBvPhIik",
           "author": null,
           "description": "",
@@ -2589,16 +2599,6 @@
           "publishedOn": "2023-04-05T19:48:03.000Z",
           "wordCount": null,
           "title": "【 APEX 】カスタム参加するぞ～！ / w 飛良ひかり、渋谷ハル【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h0Ig0yiaDjw",
-          "publishedOn": "2023-04-03T15:25:14.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】みんな！告知もってきた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
