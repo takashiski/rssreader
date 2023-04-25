@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T16:06:05.954Z</id>
+    <id>urn:2023-04-25T16:36:38.615Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T16:06:05.954Z</updated>
+    <updated>2023-04-25T16:36:38.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア居酒屋】月城アオイ様ご来店！第17回は親近感しかない！ハーフヴァンパイア襲来！【新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AquuFuSkQOg</id>
+        <link href="https://www.youtube.com/watch?v=AquuFuSkQOg"/>
+        <updated>2023-04-25T16:28:19.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】初見歓迎✨おきろ❕朝だぞ～～～～～～～～❕💥 good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=2G9X0_Pvmos</id>
+        <link href="https://www.youtube.com/watch?v=2G9X0_Pvmos"/>
+        <updated>2023-04-25T16:20:13.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
@@ -1698,15 +1716,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨ 忙しい朝でも、挨拶くらいできるよねええ！？💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Kc1Jpbah2Zk</id>
-        <link href="https://www.youtube.com/watch?v=Kc1Jpbah2Zk"/>
-        <updated>2023-04-11T23:54:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=5r7htM-uCRQ</id>
         <link href="https://www.youtube.com/watch?v=5r7htM-uCRQ"/>
@@ -1722,15 +1731,6 @@
         <updated>2023-04-11T17:58:04.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】男性ボーカルアニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Qr90SEqPVOQ</id>
-        <link href="https://www.youtube.com/watch?v=Qr90SEqPVOQ"/>
-        <updated>2023-04-11T15:28:35.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
