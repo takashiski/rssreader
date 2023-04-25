@@ -1403,11 +1403,21 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V4bla6mWH4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V4bla6mWH4A",
+          "publishedOn": "2023-04-25T04:22:56.000Z",
+          "wordCount": null,
+          "title": "【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CoUNdMCEY4A",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=CoUNdMCEY4A",
-          "publishedOn": "2023-04-25T00:17:59.000Z",
+          "publishedOn": "2023-04-25T04:19:17.000Z",
           "wordCount": null,
           "title": "【私たち隣の家のお姉さん系Vtuber】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
@@ -1540,16 +1550,6 @@
           "publishedOn": "2023-04-13T04:29:46.000Z",
           "wordCount": null,
           "title": "【春アニメ何見る？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
-          "publishedOn": "2023-04-12T04:45:41.000Z",
-          "wordCount": null,
-          "title": "【本日初配信】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
         }
       ]
