@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T15:34:22.770Z</id>
+    <id>urn:2023-04-25T16:06:05.954Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T15:34:22.770Z</updated>
+    <updated>2023-04-25T16:06:05.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
+        <link href="https://www.youtube.com/watch?v=Ju4VS0hPDc4"/>
+        <updated>2023-04-25T15:51:22.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大量〇肉！お客様を美味しくいただきますわ。/Godlike Burger【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=erudpizVJk4</id>
+        <link href="https://www.youtube.com/watch?v=erudpizVJk4"/>
+        <updated>2023-04-25T15:48:57.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】やっとうたえるぞ～～！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=kAEz0LMx8i0</id>
@@ -51,19 +69,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】ドキドキ高音質♡耳をひらすら責める耳かき♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】ドキドキ高音質♡耳をひたらすら責める耳かき♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=PaoWaL5hAlw</id>
         <link href="https://www.youtube.com/watch?v=PaoWaL5hAlw"/>
         <updated>2023-04-25T11:22:28.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大量〇肉！お客様を美味しくいただきますわ。/Godlike Burger【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=erudpizVJk4</id>
-        <link href="https://www.youtube.com/watch?v=erudpizVJk4"/>
-        <updated>2023-04-25T11:10:09.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
@@ -1830,15 +1839,6 @@
         <updated>2023-04-09T12:00:08.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【魔女の家】クリアしろと言われたので･･･【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7U9OHcicRl0</id>
-        <link href="https://www.youtube.com/watch?v=7U9OHcicRl0"/>
-        <updated>2023-04-09T10:38:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
