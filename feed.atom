@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T23:34:19.858Z</id>
+    <id>urn:2023-04-25T00:21:59.308Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T23:34:19.858Z</updated>
+    <updated>2023-04-25T00:21:59.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活雑談】心やられてます。/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=c6K13VXaxt0</id>
+        <link href="https://www.youtube.com/watch?v=c6K13VXaxt0"/>
+        <updated>2023-04-25T00:04:02.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】今日もお疲れさまでした🤍たくさん頑張ったいい子さんを、たーっくさん癒やして寝かしつけてあげる…🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=l8ZxEWe0HyA</id>
@@ -39,15 +48,6 @@
         <updated>2023-04-24T14:47:30.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活雑談】心やられてます。/Free Talk【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=c6K13VXaxt0</id>
-        <link href="https://www.youtube.com/watch?v=c6K13VXaxt0"/>
-        <updated>2023-04-24T13:33:13.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2379,15 +2379,6 @@
         <updated>2023-03-26T13:11:57.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#VirtualonMusic】第2回！3D音楽番組「Virtual on Music」ゲスト 朝ノ瑠璃【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-1LqtU0R36Q</id>
-        <link href="https://www.youtube.com/watch?v=-1LqtU0R36Q"/>
-        <updated>2023-03-26T11:41:19.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
 </feed>
