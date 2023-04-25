@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m6aFjkokJVw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m6aFjkokJVw",
+          "publishedOn": "2023-04-25T08:05:32.000Z",
+          "wordCount": null,
+          "title": "【雑談】Lobotomy Corporation雑談💖ねむが職員になったりアブノマになったりしたお話し＆スパチャありがとう時間🌸【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=l8ZxEWe0HyA",
           "author": null,
           "description": "",
@@ -591,16 +601,6 @@
           "publishedOn": "2023-04-11T13:17:08.000Z",
           "wordCount": null,
           "title": "【視聴者参加型】『 ＃戦国大河 』🌸ねむ、もっと強くなりたい…！【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QmBPMh9NyVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QmBPMh9NyVw",
-          "publishedOn": "2023-04-09T10:43:58.000Z",
-          "wordCount": null,
-          "title": "【#歌枠 】今日も楽しくおうたを歌うよ～❣全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
