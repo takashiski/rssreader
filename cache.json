@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pBIjQCkoXTk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pBIjQCkoXTk",
+          "publishedOn": "2023-04-25T12:57:28.000Z",
+          "wordCount": null,
+          "title": "東京リベンジャーズ同時視聴【メン限】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-19T14:53:18.000Z",
           "wordCount": null,
           "title": "再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VnfkdONlssk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VnfkdONlssk",
-          "publishedOn": "2023-04-19T10:00:20.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】逆光 / Ado #るーとも #onepiece #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
