@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T16:36:38.615Z</id>
+    <id>urn:2023-04-25T17:05:29.512Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T16:36:38.615Z</updated>
+    <updated>2023-04-25T17:05:29.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2023-04-25T11:59:25.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】ドキドキ高音質♡耳をひたらすら責める耳かき♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=PaoWaL5hAlw</id>
-        <link href="https://www.youtube.com/watch?v=PaoWaL5hAlw"/>
-        <updated>2023-04-25T11:22:28.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1578,6 +1569,15 @@
         <updated>2023-04-13T01:22:24.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活雑談】うますぎる朝ごはんの話、聞いてく？/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=k-qBh00F-qw</id>
+        <link href="https://www.youtube.com/watch?v=k-qBh00F-qw"/>
+        <updated>2023-04-12T23:47:21.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
