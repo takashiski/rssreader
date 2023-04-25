@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T17:05:29.512Z</id>
+    <id>urn:2023-04-25T17:34:11.521Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T17:05:29.512Z</updated>
+    <updated>2023-04-25T17:34:11.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】ドキドキ高音質♡耳をひたらすら責める耳かき♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=PaoWaL5hAlw</id>
+        <link href="https://www.youtube.com/watch?v=PaoWaL5hAlw"/>
+        <updated>2023-04-25T17:03:25.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】月城アオイ様ご来店！第17回は親近感しかない！ハーフヴァンパイア襲来！【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AquuFuSkQOg</id>
@@ -60,15 +69,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[東京リベンジャーズ同時視聴【メン限】]]></title>
-        <id>https://www.youtube.com/watch?v=pBIjQCkoXTk</id>
-        <link href="https://www.youtube.com/watch?v=pBIjQCkoXTk"/>
-        <updated>2023-04-25T12:57:28.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #リアクト学園 】開校直前SP！追加情報をドドンと大公開！【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_VjLPIMdZrc</id>
         <link href="https://www.youtube.com/watch?v=_VjLPIMdZrc"/>
@@ -93,15 +93,6 @@
         <updated>2023-04-25T10:06:16.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】Lobotomy Corporation雑談💖ねむが職員になったりアブノマになったりしたお話し＆スパチャありがとう時間🌸【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=m6aFjkokJVw</id>
-        <link href="https://www.youtube.com/watch?v=m6aFjkokJVw"/>
-        <updated>2023-04-25T08:05:32.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -768,6 +759,15 @@
         <updated>2023-04-19T12:20:28.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ハモリチャレンジ】逆光 / Ado #るーとも #onepiece #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VnfkdONlssk</id>
+        <link href="https://www.youtube.com/watch?v=VnfkdONlssk"/>
+        <updated>2023-04-19T10:00:20.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1572,15 +1572,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活雑談】うますぎる朝ごはんの話、聞いてく？/Free Talk【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=k-qBh00F-qw</id>
-        <link href="https://www.youtube.com/watch?v=k-qBh00F-qw"/>
-        <updated>2023-04-12T23:47:21.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 朝活】ねむねむあさかつのじかん🌤【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=BbA8PtZrfdY</id>
         <link href="https://www.youtube.com/watch?v=BbA8PtZrfdY"/>
@@ -1839,6 +1830,15 @@
         <updated>2023-04-09T12:00:08.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠 】今日も楽しくおうたを歌うよ～❣全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QmBPMh9NyVw</id>
+        <link href="https://www.youtube.com/watch?v=QmBPMh9NyVw"/>
+        <updated>2023-04-09T10:43:58.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
