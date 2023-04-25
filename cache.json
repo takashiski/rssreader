@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
+          "publishedOn": "2023-04-25T10:06:16.000Z",
+          "wordCount": null,
+          "title": "【アカペラ】アイドル / YOASOBI【歌ってみた】#推しの子 #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
           "author": null,
           "description": "",
@@ -627,7 +637,7 @@
           "link": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
           "publishedOn": "2023-04-24T10:00:00.000Z",
           "wordCount": null,
-          "title": "流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多",
+          "title": "流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多 #shorts",
           "imageUrl": null
         },
         {
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-19T10:00:20.000Z",
           "wordCount": null,
           "title": "【ハモリチャレンジ】逆光 / Ado #るーとも #onepiece #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7Arww6tA5FE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7Arww6tA5FE",
-          "publishedOn": "2023-04-17T04:16:57.000Z",
-          "wordCount": null,
-          "title": "【雑談】プチお披露目あり！お話ししよ！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
