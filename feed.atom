@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T19:05:23.334Z</id>
+    <id>urn:2023-04-25T19:34:23.958Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T19:05:23.334Z</updated>
+    <updated>2023-04-25T19:34:23.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🍣サーモンゴリ推し寿司屋へようこそ3🍣「海鮮!!すし街道」【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=vBnWW5lRUUs</id>
+        <link href="https://www.youtube.com/watch?v=vBnWW5lRUUs"/>
+        <updated>2023-04-25T19:27:35.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[眠れない夜もすやすやできるASMRらじお #すやらじ ♡7【ASMR Radio/Whisper】]]></title>
+        <id>https://www.youtube.com/watch?v=H-LLnnNqeI8</id>
+        <link href="https://www.youtube.com/watch?v=H-LLnnNqeI8"/>
+        <updated>2023-04-25T19:03:29.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】Lobotomy Corporation雑談💖ねむが職員になったりアブノマになったりしたお話し＆スパチャありがとう時間🌸【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=m6aFjkokJVw</id>
@@ -1338,15 +1356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】ガチ恋距離でドキドキ安眠しよ♡耳かき・タッピング・囁き【Ear Cleaning/Ear Tapping/Mouth Sound/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=XRfCk-xKDOU</id>
-        <link href="https://www.youtube.com/watch?v=XRfCk-xKDOU"/>
-        <updated>2023-04-14T17:05:29.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【生誕&３Ｄお披露目✨】わらわの夢叶える瞬間みてて！✨めでたい日！！ #夢川かなう生誕3Dお披露目【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=r1mmhjaideQ</id>
         <link href="https://www.youtube.com/watch?v=r1mmhjaideQ"/>
@@ -1470,15 +1479,6 @@
         <updated>2023-04-13T15:07:30.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙熊が侵略しに来た！！！ #shorts #varkshorts]]></title>
-        <id>https://www.youtube.com/watch?v=CoOdaoE5Zeg</id>
-        <link href="https://www.youtube.com/watch?v=CoOdaoE5Zeg"/>
-        <updated>2023-04-13T14:30:04.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
