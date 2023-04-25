@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T21:05:38.152Z</id>
+    <id>urn:2023-04-25T21:34:12.540Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T21:05:38.152Z</updated>
+    <updated>2023-04-25T21:34:12.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -870,7 +870,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <title type="html"><![CDATA[【Lobotomy Corporation】#19 今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=EIyFd5w5rNw</id>
         <link href="https://www.youtube.com/watch?v=EIyFd5w5rNw"/>
         <updated>2023-04-18T17:18:27.000Z</updated>
@@ -1275,7 +1275,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <title type="html"><![CDATA[【Lobotomy Corporation】#18 いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=eDB5wbjiUPM</id>
         <link href="https://www.youtube.com/watch?v=eDB5wbjiUPM"/>
         <updated>2023-04-15T11:04:07.000Z</updated>
