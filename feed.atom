@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T15:05:55.026Z</id>
+    <id>urn:2023-04-25T15:34:22.770Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T15:05:55.026Z</updated>
+    <updated>2023-04-25T15:34:22.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2023-04-25T11:59:25.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
-        <link href="https://www.youtube.com/watch?v=Ju4VS0hPDc4"/>
-        <updated>2023-04-25T11:46:00.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1839,6 +1830,15 @@
         <updated>2023-04-09T12:00:08.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【魔女の家】クリアしろと言われたので･･･【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7U9OHcicRl0</id>
+        <link href="https://www.youtube.com/watch?v=7U9OHcicRl0"/>
+        <updated>2023-04-09T10:38:42.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
