@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T11:34:26.838Z</id>
+    <id>urn:2023-04-25T12:07:22.677Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T11:34:26.838Z</updated>
+    <updated>2023-04-25T12:07:22.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #リアクト学園 】開校直前SP！追加情報をドドンと大公開！【リアクト／Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_VjLPIMdZrc</id>
+        <link href="https://www.youtube.com/watch?v=_VjLPIMdZrc"/>
+        <updated>2023-04-25T12:06:06.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 嬉しい告知もあるんですけど… / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
+        <link href="https://www.youtube.com/watch?v=DB8LGOXBV8s"/>
+        <updated>2023-04-25T11:59:25.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
+        <link href="https://www.youtube.com/watch?v=Ju4VS0hPDc4"/>
+        <updated>2023-04-25T11:46:00.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】ドキドキ高音質♡耳をひらすら責める耳かき♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=PaoWaL5hAlw</id>
@@ -960,15 +987,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #リアクト学園 】開校直前SP！追加情報をドドンと大公開！【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_VjLPIMdZrc</id>
-        <link href="https://www.youtube.com/watch?v=_VjLPIMdZrc"/>
-        <updated>2023-04-17T09:26:29.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SSR 猫乃ユキノ お花見ver🌸 #vtuber #varkshorts]]></title>
         <id>https://www.youtube.com/watch?v=nEhX4Ekh9t4</id>
         <link href="https://www.youtube.com/watch?v=nEhX4Ekh9t4"/>
@@ -1815,15 +1833,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【魔女の家】クリアしろと言われたので･･･【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7U9OHcicRl0</id>
-        <link href="https://www.youtube.com/watch?v=7U9OHcicRl0"/>
-        <updated>2023-04-09T10:38:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】突発性歌枠【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=4KgPbJuTccY</id>
         <link href="https://www.youtube.com/watch?v=4KgPbJuTccY"/>
@@ -2253,15 +2262,6 @@
         <updated>2023-04-02T13:55:15.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デビュー1周年記念歌枠リレー /  1st Anniversary #つばぐら1周年 【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=tpFtHHDihRs</id>
-        <link href="https://www.youtube.com/watch?v=tpFtHHDihRs"/>
-        <updated>2023-04-02T13:10:16.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
