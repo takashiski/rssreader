@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T07:05:47.151Z</id>
+    <id>urn:2023-04-26T07:34:27.336Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T07:05:47.151Z</updated>
+    <updated>2023-04-26T07:34:27.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -150,7 +150,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です ささやかな告知があります… / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
         <link href="https://www.youtube.com/watch?v=DB8LGOXBV8s"/>
         <updated>2023-04-25T11:59:25.000Z</updated>
