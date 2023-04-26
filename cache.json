@@ -1219,6 +1219,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Q7QqjEraMew",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Q7QqjEraMew",
+          "publishedOn": "2023-04-26T08:34:41.000Z",
+          "wordCount": null,
+          "title": "◆ASMR / 広告なし! / 僕っ娘と一緒に眠りませんか？♡耳かきとマッサージ♡〖ear cleaning / binaural / JapaneseVtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ch9tKJL-87c",
           "author": null,
           "description": "",
@@ -1356,16 +1366,6 @@
           "publishedOn": "2023-04-01T16:16:43.000Z",
           "wordCount": null,
           "title": "◆3D雑談コラボ✨ / よく動きよく笑う！！さいきょうかわいい2人組っ♡＃アリライ 🦇💔【九楽ライ/月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aLXlZV-s-VM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aLXlZV-s-VM",
-          "publishedOn": "2023-03-31T23:27:12.000Z",
-          "wordCount": null,
-          "title": "◆アース：リバイバル / SF終末世界を探索＆サバイバル！？新作ゲーム先行プレイしちゃうぞ✨【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
