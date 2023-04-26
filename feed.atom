@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T05:06:02.996Z</id>
+    <id>urn:2023-04-26T05:34:22.661Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T05:06:02.996Z</updated>
+    <updated>2023-04-26T05:34:22.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】雨やだねええええええ！夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=A2PSlC-jRQ0</id>
+        <link href="https://www.youtube.com/watch?v=A2PSlC-jRQ0"/>
+        <updated>2023-04-26T05:30:24.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【つきみ参戦!例のアレ話す♡】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=G9dRURHbIKo</id>
+        <link href="https://www.youtube.com/watch?v=G9dRURHbIKo"/>
+        <updated>2023-04-26T05:18:59.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=V4bla6mWH4A</id>
+        <link href="https://www.youtube.com/watch?v=V4bla6mWH4A"/>
+        <updated>2023-04-26T05:11:55.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】初見歓迎✨おきろ❕朝だぞ～～～～～～～～❕💥 good morning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=2G9X0_Pvmos</id>
@@ -1545,15 +1572,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【春アニメ何見る？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zdj8pQT8wL8</id>
-        <link href="https://www.youtube.com/watch?v=zdj8pQT8wL8"/>
-        <updated>2023-04-13T04:29:46.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【moon】もっともっと愛されたい…♡🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=Ywn6JN24_zU</id>
         <link href="https://www.youtube.com/watch?v=Ywn6JN24_zU"/>
@@ -1704,15 +1722,6 @@
         <updated>2023-04-12T07:53:14.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【本日初配信】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ho7lgTkWQOc</id>
-        <link href="https://www.youtube.com/watch?v=ho7lgTkWQOc"/>
-        <updated>2023-04-12T04:45:41.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
@@ -2244,15 +2253,6 @@
         <updated>2023-04-03T10:22:27.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】]]></title>
-        <id>https://www.youtube.com/watch?v=dk-Rqs1DQg8</id>
-        <link href="https://www.youtube.com/watch?v=dk-Rqs1DQg8"/>
-        <updated>2023-04-02T15:02:06.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

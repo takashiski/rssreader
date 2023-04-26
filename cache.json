@@ -915,6 +915,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=A2PSlC-jRQ0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A2PSlC-jRQ0",
+          "publishedOn": "2023-04-26T05:30:24.000Z",
+          "wordCount": null,
+          "title": "【歌枠】雨やだねええええええ！夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P6xKVwAR-Lk",
           "author": null,
           "description": "",
@@ -1052,16 +1062,6 @@
           "publishedOn": "2023-04-03T11:00:11.000Z",
           "wordCount": null,
           "title": "【歌ってみた】デビルじゃないもん by魔光リサ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dk-Rqs1DQg8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dk-Rqs1DQg8",
-          "publishedOn": "2023-04-02T15:02:06.000Z",
-          "wordCount": null,
-          "title": "【 #つばぐら1周年 】集合！！！！！！！！！！！！！ 【彩雲のの /稀羽すう/魔光リサ】",
           "imageUrl": null
         }
       ]
@@ -1393,6 +1393,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=G9dRURHbIKo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=G9dRURHbIKo",
+          "publishedOn": "2023-04-26T05:18:59.000Z",
+          "wordCount": null,
+          "title": "【つきみ参戦!例のアレ話す♡】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=V4bla6mWH4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V4bla6mWH4A",
+          "publishedOn": "2023-04-26T05:11:55.000Z",
+          "wordCount": null,
+          "title": "【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CoUNdMCEY4A",
           "author": null,
           "description": "",
@@ -1520,26 +1540,6 @@
           "publishedOn": "2023-04-13T11:00:21.000Z",
           "wordCount": null,
           "title": "めざせポケモンマスター 歌ってみた #shorts #かしこまり",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zdj8pQT8wL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zdj8pQT8wL8",
-          "publishedOn": "2023-04-13T04:29:46.000Z",
-          "wordCount": null,
-          "title": "【春アニメ何見る？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ho7lgTkWQOc",
-          "publishedOn": "2023-04-12T04:45:41.000Z",
-          "wordCount": null,
-          "title": "【本日初配信】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
         }
       ]
