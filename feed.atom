@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T16:36:54.317Z</id>
+    <id>urn:2023-04-26T17:05:55.842Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T16:36:54.317Z</updated>
+    <updated>2023-04-26T17:05:55.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕かわいいお歌で盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qTUc4YOELU0</id>
+        <link href="https://www.youtube.com/watch?v=qTUc4YOELU0"/>
+        <updated>2023-04-26T16:59:44.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【メン限】『リトルバスターズ！〜Refrain〜』同時視聴～⚾✨今夜で秘密が分かるんだ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=CniAPYMwTm0</id>
+        <link href="https://www.youtube.com/watch?v=CniAPYMwTm0"/>
+        <updated>2023-04-26T16:46:09.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Q REMASTERED】頭使って難問クリアしちゃお💜Q２９から✨【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YXo3s97-ivU</id>
+        <link href="https://www.youtube.com/watch?v=YXo3s97-ivU"/>
+        <updated>2023-04-26T16:44:22.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RWLKEBm4liA</id>
@@ -111,15 +138,6 @@
         <updated>2023-04-26T00:28:24.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】『リトルバスターズ！〜Refrain〜』同時視聴～⚾✨ちょっぴり秘密に近付けそう…？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LftRnmoQnto</id>
-        <link href="https://www.youtube.com/watch?v=LftRnmoQnto"/>
-        <updated>2023-04-25T22:39:27.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1536,15 +1554,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【VARKSHORTS】over #varkshorts #shorts #vtuber]]></title>
-        <id>https://www.youtube.com/watch?v=j6hXkA4Ails</id>
-        <link href="https://www.youtube.com/watch?v=j6hXkA4Ails"/>
-        <updated>2023-04-13T10:30:11.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SSR 猫乃ユキノ🌨 #varkshorts #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=ODM3lkPeh8g</id>
         <link href="https://www.youtube.com/watch?v=ODM3lkPeh8g"/>
@@ -1668,15 +1677,6 @@
         <updated>2023-04-12T12:13:54.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VARKSHORTS】ラーメンまてまて〜🍜 #varkshorts #shorts #vtuber]]></title>
-        <id>https://www.youtube.com/watch?v=P4fByfYmiiI</id>
-        <link href="https://www.youtube.com/watch?v=P4fByfYmiiI"/>
-        <updated>2023-04-12T10:45:02.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
