@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T12:07:44.792Z</id>
+    <id>urn:2023-04-26T12:42:24.413Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T12:07:44.792Z</updated>
+    <updated>2023-04-26T12:42:24.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
+        <link href="https://www.youtube.com/watch?v=DB8LGOXBV8s"/>
+        <updated>2023-04-26T12:17:53.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#殺伐としたTLに突然おっぱいが #新人Vtuber #vtuber #ククルアクレイユ #shorts]]></title>
         <id>https://www.youtube.com/watch?v=AAf9zDIO9-M</id>
@@ -2154,15 +2163,6 @@
         <updated>2023-04-04T17:00:44.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1周年ありがとうございましたー！（でっかい声） 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-_x6wGtYKTI</id>
-        <link href="https://www.youtube.com/watch?v=-_x6wGtYKTI"/>
-        <updated>2023-04-04T15:03:13.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

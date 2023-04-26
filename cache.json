@@ -1062,6 +1062,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DB8LGOXBV8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DB8LGOXBV8s",
+          "publishedOn": "2023-04-26T12:17:53.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wosEiCuNjv8",
           "author": null,
           "description": "",
@@ -1189,16 +1199,6 @@
           "publishedOn": "2023-04-07T11:36:43.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】Figaroさんと！まったり歌枠コラボ 💐 #稀羽ふぃがろ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-_x6wGtYKTI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-_x6wGtYKTI",
-          "publishedOn": "2023-04-04T15:03:13.000Z",
-          "wordCount": null,
-          "title": "1周年ありがとうございましたー！（でっかい声） 【稀羽すう/Re:AcT】",
           "imageUrl": null
         }
       ]
