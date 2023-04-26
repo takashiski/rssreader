@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T22:34:16.285Z</id>
+    <id>urn:2023-04-26T23:05:53.035Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T22:34:16.285Z</updated>
+    <updated>2023-04-26T23:05:53.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 朝活】あさだぁ～おはよう～🌤【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DdGliHF2B6Y</id>
+        <link href="https://www.youtube.com/watch?v=DdGliHF2B6Y"/>
+        <updated>2023-04-26T22:41:07.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】雨やだねええええええ！夕方歌枠【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=A2PSlC-jRQ0</id>
@@ -93,15 +102,6 @@
         <updated>2023-04-26T15:15:01.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 朝活】あさだぁ～おはよう～🌤【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DdGliHF2B6Y</id>
-        <link href="https://www.youtube.com/watch?v=DdGliHF2B6Y"/>
-        <updated>2023-04-26T14:54:06.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -2287,15 +2287,6 @@
         <id>https://www.youtube.com/watch?v=CDBE8c0kwi8</id>
         <link href="https://www.youtube.com/watch?v=CDBE8c0kwi8"/>
         <updated>2023-03-29T12:00:09.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】桜が満開だね～🌸karaoke【#彩雲のの / #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=GoEWVK-W7rE</id>
-        <link href="https://www.youtube.com/watch?v=GoEWVK-W7rE"/>
-        <updated>2023-03-28T10:45:54.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
         </author>
