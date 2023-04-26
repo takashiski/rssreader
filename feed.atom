@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T16:06:17.724Z</id>
+    <id>urn:2023-04-26T16:36:54.317Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T16:06:17.724Z</updated>
+    <updated>2023-04-26T16:36:54.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RWLKEBm4liA</id>
+        <link href="https://www.youtube.com/watch?v=RWLKEBm4liA"/>
+        <updated>2023-04-26T16:31:02.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雀魂】ルルーシュ狙い！じゃんたま「コードギアス」コラボガチャチャレンジ！【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=7bEPPS0-r4Q</id>
@@ -100,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=2G9X0_Pvmos</id>
         <link href="https://www.youtube.com/watch?v=2G9X0_Pvmos"/>
         <updated>2023-04-26T00:28:24.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Q REMASTERED】頭使って難問クリアしちゃお💜Q２９から✨【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YXo3s97-ivU</id>
-        <link href="https://www.youtube.com/watch?v=YXo3s97-ivU"/>
-        <updated>2023-04-25T23:52:52.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1671,12 +1671,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last Night, Good Night 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ]]></title>
-        <id>https://www.youtube.com/watch?v=vT2NHIzXOdw</id>
-        <link href="https://www.youtube.com/watch?v=vT2NHIzXOdw"/>
-        <updated>2023-04-12T11:21:00.000Z</updated>
+        <title type="html"><![CDATA[【VARKSHORTS】ラーメンまてまて〜🍜 #varkshorts #shorts #vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=P4fByfYmiiI</id>
+        <link href="https://www.youtube.com/watch?v=P4fByfYmiiI"/>
+        <updated>2023-04-12T10:45:02.000Z</updated>
         <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
