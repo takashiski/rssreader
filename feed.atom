@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T14:05:40.996Z</id>
+    <id>urn:2023-04-26T14:34:25.820Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T14:05:40.996Z</updated>
+    <updated>2023-04-26T14:34:25.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雀魂】ルルーシュ狙い！じゃんたま「コードギアス」コラボガチャチャレンジ！【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=7bEPPS0-r4Q</id>
+        <link href="https://www.youtube.com/watch?v=7bEPPS0-r4Q"/>
+        <updated>2023-04-26T14:27:02.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
@@ -102,15 +111,6 @@
         <updated>2023-04-25T17:03:25.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】月城アオイ様ご来店！第17回は親近感しかない！ハーフヴァンパイア襲来！【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=AquuFuSkQOg</id>
-        <link href="https://www.youtube.com/watch?v=AquuFuSkQOg"/>
-        <updated>2023-04-25T16:28:19.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -825,10 +825,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】すーぱーかいぬし様限定☁ Only for Superkainushi. 【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=Z8S7_yXgqLw</id>
-        <link href="https://www.youtube.com/watch?v=Z8S7_yXgqLw"/>
-        <updated>2023-04-19T09:18:08.000Z</updated>
+        <title type="html"><![CDATA[【PR案件】RICHILLで一緒にチルしよ💭【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=5UowSoTMH-0</id>
+        <link href="https://www.youtube.com/watch?v=5UowSoTMH-0"/>
+        <updated>2023-04-19T09:16:19.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1320,15 +1320,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[バーチャルアイドル宇宙熊のLIVEへようこそ！ #shorts #varkshorts]]></title>
-        <id>https://www.youtube.com/watch?v=PXQjWJJwXBI</id>
-        <link href="https://www.youtube.com/watch?v=PXQjWJJwXBI"/>
-        <updated>2023-04-15T03:15:00.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】かっこいいのうたいたい⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=hdagi55EhN0</id>
         <link href="https://www.youtube.com/watch?v=hdagi55EhN0"/>
@@ -1731,6 +1722,15 @@
         <updated>2023-04-11T17:58:04.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】男性ボーカルアニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Qr90SEqPVOQ</id>
+        <link href="https://www.youtube.com/watch?v=Qr90SEqPVOQ"/>
+        <updated>2023-04-11T15:28:35.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
