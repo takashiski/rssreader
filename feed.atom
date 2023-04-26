@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T00:21:59.572Z</id>
+    <id>urn:2023-04-26T00:49:53.079Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T00:21:59.572Z</updated>
+    <updated>2023-04-26T00:49:53.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】初見歓迎✨おきろ❕朝だぞ～～～～～～～～❕💥 good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=2G9X0_Pvmos</id>
+        <link href="https://www.youtube.com/watch?v=2G9X0_Pvmos"/>
+        <updated>2023-04-26T00:28:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Q REMASTERED】頭使って難問クリアしちゃお💜Q２９から✨【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YXo3s97-ivU</id>
@@ -1668,15 +1677,6 @@
         <updated>2023-04-12T11:21:00.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VARKSHORTS】ラーメンまてまて〜🍜 #varkshorts #shorts #vtuber]]></title>
-        <id>https://www.youtube.com/watch?v=P4fByfYmiiI</id>
-        <link href="https://www.youtube.com/watch?v=P4fByfYmiiI"/>
-        <updated>2023-04-12T10:45:02.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
