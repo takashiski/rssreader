@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T04:06:03.984Z</id>
+    <id>urn:2023-04-26T04:34:37.239Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T04:06:03.984Z</updated>
+    <updated>2023-04-26T04:34:37.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -138,15 +138,6 @@
         <updated>2023-04-25T10:06:16.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=V4bla6mWH4A</id>
-        <link href="https://www.youtube.com/watch?v=V4bla6mWH4A"/>
-        <updated>2023-04-25T04:22:56.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
@@ -1713,6 +1704,15 @@
         <updated>2023-04-12T07:53:14.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【本日初配信】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ho7lgTkWQOc</id>
+        <link href="https://www.youtube.com/watch?v=ho7lgTkWQOc"/>
+        <updated>2023-04-12T04:45:41.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
