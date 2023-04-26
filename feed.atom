@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T15:34:25.690Z</id>
+    <id>urn:2023-04-26T16:06:17.724Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T15:34:25.690Z</updated>
+    <updated>2023-04-26T16:06:17.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雀魂】ルルーシュ狙い！じゃんたま「コードギアス」コラボガチャチャレンジ！【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=7bEPPS0-r4Q</id>
+        <link href="https://www.youtube.com/watch?v=7bEPPS0-r4Q"/>
+        <updated>2023-04-26T15:50:12.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【moon】今夜こそ心眼で攻略…デスッテ！！！🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=IwrMMoOS6oo</id>
@@ -51,15 +60,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雀魂】ルルーシュ狙い！じゃんたま「コードギアス」コラボガチャチャレンジ！【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=7bEPPS0-r4Q</id>
-        <link href="https://www.youtube.com/watch?v=7bEPPS0-r4Q"/>
-        <updated>2023-04-26T14:27:02.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
         <link href="https://www.youtube.com/watch?v=DB8LGOXBV8s"/>
@@ -75,15 +75,6 @@
         <updated>2023-04-26T11:27:03.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆ASMR / 広告なし! / 僕っ娘と一緒に眠りませんか？♡耳かきとマッサージ♡〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=Q7QqjEraMew</id>
-        <link href="https://www.youtube.com/watch?v=Q7QqjEraMew"/>
-        <updated>2023-04-26T08:34:41.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
