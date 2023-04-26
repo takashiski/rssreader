@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T23:34:29.243Z</id>
+    <id>urn:2023-04-26T00:21:59.572Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T23:34:29.243Z</updated>
+    <updated>2023-04-26T00:21:59.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Q REMASTERED】頭使って難問クリアしちゃお💜Q２９から✨【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YXo3s97-ivU</id>
+        <link href="https://www.youtube.com/watch?v=YXo3s97-ivU"/>
+        <updated>2023-04-25T23:52:52.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メン限】『リトルバスターズ！〜Refrain〜』同時視聴～⚾✨ちょっぴり秘密に近付けそう…？【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LftRnmoQnto</id>
@@ -60,15 +69,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】初見歓迎✨おきろ❕朝だぞ～～～～～～～～❕💥 good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2G9X0_Pvmos</id>
-        <link href="https://www.youtube.com/watch?v=2G9X0_Pvmos"/>
-        <updated>2023-04-25T16:20:13.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
         <link href="https://www.youtube.com/watch?v=Ju4VS0hPDc4"/>
@@ -114,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 嬉しい告知もあるんですけど… / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です ささやかな告知があります… / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
         <link href="https://www.youtube.com/watch?v=DB8LGOXBV8s"/>
         <updated>2023-04-25T11:59:25.000Z</updated>
@@ -2352,24 +2352,6 @@
         <updated>2023-03-27T23:50:49.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Re:AcT×パレプロ】人を騙すのは苦手だけど逃げるのは得意だぜッ！ 【水瓶ミア視点/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8ZRmQ0WUatU</id>
-        <link href="https://www.youtube.com/watch?v=8ZRmQ0WUatU"/>
-        <updated>2023-03-27T12:06:37.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/切り抜き】癒し系Vingerが春泥棒を歌ってみたら・・・【#shorts /#彩雲のの 】]]></title>
-        <id>https://www.youtube.com/watch?v=UEZeEuFF5ZA</id>
-        <link href="https://www.youtube.com/watch?v=UEZeEuFF5ZA"/>
-        <updated>2023-03-27T12:00:30.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
 </feed>
