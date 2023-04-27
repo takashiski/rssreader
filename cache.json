@@ -611,16 +611,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=geWicrzdq6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=geWicrzdq6E",
-          "publishedOn": "2023-04-27T12:56:00.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=d78vJMRfDGw",
           "author": null,
           "description": "",
@@ -758,6 +748,16 @@
           "publishedOn": "2023-04-19T22:25:07.000Z",
           "wordCount": null,
           "title": "【復帰配信】ただいまー！会いたかった！！zatsudan!!!【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=XTpGj2a20oE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XTpGj2a20oE",
+          "publishedOn": "2023-04-19T14:53:18.000Z",
+          "wordCount": null,
+          "title": "再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1823,16 +1823,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=IWyZNC1tgmo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IWyZNC1tgmo",
-          "publishedOn": "2023-04-27T10:40:52.000Z",
-          "wordCount": null,
-          "title": "【サンブレイク】うさみみ実装されたってホント？？欲しいっ！【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=IwrMMoOS6oo",
           "author": null,
           "description": "",
@@ -1970,6 +1960,16 @@
           "publishedOn": "2023-04-06T13:48:25.000Z",
           "wordCount": null,
           "title": "【moon】愛について、まだ何も知りません…🐰【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bnspdHPNXPw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bnspdHPNXPw",
+          "publishedOn": "2023-04-05T15:29:56.000Z",
+          "wordCount": null,
+          "title": "【夕暮れ時、廃校にて。】学校で探索ゲーム開始…。【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]

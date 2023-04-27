@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T14:34:33.545Z</id>
+    <id>urn:2023-04-27T15:05:55.888Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T14:34:33.545Z</updated>
+    <updated>2023-04-27T15:05:55.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,30 +51,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=geWicrzdq6E</id>
-        <link href="https://www.youtube.com/watch?v=geWicrzdq6E"/>
-        <updated>2023-04-27T12:56:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【崩壊スターレイル】完全初見！可愛い女の子いっぱい？！？！ 【 #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=KSGXErEEf3E</id>
         <link href="https://www.youtube.com/watch?v=KSGXErEEf3E"/>
         <updated>2023-04-27T12:35:47.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【サンブレイク】うさみみ実装されたってホント？？欲しいっ！【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=IWyZNC1tgmo</id>
-        <link href="https://www.youtube.com/watch?v=IWyZNC1tgmo"/>
-        <updated>2023-04-27T10:40:52.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -921,6 +903,15 @@
         <updated>2023-04-19T16:31:25.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XTpGj2a20oE</id>
+        <link href="https://www.youtube.com/watch?v=XTpGj2a20oE"/>
+        <updated>2023-04-19T14:53:18.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2145,6 +2136,15 @@
         <updated>2023-04-05T21:42:07.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【夕暮れ時、廃校にて。】学校で探索ゲーム開始…。【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=bnspdHPNXPw</id>
+        <link href="https://www.youtube.com/watch?v=bnspdHPNXPw"/>
+        <updated>2023-04-05T15:29:56.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
