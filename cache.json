@@ -150,6 +150,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=IgJzDLWyucM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=IgJzDLWyucM",
+          "publishedOn": "2023-04-27T14:07:36.000Z",
+          "wordCount": null,
+          "title": "【 singing stream🥂 】初見さん大歓迎～／木曜定期の歌枠🌃GWまであとちょっと！【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Vu1rtPHWoyI",
           "author": null,
           "description": "",
@@ -287,16 +297,6 @@
           "publishedOn": "2023-04-06T17:30:37.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／深夜の定期歌枠～～！🌃楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=n7n6ZfoaYhg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n7n6ZfoaYhg",
-          "publishedOn": "2023-04-05T07:00:34.000Z",
-          "wordCount": null,
-          "title": "【 singing stream🥂 】初見さん大歓迎～／のんびりランチタイム歌枠～～！🍚楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2590,6 +2590,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CNUE2AE2E8o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CNUE2AE2E8o",
+          "publishedOn": "2023-04-27T14:09:02.000Z",
+          "wordCount": null,
+          "title": "【#ミリしら 】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしら！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=K6soADDa6bk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=K6soADDa6bk",
+          "publishedOn": "2023-04-27T14:07:09.000Z",
+          "wordCount": null,
+          "title": "【#クロエのレクイエム】ついにエンディング！！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4EogEqVWTo4",
           "author": null,

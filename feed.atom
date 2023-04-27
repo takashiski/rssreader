@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T14:05:32.335Z</id>
+    <id>urn:2023-04-27T14:34:33.545Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T14:05:32.335Z</updated>
+    <updated>2023-04-27T14:34:33.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ミリしら 】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしら！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=CNUE2AE2E8o</id>
+        <link href="https://www.youtube.com/watch?v=CNUE2AE2E8o"/>
+        <updated>2023-04-27T14:09:02.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／木曜定期の歌枠🌃GWまであとちょっと！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IgJzDLWyucM</id>
+        <link href="https://www.youtube.com/watch?v=IgJzDLWyucM"/>
+        <updated>2023-04-27T14:07:36.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#クロエのレクイエム】ついにエンディング！！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=K6soADDa6bk</id>
+        <link href="https://www.youtube.com/watch?v=K6soADDa6bk"/>
+        <updated>2023-04-27T14:07:09.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久歌枠】３万人まで歌う✨お願い、僕を見つけて...！見届けて！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=iVlzWSOB0Tw</id>
@@ -2172,15 +2199,6 @@
         <updated>2023-04-05T11:06:20.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／のんびりランチタイム歌枠～～！🍚楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=n7n6ZfoaYhg</id>
-        <link href="https://www.youtube.com/watch?v=n7n6ZfoaYhg"/>
-        <updated>2023-04-05T07:00:34.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
