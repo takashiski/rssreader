@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T13:34:46.916Z</id>
+    <id>urn:2023-04-27T14:05:32.335Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T13:34:46.916Z</updated>
+    <updated>2023-04-27T14:05:32.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2080,15 +2080,6 @@
         <id>https://www.youtube.com/watch?v=QU492FdH2fA</id>
         <link href="https://www.youtube.com/watch?v=QU492FdH2fA"/>
         <updated>2023-04-06T14:21:50.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】闇が深すぎる2人……！そろそろ佳境！？【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=xbMqCHhoe3U</id>
-        <link href="https://www.youtube.com/watch?v=xbMqCHhoe3U"/>
-        <updated>2023-04-06T14:18:20.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
