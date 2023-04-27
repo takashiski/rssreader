@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
+          "publishedOn": "2023-04-27T18:08:36.000Z",
+          "wordCount": null,
+          "title": "【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=d78vJMRfDGw",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-19T22:25:07.000Z",
           "wordCount": null,
           "title": "【復帰配信】ただいまー！会いたかった！！zatsudan!!!【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XTpGj2a20oE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XTpGj2a20oE",
-          "publishedOn": "2023-04-19T14:53:18.000Z",
-          "wordCount": null,
-          "title": "再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
