@@ -1199,6 +1199,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=iVlzWSOB0Tw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iVlzWSOB0Tw",
+          "publishedOn": "2023-04-27T13:19:09.000Z",
+          "wordCount": null,
+          "title": "【耐久歌枠】３万人まで歌う✨お願い、僕を見つけて...！見届けて！【九楽ライ/Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wBnJ2tOwJSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wBnJ2tOwJSA",
+          "publishedOn": "2023-04-27T13:18:59.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / 久々の朝まったり。初見さん大歓迎するぞ！ / morning freetalk【新人Vtuber/九楽ライ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ch9tKJL-87c",
           "author": null,
           "description": "",
@@ -1316,26 +1336,6 @@
           "publishedOn": "2023-04-03T18:14:00.000Z",
           "wordCount": null,
           "title": "◆ASMR / 広告なし! / すぐにぐっすり夢の中♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pFI-B80ag7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pFI-B80ag7w",
-          "publishedOn": "2023-04-02T08:34:27.000Z",
-          "wordCount": null,
-          "title": "◆おうち３D歌枠✨ /sing / 電車で会うなんて奇遇だな。歌うか。 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DpWFUASeBHs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DpWFUASeBHs",
-          "publishedOn": "2023-04-01T16:16:43.000Z",
-          "wordCount": null,
-          "title": "◆3D雑談コラボ✨ / よく動きよく笑う！！さいきょうかわいい2人組っ♡＃アリライ 🦇💔【九楽ライ/月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
