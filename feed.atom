@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T12:41:37.460Z</id>
+    <id>urn:2023-04-27T13:06:31.871Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T12:41:37.460Z</updated>
+    <updated>2023-04-27T13:06:31.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=geWicrzdq6E</id>
+        <link href="https://www.youtube.com/watch?v=geWicrzdq6E"/>
+        <updated>2023-04-27T12:56:00.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【崩壊スターレイル】完全初見！可愛い女の子いっぱい？！？！ 【 #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=KSGXErEEf3E</id>
@@ -867,15 +876,6 @@
         <updated>2023-04-19T16:31:25.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XTpGj2a20oE</id>
-        <link href="https://www.youtube.com/watch?v=XTpGj2a20oE"/>
-        <updated>2023-04-19T14:53:18.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
