@@ -611,16 +611,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
-          "publishedOn": "2023-04-26T15:15:01.000Z",
-          "wordCount": null,
-          "title": "【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
           "author": null,
           "description": "",
@@ -758,6 +748,16 @@
           "publishedOn": "2023-04-19T14:53:18.000Z",
           "wordCount": null,
           "title": "再最終回【Hogwarts Legacy】セバスチャンと仲良くなって真END見よ~！！！！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VnfkdONlssk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VnfkdONlssk",
+          "publishedOn": "2023-04-19T10:00:20.000Z",
+          "wordCount": null,
+          "title": "【ハモリチャレンジ】逆光 / Ado #るーとも #onepiece #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -1352,6 +1352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Uq1nXkYJjB8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Uq1nXkYJjB8",
+          "publishedOn": "2023-04-27T05:16:57.000Z",
+          "wordCount": null,
+          "title": "【女のコ同士の恋愛！？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=G9dRURHbIKo",
           "author": null,
           "description": "",
@@ -1489,16 +1499,6 @@
           "publishedOn": "2023-04-14T04:15:10.000Z",
           "wordCount": null,
           "title": "【車ぶつけた話】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XmIUsL-vwB8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XmIUsL-vwB8",
-          "publishedOn": "2023-04-13T11:00:21.000Z",
-          "wordCount": null,
-          "title": "めざせポケモンマスター 歌ってみた #shorts #かしこまり",
           "imageUrl": null
         }
       ]
