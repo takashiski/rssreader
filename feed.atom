@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T12:07:10.901Z</id>
+    <id>urn:2023-04-27T12:41:37.460Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T12:07:10.901Z</updated>
+    <updated>2023-04-27T12:41:37.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【崩壊スターレイル】完全初見！可愛い女の子いっぱい？！？！ 【 #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=KSGXErEEf3E</id>
+        <link href="https://www.youtube.com/watch?v=KSGXErEEf3E"/>
+        <updated>2023-04-27T12:35:47.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【サンブレイク】うさみみ実装されたってホント？？欲しいっ！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=IWyZNC1tgmo</id>
@@ -39,15 +48,6 @@
         <updated>2023-04-27T09:18:04.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊スターレイル】完全初見！可愛い女の子いっぱい？！？！ 【 #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=KSGXErEEf3E</id>
-        <link href="https://www.youtube.com/watch?v=KSGXErEEf3E"/>
-        <updated>2023-04-27T09:16:45.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -102,15 +102,6 @@
         <updated>2023-04-26T21:47:40.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久歌枠】３万人まで歌う✨お願い、僕を見つけて...！見届けて！【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=iVlzWSOB0Tw</id>
-        <link href="https://www.youtube.com/watch?v=iVlzWSOB0Tw"/>
-        <updated>2023-04-26T19:20:30.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -2280,6 +2271,15 @@
         <updated>2023-04-01T16:25:16.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆3D雑談コラボ✨ / よく動きよく笑う！！さいきょうかわいい2人組っ♡＃アリライ 🦇💔【九楽ライ/月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DpWFUASeBHs</id>
+        <link href="https://www.youtube.com/watch?v=DpWFUASeBHs"/>
+        <updated>2023-04-01T16:16:43.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
