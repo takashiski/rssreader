@@ -895,6 +895,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KSGXErEEf3E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KSGXErEEf3E",
+          "publishedOn": "2023-04-27T09:16:45.000Z",
+          "wordCount": null,
+          "title": "【崩壊スターレイル】完全初見！可愛い女の子いっぱい？！？！ 【 #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=A2PSlC-jRQ0",
           "author": null,
           "description": "",
@@ -1032,16 +1042,6 @@
           "publishedOn": "2023-04-04T11:11:48.000Z",
           "wordCount": null,
           "title": "【雑談】いつもありがとうだ！ 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U1c6NglyxR8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=U1c6NglyxR8",
-          "publishedOn": "2023-04-03T11:00:11.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】デビルじゃないもん by魔光リサ",
           "imageUrl": null
         }
       ]
@@ -1666,11 +1666,21 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Or8Tw8iXB1k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Or8Tw8iXB1k",
+          "publishedOn": "2023-04-27T09:29:23.000Z",
+          "wordCount": null,
+          "title": "【ASMR】安眠誘導💗たっぷり癒されて、いっしょに今日は寝よ？💗 ear cleaning/massage 【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qTUc4YOELU0",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=qTUc4YOELU0",
-          "publishedOn": "2023-04-26T16:59:44.000Z",
+          "publishedOn": "2023-04-27T09:18:04.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見大歓迎✨３D❕かわいいお歌で盛り上がろ💜 karaoke【月紫アリア/Vtuber】",
           "imageUrl": null
@@ -1803,16 +1813,6 @@
           "publishedOn": "2023-04-14T10:00:48.000Z",
           "wordCount": null,
           "title": "【VARKSHORTS】レトロゲーム🎮 #varkshorts #shorts #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GeioUdVmgNU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GeioUdVmgNU",
-          "publishedOn": "2023-04-13T13:26:31.000Z",
-          "wordCount": null,
-          "title": "【雑談】おうち３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】",
           "imageUrl": null
         }
       ]

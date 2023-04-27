@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T09:05:53.834Z</id>
+    <id>urn:2023-04-27T09:34:20.350Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T09:05:53.834Z</updated>
+    <updated>2023-04-27T09:34:20.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷり癒されて、いっしょに今日は寝よ？💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Or8Tw8iXB1k</id>
+        <link href="https://www.youtube.com/watch?v=Or8Tw8iXB1k"/>
+        <updated>2023-04-27T09:29:23.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕かわいいお歌で盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qTUc4YOELU0</id>
+        <link href="https://www.youtube.com/watch?v=qTUc4YOELU0"/>
+        <updated>2023-04-27T09:18:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【崩壊スターレイル】完全初見！可愛い女の子いっぱい？！？！ 【 #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=KSGXErEEf3E</id>
+        <link href="https://www.youtube.com/watch?v=KSGXErEEf3E"/>
+        <updated>2023-04-27T09:16:45.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【女のコ同士の恋愛！？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Uq1nXkYJjB8</id>
@@ -75,15 +102,6 @@
         <updated>2023-04-26T17:52:09.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕かわいいお歌で盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=qTUc4YOELU0</id>
-        <link href="https://www.youtube.com/watch?v=qTUc4YOELU0"/>
-        <updated>2023-04-26T16:59:44.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1563,15 +1581,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】おうち３Ｄ💗可愛く動いて、たくさんおはなし🧸🦇💗 #アリぼん 【月紫アリア/姫熊りぼん/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=GeioUdVmgNU</id>
-        <link href="https://www.youtube.com/watch?v=GeioUdVmgNU"/>
-        <updated>2023-04-13T13:26:31.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】3.3万人耐久歌枠…！！新しい人にたくさん知ってもらえたらいいな～ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=2kc4CdRT-GU</id>
         <link href="https://www.youtube.com/watch?v=2kc4CdRT-GU"/>
@@ -2217,15 +2226,6 @@
         <updated>2023-04-03T18:14:00.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】デビルじゃないもん by魔光リサ]]></title>
-        <id>https://www.youtube.com/watch?v=U1c6NglyxR8</id>
-        <link href="https://www.youtube.com/watch?v=U1c6NglyxR8"/>
-        <updated>2023-04-03T11:00:11.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
