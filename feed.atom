@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-27T15:05:55.888Z</id>
+    <id>urn:2023-04-27T15:34:22.362Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T15:05:55.888Z</updated>
+    <updated>2023-04-27T15:34:22.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[私の声が聞こえるのか]]></title>
+        <id>https://www.youtube.com/watch?v=wosEiCuNjv8</id>
+        <link href="https://www.youtube.com/watch?v=wosEiCuNjv8"/>
+        <updated>2023-04-27T15:24:40.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インターネット老人会の歌うエルフ／歌声がエモすぎた #新人Vtuber #Vtuber #歌ってみた #shorts #ククルアクレイユ #切り抜き]]></title>
+        <id>https://www.youtube.com/watch?v=ndHtd1BWIS0</id>
+        <link href="https://www.youtube.com/watch?v=ndHtd1BWIS0"/>
+        <updated>2023-04-27T15:22:24.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ミリしら 】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしら！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=CNUE2AE2E8o</id>
@@ -273,15 +291,6 @@
         <updated>2023-04-25T14:41:18.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私の声が聞こえるのか]]></title>
-        <id>https://www.youtube.com/watch?v=wosEiCuNjv8</id>
-        <link href="https://www.youtube.com/watch?v=wosEiCuNjv8"/>
-        <updated>2023-04-25T13:25:09.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
