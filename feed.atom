@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T11:05:38.435Z</id>
+    <id>urn:2023-04-28T11:34:12.759Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T11:05:38.435Z</updated>
+    <updated>2023-04-28T11:34:12.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】今週は金曜日に！！定期歌枠だ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=XzagpT0PitI</id>
+        <link href="https://www.youtube.com/watch?v=XzagpT0PitI"/>
+        <updated>2023-04-28T11:15:25.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#たらんつかって】植物サムネ選手権！一個ずつ見ていく！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=tRVJVLOfd3s</id>
+        <link href="https://www.youtube.com/watch?v=tRVJVLOfd3s"/>
+        <updated>2023-04-28T11:10:47.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】もしかするとしばらく会えないかもしれないから…。まさかね！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=ROBzeeH-21o</id>
@@ -39,15 +57,6 @@
         <updated>2023-04-28T08:34:58.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】今週は金曜日に！！定期歌枠だ【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=XzagpT0PitI</id>
-        <link href="https://www.youtube.com/watch?v=XzagpT0PitI"/>
-        <updated>2023-04-28T07:49:21.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -849,15 +858,6 @@
         <updated>2023-04-21T01:47:14.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【睡眠導入/singing】初見さん大歓迎！！まったり歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=u_3szQZ5eos</id>
-        <link href="https://www.youtube.com/watch?v=u_3szQZ5eos"/>
-        <updated>2023-04-21T00:17:47.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
