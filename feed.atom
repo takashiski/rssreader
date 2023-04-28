@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T17:34:23.237Z</id>
+    <id>urn:2023-04-28T18:05:51.324Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T17:34:23.238Z</updated>
+    <updated>2023-04-28T18:05:51.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】#20 いちご大福って美味しいよね🍓！美味しいよ…ね………【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=mFTlSQEKS_g</id>
+        <link href="https://www.youtube.com/watch?v=mFTlSQEKS_g"/>
+        <updated>2023-04-28T18:00:10.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗一週間お疲れ様な君へ、最高の癒し時間を💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=tch_6qjN9CA</id>
@@ -1875,15 +1884,6 @@
         <updated>2023-04-11T13:35:56.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【視聴者参加型】『 ＃戦国大河 』🌸ねむ、もっと強くなりたい…！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=oJwietFEsjo</id>
-        <link href="https://www.youtube.com/watch?v=oJwietFEsjo"/>
-        <updated>2023-04-11T13:17:08.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
