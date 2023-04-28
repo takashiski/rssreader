@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T10:34:12.621Z</id>
+    <id>urn:2023-04-28T11:05:38.435Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T10:34:12.621Z</updated>
+    <updated>2023-04-28T11:05:38.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】もしかするとしばらく会えないかもしれないから…。まさかね！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=ROBzeeH-21o</id>
+        <link href="https://www.youtube.com/watch?v=ROBzeeH-21o"/>
+        <updated>2023-04-28T10:36:07.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ハモリチャレンジ】シンデレラボーイ / Saucy Dog #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=6LqmPU0UhC4</id>
@@ -2136,15 +2145,6 @@
         <updated>2023-04-06T14:21:50.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】愛について、まだ何も知りません…🐰【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=s1z0KABTTC0</id>
-        <link href="https://www.youtube.com/watch?v=s1z0KABTTC0"/>
-        <updated>2023-04-06T13:48:25.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
