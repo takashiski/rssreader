@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T15:34:19.639Z</id>
+    <id>urn:2023-04-28T16:06:04.663Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T15:34:19.639Z</updated>
+    <updated>2023-04-28T16:06:04.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -381,15 +381,6 @@
         <updated>2023-04-26T00:28:24.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眠れない夜もすやすやできるASMRらじお #すやらじ ♡7【ASMR Radio/Whisper】]]></title>
-        <id>https://www.youtube.com/watch?v=H-LLnnNqeI8</id>
-        <link href="https://www.youtube.com/watch?v=H-LLnnNqeI8"/>
-        <updated>2023-04-25T19:03:29.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1299,6 +1290,15 @@
         <updated>2023-04-17T04:36:46.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活雑談】朝は苦手だけど、あなたのために起きたの！（圧）/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=E_32VKqGaFM</id>
+        <link href="https://www.youtube.com/watch?v=E_32VKqGaFM"/>
+        <updated>2023-04-16T23:51:07.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
