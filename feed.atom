@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T09:34:20.441Z</id>
+    <id>urn:2023-04-28T10:05:57.739Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T09:34:20.441Z</updated>
+    <updated>2023-04-28T10:05:57.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【鬼滅の刃】刀鍛冶の里編「絆ノ奇跡」MAN WITH A MISSION×milet 歌ってみた #shorts #かしこまり]]></title>
+        <id>https://www.youtube.com/watch?v=vkzJOgwuWnA</id>
+        <link href="https://www.youtube.com/watch?v=vkzJOgwuWnA"/>
+        <updated>2023-04-28T10:00:48.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】#20 いちご大福って美味しいよね🍓！美味しいよ…ね………【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=mFTlSQEKS_g</id>
@@ -102,15 +111,6 @@
         <updated>2023-04-27T18:08:36.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/Singing】初見大歓迎！コードギアス縛り｜KARAOKE【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9oKCbpFWjpk</id>
-        <link href="https://www.youtube.com/watch?v=9oKCbpFWjpk"/>
-        <updated>2023-04-27T17:58:26.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1599,15 +1599,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【車ぶつけた話】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2i8PzJhMntE</id>
-        <link href="https://www.youtube.com/watch?v=2i8PzJhMntE"/>
-        <updated>2023-04-14T04:15:10.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=b65eH3iOm0Q</id>
         <link href="https://www.youtube.com/watch?v=b65eH3iOm0Q"/>
@@ -1711,6 +1702,15 @@
         <id>https://www.youtube.com/watch?v=r1Gn0BEVT-o</id>
         <link href="https://www.youtube.com/watch?v=r1Gn0BEVT-o"/>
         <updated>2023-04-13T01:59:25.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見さんもおはよう！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DRSLAp9IvjA</id>
+        <link href="https://www.youtube.com/watch?v=DRSLAp9IvjA"/>
+        <updated>2023-04-13T01:22:24.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>

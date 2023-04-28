@@ -307,16 +307,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=9oKCbpFWjpk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9oKCbpFWjpk",
-          "publishedOn": "2023-04-27T17:58:26.000Z",
-          "wordCount": null,
-          "title": "【歌枠/Singing】初見大歓迎！コードギアス縛り｜KARAOKE【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=ndHtd1BWIS0",
           "author": null,
           "description": "",
@@ -454,6 +444,16 @@
           "publishedOn": "2023-04-13T01:59:25.000Z",
           "wordCount": null,
           "title": "【8ヶ月記念🎊歌枠】プチLIVE ✧ 8 Month Anniversary｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DRSLAp9IvjA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DRSLAp9IvjA",
+          "publishedOn": "2023-04-13T01:22:24.000Z",
+          "wordCount": null,
+          "title": "【朝活】初見さんもおはよう！木曜定期☀️朝配信【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1352,6 +1352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vkzJOgwuWnA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vkzJOgwuWnA",
+          "publishedOn": "2023-04-28T10:00:48.000Z",
+          "wordCount": null,
+          "title": "【鬼滅の刃】刀鍛冶の里編「絆ノ奇跡」MAN WITH A MISSION×milet 歌ってみた #shorts #かしこまり",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Uq1nXkYJjB8",
           "author": null,
           "description": "",
@@ -1489,16 +1499,6 @@
           "publishedOn": "2023-04-15T09:33:27.000Z",
           "wordCount": null,
           "title": "ＳＳＲかしこまり出ちゃった！？ #shorts #varkshorts #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2i8PzJhMntE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2i8PzJhMntE",
-          "publishedOn": "2023-04-14T04:15:10.000Z",
-          "wordCount": null,
-          "title": "【車ぶつけた話】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
         }
       ]
