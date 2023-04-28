@@ -1199,6 +1199,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wBnJ2tOwJSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wBnJ2tOwJSA",
+          "publishedOn": "2023-04-28T00:32:45.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / 久々の朝まったり。初見さん大歓迎するぞ！ / morning freetalk【新人Vtuber/九楽ライ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iVlzWSOB0Tw",
           "author": null,
           "description": "",
@@ -1206,16 +1216,6 @@
           "publishedOn": "2023-04-27T13:19:09.000Z",
           "wordCount": null,
           "title": "【耐久歌枠】３万人まで歌う✨お願い、僕を見つけて...！見届けて！【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wBnJ2tOwJSA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wBnJ2tOwJSA",
-          "publishedOn": "2023-04-27T13:18:59.000Z",
-          "wordCount": null,
-          "title": "☀朝活雑談 / 久々の朝まったり。初見さん大歓迎するぞ！ / morning freetalk【新人Vtuber/九楽ライ】",
           "imageUrl": null
         },
         {
