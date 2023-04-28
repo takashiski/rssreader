@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9oKCbpFWjpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9oKCbpFWjpk",
+          "publishedOn": "2023-04-28T21:55:14.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見大歓迎！コードギアス縛り｜Singing ✧ Karaoke【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wIMaGBO6gc4",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2023-04-14T10:22:38.000Z",
           "wordCount": null,
           "title": "【お絵描き配信】夢川かなう先輩のイラスト描く🐟｜DRAWING【#ククルアクレイユ | Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b65eH3iOm0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b65eH3iOm0Q",
-          "publishedOn": "2023-04-14T02:57:17.000Z",
-          "wordCount": null,
-          "title": "【#ククルア居酒屋】木花サクヤ様ご来店！第16回は酒造の女神が襲来♡【新人Vtuber/Re:AcT】",
           "imageUrl": null
         }
       ]
