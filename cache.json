@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6LqmPU0UhC4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6LqmPU0UhC4",
+          "publishedOn": "2023-04-28T10:05:22.000Z",
+          "wordCount": null,
+          "title": "【ハモリチャレンジ】シンデレラボーイ / Saucy Dog #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=geWicrzdq6E",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-21T00:17:47.000Z",
           "wordCount": null,
           "title": "【睡眠導入/singing】初見さん大歓迎！！まったり歌う！KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wE5qAdXII60",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wE5qAdXII60",
-          "publishedOn": "2023-04-20T09:56:54.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】私は最強 / Ado #新人vtuber  #るっくあっとたらん #るーとも #onepiece #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
