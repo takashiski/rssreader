@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LyHjaXWksOw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LyHjaXWksOw",
+          "publishedOn": "2023-04-29T08:45:00.000Z",
+          "wordCount": null,
+          "title": "【ハモリチャレンジ】エジソン / 水曜日のカンパネラ #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=tRVJVLOfd3s",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-22T09:00:25.000Z",
           "wordCount": null,
           "title": "【ハモリチャレンジ】ダンスホール / Mrs. GREEN APPLE #新人vtuber #るーとも #るっくあっとたらん  #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IYPSqLyuWfU",
-          "publishedOn": "2023-04-22T02:21:36.000Z",
-          "wordCount": null,
-          "title": "【雑談/#たらおは】芸人2人！？ゲストは玉ノ井もなかちゃん！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
