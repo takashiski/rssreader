@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T16:05:54.422Z</id>
+    <id>urn:2023-04-29T16:35:14.709Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T16:05:54.422Z</updated>
+    <updated>2023-04-29T16:35:14.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -147,15 +147,6 @@
         <updated>2023-04-28T15:17:00.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】週末の癒し / 超絶気持ちいいシャンプー♡寝落ち確実/囁き/吐息/バイノーラル【Shampoo/relax/Binaural/Whispering/asmr】]]></title>
-        <id>https://www.youtube.com/watch?v=fcPuQ_o6cak</id>
-        <link href="https://www.youtube.com/watch?v=fcPuQ_o6cak"/>
-        <updated>2023-04-28T14:14:50.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
