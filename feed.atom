@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T16:35:14.709Z</id>
+    <id>urn:2023-04-29T17:05:22.007Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T16:35:14.709Z</updated>
+    <updated>2023-04-29T17:05:22.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2023-04-29T08:45:00.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】熊が「パディントン2」同時視聴する【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=d56u0A26WV8</id>
-        <link href="https://www.youtube.com/watch?v=d56u0A26WV8"/>
-        <updated>2023-04-29T07:07:52.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1272,6 +1263,15 @@
         <updated>2023-04-18T05:14:12.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【危険】宇宙熊アイドルを舐めるとこうなるぜ。 #shorts #varkshorts]]></title>
+        <id>https://www.youtube.com/watch?v=nJSnxt3fowE</id>
+        <link href="https://www.youtube.com/watch?v=nJSnxt3fowE"/>
+        <updated>2023-04-18T03:00:18.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
