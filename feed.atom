@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T13:05:40.152Z</id>
+    <id>urn:2023-04-29T13:34:14.577Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T13:05:40.152Z</updated>
+    <updated>2023-04-29T13:34:14.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】プロミスザスター / Re:AcT(Cover) 【BiSH】]]></title>
+        <id>https://www.youtube.com/watch?v=zH8FPjLAyyw</id>
+        <link href="https://www.youtube.com/watch?v=zH8FPjLAyyw"/>
+        <updated>2023-04-29T13:27:40.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ハモリチャレンジ】エジソン / 水曜日のカンパネラ #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=LyHjaXWksOw</id>
@@ -903,15 +912,6 @@
         <updated>2023-04-21T06:09:43.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #リアクト学園 】2023年春の特別企画🌸 Re:AcT学園 開校！バラエティあり！３Dライブあり！ 【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=fMCqD37D5oA</id>
-        <link href="https://www.youtube.com/watch?v=fMCqD37D5oA"/>
-        <updated>2023-04-21T04:41:13.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
