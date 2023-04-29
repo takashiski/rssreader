@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T15:05:38.794Z</id>
+    <id>urn:2023-04-29T15:34:18.916Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T15:05:38.794Z</updated>
+    <updated>2023-04-29T15:34:18.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[古のボカロ曲がエモすぎる #shorts #新人Vtuber #Vtuber #Vsinger #歌ってみた #ククルアクレイユ #ボカロ]]></title>
+        <id>https://www.youtube.com/watch?v=Uh0spXNntc8</id>
+        <link href="https://www.youtube.com/watch?v=Uh0spXNntc8"/>
+        <updated>2023-04-29T15:10:47.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】#リアクト学園 実行委員メンバーと振り返ろ🌸✨【月紫アリア/夢川かなう/九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=a2LwtbfWJ5Y</id>
@@ -1650,15 +1659,6 @@
         <updated>2023-04-14T10:40:51.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】夢川かなう先輩のイラスト描く🐟｜DRAWING【#ククルアクレイユ | Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=GEiSqjydsy8</id>
-        <link href="https://www.youtube.com/watch?v=GEiSqjydsy8"/>
-        <updated>2023-04-14T10:22:38.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
