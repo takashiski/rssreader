@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T01:32:39.349Z</id>
+    <id>urn:2023-04-29T02:18:49.205Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T01:32:39.349Z</updated>
+    <updated>2023-04-29T02:18:49.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#たらんつかって】植物サムネ選手権！一個ずつ見ていく！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=tRVJVLOfd3s</id>
+        <link href="https://www.youtube.com/watch?v=tRVJVLOfd3s"/>
+        <updated>2023-04-29T01:52:51.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】もしかするとしばらく会えないかもしれないから…。まさかね！【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=ROBzeeH-21o</id>
@@ -840,15 +849,6 @@
         <updated>2023-04-21T17:43:40.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！！おひるのお歌！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=kOhiNdlrLxo</id>
-        <link href="https://www.youtube.com/watch?v=kOhiNdlrLxo"/>
-        <updated>2023-04-21T16:29:35.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
