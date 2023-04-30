@@ -454,16 +454,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=GGQ5cwLLIx4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GGQ5cwLLIx4",
-          "publishedOn": "2023-04-30T09:28:11.000Z",
-          "wordCount": null,
-          "title": "【雑談】リアクト学園のお話しとGWのお話ししよ～🤍お知らせもあるよ💖！！！【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=mFTlSQEKS_g",
           "author": null,
           "description": "",
@@ -602,6 +592,16 @@
           "wordCount": null,
           "title": "【雑談】今日でデビュー8ヶ月💖ちょっぴり最近のこと振り返ったり、これからのことを考えたり🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=JYzJbeF2kME",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JYzJbeF2kME",
+          "publishedOn": "2023-04-11T17:58:04.000Z",
+          "wordCount": null,
+          "title": "【ASMR/睡眠導入】たーっぷりマッサージでお耳の癒しタイム🤍💭ねむが幸せにしてあげましょう…🤍【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
         }
       ]
     },
@@ -610,16 +610,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShDuyxe-cDewxtcPbBmi_Q",
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=VT57TmF-n8Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VT57TmF-n8Y",
-          "publishedOn": "2023-04-30T03:39:34.000Z",
-          "wordCount": null,
-          "title": "【耐久】5勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=LyHjaXWksOw",
           "author": null,
@@ -758,6 +748,16 @@
           "publishedOn": "2023-04-22T13:24:52.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん20人に会いたい！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=icb8mhsQDRA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=icb8mhsQDRA",
+          "publishedOn": "2023-04-22T09:00:25.000Z",
+          "wordCount": null,
+          "title": "【ハモリチャレンジ】ダンスホール / Mrs. GREEN APPLE #新人vtuber #るーとも #るっくあっとたらん  #shorts",
           "imageUrl": null
         }
       ]
@@ -1813,16 +1813,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=PJzbHcsJQUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PJzbHcsJQUY",
-          "publishedOn": "2023-04-30T10:21:32.000Z",
-          "wordCount": null,
-          "title": "【雑談・作業】GW初日は早く帰れちゃった♡【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=ROBzeeH-21o",
           "author": null,
           "description": "",
@@ -1960,6 +1950,16 @@
           "publishedOn": "2023-04-09T15:29:32.000Z",
           "wordCount": null,
           "title": "【岡山モモの推理ノート】その辺の大学生が殺人事件を推理！？ 助けてあげなくちゃ…【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ae4hvuiJvFs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ae4hvuiJvFs",
+          "publishedOn": "2023-04-08T16:32:35.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】1カ月くらい寝かしてゴメン！大事にしてるもの教えて！後編【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
