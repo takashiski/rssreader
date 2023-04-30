@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VT57TmF-n8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VT57TmF-n8Y",
+          "publishedOn": "2023-04-30T03:39:34.000Z",
+          "wordCount": null,
+          "title": "【耐久】3勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LyHjaXWksOw",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-22T13:24:52.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん20人に会いたい！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=icb8mhsQDRA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=icb8mhsQDRA",
-          "publishedOn": "2023-04-22T09:00:25.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】ダンスホール / Mrs. GREEN APPLE #新人vtuber #るーとも #るっくあっとたらん  #shorts",
           "imageUrl": null
         }
       ]
@@ -1672,7 +1672,7 @@
           "link": "https://www.youtube.com/watch?v=a2LwtbfWJ5Y",
           "publishedOn": "2023-04-29T14:29:38.000Z",
           "wordCount": null,
-          "title": "【雑談】#リアクト学園 実行委員メンバーと振り返ろ🌸✨【月紫アリア/夢川かなう/九楽ライ/Vtuber】",
+          "title": "【雑談】リアクト学園🏫実行委員メンバーと振り返ろ🌸✨ #つくぴちにーと【月紫アリア/夢川かなう/九楽ライ/Vtuber】",
           "imageUrl": null
         },
         {

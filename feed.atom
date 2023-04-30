@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T03:34:34.125Z</id>
+    <id>urn:2023-04-30T04:05:56.687Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T03:34:34.125Z</updated>
+    <updated>2023-04-30T04:05:56.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久】3勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=VT57TmF-n8Y</id>
+        <link href="https://www.youtube.com/watch?v=VT57TmF-n8Y"/>
+        <updated>2023-04-30T03:39:34.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古のボカロ曲がエモすぎる #shorts #新人Vtuber #Vtuber #Vsinger #歌ってみた #ククルアクレイユ #ボカロ]]></title>
         <id>https://www.youtube.com/watch?v=PxHGim7fCCk</id>
@@ -15,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】#リアクト学園 実行委員メンバーと振り返ろ🌸✨【月紫アリア/夢川かなう/九楽ライ/Vtuber】]]></title>
+        <title type="html"><![CDATA[【雑談】リアクト学園🏫実行委員メンバーと振り返ろ🌸✨ #つくぴちにーと【月紫アリア/夢川かなう/九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=a2LwtbfWJ5Y</id>
         <link href="https://www.youtube.com/watch?v=a2LwtbfWJ5Y"/>
         <updated>2023-04-29T14:29:38.000Z</updated>
@@ -822,15 +831,6 @@
         <updated>2023-04-22T10:00:24.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ハモリチャレンジ】ダンスホール / Mrs. GREEN APPLE #新人vtuber #るーとも #るっくあっとたらん  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=icb8mhsQDRA</id>
-        <link href="https://www.youtube.com/watch?v=icb8mhsQDRA"/>
-        <updated>2023-04-22T09:00:25.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
