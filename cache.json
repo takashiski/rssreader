@@ -307,16 +307,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=TBsp3DVmohw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TBsp3DVmohw",
-          "publishedOn": "2023-04-30T14:28:37.000Z",
-          "wordCount": null,
-          "title": "世にも珍しい雑談。そして、お知らせ。",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Q5MvMK4lBfg",
           "author": null,
           "description": "",
@@ -444,6 +434,16 @@
           "publishedOn": "2023-04-18T15:15:54.000Z",
           "wordCount": null,
           "title": "【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GK--BPU7ims",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GK--BPU7ims",
+          "publishedOn": "2023-04-17T10:49:36.000Z",
+          "wordCount": null,
+          "title": "【歌枠】振り返り雑談歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
