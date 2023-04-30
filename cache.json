@@ -1032,6 +1032,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vlYFyxJm2TQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vlYFyxJm2TQ",
+          "publishedOn": "2023-04-30T15:00:41.000Z",
+          "wordCount": null,
+          "title": "稀羽すうが NIGHT DANCER 歌ってみた #shorts #cover #Vsinger",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MevpY5OMCIM",
           "author": null,
           "description": "",
@@ -1169,16 +1179,6 @@
           "publishedOn": "2023-04-09T20:28:11.000Z",
           "wordCount": null,
           "title": "#29【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QXSnqK_hXFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QXSnqK_hXFs",
-          "publishedOn": "2023-04-07T11:36:43.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】Figaroさんと！まったり歌枠コラボ 💐 #稀羽ふぃがろ ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
           "imageUrl": null
         }
       ]
