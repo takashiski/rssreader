@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VT57TmF-n8Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VT57TmF-n8Y",
+          "publishedOn": "2023-04-30T14:40:41.000Z",
+          "wordCount": null,
+          "title": "【耐久】5勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LyHjaXWksOw",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-22T13:24:52.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん20人に会いたい！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=icb8mhsQDRA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=icb8mhsQDRA",
-          "publishedOn": "2023-04-22T09:00:25.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】ダンスホール / Mrs. GREEN APPLE #新人vtuber #るーとも #るっくあっとたらん  #shorts",
           "imageUrl": null
         }
       ]
