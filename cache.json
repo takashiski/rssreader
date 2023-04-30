@@ -1342,6 +1342,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=m_N-rthfIhs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=m_N-rthfIhs",
+          "publishedOn": "2023-04-30T19:37:09.000Z",
+          "wordCount": null,
+          "title": "【本日お歌多めDAY！ゲストはぺんぎん！】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vkzJOgwuWnA",
           "author": null,
           "description": "",
@@ -1479,16 +1489,6 @@
           "publishedOn": "2023-04-16T09:00:11.000Z",
           "wordCount": null,
           "title": "恋愛ゲームかしこまり攻略きちゃ！？ #shorts #varkshorts #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tAHMNBQiHA8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tAHMNBQiHA8",
-          "publishedOn": "2023-04-15T09:33:27.000Z",
-          "wordCount": null,
-          "title": "ＳＳＲかしこまり出ちゃった！？ #shorts #varkshorts #vtuber",
           "imageUrl": null
         }
       ]
