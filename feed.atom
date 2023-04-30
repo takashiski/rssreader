@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T18:06:05.871Z</id>
+    <id>urn:2023-04-30T18:35:11.078Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T18:06:05.871Z</updated>
+    <updated>2023-04-30T18:35:11.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[世にも珍しい雑談。そして、お知らせ。]]></title>
+        <id>https://www.youtube.com/watch?v=TBsp3DVmohw</id>
+        <link href="https://www.youtube.com/watch?v=TBsp3DVmohw"/>
+        <updated>2023-04-30T18:01:49.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🎈生誕カウントダウン】はの絶賛回復中❤️‍🩹5月1日は最高の日でしょ？【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=9xukLpvunhA</id>
@@ -1425,15 +1434,6 @@
         <updated>2023-04-17T11:17:01.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】振り返り雑談歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=GK--BPU7ims</id>
-        <link href="https://www.youtube.com/watch?v=GK--BPU7ims"/>
-        <updated>2023-04-17T10:49:36.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
