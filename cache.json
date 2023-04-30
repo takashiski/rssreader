@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TBsp3DVmohw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TBsp3DVmohw",
+          "publishedOn": "2023-04-30T14:28:37.000Z",
+          "wordCount": null,
+          "title": "世にも珍しい雑談。そして、お知らせ。",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Q5MvMK4lBfg",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2023-04-18T15:15:54.000Z",
           "wordCount": null,
           "title": "【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GK--BPU7ims",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GK--BPU7ims",
-          "publishedOn": "2023-04-17T10:49:36.000Z",
-          "wordCount": null,
-          "title": "【歌枠】振り返り雑談歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1499,6 +1499,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gP-foCCgJIs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gP-foCCgJIs",
+          "publishedOn": "2023-04-30T14:22:30.000Z",
+          "wordCount": null,
+          "title": "【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=2VxrV5eRhIY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2VxrV5eRhIY",
+          "publishedOn": "2023-04-30T14:21:43.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】楽しく歌って楽しく喋る💃 Singing Stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Z7645QYH08c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z7645QYH08c",
+          "publishedOn": "2023-04-30T14:19:19.000Z",
+          "wordCount": null,
+          "title": "【PsychoBreak/サイコブレイク】脳汁を吸い取って強くなる🧠#4【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Rv-t-OM1DQM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rv-t-OM1DQM",
+          "publishedOn": "2023-04-30T14:16:08.000Z",
+          "wordCount": null,
+          "title": "【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=01kUtcPqnvA",
           "author": null,
           "description": "",
@@ -1607,46 +1647,6 @@
           "wordCount": null,
           "title": "【The Forest】食人鬼と無人島で共同生活！？【Vtuber /#猫乃ユキノ #石狩あかり 】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=33E3f6326rY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=33E3f6326rY",
-          "publishedOn": "2023-04-14T08:22:20.000Z",
-          "wordCount": null,
-          "title": "デートの帰り道...♡ #varkshorts #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ODM3lkPeh8g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ODM3lkPeh8g",
-          "publishedOn": "2023-04-13T09:45:31.000Z",
-          "wordCount": null,
-          "title": "SSR 猫乃ユキノ🌨 #varkshorts #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aEkC2YFcTXQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aEkC2YFcTXQ",
-          "publishedOn": "2023-04-13T04:31:09.000Z",
-          "wordCount": null,
-          "title": "JAMP😏❣️#varkshorts #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BgM-e6M4QKU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BgM-e6M4QKU",
-          "publishedOn": "2023-04-12T15:09:05.000Z",
-          "wordCount": null,
-          "title": "【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】",
-          "imageUrl": null
         }
       ]
     },
@@ -1660,7 +1660,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=a2LwtbfWJ5Y",
-          "publishedOn": "2023-04-29T14:29:38.000Z",
+          "publishedOn": "2023-04-30T14:26:13.000Z",
           "wordCount": null,
           "title": "【雑談】リアクト学園🏫実行委員メンバーと振り返ろ🌸✨ #つくぴちにーと【月紫アリア/夢川かなう/九楽ライ/Vtuber】",
           "imageUrl": null
