@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T11:34:12.928Z</id>
+    <id>urn:2023-04-30T12:06:49.401Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T11:34:12.928Z</updated>
+    <updated>2023-04-30T12:06:49.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -78,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #リアクト学園 】2023年春の特別企画🌸 Re:AcT学園 開校！バラエティあり！３Dライブあり！ 【リアクト／Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 #リアクト学園 】2023年春の特別企画🌸 Re:AcT学園 開校！バラエティあり！３Ｄライブあり！ 【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fMCqD37D5oA</id>
         <link href="https://www.youtube.com/watch?v=fMCqD37D5oA"/>
         <updated>2023-04-29T14:20:50.000Z</updated>
@@ -93,6 +93,15 @@
         <updated>2023-04-29T13:27:40.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】昨日は楽しかったね sing and talk【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=xZNaUeALCbc</id>
+        <link href="https://www.youtube.com/watch?v=xZNaUeALCbc"/>
+        <updated>2023-04-29T12:43:41.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
