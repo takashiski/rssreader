@@ -2401,6 +2401,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Nu86JWkcgto",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Nu86JWkcgto",
+          "publishedOn": "2023-04-30T09:00:27.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】毒林檎 / Covered by 獅子神レオナ&夢川かなう #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DdGliHF2B6Y",
           "author": null,
           "description": "",
@@ -2538,16 +2548,6 @@
           "publishedOn": "2023-04-07T14:34:09.000Z",
           "wordCount": null,
           "title": "【 #獅子神レオナ新衣装 】新しいお洋服かったからみんな見て～～！🧡 .*゜ 【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dTgqdpUYxKo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dTgqdpUYxKo",
-          "publishedOn": "2023-04-06T15:33:37.000Z",
-          "wordCount": null,
-          "title": "【 歌枠】明日は新衣装お披露目～！の前のおうた！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
