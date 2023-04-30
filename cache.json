@@ -1032,6 +1032,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MevpY5OMCIM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MevpY5OMCIM",
+          "publishedOn": "2023-04-30T12:47:28.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wosEiCuNjv8",
           "author": null,
           "description": "",
@@ -1119,16 +1129,6 @@
           "publishedOn": "2023-04-15T02:41:48.000Z",
           "wordCount": null,
           "title": "【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MevpY5OMCIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MevpY5OMCIM",
-          "publishedOn": "2023-04-13T11:09:59.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {

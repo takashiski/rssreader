@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T12:40:25.689Z</id>
+    <id>urn:2023-04-30T13:05:42.214Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T12:40:25.689Z</updated>
+    <updated>2023-04-30T13:05:42.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=MevpY5OMCIM</id>
+        <link href="https://www.youtube.com/watch?v=MevpY5OMCIM"/>
+        <updated>2023-04-30T12:47:28.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談・作業】GW初日は早く帰れちゃった♡【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=PJzbHcsJQUY</id>
@@ -1749,15 +1758,6 @@
         <updated>2023-04-13T11:18:58.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=MevpY5OMCIM</id>
-        <link href="https://www.youtube.com/watch?v=MevpY5OMCIM"/>
-        <updated>2023-04-13T11:09:59.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
