@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T13:34:19.576Z</id>
+    <id>urn:2023-04-30T14:05:47.611Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T13:34:19.576Z</updated>
+    <updated>2023-04-30T14:05:47.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】リアクト学園のお話しとGWのお話ししよ～🤍お知らせもあるよ💖！！！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=GGQ5cwLLIx4</id>
+        <link href="https://www.youtube.com/watch?v=GGQ5cwLLIx4"/>
+        <updated>2023-04-30T14:00:31.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚠️炎上注意！？マクロスF縛り歌枠まとめ #shorts #新人Vtuber #Vtuber #歌ってみた #ククルアクレイユ #切り抜き]]></title>
+        <id>https://www.youtube.com/watch?v=Q5MvMK4lBfg</id>
+        <link href="https://www.youtube.com/watch?v=Q5MvMK4lBfg"/>
+        <updated>2023-04-30T13:46:51.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠 】150曲耐久！今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-ivaQ6h-bYI</id>
+        <link href="https://www.youtube.com/watch?v=-ivaQ6h-bYI"/>
+        <updated>2023-04-30T13:46:35.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FallGuys】視聴者参加型❣みんな一緒に遊ぼ～！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_86cPX4XLRU</id>
+        <link href="https://www.youtube.com/watch?v=_86cPX4XLRU"/>
+        <updated>2023-04-30T13:41:50.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FallGuys】クラウンチャレンジ👑✨ねむだってそろそろゲーム上手になってるもんっ【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=K-MYRnI27P4</id>
+        <link href="https://www.youtube.com/watch?v=K-MYRnI27P4"/>
+        <updated>2023-04-30T13:38:42.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=MevpY5OMCIM</id>
@@ -75,15 +120,6 @@
         <updated>2023-04-29T13:27:40.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】昨日は楽しかったね sing and talk【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=xZNaUeALCbc</id>
-        <link href="https://www.youtube.com/watch?v=xZNaUeALCbc"/>
-        <updated>2023-04-29T12:43:41.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1437,15 +1473,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#春の歌姫Vによる歌枠リレー】エルフの歌でマターリしようずｗ🎤🌸｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=e_uLzdJ0Dv0</id>
-        <link href="https://www.youtube.com/watch?v=e_uLzdJ0Dv0"/>
-        <updated>2023-04-16T12:10:31.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【3D】今日からかなうは、アリアの… 🦇🐟 #VTuber #shorts #月紫アリア #夢川かなう #つくつくぴっち]]></title>
         <id>https://www.youtube.com/watch?v=hLtO5kwWFXk</id>
         <link href="https://www.youtube.com/watch?v=hLtO5kwWFXk"/>
@@ -1590,15 +1617,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】#18 いよいよ最後のチェックポイントを迎える…！…かもしれない💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=eDB5wbjiUPM</id>
-        <link href="https://www.youtube.com/watch?v=eDB5wbjiUPM"/>
-        <updated>2023-04-15T11:04:07.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ＳＳＲかしこまり出ちゃった！？ #shorts #varkshorts #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=tAHMNBQiHA8</id>
         <link href="https://www.youtube.com/watch?v=tAHMNBQiHA8"/>
@@ -1632,15 +1650,6 @@
         <updated>2023-04-14T23:02:50.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣季節がだんだん近づいて来たね…🏖️【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mpzoI5hdHdk</id>
-        <link href="https://www.youtube.com/watch?v=mpzoI5hdHdk"/>
-        <updated>2023-04-14T18:07:19.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1806,15 +1815,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】今日でデビュー8ヶ月💖ちょっぴり最近のこと振り返ったり、これからのことを考えたり🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-L2rdivT49A</id>
-        <link href="https://www.youtube.com/watch?v=-L2rdivT49A"/>
-        <updated>2023-04-12T17:42:24.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】でびゅ8カ月らし？オタク語り？⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=8M537lAbnPs</id>
         <link href="https://www.youtube.com/watch?v=8M537lAbnPs"/>
@@ -1911,15 +1911,6 @@
         <updated>2023-04-11T18:55:40.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】たーっぷりマッサージでお耳の癒しタイム🤍💭ねむが幸せにしてあげましょう…🤍【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JYzJbeF2kME</id>
-        <link href="https://www.youtube.com/watch?v=JYzJbeF2kME"/>
-        <updated>2023-04-11T17:58:04.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
