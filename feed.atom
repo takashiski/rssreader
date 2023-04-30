@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T06:06:04.481Z</id>
+    <id>urn:2023-04-30T06:34:11.811Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T06:06:04.481Z</updated>
+    <updated>2023-04-30T06:34:11.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【耐久】3勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】]]></title>
+        <title type="html"><![CDATA[【耐久】5勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=VT57TmF-n8Y</id>
         <link href="https://www.youtube.com/watch?v=VT57TmF-n8Y"/>
         <updated>2023-04-30T03:39:34.000Z</updated>
