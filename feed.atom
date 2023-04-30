@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T09:05:47.396Z</id>
+    <id>urn:2023-04-30T09:34:08.429Z</id>
     <title>osmos::feed</title>
-    <updated>2023-04-30T09:05:47.396Z</updated>
+    <updated>2023-04-30T09:34:08.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】リアクト学園のお話しとGWのお話ししよ～🤍お知らせもあるよ💖！！！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=GGQ5cwLLIx4</id>
+        <link href="https://www.youtube.com/watch?v=GGQ5cwLLIx4"/>
+        <updated>2023-04-30T09:28:11.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌ってみた】毒林檎 / Covered by 獅子神レオナ&夢川かなう #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Nu86JWkcgto</id>
@@ -1893,15 +1902,6 @@
         <updated>2023-04-11T18:55:40.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】たーっぷりマッサージでお耳の癒しタイム🤍💭ねむが幸せにしてあげましょう…🤍【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=JYzJbeF2kME</id>
-        <link href="https://www.youtube.com/watch?v=JYzJbeF2kME"/>
-        <updated>2023-04-11T17:58:04.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
