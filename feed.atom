@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T16:36:03.841Z</id>
+    <id>urn:2023-05-01T17:05:44.478Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T16:36:03.841Z</updated>
+    <updated>2023-05-01T17:05:44.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】５月になったのも５月のせいです。⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=LaQa0GjCkss</id>
+        <link href="https://www.youtube.com/watch?v=LaQa0GjCkss"/>
+        <updated>2023-05-01T16:46:42.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【FallGuys】視聴者参加型❣みんな一緒に遊ぼ～！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_86cPX4XLRU</id>
+        <link href="https://www.youtube.com/watch?v=_86cPX4XLRU"/>
+        <updated>2023-05-01T16:41:28.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ニュー・スーパーフックガール】マウス操作だけのアクションゲーム❣後半は凶悪な難易度…らしい…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=79RVepUSToc</id>
@@ -1635,15 +1653,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠 】本日はボカロ祭り💕全曲歌枠初披露🌸singing stream/KARAOKE💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7klefmux9EU</id>
-        <link href="https://www.youtube.com/watch?v=7klefmux9EU"/>
-        <updated>2023-04-16T08:47:05.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【生誕&３Ｄお披露目振り返り】当日のおはなししたいし皆の感想も聞かせてー！✨【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=HsqcUNkOhdw</id>
         <link href="https://www.youtube.com/watch?v=HsqcUNkOhdw"/>
@@ -2163,15 +2172,6 @@
         <updated>2023-04-07T17:07:49.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #獅子神レオナ新衣装 】新しいお洋服かったからみんな見て～～！🧡 .*゜ 【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DEGKR7w5lF8</id>
-        <link href="https://www.youtube.com/watch?v=DEGKR7w5lF8"/>
-        <updated>2023-04-07T14:34:09.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
