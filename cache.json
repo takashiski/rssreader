@@ -1032,6 +1032,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mV6vz0jy-64",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mV6vz0jy-64",
+          "publishedOn": "2023-05-01T04:20:15.000Z",
+          "wordCount": null,
+          "title": "#32【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vlYFyxJm2TQ",
           "author": null,
           "description": "",
@@ -1169,16 +1179,6 @@
           "publishedOn": "2023-04-10T11:47:19.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】彩雲ののちゃんと歌枠コラボ 🌈 #筍鳥物語 ✦KARAOKE STREAM 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=w9ZsFkFfR4I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=w9ZsFkFfR4I",
-          "publishedOn": "2023-04-09T20:28:11.000Z",
-          "wordCount": null,
-          "title": "#29【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -1346,7 +1346,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=m_N-rthfIhs",
-          "publishedOn": "2023-04-30T19:37:09.000Z",
+          "publishedOn": "2023-05-01T04:11:13.000Z",
           "wordCount": null,
           "title": "【本日お歌多めDAY！ゲストはぺんぎん！】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
@@ -2748,16 +2748,6 @@
           "publishedOn": "2023-04-02T13:55:15.000Z",
           "wordCount": null,
           "title": "【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JYvccKgBqkw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JYvccKgBqkw",
-          "publishedOn": "2023-04-01T16:25:16.000Z",
-          "wordCount": null,
-          "title": "【ASMR】超絶気持ちいいシャンプー♡寝落ち確実/囁き/吐息/バイノーラル【Shampoo/relax/Binaural/Whispering/asmr】",
           "imageUrl": null
         }
       ]
