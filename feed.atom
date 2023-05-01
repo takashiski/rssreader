@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T11:05:32.276Z</id>
+    <id>urn:2023-05-01T11:34:12.557Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T11:05:32.276Z</updated>
+    <updated>2023-05-01T11:34:12.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】天川はの⭐️先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=3z3j2z0YjmU</id>
+        <link href="https://www.youtube.com/watch?v=3z3j2z0YjmU"/>
+        <updated>2023-05-01T11:16:44.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【FallGuys】クラウンチャレンジ👑✨ねむだってそろそろゲーム上手になってるもんっ【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=K-MYRnI27P4</id>
@@ -1290,15 +1299,6 @@
         <updated>2023-04-20T01:14:02.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=gEcpzms5ZOw</id>
-        <link href="https://www.youtube.com/watch?v=gEcpzms5ZOw"/>
-        <updated>2023-04-20T00:41:54.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
