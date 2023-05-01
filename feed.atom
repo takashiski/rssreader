@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T18:34:24.127Z</id>
+    <id>urn:2023-05-01T19:05:31.533Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T18:34:24.127Z</updated>
+    <updated>2023-05-01T19:05:31.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／5月初歌枠！今日の気分はどうだろう～～？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=wR_ojKfUCQk</id>
+        <link href="https://www.youtube.com/watch?v=wR_ojKfUCQk"/>
+        <updated>2023-05-01T18:49:23.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#32【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=mV6vz0jy-64</id>
@@ -2181,15 +2190,6 @@
         <updated>2023-04-06T23:19:15.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜の定期歌枠～～！🌃楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=VQOsFwTpTxQ</id>
-        <link href="https://www.youtube.com/watch?v=VQOsFwTpTxQ"/>
-        <updated>2023-04-06T17:30:37.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
