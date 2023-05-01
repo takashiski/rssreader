@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T00:50:19.337Z</id>
+    <id>urn:2023-05-01T01:32:49.041Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T00:50:19.337Z</updated>
+    <updated>2023-05-01T01:32:49.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談・作業】GW初日は早く帰れちゃった♡【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=PJzbHcsJQUY</id>
+        <link href="https://www.youtube.com/watch?v=PJzbHcsJQUY"/>
+        <updated>2023-05-01T01:11:47.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PR案件】RICHILLで一緒にチルしよ💭【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=5UowSoTMH-0</id>
@@ -2064,15 +2073,6 @@
         <updated>2023-04-08T16:38:28.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】1カ月くらい寝かしてゴメン！大事にしてるもの教えて！後編【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=Ae4hvuiJvFs</id>
-        <link href="https://www.youtube.com/watch?v=Ae4hvuiJvFs"/>
-        <updated>2023-04-08T16:32:35.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
