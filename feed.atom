@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T10:34:19.866Z</id>
+    <id>urn:2023-05-01T11:05:32.276Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T10:34:19.866Z</updated>
+    <updated>2023-05-01T11:05:32.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,39 +51,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【耐久/singing】高評価(good)500行くまで終われないお歌配信！！！【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=drHmMvOs1EA</id>
-        <link href="https://www.youtube.com/watch?v=drHmMvOs1EA"/>
-        <updated>2023-05-01T06:05:58.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】天川はの⭐️先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=3z3j2z0YjmU</id>
-        <link href="https://www.youtube.com/watch?v=3z3j2z0YjmU"/>
-        <updated>2023-05-01T06:04:22.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=wtcql0SJyRg</id>
         <link href="https://www.youtube.com/watch?v=wtcql0SJyRg"/>
         <updated>2023-05-01T06:04:05.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#メン限】リクエストライブその１！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=mRaqpgxK1_o</id>
-        <link href="https://www.youtube.com/watch?v=mRaqpgxK1_o"/>
-        <updated>2023-05-01T05:31:43.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1077,6 +1050,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん20人に会いたい！！おやつ歌枠#12  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Tol1zujNCYE</id>
+        <link href="https://www.youtube.com/watch?v=Tol1zujNCYE"/>
+        <updated>2023-04-22T13:24:52.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=RZAkIfjBUtk</id>
         <link href="https://www.youtube.com/watch?v=RZAkIfjBUtk"/>
@@ -1308,6 +1290,15 @@
         <updated>2023-04-20T01:14:02.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gEcpzms5ZOw</id>
+        <link href="https://www.youtube.com/watch?v=gEcpzms5ZOw"/>
+        <updated>2023-04-20T00:41:54.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
