@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T18:06:08.529Z</id>
+    <id>urn:2023-05-01T18:34:24.127Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T18:06:08.529Z</updated>
+    <updated>2023-05-01T18:34:24.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#32【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=mV6vz0jy-64</id>
+        <link href="https://www.youtube.com/watch?v=mV6vz0jy-64"/>
+        <updated>2023-05-01T18:32:12.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100/ASMR】高音質な睡眠導入♡あなた専用もふもふ耳かき/梵天メイン【Binaural/Ear Cleaning/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=AeNXzSftJSU</id>
+        <link href="https://www.youtube.com/watch?v=AeNXzSftJSU"/>
+        <updated>2023-05-01T18:22:19.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#33【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Dx8LMoQqHr4</id>
+        <link href="https://www.youtube.com/watch?v=Dx8LMoQqHr4"/>
+        <updated>2023-05-01T18:19:27.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】リクエストOK！ブチ上げランチタイム｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=n7x71gv5G84</id>
+        <link href="https://www.youtube.com/watch?v=n7x71gv5G84"/>
+        <updated>2023-05-01T18:14:40.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様へ。クラーラちゃんに会いたいな♡2【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=O_98gL18z3Y</id>
+        <link href="https://www.youtube.com/watch?v=O_98gL18z3Y"/>
+        <updated>2023-05-01T18:08:11.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=92o6qPpbBv0</id>
@@ -87,15 +132,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／5月初歌枠！今日の気分はどうだろう～～？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wR_ojKfUCQk</id>
-        <link href="https://www.youtube.com/watch?v=wR_ojKfUCQk"/>
-        <updated>2023-05-01T14:41:34.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[APEX練習！【メン限】]]></title>
         <id>https://www.youtube.com/watch?v=uciv63d8OIw</id>
         <link href="https://www.youtube.com/watch?v=uciv63d8OIw"/>
@@ -120,15 +156,6 @@
         <updated>2023-05-01T12:36:12.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【同時視聴】今日は映画「テルマエ・ロマエ」！【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Ur6_sUAKUbM</id>
-        <link href="https://www.youtube.com/watch?v=Ur6_sUAKUbM"/>
-        <updated>2023-05-01T12:00:15.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1113,15 +1140,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】お前さんのお悩み､歌で解決します ✧ #ククルアラッキーソング｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TQG6IzoZlgc</id>
-        <link href="https://www.youtube.com/watch?v=TQG6IzoZlgc"/>
-        <updated>2023-04-22T15:56:51.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
         <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
@@ -1212,15 +1230,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ガチャ】宇宙人と評される「ネオユニヴァース」を宇宙熊がお迎えする配信です。【ウマ娘 プリティーダービー/ガチャ/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=Vy11pIPmnL4</id>
-        <link href="https://www.youtube.com/watch?v=Vy11pIPmnL4"/>
-        <updated>2023-04-21T12:02:16.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[˗ˋ 歌ってみた ˊ˗かわいい『トウキョウ・シャンディ・ランデヴ/MAISONdes』夢川かなう #歌ってみた #夢川かなう #shorts]]></title>
         <id>https://www.youtube.com/watch?v=v7--GXriP_s</id>
         <link href="https://www.youtube.com/watch?v=v7--GXriP_s"/>
@@ -1272,15 +1281,6 @@
         <updated>2023-04-20T23:32:42.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】ドキドキするのに眠れる♡癒しのゴシゴシ耳かき【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=Gw_5YePC4-w</id>
-        <link href="https://www.youtube.com/watch?v=Gw_5YePC4-w"/>
-        <updated>2023-04-20T19:08:03.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1761,15 +1761,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=AYLFdbfOJwk</id>
-        <link href="https://www.youtube.com/watch?v=AYLFdbfOJwk"/>
-        <updated>2023-04-15T02:41:48.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【先行体験】アースリバイバルでマルチしてみる！！w/稀羽すう【 #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_AZriXg14J4</id>
         <link href="https://www.youtube.com/watch?v=_AZriXg14J4"/>
@@ -1938,15 +1929,6 @@
         <updated>2023-04-12T15:20:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
-        <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
-        <updated>2023-04-12T12:13:54.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2202,6 +2184,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜の定期歌枠～～！🌃楽しく歌う🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=VQOsFwTpTxQ</id>
+        <link href="https://www.youtube.com/watch?v=VQOsFwTpTxQ"/>
+        <updated>2023-04-06T17:30:37.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【🪄ホグワーツレガシー】セバスチャンを止めたい運動【天川はの】#10]]></title>
         <id>https://www.youtube.com/watch?v=IYbpJyeDGHA</id>
         <link href="https://www.youtube.com/watch?v=IYbpJyeDGHA"/>
@@ -2217,6 +2208,15 @@
         <updated>2023-04-06T14:21:50.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神】すうちゃんとリサちゃんに神里綾華ガチャ見守ってもらう&素材集め！⚔ #リアクト原神部【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NpTEZdQEKIg</id>
+        <link href="https://www.youtube.com/watch?v=NpTEZdQEKIg"/>
+        <updated>2023-04-06T13:05:25.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
