@@ -2244,6 +2244,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Ur6_sUAKUbM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ur6_sUAKUbM",
+          "publishedOn": "2023-05-01T12:00:15.000Z",
+          "wordCount": null,
+          "title": "【同時視聴】今日は映画「怪物くん」！【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ktPxGl5VgWs",
           "author": null,
           "description": "",
@@ -2381,16 +2391,6 @@
           "publishedOn": "2023-04-10T16:07:22.000Z",
           "wordCount": null,
           "title": "【カリンバ】まったりカリンバ練習🌙すやすやしよう～【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NpTEZdQEKIg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NpTEZdQEKIg",
-          "publishedOn": "2023-04-06T13:05:25.000Z",
-          "wordCount": null,
-          "title": "【原神】すうちゃんとリサちゃんに神里綾華ガチャ見守ってもらう&素材集め！⚔ #リアクト原神部【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
