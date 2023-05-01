@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3z3j2z0YjmU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3z3j2z0YjmU",
+          "publishedOn": "2023-05-01T06:04:22.000Z",
+          "wordCount": null,
+          "title": "【お絵描き配信】天川はの⭐️先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TBsp3DVmohw",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2023-04-20T00:41:54.000Z",
           "wordCount": null,
           "title": "【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HJfkN_tur3c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HJfkN_tur3c",
-          "publishedOn": "2023-04-18T15:15:54.000Z",
-          "wordCount": null,
-          "title": "【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2111,7 +2111,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=wtcql0SJyRg",
-          "publishedOn": "2023-05-01T03:04:54.000Z",
+          "publishedOn": "2023-05-01T06:04:05.000Z",
           "wordCount": null,
           "title": "【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！【VTuber/姫熊りぼん】",
           "imageUrl": null
@@ -2610,6 +2610,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mRaqpgxK1_o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mRaqpgxK1_o",
+          "publishedOn": "2023-05-01T05:31:43.000Z",
+          "wordCount": null,
+          "title": "【#メン限】リクエストライブその１！【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xZNaUeALCbc",
           "author": null,

@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T05:34:27.032Z</id>
+    <id>urn:2023-05-01T06:06:43.531Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T05:34:27.032Z</updated>
+    <updated>2023-05-01T06:06:43.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】天川はの⭐️先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=3z3j2z0YjmU</id>
+        <link href="https://www.youtube.com/watch?v=3z3j2z0YjmU"/>
+        <updated>2023-05-01T06:04:22.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=wtcql0SJyRg</id>
+        <link href="https://www.youtube.com/watch?v=wtcql0SJyRg"/>
+        <updated>2023-05-01T06:04:05.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#メン限】リクエストライブその１！【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=mRaqpgxK1_o</id>
+        <link href="https://www.youtube.com/watch?v=mRaqpgxK1_o"/>
+        <updated>2023-05-01T05:31:43.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 崩壊：スターレイル 】ホヨバ最新作を完全初見プレイ！ターン制ってまじ！？ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ptKAH6ibmLU</id>
@@ -39,15 +66,6 @@
         <updated>2023-05-01T04:11:13.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=wtcql0SJyRg</id>
-        <link href="https://www.youtube.com/watch?v=wtcql0SJyRg"/>
-        <updated>2023-05-01T03:04:54.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1380,15 +1398,6 @@
         <updated>2023-04-18T15:39:45.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】平成初期アニソン縛り｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=HJfkN_tur3c</id>
-        <link href="https://www.youtube.com/watch?v=HJfkN_tur3c"/>
-        <updated>2023-04-18T15:15:54.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
