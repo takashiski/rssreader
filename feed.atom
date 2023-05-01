@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T19:05:31.533Z</id>
+    <id>urn:2023-05-01T19:34:26.385Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T19:05:31.534Z</updated>
+    <updated>2023-05-01T19:34:26.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=drHmMvOs1EA</id>
         <link href="https://www.youtube.com/watch?v=drHmMvOs1EA"/>
         <updated>2023-05-01T15:57:16.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APEX練習！【メン限】]]></title>
-        <id>https://www.youtube.com/watch?v=uciv63d8OIw</id>
-        <link href="https://www.youtube.com/watch?v=uciv63d8OIw"/>
-        <updated>2023-05-01T13:44:20.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1146,6 +1137,15 @@
         <updated>2023-04-22T16:59:54.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】1on1ありがと~！まったり話そ~！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DUHzcWTr_Vk</id>
+        <link href="https://www.youtube.com/watch?v=DUHzcWTr_Vk"/>
+        <updated>2023-04-22T16:02:34.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
