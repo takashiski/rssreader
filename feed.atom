@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T12:07:34.413Z</id>
+    <id>urn:2023-05-01T12:41:37.111Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T12:07:34.413Z</updated>
+    <updated>2023-05-01T12:41:37.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【🎂3D LIVE】#天川はの生誕祭2023 かわいいカッコいい綺麗ばぶ、全て詰め込んじゃった]]></title>
+        <id>https://www.youtube.com/watch?v=B-B-_cegcjg</id>
+        <link href="https://www.youtube.com/watch?v=B-B-_cegcjg"/>
+        <updated>2023-05-01T12:36:12.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【同時視聴】今日は映画「怪物くん」！【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Ur6_sUAKUbM</id>
@@ -21,6 +30,15 @@
         <updated>2023-05-01T11:16:44.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誕生日に『 恋愛脳 』ver.天川はの]]></title>
+        <id>https://www.youtube.com/watch?v=HpcmpoISSgM</id>
+        <link href="https://www.youtube.com/watch?v=HpcmpoISSgM"/>
+        <updated>2023-05-01T08:41:54.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
@@ -417,15 +435,6 @@
         <updated>2023-04-28T14:12:02.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【🎂3D LIVE】#天川はの生誕祭2023 かわいいカッコいい綺麗ばぶ、全て詰め込んじゃった]]></title>
-        <id>https://www.youtube.com/watch?v=B-B-_cegcjg</id>
-        <link href="https://www.youtube.com/watch?v=B-B-_cegcjg"/>
-        <updated>2023-04-28T12:00:35.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
     <entry>
