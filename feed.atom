@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T17:34:23.850Z</id>
+    <id>urn:2023-05-01T18:06:08.529Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T17:34:23.850Z</updated>
+    <updated>2023-05-01T18:06:08.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=92o6qPpbBv0</id>
+        <link href="https://www.youtube.com/watch?v=92o6qPpbBv0"/>
+        <updated>2023-05-01T18:00:07.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎✨３D❕みんなでいっしょに盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Dg6dVXeh8Ro</id>
+        <link href="https://www.youtube.com/watch?v=Dg6dVXeh8Ro"/>
+        <updated>2023-05-01T17:47:21.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨ゴールデンウィークでも、おっきろ～❕💜 good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=l0hpJyDqmKU</id>
+        <link href="https://www.youtube.com/watch?v=l0hpJyDqmKU"/>
+        <updated>2023-05-01T17:46:13.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】ぺたぺた音圧強め♡深夜のお世話マッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=AfGcnzEohhI</id>
+        <link href="https://www.youtube.com/watch?v=AfGcnzEohhI"/>
+        <updated>2023-05-01T17:42:28.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】５月になったのも５月のせいです。⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LaQa0GjCkss</id>
@@ -33,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗耳かきとマッサージでたっぷり睡眠💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【#ASMR】安眠誘導💗耳かきとマッサージでたっぷり睡眠💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=y4F8zdrfMS8</id>
         <link href="https://www.youtube.com/watch?v=y4F8zdrfMS8"/>
         <updated>2023-05-01T16:14:49.000Z</updated>
@@ -48,15 +84,6 @@
         <updated>2023-05-01T15:57:16.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】ぺたぺた♡深夜のお世話マッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=AfGcnzEohhI</id>
-        <link href="https://www.youtube.com/watch?v=AfGcnzEohhI"/>
-        <updated>2023-05-01T14:57:13.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -123,15 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=92o6qPpbBv0</id>
-        <link href="https://www.youtube.com/watch?v=92o6qPpbBv0"/>
-        <updated>2023-05-01T07:27:43.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=5yeiFXZgiUw</id>
         <link href="https://www.youtube.com/watch?v=5yeiFXZgiUw"/>
@@ -150,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！♡1【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=wtcql0SJyRg</id>
         <link href="https://www.youtube.com/watch?v=wtcql0SJyRg"/>
         <updated>2023-05-01T06:04:05.000Z</updated>
@@ -174,15 +192,6 @@
         <updated>2023-05-01T04:39:39.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#32【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=mV6vz0jy-64</id>
-        <link href="https://www.youtube.com/watch?v=mV6vz0jy-64"/>
-        <updated>2023-05-01T04:20:15.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1518,15 +1527,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕お昼から可愛く歌うから、来て💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=r0zj6BT_zmk</id>
-        <link href="https://www.youtube.com/watch?v=r0zj6BT_zmk"/>
-        <updated>2023-04-18T09:04:57.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【あんた悩みあるんか？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=1DDZI3vFtZU</id>
         <link href="https://www.youtube.com/watch?v=1DDZI3vFtZU"/>
@@ -1551,15 +1551,6 @@
         <updated>2023-04-17T18:10:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Q REMASTERED】難問❔天才なので、余裕です💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Kh06k5c0fxk</id>
-        <link href="https://www.youtube.com/watch?v=Kh06k5c0fxk"/>
-        <updated>2023-04-17T16:58:43.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1947,6 +1938,15 @@
         <updated>2023-04-12T15:20:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
+        <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
+        <updated>2023-04-12T12:13:54.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
