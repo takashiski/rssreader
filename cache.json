@@ -1970,6 +1970,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxJ9SJLG7dA00M7VoEe4ltw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HpcmpoISSgM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HpcmpoISSgM",
+          "publishedOn": "2023-05-01T13:00:10.000Z",
+          "wordCount": null,
+          "title": "誕生日に『 恋愛脳 』ver.天川はの",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=B-B-_cegcjg",
           "author": null,
           "description": "",
@@ -1977,16 +1987,6 @@
           "publishedOn": "2023-05-01T12:36:12.000Z",
           "wordCount": null,
           "title": "【🎂3D LIVE】#天川はの生誕祭2023 かわいいカッコいい綺麗ばぶ、全て詰め込んじゃった",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HpcmpoISSgM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HpcmpoISSgM",
-          "publishedOn": "2023-05-01T08:41:54.000Z",
-          "wordCount": null,
-          "title": "誕生日に『 恋愛脳 』ver.天川はの",
           "imageUrl": null
         },
         {
@@ -2627,7 +2627,7 @@
           "link": "https://www.youtube.com/watch?v=xZNaUeALCbc",
           "publishedOn": "2023-05-01T02:48:30.000Z",
           "wordCount": null,
-          "title": "【#歌枠】昨日は楽しかったね sing and talk【宇佐美ユノ / リアクト / vtuber】",
+          "title": "【#歌枠】昨日は楽しかったね sing and talk 初めての歌の練習【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         },
         {
