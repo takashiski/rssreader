@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T07:06:00.891Z</id>
+    <id>urn:2023-05-01T07:34:17.082Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T07:06:00.891Z</updated>
+    <updated>2023-05-01T07:34:17.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=92o6qPpbBv0</id>
+        <link href="https://www.youtube.com/watch?v=92o6qPpbBv0"/>
+        <updated>2023-05-01T07:27:43.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=5yeiFXZgiUw</id>
+        <link href="https://www.youtube.com/watch?v=5yeiFXZgiUw"/>
+        <updated>2023-05-01T07:20:53.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #原神 】「白朮・カーヴェ」ガチャ！へへ…やっと会えるね……… 武器も引く【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=FocL1BKZgLg</id>
@@ -1284,15 +1302,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=gEcpzms5ZOw</id>
-        <link href="https://www.youtube.com/watch?v=gEcpzms5ZOw"/>
-        <updated>2023-04-20T00:41:54.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / リアル膝枕でうっとり耳かき...♡〖knee pillow ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=X2cuEdg_Q2s</id>
         <link href="https://www.youtube.com/watch?v=X2cuEdg_Q2s"/>
@@ -1911,15 +1920,6 @@
         <updated>2023-04-12T15:20:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です！ / 水曜定期歌枠 #38 ✦ KARAOKE 【稀羽すう/Japan Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Ui359NKfm_k</id>
-        <link href="https://www.youtube.com/watch?v=Ui359NKfm_k"/>
-        <updated>2023-04-12T12:13:54.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
