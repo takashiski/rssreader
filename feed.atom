@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T02:40:30.056Z</id>
+    <id>urn:2023-05-01T03:05:57.704Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-01T02:40:30.056Z</updated>
+    <updated>2023-05-01T03:05:57.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】昨日は楽しかったね sing and talk【宇佐美ユノ / リアクト / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=xZNaUeALCbc</id>
+        <link href="https://www.youtube.com/watch?v=xZNaUeALCbc"/>
+        <updated>2023-05-01T02:48:30.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談・作業】GW初日は早く帰れちゃった♡【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=PJzbHcsJQUY</id>
