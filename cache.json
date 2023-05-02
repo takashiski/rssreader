@@ -865,16 +865,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=cTBA0rcuv_M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cTBA0rcuv_M",
-          "publishedOn": "2023-05-02T01:35:47.000Z",
-          "wordCount": null,
-          "title": "【コラボ歌枠】レオナ先輩と♡♡♡♡♡ラブラブデュエット【 獅子神レオナ/魔光リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=XzagpT0PitI",
           "author": null,
           "description": "",
@@ -1012,6 +1002,16 @@
           "publishedOn": "2023-04-08T11:42:54.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♡定期歌枠の時間だ！！！！！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=kBWO9461L0A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kBWO9461L0A",
+          "publishedOn": "2023-04-05T21:42:07.000Z",
+          "wordCount": null,
+          "title": "【歌枠】めちゃくちゃ春じゃん【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2254,6 +2254,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=s-bZXV4lbSg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=s-bZXV4lbSg",
+          "publishedOn": "2023-05-02T12:37:54.000Z",
+          "wordCount": null,
+          "title": "【#歌枠】新しいおうたも歌いたい！ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ktPxGl5VgWs",
           "author": null,
           "description": "",
@@ -2391,16 +2401,6 @@
           "publishedOn": "2023-04-10T16:07:22.000Z",
           "wordCount": null,
           "title": "【カリンバ】まったりカリンバ練習🌙すやすやしよう～【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NpTEZdQEKIg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NpTEZdQEKIg",
-          "publishedOn": "2023-04-06T13:05:25.000Z",
-          "wordCount": null,
-          "title": "【原神】すうちゃんとリサちゃんに神里綾華ガチャ見守ってもらう&素材集め！⚔ #リアクト原神部【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
