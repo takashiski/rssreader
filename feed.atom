@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T08:34:22.083Z</id>
+    <id>urn:2023-05-02T09:05:32.840Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T08:34:22.083Z</updated>
+    <updated>2023-05-02T09:05:32.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -154,15 +154,6 @@
         <id>https://www.youtube.com/watch?v=_86cPX4XLRU</id>
         <link href="https://www.youtube.com/watch?v=_86cPX4XLRU"/>
         <updated>2023-05-01T16:41:28.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ニュー・スーパーフックガール】マウス操作だけのアクションゲーム❣後半は凶悪な難易度…らしい…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=79RVepUSToc</id>
-        <link href="https://www.youtube.com/watch?v=79RVepUSToc"/>
-        <updated>2023-05-01T16:34:38.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
@@ -1668,6 +1659,15 @@
         <updated>2023-04-16T15:13:07.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
+        <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
+        <updated>2023-04-16T14:38:04.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
