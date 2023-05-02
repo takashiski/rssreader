@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T15:06:11.182Z</id>
+    <id>urn:2023-05-02T15:34:17.137Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T15:06:11.182Z</updated>
+    <updated>2023-05-02T15:34:17.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -78,15 +78,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜お歌！🌃眠る前に1曲いかがですか？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=HM3TeUbc4pw</id>
-        <link href="https://www.youtube.com/watch?v=HM3TeUbc4pw"/>
-        <updated>2023-05-02T09:38:56.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【耐久】雀魂優勝するまで終われない！！！【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=zvy7vVYtil0</id>
         <link href="https://www.youtube.com/watch?v=zvy7vVYtil0"/>
@@ -147,15 +138,6 @@
         <updated>2023-05-01T18:19:27.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様へ。クラーラちゃんに会いたいな♡2【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=O_98gL18z3Y</id>
-        <link href="https://www.youtube.com/watch?v=O_98gL18z3Y"/>
-        <updated>2023-05-01T18:08:11.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1119,6 +1101,15 @@
         <updated>2023-04-23T12:32:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【熊です】ねこダンス踊ってみた #shorts #varkshorts]]></title>
+        <id>https://www.youtube.com/watch?v=PQeMqDSdwv4</id>
+        <link href="https://www.youtube.com/watch?v=PQeMqDSdwv4"/>
+        <updated>2023-04-23T12:15:01.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2181,6 +2172,15 @@
         <updated>2023-04-08T11:42:54.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【＃お歌大好きV大集合歌枠リレー】お歌大好きな酒クズいばら姫、日中だけど歌います👑🥂 singing stream【美睡シュカ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Orx7So-XYns</id>
+        <link href="https://www.youtube.com/watch?v=Orx7So-XYns"/>
+        <updated>2023-04-08T05:14:04.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
