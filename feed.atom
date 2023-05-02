@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T22:34:22.390Z</id>
+    <id>urn:2023-05-02T23:05:47.839Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T22:34:22.390Z</updated>
+    <updated>2023-05-02T23:05:47.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2023-05-02T14:36:55.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗た～っぷり癒されたい？なら、おいで💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=uJJ8YSKDs1A</id>
-        <link href="https://www.youtube.com/watch?v=uJJ8YSKDs1A"/>
-        <updated>2023-05-02T13:48:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
