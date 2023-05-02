@@ -865,6 +865,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cTBA0rcuv_M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cTBA0rcuv_M",
+          "publishedOn": "2023-05-02T01:35:47.000Z",
+          "wordCount": null,
+          "title": "【コラボ歌枠】レオナ先輩と♡♡♡♡♡ラブラブデュエット【 獅子神レオナ/魔光リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XzagpT0PitI",
           "author": null,
           "description": "",
@@ -1002,16 +1012,6 @@
           "publishedOn": "2023-04-08T11:42:54.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎♡定期歌枠の時間だ！！！！！【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kBWO9461L0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kBWO9461L0A",
-          "publishedOn": "2023-04-05T21:42:07.000Z",
-          "wordCount": null,
-          "title": "【歌枠】めちゃくちゃ春じゃん【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2738,16 +2738,6 @@
           "publishedOn": "2023-04-05T14:37:25.000Z",
           "wordCount": null,
           "title": "【#アニメ】#宇佐美ユノのおたと～く！初見さん大歓迎♡声優さんについて語る！【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZhAbeW6cpBc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZhAbeW6cpBc",
-          "publishedOn": "2023-04-02T13:55:15.000Z",
-          "wordCount": null,
-          "title": "【#クロエのレクイエム】闇が深い家だった……！次は父の部屋！！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         }
       ]
