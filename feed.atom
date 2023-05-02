@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T11:34:13.209Z</id>
+    <id>urn:2023-05-02T12:07:39.650Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T11:34:13.209Z</updated>
+    <updated>2023-05-02T12:07:39.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#shorts 】アイワナムチュー元気に歌ってみた！！！【#新人Vtuber/#美睡シュカ】]]></title>
+        <id>https://www.youtube.com/watch?v=bEqwTkVhnt0</id>
+        <link href="https://www.youtube.com/watch?v=bEqwTkVhnt0"/>
+        <updated>2023-05-02T12:00:33.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【moon】美うさぎとして横綱は早く卒業したい！！🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=rpBSxxCX7WA</id>
@@ -57,15 +66,6 @@
         <updated>2023-05-02T08:31:13.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】新しいおうたも歌いたい！ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=s-bZXV4lbSg</id>
-        <link href="https://www.youtube.com/watch?v=s-bZXV4lbSg"/>
-        <updated>2023-05-02T06:47:20.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -2175,15 +2175,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【＃お歌大好きV大集合歌枠リレー】お歌大好きな酒クズいばら姫、日中だけど歌います👑🥂 singing stream【美睡シュカ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Orx7So-XYns</id>
-        <link href="https://www.youtube.com/watch?v=Orx7So-XYns"/>
-        <updated>2023-04-08T05:14:04.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆お風呂 🛁 / 入ってるみたいなウィスパーお歌と雑談🧼/ sing and talk【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=NYZte8_jz6A</id>
         <link href="https://www.youtube.com/watch?v=NYZte8_jz6A"/>
@@ -2235,6 +2226,15 @@
         <updated>2023-04-06T14:21:50.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【原神】すうちゃんとリサちゃんに神里綾華ガチャ見守ってもらう&素材集め！⚔ #リアクト原神部【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=NpTEZdQEKIg</id>
+        <link href="https://www.youtube.com/watch?v=NpTEZdQEKIg"/>
+        <updated>2023-04-06T13:05:25.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
