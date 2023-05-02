@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T18:06:08.516Z</id>
+    <id>urn:2023-05-02T18:34:22.113Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T18:06:08.516Z</updated>
+    <updated>2023-05-02T18:34:22.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】リクエストOK！世間は祝日らしい｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=iEVLGhkHcSA</id>
+        <link href="https://www.youtube.com/watch?v=iEVLGhkHcSA"/>
+        <updated>2023-05-02T18:17:20.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆ASMR / 広告なし! / 僕っ娘と一緒に眠りませんか？♡耳かきとマッサージ♡〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=Q7QqjEraMew</id>
@@ -1119,15 +1128,6 @@
         <updated>2023-04-23T12:32:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一度だけの恋なら/ワルキューレ 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ #橘シエナ]]></title>
-        <id>https://www.youtube.com/watch?v=spGxBkjIn44</id>
-        <link href="https://www.youtube.com/watch?v=spGxBkjIn44"/>
-        <updated>2023-04-23T12:00:32.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
