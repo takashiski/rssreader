@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T17:05:54.814Z</id>
+    <id>urn:2023-05-02T17:34:32.086Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T17:05:54.814Z</updated>
+    <updated>2023-05-02T17:34:32.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】リクエストOK！ブチ上げランチタイム｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=n7x71gv5G84</id>
+        <link href="https://www.youtube.com/watch?v=n7x71gv5G84"/>
+        <updated>2023-05-02T17:21:11.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KU100/ASMR】高音質な睡眠導入♡あなた専用もふもふ耳かき/梵天メイン【Binaural/Ear Cleaning/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=AeNXzSftJSU</id>
+        <link href="https://www.youtube.com/watch?v=AeNXzSftJSU"/>
+        <updated>2023-05-02T17:17:32.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【耐久】雀魂優勝するまで終われない！！！【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=zvy7vVYtil0</id>
+        <link href="https://www.youtube.com/watch?v=zvy7vVYtil0"/>
+        <updated>2023-05-02T17:06:02.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR】安眠誘導💗耳かきとマッサージでたっぷり睡眠💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=y4F8zdrfMS8</id>
@@ -129,15 +156,6 @@
         <updated>2023-05-01T18:32:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KU100/ASMR】高音質な睡眠導入♡あなた専用もふもふ耳かき/梵天メイン【Binaural/Ear Cleaning/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=AeNXzSftJSU</id>
-        <link href="https://www.youtube.com/watch?v=AeNXzSftJSU"/>
-        <updated>2023-05-01T18:22:19.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1182,24 +1200,6 @@
         <updated>2023-04-22T16:59:54.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】1on1ありがと~！まったり話そ~！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DUHzcWTr_Vk</id>
-        <link href="https://www.youtube.com/watch?v=DUHzcWTr_Vk"/>
-        <updated>2023-04-22T16:02:34.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】お前さんのお悩み､歌で解決します ✧ #ククルアラッキーソング｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TQG6IzoZlgc</id>
-        <link href="https://www.youtube.com/watch?v=TQG6IzoZlgc"/>
-        <updated>2023-04-22T15:56:51.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
