@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T06:34:42.988Z</id>
+    <id>urn:2023-05-02T07:05:38.144Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T06:34:42.988Z</updated>
+    <updated>2023-05-02T07:05:38.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】新しいおうたも歌いたい！ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=s-bZXV4lbSg</id>
+        <link href="https://www.youtube.com/watch?v=s-bZXV4lbSg"/>
+        <updated>2023-05-02T06:47:20.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【前日ベロベロで起きれるか心配…】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=duPZ5GH_JBU</id>
@@ -2226,15 +2235,6 @@
         <updated>2023-04-06T14:21:50.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神】すうちゃんとリサちゃんに神里綾華ガチャ見守ってもらう&素材集め！⚔ #リアクト原神部【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NpTEZdQEKIg</id>
-        <link href="https://www.youtube.com/watch?v=NpTEZdQEKIg"/>
-        <updated>2023-04-06T13:05:25.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
