@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T08:06:13.571Z</id>
+    <id>urn:2023-05-02T08:34:22.083Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T08:06:13.571Z</updated>
+    <updated>2023-05-02T08:34:22.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久】雀魂優勝するまで終われない！！！【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=zvy7vVYtil0</id>
+        <link href="https://www.youtube.com/watch?v=zvy7vVYtil0"/>
+        <updated>2023-05-02T08:31:13.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】新しいおうたも歌いたい！ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=s-bZXV4lbSg</id>
@@ -1173,15 +1182,6 @@
         <updated>2023-04-22T16:59:54.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】1on1ありがと~！まったり話そ~！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DUHzcWTr_Vk</id>
-        <link href="https://www.youtube.com/watch?v=DUHzcWTr_Vk"/>
-        <updated>2023-04-22T16:02:34.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
