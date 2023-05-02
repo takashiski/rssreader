@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T10:34:23.021Z</id>
+    <id>urn:2023-05-02T11:05:30.390Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T10:34:23.021Z</updated>
+    <updated>2023-05-02T11:05:30.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 崩壊：スターレイル 】ホヨバ最新作を完全初見プレイ！ターン制ってまじ！？ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=ptKAH6ibmLU</id>
+        <link href="https://www.youtube.com/watch?v=ptKAH6ibmLU"/>
+        <updated>2023-05-02T10:42:52.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ニュー・スーパーフックガール】マウス操作だけのアクションゲーム❣後半は凶悪な難易度…らしい…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=79RVepUSToc</id>
@@ -1794,15 +1803,6 @@
         <updated>2023-04-15T14:23:33.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=AYLFdbfOJwk</id>
-        <link href="https://www.youtube.com/watch?v=AYLFdbfOJwk"/>
-        <updated>2023-04-15T02:41:48.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

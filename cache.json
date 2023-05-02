@@ -1022,6 +1022,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ptKAH6ibmLU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ptKAH6ibmLU",
+          "publishedOn": "2023-05-02T10:42:52.000Z",
+          "wordCount": null,
+          "title": "【 崩壊：スターレイル 】ホヨバ最新作を完全初見プレイ！ターン制ってまじ！？ 【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mV6vz0jy-64",
           "author": null,
           "description": "",
@@ -1159,16 +1169,6 @@
           "publishedOn": "2023-04-15T16:25:03.000Z",
           "wordCount": null,
           "title": "#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AYLFdbfOJwk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AYLFdbfOJwk",
-          "publishedOn": "2023-04-15T02:41:48.000Z",
-          "wordCount": null,
-          "title": "【 #アスリバ 】アース：リバイバル先行体験！マルチで遊んでみたい！ w/魔光リサ【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
