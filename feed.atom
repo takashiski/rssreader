@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T10:05:53.466Z</id>
+    <id>urn:2023-05-02T10:34:23.021Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T10:05:53.466Z</updated>
+    <updated>2023-05-02T10:34:23.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ニュー・スーパーフックガール】マウス操作だけのアクションゲーム❣後半は凶悪な難易度…らしい…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=79RVepUSToc</id>
+        <link href="https://www.youtube.com/watch?v=79RVepUSToc"/>
+        <updated>2023-05-02T10:18:46.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活雑談】高所恐怖症になった理由お話しします。/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=9UV9IY1sSrc</id>
+        <link href="https://www.youtube.com/watch?v=9UV9IY1sSrc"/>
+        <updated>2023-05-02T10:17:37.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／深夜お歌！🌃眠る前に1曲いかがですか？【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=HM3TeUbc4pw</id>
@@ -1086,15 +1104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【熊です】ねこダンス踊ってみた #shorts #varkshorts]]></title>
-        <id>https://www.youtube.com/watch?v=PQeMqDSdwv4</id>
-        <link href="https://www.youtube.com/watch?v=PQeMqDSdwv4"/>
-        <updated>2023-04-23T12:15:01.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一度だけの恋なら/ワルキューレ 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ #橘シエナ]]></title>
         <id>https://www.youtube.com/watch?v=spGxBkjIn44</id>
         <link href="https://www.youtube.com/watch?v=spGxBkjIn44"/>
@@ -1659,15 +1668,6 @@
         <updated>2023-04-16T15:13:07.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
-        <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
-        <updated>2023-04-16T14:38:04.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
