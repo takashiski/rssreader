@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T13:34:22.018Z</id>
+    <id>urn:2023-05-02T14:05:53.688Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T13:34:22.018Z</updated>
+    <updated>2023-05-02T14:05:53.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗た～っぷり癒されたい？なら、おいで💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=uJJ8YSKDs1A</id>
+        <link href="https://www.youtube.com/watch?v=uJJ8YSKDs1A"/>
+        <updated>2023-05-02T13:48:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🍽️お知らせあり】生誕ライブありがとう!!の振り返り雑談~♡【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=XYOtdwRYw9g</id>
@@ -30,15 +39,6 @@
         <updated>2023-05-02T12:00:33.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【moon】美うさぎとして横綱は早く卒業したい！！🐰【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=rpBSxxCX7WA</id>
-        <link href="https://www.youtube.com/watch?v=rpBSxxCX7WA"/>
-        <updated>2023-05-02T11:08:52.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1536,15 +1536,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】生意気な妹💗たっぷり癒してあげるね、お兄ちゃん💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FwCcLY3Sqz0</id>
-        <link href="https://www.youtube.com/watch?v=FwCcLY3Sqz0"/>
-        <updated>2023-04-18T15:39:45.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4bngbUKbzng</id>
         <link href="https://www.youtube.com/watch?v=4bngbUKbzng"/>
@@ -2091,6 +2082,15 @@
         <updated>2023-04-09T16:38:12.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【岡山モモの推理ノート】その辺の大学生が殺人事件を推理！？ 助けてあげなくちゃ…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=BGEI5xTsWQc</id>
+        <link href="https://www.youtube.com/watch?v=BGEI5xTsWQc"/>
+        <updated>2023-04-09T15:29:32.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
