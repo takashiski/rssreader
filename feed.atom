@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T23:34:21.099Z</id>
+    <id>urn:2023-05-03T00:21:25.052Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T23:34:21.099Z</updated>
+    <updated>2023-05-03T00:21:25.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【1.5周年＆3万人✨】1.5st Anniversary✨ありがと～を込めて歌う！告知ナシ！【九楽ライ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=PDpmpYqawjk</id>
+        <link href="https://www.youtube.com/watch?v=PDpmpYqawjk"/>
+        <updated>2023-05-02T23:30:23.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】リクエストOK！世間は祝日らしい｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=iEVLGhkHcSA</id>
@@ -190,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=Dg6dVXeh8Ro</id>
         <link href="https://www.youtube.com/watch?v=Dg6dVXeh8Ro"/>
         <updated>2023-05-01T17:47:21.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨ゴールデンウィークでも、おっきろ～❕💜 good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=l0hpJyDqmKU</id>
-        <link href="https://www.youtube.com/watch?v=l0hpJyDqmKU"/>
-        <updated>2023-05-01T17:46:13.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1518,6 +1518,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】生意気な妹💗たっぷり癒してあげるね、お兄ちゃん💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FwCcLY3Sqz0</id>
+        <link href="https://www.youtube.com/watch?v=FwCcLY3Sqz0"/>
+        <updated>2023-04-18T15:39:45.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4bngbUKbzng</id>
         <link href="https://www.youtube.com/watch?v=4bngbUKbzng"/>
@@ -2298,15 +2307,6 @@
         <updated>2023-04-04T11:55:26.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆ASMR / 広告なし! / すぐにぐっすり夢の中♡僕っ娘の耳かき,マッサージ,囁き〖ear cleaning / binaural / JapaneseVtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=6HqnOkpb088</id>
-        <link href="https://www.youtube.com/watch?v=6HqnOkpb088"/>
-        <updated>2023-04-03T18:14:00.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
 </feed>
