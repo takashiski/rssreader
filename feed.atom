@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T17:05:26.930Z</id>
+    <id>urn:2023-05-03T17:34:30.947Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T17:05:26.930Z</updated>
+    <updated>2023-05-03T17:34:30.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】リクエストOK！世間は祝日らしい｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=iEVLGhkHcSA</id>
+        <link href="https://www.youtube.com/watch?v=iEVLGhkHcSA"/>
+        <updated>2023-05-03T17:29:15.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=8GdQM11mQV8</id>
@@ -30,15 +39,6 @@
         <updated>2023-05-03T15:42:59.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 雑談🥂 】初見さん大歓迎～／ボイス・グッズ販促会＆諸々振り返り会～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h12PHbJ8tjk</id>
-        <link href="https://www.youtube.com/watch?v=h12PHbJ8tjk"/>
-        <updated>2023-05-03T14:39:01.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
@@ -111,15 +111,6 @@
         <updated>2023-05-03T10:05:21.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TsFP6EmSwKs</id>
-        <link href="https://www.youtube.com/watch?v=TsFP6EmSwKs"/>
-        <updated>2023-05-03T09:50:33.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -987,15 +978,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#殺伐としたTLに突然おっぱいが #新人Vtuber #vtuber #ククルアクレイユ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=AAf9zDIO9-M</id>
-        <link href="https://www.youtube.com/watch?v=AAf9zDIO9-M"/>
-        <updated>2023-04-26T11:27:03.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V4bla6mWH4A</id>
         <link href="https://www.youtube.com/watch?v=V4bla6mWH4A"/>
@@ -1137,6 +1119,15 @@
         <updated>2023-04-23T23:48:27.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【演奏】クラリネット練習するぞ～！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rmel0JB_ObE</id>
+        <link href="https://www.youtube.com/watch?v=rmel0JB_ObE"/>
+        <updated>2023-04-23T19:57:20.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2136,6 +2127,15 @@
         <updated>2023-04-09T02:59:39.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／5000人ありがとう！感謝の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DB-RKhR4vi4</id>
+        <link href="https://www.youtube.com/watch?v=DB-RKhR4vi4"/>
+        <updated>2023-04-08T17:39:48.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
