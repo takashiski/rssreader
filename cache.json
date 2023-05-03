@@ -1032,16 +1032,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=vbrSkQHiSVg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vbrSkQHiSVg",
-          "publishedOn": "2023-05-03T12:17:47.000Z",
-          "wordCount": null,
-          "title": "後半戦：リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=FocL1BKZgLg",
           "author": null,
           "description": "",
@@ -1169,6 +1159,16 @@
           "publishedOn": "2023-04-18T14:43:09.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=_yfqWYPI71c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_yfqWYPI71c",
+          "publishedOn": "2023-04-15T16:25:03.000Z",
+          "wordCount": null,
+          "title": "#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
