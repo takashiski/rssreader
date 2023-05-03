@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T08:34:10.704Z</id>
+    <id>urn:2023-05-03T09:05:55.544Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T08:34:10.704Z</updated>
+    <updated>2023-05-03T09:05:55.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=g-hTX_YSRHU</id>
+        <link href="https://www.youtube.com/watch?v=g-hTX_YSRHU"/>
+        <updated>2023-05-03T08:39:33.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【原神#41】魔神任務 ⌇第三章 第一幕『煙霧のベールと暗き森を抜けて』⚔【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=7THTaDzlmNA</id>
@@ -1110,15 +1119,6 @@
         <updated>2023-04-23T23:48:27.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【演奏】クラリネット練習するぞ～！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rmel0JB_ObE</id>
-        <link href="https://www.youtube.com/watch?v=rmel0JB_ObE"/>
-        <updated>2023-04-23T19:57:20.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
