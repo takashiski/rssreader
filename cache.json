@@ -621,11 +621,11 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=g-hTX_YSRHU",
+          "id": "https://www.youtube.com/watch?v=TsFP6EmSwKs",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=g-hTX_YSRHU",
-          "publishedOn": "2023-05-03T08:39:33.000Z",
+          "link": "https://www.youtube.com/watch?v=TsFP6EmSwKs",
+          "publishedOn": "2023-05-03T09:50:33.000Z",
           "wordCount": null,
           "title": "【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
@@ -865,16 +865,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=cJDdpbqqEx8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cJDdpbqqEx8",
-          "publishedOn": "2023-05-03T04:43:58.000Z",
-          "wordCount": null,
-          "title": "【歌枠】GW?ただの水曜日【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=cTBA0rcuv_M",
           "author": null,
           "description": "",
@@ -1012,6 +1002,16 @@
           "publishedOn": "2023-04-09T02:59:39.000Z",
           "wordCount": null,
           "title": "【朝活】ねむい♬ ねむい♬【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=FV68Myh8MIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FV68Myh8MIU",
+          "publishedOn": "2023-04-08T11:42:54.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見さん歓迎♡定期歌枠の時間だ！！！！！【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         }
       ]
