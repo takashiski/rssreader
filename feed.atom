@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T00:21:25.052Z</id>
+    <id>urn:2023-05-03T00:49:43.851Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T00:21:25.052Z</updated>
+    <updated>2023-05-03T00:49:43.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎✨ゴールデンウィークでも、おっきろ～❕💜 good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=l0hpJyDqmKU</id>
+        <link href="https://www.youtube.com/watch?v=l0hpJyDqmKU"/>
+        <updated>2023-05-03T00:23:00.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1.5周年＆3万人✨】1.5st Anniversary✨ありがと～を込めて歌う！告知ナシ！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=PDpmpYqawjk</id>
@@ -1515,15 +1524,6 @@
         <updated>2023-04-18T17:18:27.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】生意気な妹💗たっぷり癒してあげるね、お兄ちゃん💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FwCcLY3Sqz0</id>
-        <link href="https://www.youtube.com/watch?v=FwCcLY3Sqz0"/>
-        <updated>2023-04-18T15:39:45.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
