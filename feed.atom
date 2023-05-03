@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T16:35:52.873Z</id>
+    <id>urn:2023-05-03T17:05:26.930Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T16:35:52.873Z</updated>
+    <updated>2023-05-03T17:05:26.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8GdQM11mQV8</id>
+        <link href="https://www.youtube.com/watch?v=8GdQM11mQV8"/>
+        <updated>2023-05-03T16:38:23.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【崩壊：スターレイル】クラーラちゃんには会えてないけど楽しい！沼ゲー！♡3【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=slz1xX0pUFY</id>
@@ -1011,15 +1020,6 @@
         <updated>2023-04-25T17:34:09.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
-        <link href="https://www.youtube.com/watch?v=Ju4VS0hPDc4"/>
-        <updated>2023-04-25T15:51:22.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>

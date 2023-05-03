@@ -317,6 +317,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8GdQM11mQV8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8GdQM11mQV8",
+          "publishedOn": "2023-05-03T16:38:23.000Z",
+          "wordCount": null,
+          "title": "【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JUHd_s0iTi0",
           "author": null,
           "description": "",
@@ -444,16 +454,6 @@
           "publishedOn": "2023-04-26T11:27:03.000Z",
           "wordCount": null,
           "title": "#殺伐としたTLに突然おっぱいが #新人Vtuber #vtuber #ククルアクレイユ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ju4VS0hPDc4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ju4VS0hPDc4",
-          "publishedOn": "2023-04-25T15:51:22.000Z",
-          "wordCount": null,
-          "title": "【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
