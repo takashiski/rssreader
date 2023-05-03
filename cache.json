@@ -1022,6 +1022,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5yeiFXZgiUw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5yeiFXZgiUw",
+          "publishedOn": "2023-05-03T14:00:41.000Z",
+          "wordCount": null,
+          "title": "リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vbrSkQHiSVg",
           "author": null,
           "description": "",
@@ -1159,16 +1169,6 @@
           "publishedOn": "2023-04-18T14:43:09.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_yfqWYPI71c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_yfqWYPI71c",
-          "publishedOn": "2023-04-15T16:25:03.000Z",
-          "wordCount": null,
-          "title": "#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -2598,16 +2598,6 @@
           "publishedOn": "2023-04-28T01:39:40.000Z",
           "wordCount": null,
           "title": "【#クロエのレクイエム】闇が深すぎる2人……！そろそろ佳境！？【宇佐美ユノ / リアクト / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CNUE2AE2E8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CNUE2AE2E8o",
-          "publishedOn": "2023-04-27T14:09:02.000Z",
-          "wordCount": null,
-          "title": "【#ミリしら 】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしら！【宇佐美ユノ / リアクト / vtuber】",
           "imageUrl": null
         },
         {

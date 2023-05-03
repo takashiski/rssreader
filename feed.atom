@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T13:34:07.950Z</id>
+    <id>urn:2023-05-03T14:05:45.390Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T13:34:07.950Z</updated>
+    <updated>2023-05-03T14:05:45.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=5yeiFXZgiUw</id>
+        <link href="https://www.youtube.com/watch?v=5yeiFXZgiUw"/>
+        <updated>2023-05-03T14:00:41.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【🍽️お知らせあり】生誕ライブありがとう!!の振り返り雑談~♡【天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=XYOtdwRYw9g</id>
@@ -804,15 +813,6 @@
         <updated>2023-04-27T15:22:24.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ミリしら 】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしら！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=CNUE2AE2E8o</id>
-        <link href="https://www.youtube.com/watch?v=CNUE2AE2E8o"/>
-        <updated>2023-04-27T14:09:02.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -1794,15 +1794,6 @@
         <updated>2023-04-15T17:19:37.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=_yfqWYPI71c</id>
-        <link href="https://www.youtube.com/watch?v=_yfqWYPI71c"/>
-        <updated>2023-04-15T16:25:03.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
