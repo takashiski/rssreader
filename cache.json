@@ -1022,6 +1022,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vL2n6rePZIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vL2n6rePZIU",
+          "publishedOn": "2023-05-03T20:47:42.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】九楽ライ先輩と歌枠コラボだーー！ #うすわらい ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=vbrSkQHiSVg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vbrSkQHiSVg",
+          "publishedOn": "2023-05-03T20:37:43.000Z",
+          "wordCount": null,
+          "title": "後半戦：リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5yeiFXZgiUw",
           "author": null,
           "description": "",
@@ -1149,26 +1169,6 @@
           "publishedOn": "2023-04-19T12:32:09.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎！ちぃちゃいお知らせあります / 水曜定期歌枠 #39 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4bngbUKbzng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4bngbUKbzng",
-          "publishedOn": "2023-04-18T14:43:09.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_yfqWYPI71c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_yfqWYPI71c",
-          "publishedOn": "2023-04-15T16:25:03.000Z",
-          "wordCount": null,
-          "title": "#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -2224,6 +2224,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FcZILybvpl4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FcZILybvpl4",
+          "publishedOn": "2023-05-03T20:42:41.000Z",
+          "wordCount": null,
+          "title": "【逆転裁判123】#1 完全初見！異議だしまくるぞおお！※ネタバレあり【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7THTaDzlmNA",
           "author": null,
           "description": "",
@@ -2361,16 +2371,6 @@
           "publishedOn": "2023-04-13T02:43:42.000Z",
           "wordCount": null,
           "title": "【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dC_Niv7b-mc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dC_Niv7b-mc",
-          "publishedOn": "2023-04-12T10:32:18.000Z",
-          "wordCount": null,
-          "title": "【新衣装トレーラー】新しいわらわもよろしくじゃよ！🐟𓂃𓈒໒꒱‪𓏸【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]

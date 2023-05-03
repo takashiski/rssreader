@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T20:34:15.194Z</id>
+    <id>urn:2023-05-03T21:05:41.341Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T20:34:15.194Z</updated>
+    <updated>2023-05-03T21:05:41.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】九楽ライ先輩と歌枠コラボだーー！ #うすわらい ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vL2n6rePZIU</id>
+        <link href="https://www.youtube.com/watch?v=vL2n6rePZIU"/>
+        <updated>2023-05-03T20:47:42.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【逆転裁判123】#1 完全初見！異議だしまくるぞおお！※ネタバレあり【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FcZILybvpl4</id>
+        <link href="https://www.youtube.com/watch?v=FcZILybvpl4"/>
+        <updated>2023-05-03T20:42:41.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[後半戦：リアクトメンバー全員描けるまで終わらない…！【 稀羽すう / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vbrSkQHiSVg</id>
+        <link href="https://www.youtube.com/watch?v=vbrSkQHiSVg"/>
+        <updated>2023-05-03T20:37:43.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TsFP6EmSwKs</id>
@@ -1563,15 +1590,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=4bngbUKbzng</id>
-        <link href="https://www.youtube.com/watch?v=4bngbUKbzng"/>
-        <updated>2023-04-18T14:43:09.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆おうち３D歌枠✨ /sing / UTAUYO! / karaoke【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=MMdrVKmiTCQ</id>
         <link href="https://www.youtube.com/watch?v=MMdrVKmiTCQ"/>
@@ -1806,15 +1824,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#30【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=_yfqWYPI71c</id>
-        <link href="https://www.youtube.com/watch?v=_yfqWYPI71c"/>
-        <updated>2023-04-15T16:25:03.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【🎤耐久歌枠】初見さん歓迎💛95000人登録者を目指して歌う子供がいるみたい【karaoke/天川はの】]]></title>
         <id>https://www.youtube.com/watch?v=O7wlIrHr3qI</id>
         <link href="https://www.youtube.com/watch?v=O7wlIrHr3qI"/>
@@ -2010,15 +2019,6 @@
         <updated>2023-04-12T15:20:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新衣装トレーラー】新しいわらわもよろしくじゃよ！🐟𓂃𓈒໒꒱‪𓏸【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=dC_Niv7b-mc</id>
-        <link href="https://www.youtube.com/watch?v=dC_Niv7b-mc"/>
-        <updated>2023-04-12T10:32:18.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
