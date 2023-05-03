@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T14:34:34.560Z</id>
+    <id>urn:2023-05-03T15:05:54.813Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T14:34:34.560Z</updated>
+    <updated>2023-05-03T15:05:54.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 雑談🥂 】初見さん大歓迎～／ボイス・グッズ販促会＆諸々振り返り会～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=h12PHbJ8tjk</id>
+        <link href="https://www.youtube.com/watch?v=h12PHbJ8tjk"/>
+        <updated>2023-05-03T14:39:01.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1.5周年＆3万人✨】1.5st Anniversary✨ありがと～を込めて歌う！告知ナシ！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=PDpmpYqawjk</id>
@@ -2127,15 +2136,6 @@
         <updated>2023-04-09T02:59:39.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／5000人ありがとう！感謝の歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DB-RKhR4vi4</id>
-        <link href="https://www.youtube.com/watch?v=DB-RKhR4vi4"/>
-        <updated>2023-04-08T17:39:48.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
