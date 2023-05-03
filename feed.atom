@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T15:34:17.977Z</id>
+    <id>urn:2023-05-03T16:05:56.503Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T15:34:17.977Z</updated>
+    <updated>2023-05-03T16:05:56.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルアデザイン塾】ゲスト：天日テラス氏！デザインレクチャー新企画 ✧｜DESIGN【#ククルアクレイユ | Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=JUHd_s0iTi0</id>
+        <link href="https://www.youtube.com/watch?v=JUHd_s0iTi0"/>
+        <updated>2023-05-03T15:42:59.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 雑談🥂 】初見さん大歓迎～／ボイス・グッズ販促会＆諸々振り返り会～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=h12PHbJ8tjk</id>
@@ -93,15 +102,6 @@
         <updated>2023-05-03T09:50:33.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】クラーラちゃんには会えてないけど楽しい！沼ゲー！♡3【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=slz1xX0pUFY</id>
-        <link href="https://www.youtube.com/watch?v=slz1xX0pUFY"/>
-        <updated>2023-05-03T06:31:05.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1005,6 +1005,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】ドキドキ高音質♡耳をひたすらすら責める耳かき♡【Ear Cleaning/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=PaoWaL5hAlw</id>
+        <link href="https://www.youtube.com/watch?v=PaoWaL5hAlw"/>
+        <updated>2023-04-25T17:03:25.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【お知らせあり】初見さん大歓迎！生誕グッズ販売終了見守り歌枠｜Singing Stream【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Ju4VS0hPDc4</id>
         <link href="https://www.youtube.com/watch?v=Ju4VS0hPDc4"/>
@@ -1164,15 +1173,6 @@
         <updated>2023-04-23T12:32:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一度だけの恋なら/ワルキューレ 歌ってみた #新人Vtuber #歌ってみた #shorts #ククルアクレイユ #橘シエナ]]></title>
-        <id>https://www.youtube.com/watch?v=spGxBkjIn44</id>
-        <link href="https://www.youtube.com/watch?v=spGxBkjIn44"/>
-        <updated>2023-04-23T12:00:32.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
