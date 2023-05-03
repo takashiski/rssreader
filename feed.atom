@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T10:05:53.810Z</id>
+    <id>urn:2023-05-03T10:34:14.498Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T10:05:53.810Z</updated>
+    <updated>2023-05-03T10:34:14.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【機動戦士ガンダムZZ】「サイレント・ヴォイス」/ひろえ純【covered by 姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=EGzFWelBvFI</id>
+        <link href="https://www.youtube.com/watch?v=EGzFWelBvFI"/>
+        <updated>2023-05-03T10:30:10.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】GW?ただの水曜日【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=cJDdpbqqEx8</id>
+        <link href="https://www.youtube.com/watch?v=cJDdpbqqEx8"/>
+        <updated>2023-05-03T10:05:21.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TsFP6EmSwKs</id>
@@ -183,15 +201,6 @@
         <updated>2023-05-02T12:37:54.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【機動戦士ガンダムZZ】「サイレント・ヴォイス」/ひろえ純【covered by 姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=EGzFWelBvFI</id>
-        <link href="https://www.youtube.com/watch?v=EGzFWelBvFI"/>
-        <updated>2023-05-02T12:15:11.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2172,15 +2181,6 @@
         <updated>2023-04-08T12:00:32.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見さん歓迎♡定期歌枠の時間だ！！！！！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FV68Myh8MIU</id>
-        <link href="https://www.youtube.com/watch?v=FV68Myh8MIU"/>
-        <updated>2023-04-08T11:42:54.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
