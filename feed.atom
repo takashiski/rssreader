@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T18:34:19.573Z</id>
+    <id>urn:2023-05-03T19:05:31.218Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T18:34:19.573Z</updated>
+    <updated>2023-05-03T19:05:31.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=TsFP6EmSwKs</id>
+        <link href="https://www.youtube.com/watch?v=TsFP6EmSwKs"/>
+        <updated>2023-05-03T18:24:20.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 雑談🥂 】初見さん大歓迎～／ボイス・グッズ販促会＆諸々振り返り会～【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=h12PHbJ8tjk</id>
@@ -1128,15 +1137,6 @@
         <updated>2023-04-23T23:48:27.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【演奏】クラリネット練習するぞ～！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rmel0JB_ObE</id>
-        <link href="https://www.youtube.com/watch?v=rmel0JB_ObE"/>
-        <updated>2023-04-23T19:57:20.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
