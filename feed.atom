@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T00:49:43.851Z</id>
+    <id>urn:2023-05-03T01:32:35.990Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T00:49:43.851Z</updated>
+    <updated>2023-05-03T01:32:35.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[謝罪]]></title>
+        <id>https://www.youtube.com/watch?v=74e8_V9bwTg</id>
+        <link href="https://www.youtube.com/watch?v=74e8_V9bwTg"/>
+        <updated>2023-05-03T01:21:44.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎✨ゴールデンウィークでも、おっきろ～❕💜 good morning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=l0hpJyDqmKU</id>
@@ -147,15 +156,6 @@
         <updated>2023-05-02T10:18:46.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活雑談】高所恐怖症になった理由お話しします。/Free Talk【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=9UV9IY1sSrc</id>
-        <link href="https://www.youtube.com/watch?v=9UV9IY1sSrc"/>
-        <updated>2023-05-02T10:17:37.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1083,15 +1083,6 @@
         <updated>2023-04-23T19:57:20.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】素手で♡すりすり気持ち良いマッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=txhxJ8ZSDGw</id>
-        <link href="https://www.youtube.com/watch?v=txhxJ8ZSDGw"/>
-        <updated>2023-04-23T17:03:07.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
