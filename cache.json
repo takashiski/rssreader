@@ -611,16 +611,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=y4RHMr4VRe0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=y4RHMr4VRe0",
-          "publishedOn": "2023-05-04T11:31:19.000Z",
-          "wordCount": null,
-          "title": "げんきくれ【メン限】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=TsFP6EmSwKs",
           "author": null,
           "description": "",
@@ -749,6 +739,16 @@
           "wordCount": null,
           "title": "【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
+          "publishedOn": "2023-04-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多 #shorts",
+          "imageUrl": null
         }
       ]
     },
@@ -834,16 +834,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrG8pzkq_cCCLcN5wgrzNw",
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=qyUkuzdrQqA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qyUkuzdrQqA",
-          "publishedOn": "2023-05-04T05:21:16.000Z",
-          "wordCount": null,
-          "title": "【つぐのひ/ホラゲ】左に進むだけならできる 【 #生リサ /Re:AcT/新人Vtuber】",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=cJDdpbqqEx8",
           "author": null,
@@ -983,6 +973,16 @@
           "wordCount": null,
           "title": "【歌枠】YOASOBIさんの新曲がとてもよかった【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cEIKJWyluDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cEIKJWyluDs",
+          "publishedOn": "2023-04-09T02:59:39.000Z",
+          "wordCount": null,
+          "title": "【朝活】ねむい♬ ねむい♬【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
         }
       ]
     },
@@ -991,6 +991,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqIMtLuGc3YgwkhEaG8oDg",
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=vL2n6rePZIU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vL2n6rePZIU",
+          "publishedOn": "2023-05-04T12:44:32.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 】九楽ライ先輩と歌枠コラボだーー！ #うすわらい ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vbrSkQHiSVg",
           "author": null,
@@ -1129,16 +1139,6 @@
           "publishedOn": "2023-04-19T12:32:09.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎！ちぃちゃいお知らせあります / 水曜定期歌枠 #39 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4bngbUKbzng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4bngbUKbzng",
-          "publishedOn": "2023-04-18T14:43:09.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】",
           "imageUrl": null
         }
       ]
