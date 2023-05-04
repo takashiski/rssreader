@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T12:07:20.994Z</id>
+    <id>urn:2023-05-04T12:42:14.155Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T12:07:20.994Z</updated>
+    <updated>2023-05-04T12:42:14.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8GdQM11mQV8</id>
+        <link href="https://www.youtube.com/watch?v=8GdQM11mQV8"/>
+        <updated>2023-05-04T12:36:36.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
@@ -55,15 +64,6 @@
         <id>https://www.youtube.com/watch?v=IXoVeR-j5hQ</id>
         <link href="https://www.youtube.com/watch?v=IXoVeR-j5hQ"/>
         <updated>2023-05-04T09:12:42.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【membership only】『リトルバスターズ！』同時視聴⚾✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=G_jIcC_1JsE</id>
-        <link href="https://www.youtube.com/watch?v=G_jIcC_1JsE"/>
-        <updated>2023-05-04T08:55:16.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
@@ -120,15 +120,6 @@
         <updated>2023-05-04T02:00:33.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】九楽ライ先輩と歌枠コラボだーー！ #うすわらい ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vL2n6rePZIU</id>
-        <link href="https://www.youtube.com/watch?v=vL2n6rePZIU"/>
-        <updated>2023-05-03T20:47:42.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1113,15 +1104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#殺伐としたTLに突然おっぱいが #新人Vtuber #vtuber #ククルアクレイユ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=AAf9zDIO9-M</id>
-        <link href="https://www.youtube.com/watch?v=AAf9zDIO9-M"/>
-        <updated>2023-04-26T11:27:03.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V4bla6mWH4A</id>
         <link href="https://www.youtube.com/watch?v=V4bla6mWH4A"/>
@@ -1491,6 +1473,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【朝活】朝ごはん一緒に食べよ～🥞！生活リズムを改善したい朝活☀【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=I5iXtP1qe8w</id>
+        <link href="https://www.youtube.com/watch?v=I5iXtP1qe8w"/>
+        <updated>2023-04-20T23:32:42.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ  #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=HebK8kwMh3o</id>
         <link href="https://www.youtube.com/watch?v=HebK8kwMh3o"/>
@@ -1650,6 +1641,15 @@
         <updated>2023-04-18T21:48:12.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】奏みみさんと初めてのコラボ歌枠！ ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=4bngbUKbzng</id>
+        <link href="https://www.youtube.com/watch?v=4bngbUKbzng"/>
+        <updated>2023-04-18T14:43:09.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
