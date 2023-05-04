@@ -2214,6 +2214,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FcZILybvpl4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FcZILybvpl4",
+          "publishedOn": "2023-05-04T16:46:14.000Z",
+          "wordCount": null,
+          "title": "【逆転裁判123】#1 完全初見！異議だしまくるぞおお！※ネタバレあり【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7THTaDzlmNA",
           "author": null,
           "description": "",
@@ -2351,16 +2361,6 @@
           "publishedOn": "2023-04-13T02:43:42.000Z",
           "wordCount": null,
           "title": "【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dC_Niv7b-mc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dC_Niv7b-mc",
-          "publishedOn": "2023-04-12T10:32:18.000Z",
-          "wordCount": null,
-          "title": "【新衣装トレーラー】新しいわらわもよろしくじゃよ！🐟𓂃𓈒໒꒱‪𓏸【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
