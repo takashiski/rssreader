@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T14:34:31.845Z</id>
+    <id>urn:2023-05-04T15:06:00.190Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T14:34:31.845Z</updated>
+    <updated>2023-05-04T15:06:00.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#事務所合同歌枠リレー】歌うエルフｋｔｋｒ！+(0ﾟ･∀･)+【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=VQNX-XhyCuI</id>
+        <link href="https://www.youtube.com/watch?v=VQNX-XhyCuI"/>
+        <updated>2023-05-04T15:05:24.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#事務所合同歌枠リレー】ククスイデュエット！パート入れ替えに注目！【 #ククルアクレイユ┊︎Re:AcT / #白瀬スイナ┊︎トリステ 】]]></title>
+        <id>https://www.youtube.com/watch?v=xV5qlTVAuqY</id>
+        <link href="https://www.youtube.com/watch?v=xV5qlTVAuqY"/>
+        <updated>2023-05-04T14:55:12.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 pineapple on pizza 】レビューを見ても何もわからない謎ゲー。【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=kWDJpf-vfq0</id>
+        <link href="https://www.youtube.com/watch?v=kWDJpf-vfq0"/>
+        <updated>2023-05-04T14:39:48.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☀朝活雑談 / GWでも早起きするんだよォ！！！！ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=YFf5djAqp_4</id>
@@ -960,15 +987,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[インターネット老人会の歌うエルフ/歌声がエモすぎた #新人Vtuber #Vtuber #歌ってみた #shorts #ククルアクレイユ #切り抜き]]></title>
-        <id>https://www.youtube.com/watch?v=ndHtd1BWIS0</id>
-        <link href="https://www.youtube.com/watch?v=ndHtd1BWIS0"/>
-        <updated>2023-04-27T15:22:24.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【耐久歌枠】３万人まで歌う✨お願い、僕を見つけて...！見届けて！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=iVlzWSOB0Tw</id>
         <link href="https://www.youtube.com/watch?v=iVlzWSOB0Tw"/>
@@ -1020,15 +1038,6 @@
         <updated>2023-04-27T01:46:44.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎！100人とおはよう☀️定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=RWLKEBm4liA</id>
-        <link href="https://www.youtube.com/watch?v=RWLKEBm4liA"/>
-        <updated>2023-04-27T00:42:51.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2134,15 +2143,6 @@
         <id>https://www.youtube.com/watch?v=0chMp4huUIE</id>
         <link href="https://www.youtube.com/watch?v=0chMp4huUIE"/>
         <updated>2023-04-10T17:37:52.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】新衣装でおうたわく～⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6y9EIgO0CJw</id>
-        <link href="https://www.youtube.com/watch?v=6y9EIgO0CJw"/>
-        <updated>2023-04-10T10:39:56.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
