@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T07:05:49.200Z</id>
+    <id>urn:2023-05-04T07:34:13.206Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T07:05:49.200Z</updated>
+    <updated>2023-05-04T07:34:13.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳を触りながら、優しいのにドキドキする耳ふー♡【Whispering/Ear Blowing/Breathing/Relaxing/Deep Sleep】]]></title>
+        <id>https://www.youtube.com/watch?v=yQk8B8NivHo</id>
+        <link href="https://www.youtube.com/watch?v=yQk8B8NivHo"/>
+        <updated>2023-05-04T07:14:47.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】イケメン美声なのにサンポ嫌われすぎてかわいそう。♡4【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=Euj6ujbkhfE</id>
+        <link href="https://www.youtube.com/watch?v=Euj6ujbkhfE"/>
+        <updated>2023-05-04T07:11:29.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
