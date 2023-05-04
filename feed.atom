@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T23:34:17.954Z</id>
+    <id>urn:2023-05-04T00:21:27.041Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T23:34:17.954Z</updated>
+    <updated>2023-05-04T00:21:27.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2289,15 +2289,6 @@
         <updated>2023-04-04T13:37:50.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重大告知】Re:AcT春の特別企画！舞台は〇〇！【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_j4oCxZ58Is</id>
-        <link href="https://www.youtube.com/watch?v=_j4oCxZ58Is"/>
-        <updated>2023-04-04T11:55:26.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
 </feed>
