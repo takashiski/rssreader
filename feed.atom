@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T13:06:35.452Z</id>
+    <id>urn:2023-05-04T13:34:34.424Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T13:06:35.452Z</updated>
+    <updated>2023-05-04T13:34:34.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【つぐのひ/ホラゲ】左に進むだけならできる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qyUkuzdrQqA</id>
+        <link href="https://www.youtube.com/watch?v=qyUkuzdrQqA"/>
+        <updated>2023-05-04T13:17:19.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】見つけて！夕方に響くエルフの歌声｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8YNXq2iJAxQ</id>
+        <link href="https://www.youtube.com/watch?v=8YNXq2iJAxQ"/>
+        <updated>2023-05-04T13:16:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】九楽ライ先輩と歌枠コラボだーー！ #うすわらい ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vL2n6rePZIU</id>
@@ -951,15 +969,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#クロエのレクイエム】ついにエンディング！！【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=K6soADDa6bk</id>
-        <link href="https://www.youtube.com/watch?v=K6soADDa6bk"/>
-        <updated>2023-04-27T14:07:09.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【耐久歌枠】３万人まで歌う✨お願い、僕を見つけて...！見届けて！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=iVlzWSOB0Tw</id>
         <link href="https://www.youtube.com/watch?v=iVlzWSOB0Tw"/>
@@ -1074,15 +1083,6 @@
         <updated>2023-04-26T15:18:56.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】月城アオイ様ご来店！第17回は親近感しかない！ハーフヴァンパイア襲来！【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=AquuFuSkQOg</id>
-        <link href="https://www.youtube.com/watch?v=AquuFuSkQOg"/>
-        <updated>2023-04-26T14:48:55.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2154,15 +2154,6 @@
         <updated>2023-04-09T09:36:48.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】ねむい♬ ねむい♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=cEIKJWyluDs</id>
-        <link href="https://www.youtube.com/watch?v=cEIKJWyluDs"/>
-        <updated>2023-04-09T02:59:39.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
