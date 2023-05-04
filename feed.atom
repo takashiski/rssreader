@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T09:05:56.175Z</id>
+    <id>urn:2023-05-04T09:34:25.327Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T09:05:56.175Z</updated>
+    <updated>2023-05-04T09:34:25.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第三部♡ラストスパート！今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7VPRtgGQgMo</id>
+        <link href="https://www.youtube.com/watch?v=7VPRtgGQgMo"/>
+        <updated>2023-05-04T09:24:59.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第ニ部♡今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3ICPDpDD9zE</id>
+        <link href="https://www.youtube.com/watch?v=3ICPDpDD9zE"/>
+        <updated>2023-05-04T09:22:12.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #がちゃきゅー歌枠リレー 】一番手！音伽ねむ🗝💭可愛くて楽しいお祭りのはじまりだ✨！一緒に盛り上がろ～っ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IXoVeR-j5hQ</id>
+        <link href="https://www.youtube.com/watch?v=IXoVeR-j5hQ"/>
+        <updated>2023-05-04T09:12:42.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【membership only】『リトルバスターズ！』同時視聴⚾✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=G_jIcC_1JsE</id>
@@ -420,15 +447,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎✨３D❕みんなでいっしょに盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Dg6dVXeh8Ro</id>
-        <link href="https://www.youtube.com/watch?v=Dg6dVXeh8Ro"/>
-        <updated>2023-05-01T17:47:21.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】ぺたぺた音圧強め♡深夜のお世話マッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=AfGcnzEohhI</id>
         <link href="https://www.youtube.com/watch?v=AfGcnzEohhI"/>
@@ -636,7 +654,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠 】150曲耐久！今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第一部♡今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-ivaQ6h-bYI</id>
         <link href="https://www.youtube.com/watch?v=-ivaQ6h-bYI"/>
         <updated>2023-04-30T13:46:35.000Z</updated>
@@ -1464,24 +1482,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】朝ごはん一緒に食べよ～🥞！生活リズムを改善したい朝活☀【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=I5iXtP1qe8w</id>
-        <link href="https://www.youtube.com/watch?v=I5iXtP1qe8w"/>
-        <updated>2023-04-20T23:32:42.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WKM-SUclS0U</id>
-        <link href="https://www.youtube.com/watch?v=WKM-SUclS0U"/>
-        <updated>2023-04-20T16:38:17.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ  #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=HebK8kwMh3o</id>
         <link href="https://www.youtube.com/watch?v=HebK8kwMh3o"/>
@@ -1644,12 +1644,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】#19 今夜ついに12時を迎えよう🕛💭愛と正義の名のもとに、音伽ねむがやってくるっ💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=EIyFd5w5rNw</id>
-        <link href="https://www.youtube.com/watch?v=EIyFd5w5rNw"/>
-        <updated>2023-04-18T17:18:27.000Z</updated>
+        <title type="html"><![CDATA[【ASMR】生意気な妹💗たっぷり癒してあげるね、お兄ちゃん💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=FwCcLY3Sqz0</id>
+        <link href="https://www.youtube.com/watch?v=FwCcLY3Sqz0"/>
+        <updated>2023-04-18T15:39:45.000Z</updated>
         <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
