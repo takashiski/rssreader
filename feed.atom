@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T11:34:14.280Z</id>
+    <id>urn:2023-05-04T12:07:20.994Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T11:34:14.280Z</updated>
+    <updated>2023-05-04T12:07:20.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
+        <link href="https://www.youtube.com/watch?v=h7bRaJxndlM"/>
+        <updated>2023-05-04T11:54:32.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[げんきくれ【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=y4RHMr4VRe0</id>
+        <link href="https://www.youtube.com/watch?v=y4RHMr4VRe0"/>
+        <updated>2023-05-04T11:31:19.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎✨３D❕みんなでいっしょに盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Dg6dVXeh8Ro</id>
@@ -84,15 +102,6 @@
         <updated>2023-05-04T07:11:29.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
-        <link href="https://www.youtube.com/watch?v=h7bRaJxndlM"/>
-        <updated>2023-05-04T05:33:02.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1218,15 +1227,6 @@
         <updated>2023-04-24T11:11:30.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=aD-ObCm3FlM</id>
-        <link href="https://www.youtube.com/watch?v=aD-ObCm3FlM"/>
-        <updated>2023-04-24T10:00:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
