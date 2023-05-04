@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T13:34:34.424Z</id>
+    <id>urn:2023-05-04T14:05:50.529Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T13:34:34.424Z</updated>
+    <updated>2023-05-04T14:05:50.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[☀朝活雑談 / GWでも早起きするんだよォ！！！！ / morning freetalk【新人Vtuber/九楽ライ】]]></title>
+        <id>https://www.youtube.com/watch?v=YFf5djAqp_4</id>
+        <link href="https://www.youtube.com/watch?v=YFf5djAqp_4"/>
+        <updated>2023-05-04T13:34:26.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【つぐのひ/ホラゲ】左に進むだけならできる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=qyUkuzdrQqA</id>
@@ -2271,15 +2280,6 @@
         <updated>2023-04-05T14:30:15.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=k44UeoicCao</id>
-        <link href="https://www.youtube.com/watch?v=k44UeoicCao"/>
-        <updated>2023-04-05T12:41:05.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

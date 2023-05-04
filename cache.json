@@ -1149,6 +1149,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=YFf5djAqp_4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YFf5djAqp_4",
+          "publishedOn": "2023-05-04T13:34:26.000Z",
+          "wordCount": null,
+          "title": "☀朝活雑談 / GWでも早起きするんだよォ！！！！ / morning freetalk【新人Vtuber/九楽ライ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PDpmpYqawjk",
           "author": null,
           "description": "",
@@ -1286,16 +1296,6 @@
           "publishedOn": "2023-04-06T11:09:53.000Z",
           "wordCount": null,
           "title": "◆おうち３D歌枠✨ /sing / き、君たち～～～っ💦 / karaoke【九楽ライ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k44UeoicCao",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k44UeoicCao",
-          "publishedOn": "2023-04-05T12:41:05.000Z",
-          "wordCount": null,
-          "title": "〖重大告知✨〗またひとつ、夢を叶えます。2つ発表があります！！〖九楽ライ/Vtuber〗",
           "imageUrl": null
         }
       ]
