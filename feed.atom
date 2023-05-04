@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T15:34:24.403Z</id>
+    <id>urn:2023-05-04T16:40:24.448Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T15:34:24.403Z</updated>
+    <updated>2023-05-04T16:40:24.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】初見歓迎💜まったりお話しよ？会いに来てね…💜✨ Talking stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=UU5dMGNoRrM</id>
+        <link href="https://www.youtube.com/watch?v=UU5dMGNoRrM"/>
+        <updated>2023-05-04T16:28:32.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】イケメン美声なのにサンポ嫌われすぎてかわいそう。♡4【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=Euj6ujbkhfE</id>
+        <link href="https://www.youtube.com/watch?v=Euj6ujbkhfE"/>
+        <updated>2023-05-04T15:45:11.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#事務所合同歌枠リレー】歌うエルフｋｔｋｒ！+(0ﾟ･∀･)+【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=VQNX-XhyCuI</id>
@@ -147,15 +165,6 @@
         <updated>2023-05-04T02:00:33.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【逆転裁判123】#1 完全初見！異議だしまくるぞおお！※ネタバレあり【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=FcZILybvpl4</id>
-        <link href="https://www.youtube.com/watch?v=FcZILybvpl4"/>
-        <updated>2023-05-03T20:42:41.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1626,15 +1635,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎✨毎週水曜日の朝は、アリアの時間💜 good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=OfTfzR15V7g</id>
-        <link href="https://www.youtube.com/watch?v=OfTfzR15V7g"/>
-        <updated>2023-04-19T00:33:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠/singing stream 】ゲリラ！お歌の時間だよ【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=7aJzp3YlTyc</id>
         <link href="https://www.youtube.com/watch?v=7aJzp3YlTyc"/>
@@ -2064,6 +2064,15 @@
         <updated>2023-04-12T15:20:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新衣装トレーラー】新しいわらわもよろしくじゃよ！🐟𓂃𓈒໒꒱‪𓏸【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=dC_Niv7b-mc</id>
+        <link href="https://www.youtube.com/watch?v=dC_Niv7b-mc"/>
+        <updated>2023-04-12T10:32:18.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
