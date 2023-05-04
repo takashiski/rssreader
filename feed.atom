@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T05:06:01.514Z</id>
+    <id>urn:2023-05-04T05:34:19.431Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T05:06:01.514Z</updated>
+    <updated>2023-05-04T05:34:19.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
+        <link href="https://www.youtube.com/watch?v=h7bRaJxndlM"/>
+        <updated>2023-05-04T05:33:02.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【つぐのひ/ホラゲ】左に進むだけならできる 【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=qyUkuzdrQqA</id>
+        <link href="https://www.youtube.com/watch?v=qyUkuzdrQqA"/>
+        <updated>2023-05-04T05:21:16.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ミリしら 】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしら！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=CNUE2AE2E8o</id>
@@ -12,15 +30,6 @@
         <updated>2023-05-04T02:00:33.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】見つけて！エルフの歌声きいてね｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=C1hJYxLoKUA</id>
-        <link href="https://www.youtube.com/watch?v=C1hJYxLoKUA"/>
-        <updated>2023-05-04T00:18:38.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1023,6 +1032,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[#殺伐としたTLに突然おっぱいが #新人Vtuber #vtuber #ククルアクレイユ #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=AAf9zDIO9-M</id>
+        <link href="https://www.youtube.com/watch?v=AAf9zDIO9-M"/>
+        <updated>2023-04-26T11:27:03.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V4bla6mWH4A</id>
         <link href="https://www.youtube.com/watch?v=V4bla6mWH4A"/>
@@ -1135,15 +1153,6 @@
         <id>https://www.youtube.com/watch?v=aD-ObCm3FlM</id>
         <link href="https://www.youtube.com/watch?v=aD-ObCm3FlM"/>
         <updated>2023-04-24T10:00:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おひるに歌っちゃう！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=YbHExGCrXKo</id>
-        <link href="https://www.youtube.com/watch?v=YbHExGCrXKo"/>
-        <updated>2023-04-24T06:48:25.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -2136,15 +2145,6 @@
         <updated>2023-04-09T09:36:48.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】ねむい♬ ねむい♬【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=cEIKJWyluDs</id>
-        <link href="https://www.youtube.com/watch?v=cEIKJWyluDs"/>
-        <updated>2023-04-09T02:59:39.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
