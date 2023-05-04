@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T08:34:41.332Z</id>
+    <id>urn:2023-05-04T09:05:56.175Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T08:34:41.332Z</updated>
+    <updated>2023-05-04T09:05:56.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【membership only】『リトルバスターズ！』同時視聴⚾✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=G_jIcC_1JsE</id>
+        <link href="https://www.youtube.com/watch?v=G_jIcC_1JsE"/>
+        <updated>2023-05-04T08:55:16.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 GW企画 】みんなと協力してご褒美をゲットしたい！ w/ 月紫アリア  #NeclioN【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=O808i_anwuc</id>
+        <link href="https://www.youtube.com/watch?v=O808i_anwuc"/>
+        <updated>2023-05-04T08:35:38.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 pineapple on pizza 】レビューを見ても何もわからない謎ゲー。【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=kWDJpf-vfq0</id>
@@ -1770,15 +1788,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Fall Guys】メラちと優勝目指してわちゃわちゃ遊ぶ～🏆✨視聴者参加型もあるよ👀💕withメラ・アカル【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nDlRsCjFsrw</id>
-        <link href="https://www.youtube.com/watch?v=nDlRsCjFsrw"/>
-        <updated>2023-04-16T14:38:04.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #バイオハザードヴィレッジ 】バイオ８ 最期まで駆け抜けるぜ！#9 【#紅龍イサナ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6FocG5MiUx4</id>
         <link href="https://www.youtube.com/watch?v=6FocG5MiUx4"/>
@@ -2134,15 +2143,6 @@
         <id>https://www.youtube.com/watch?v=0chMp4huUIE</id>
         <link href="https://www.youtube.com/watch?v=0chMp4huUIE"/>
         <updated>2023-04-10T17:37:52.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】新衣装でおうたわく～⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6y9EIgO0CJw</id>
-        <link href="https://www.youtube.com/watch?v=6y9EIgO0CJw"/>
-        <updated>2023-04-10T10:39:56.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
