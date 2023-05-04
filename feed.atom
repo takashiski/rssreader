@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T00:21:27.041Z</id>
+    <id>urn:2023-05-04T00:49:50.253Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T00:21:27.041Z</updated>
+    <updated>2023-05-04T00:49:50.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】見つけて！エルフの歌声きいてね｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=C1hJYxLoKUA</id>
+        <link href="https://www.youtube.com/watch?v=C1hJYxLoKUA"/>
+        <updated>2023-05-04T00:18:38.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】九楽ライ先輩と歌枠コラボだーー！ #うすわらい ✦ KARAOKE STREAM ✦【稀羽すう/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vL2n6rePZIU</id>
@@ -55,15 +64,6 @@
         <id>https://www.youtube.com/watch?v=iEVLGhkHcSA</id>
         <link href="https://www.youtube.com/watch?v=iEVLGhkHcSA"/>
         <updated>2023-05-03T17:29:15.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=8GdQM11mQV8</id>
-        <link href="https://www.youtube.com/watch?v=8GdQM11mQV8"/>
-        <updated>2023-05-03T16:38:23.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
