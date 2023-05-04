@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-04T17:05:33.500Z</id>
+    <id>urn:2023-05-04T17:34:18.094Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T17:05:33.500Z</updated>
+    <updated>2023-05-04T17:34:18.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳を触りながら、優しいのにドキドキする耳ふー♡【Whispering/Ear Blowing/Breathing/Relaxing/Deep Sleep】]]></title>
+        <id>https://www.youtube.com/watch?v=yQk8B8NivHo</id>
+        <link href="https://www.youtube.com/watch?v=yQk8B8NivHo"/>
+        <updated>2023-05-04T17:30:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】見つけて！エルフの歌声きいてね｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=C1hJYxLoKUA</id>
+        <link href="https://www.youtube.com/watch?v=C1hJYxLoKUA"/>
+        <updated>2023-05-04T17:23:11.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【逆転裁判123】#1 完全初見！異議だしまくるぞおお！※ネタバレあり【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=FcZILybvpl4</id>
@@ -156,15 +174,6 @@
         <updated>2023-05-04T08:35:38.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KU100 ASMR/睡眠導入】お耳を触りながら、優しいのにドキドキする耳ふー♡【Whispering/Ear Blowing/Breathing/Relaxing/Deep Sleep】]]></title>
-        <id>https://www.youtube.com/watch?v=yQk8B8NivHo</id>
-        <link href="https://www.youtube.com/watch?v=yQk8B8NivHo"/>
-        <updated>2023-05-04T07:14:47.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
