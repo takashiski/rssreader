@@ -140,6 +140,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCY5jwnUvdsrsfqsMQWHau-w",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=743mwHs0mOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=743mwHs0mOc",
+          "publishedOn": "2023-05-05T09:10:55.000Z",
+          "wordCount": null,
+          "title": "【membership】 雀魂参加型～！！おいで～～！！【#新人Vtuber/#美睡の酒場/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ytHpTRODqUI",
           "author": null,
           "description": "",
@@ -277,16 +287,6 @@
           "publishedOn": "2023-04-14T10:40:51.000Z",
           "wordCount": null,
           "title": "【 singing stream🥂 】初見さん大歓迎～／平日昼間にお歌はどうですか？🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RkN3wr_Cn0Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RkN3wr_Cn0Y",
-          "publishedOn": "2023-04-12T15:20:35.000Z",
-          "wordCount": null,
-          "title": "【 talk🥂 #雑談 】🍰と🍾でKPする🥂8ヶ月記念雑談✨【#新人Vtuber/#美睡の酒場/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -617,7 +617,7 @@
           "link": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
           "publishedOn": "2023-05-05T05:36:15.000Z",
           "wordCount": null,
-          "title": "【5555耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】",
+          "title": "【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         },
         {
