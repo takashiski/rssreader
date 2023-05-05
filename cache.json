@@ -1012,6 +1012,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xx7relN5AmI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xx7relN5AmI",
+          "publishedOn": "2023-05-05T19:30:39.000Z",
+          "wordCount": null,
+          "title": "#02【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Dx8LMoQqHr4",
           "author": null,
           "description": "",
@@ -1149,16 +1159,6 @@
           "publishedOn": "2023-04-23T11:00:08.000Z",
           "wordCount": null,
           "title": "NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fXfllCskOG8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fXfllCskOG8",
-          "publishedOn": "2023-04-22T15:38:11.000Z",
-          "wordCount": null,
-          "title": "#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]

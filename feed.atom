@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T19:34:05.399Z</id>
+    <id>urn:2023-05-05T20:05:59.396Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T19:34:05.399Z</updated>
+    <updated>2023-05-05T20:05:59.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#02【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=xx7relN5AmI</id>
+        <link href="https://www.youtube.com/watch?v=xx7relN5AmI"/>
+        <updated>2023-05-05T19:30:39.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】初見歓迎💜まったりお話しよ？会いに来てね…💜✨ Talking stream【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=UU5dMGNoRrM</id>
@@ -1461,15 +1470,6 @@
         <updated>2023-04-22T16:59:54.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
-        <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
-        <updated>2023-04-22T15:38:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
