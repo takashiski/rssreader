@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T06:06:16.708Z</id>
+    <id>urn:2023-05-05T06:34:43.188Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T06:06:16.708Z</updated>
+    <updated>2023-05-05T06:34:43.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ブローニャはかわいいなぁ/第1章「ヤリーロⅥ（上）」♡5【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=6WYWQ0FA6lM</id>
+        <link href="https://www.youtube.com/watch?v=6WYWQ0FA6lM"/>
+        <updated>2023-05-05T06:18:23.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=OzM7qL2WSk4</id>
@@ -1137,15 +1146,6 @@
         <updated>2023-04-26T16:44:22.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雀魂】ルルーシュ狙い！じゃんたま「コードギアス」コラボガチャチャレンジ！【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=7bEPPS0-r4Q</id>
-        <link href="https://www.youtube.com/watch?v=7bEPPS0-r4Q"/>
-        <updated>2023-04-26T15:50:12.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
