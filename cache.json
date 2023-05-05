@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
+          "publishedOn": "2023-05-05T05:36:15.000Z",
+          "wordCount": null,
+          "title": "【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-25T10:06:16.000Z",
           "wordCount": null,
           "title": "【アカペラ】アイドル / YOASOBI【歌ってみた】#推しの子 #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
-          "publishedOn": "2023-04-24T18:44:32.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2077,16 +2077,6 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=6WYWQ0FA6lM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6WYWQ0FA6lM",
-          "publishedOn": "2023-05-04T17:48:18.000Z",
-          "wordCount": null,
-          "title": "【崩壊：スターレイル】ブローニャはかわいいなぁ/第1章「ヤリーロⅥ（上）」♡5【VTuber/姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=yQk8B8NivHo",
           "author": null,
           "description": "",
@@ -2214,6 +2204,16 @@
           "publishedOn": "2023-04-27T18:44:27.000Z",
           "wordCount": null,
           "title": "【ASMR/睡眠導入】あなたのお耳ぺたぺた触らせて♡耳かき・マッサージ【Ear Cleaning/Ear Massage/Relax Sounds/Binaural/Whispering】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7bEPPS0-r4Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7bEPPS0-r4Q",
+          "publishedOn": "2023-04-26T15:50:12.000Z",
+          "wordCount": null,
+          "title": "【雀魂】ルルーシュ狙い！じゃんたま「コードギアス」コラボガチャチャレンジ！【VTuber/姫熊りぼん】",
           "imageUrl": null
         }
       ]
