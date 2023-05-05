@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T10:34:15.839Z</id>
+    <id>urn:2023-05-05T11:05:27.210Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T10:34:15.839Z</updated>
+    <updated>2023-05-05T11:05:27.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 ＃事務所合同歌枠リレー / Singing Stream 】19:30 森の歌姫、見参！🌈【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DEGQjyvUI6E</id>
+        <link href="https://www.youtube.com/watch?v=DEGQjyvUI6E"/>
+        <updated>2023-05-05T10:39:51.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=OzM7qL2WSk4</id>
+        <link href="https://www.youtube.com/watch?v=OzM7qL2WSk4"/>
+        <updated>2023-05-05T10:38:37.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】見つけて！夕方に響くエルフの歌声｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8YNXq2iJAxQ</id>
+        <link href="https://www.youtube.com/watch?v=8YNXq2iJAxQ"/>
+        <updated>2023-05-05T10:35:10.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【membership】 雀魂参加型～！！おいで～～！！【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=743mwHs0mOc</id>
@@ -1236,15 +1263,6 @@
         <updated>2023-04-24T19:13:31.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nPQ2Ptuwzsg</id>
-        <link href="https://www.youtube.com/watch?v=nPQ2Ptuwzsg"/>
-        <updated>2023-04-24T18:44:32.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
