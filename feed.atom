@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T17:34:20.719Z</id>
+    <id>urn:2023-05-05T18:05:47.567Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T17:34:20.719Z</updated>
+    <updated>2023-05-05T18:05:47.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】初見歓迎💜まったりお話しよ？会いに来てね…💜✨ Talking stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=UU5dMGNoRrM</id>
+        <link href="https://www.youtube.com/watch?v=UU5dMGNoRrM"/>
+        <updated>2023-05-05T18:05:05.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#33【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Dx8LMoQqHr4</id>
+        <link href="https://www.youtube.com/watch?v=Dx8LMoQqHr4"/>
+        <updated>2023-05-05T17:59:42.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】土曜日にはわらわのおうたっෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=tqVEOGiVPfk</id>
+        <link href="https://www.youtube.com/watch?v=tqVEOGiVPfk"/>
+        <updated>2023-05-05T17:56:58.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR】とろける耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】]]></title>
         <id>https://www.youtube.com/watch?v=qUq0LxnzKb8</id>
@@ -604,15 +631,6 @@
         <id>https://www.youtube.com/watch?v=mV6vz0jy-64</id>
         <link href="https://www.youtube.com/watch?v=mV6vz0jy-64"/>
         <updated>2023-05-01T18:32:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#33【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=Dx8LMoQqHr4</id>
-        <link href="https://www.youtube.com/watch?v=Dx8LMoQqHr4"/>
-        <updated>2023-05-01T18:19:27.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
@@ -1617,15 +1635,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨かわいいお歌を、たくさん歌う💜 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=XsxORy6qBWM</id>
-        <link href="https://www.youtube.com/watch?v=XsxORy6qBWM"/>
-        <updated>2023-04-20T09:50:30.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ミラノ風ドリアしか勝たん】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=s5DxM2LNPP4</id>
         <link href="https://www.youtube.com/watch?v=s5DxM2LNPP4"/>
@@ -2082,15 +2091,6 @@
         <updated>2023-04-13T03:27:20.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=mbfun_I57Do</id>
-        <link href="https://www.youtube.com/watch?v=mbfun_I57Do"/>
-        <updated>2023-04-13T02:43:42.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
