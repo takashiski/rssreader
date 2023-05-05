@@ -611,16 +611,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
-          "publishedOn": "2023-05-05T05:36:15.000Z",
-          "wordCount": null,
-          "title": "【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
           "author": null,
           "description": "",
@@ -758,6 +748,16 @@
           "publishedOn": "2023-04-25T10:06:16.000Z",
           "wordCount": null,
           "title": "【アカペラ】アイドル / YOASOBI【歌ってみた】#推しの子 #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nPQ2Ptuwzsg",
+          "publishedOn": "2023-04-24T18:44:32.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
