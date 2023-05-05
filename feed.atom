@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T11:05:27.210Z</id>
+    <id>urn:2023-05-05T11:34:16.948Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T11:05:27.210Z</updated>
+    <updated>2023-05-05T11:34:16.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【＃事務所合同歌枠リレー】ちこちゃんと！コラボ歌枠【 魔光リサ/小日向千虎】]]></title>
+        <id>https://www.youtube.com/watch?v=Lh0m1LPPG4Q</id>
+        <link href="https://www.youtube.com/watch?v=Lh0m1LPPG4Q"/>
+        <updated>2023-05-05T11:27:21.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【＃事務所合同歌枠リレー】元気に歌います！魔光リサです！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=h66pVLHI2mI</id>
+        <link href="https://www.youtube.com/watch?v=h66pVLHI2mI"/>
+        <updated>2023-05-05T11:24:00.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 ＃事務所合同歌枠リレー / Singing Stream 】19:30 森の歌姫、見参！🌈【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=DEGQjyvUI6E</id>
@@ -168,7 +186,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#事務所合同歌枠リレー】ククスイデュエット！パート入れ替えに注目！【 #ククルアクレイユ┊︎Re:AcT / #白瀬スイナ┊︎トリステ 】]]></title>
+        <title type="html"><![CDATA[【#事務所合同歌枠リレー】ククスイデュエット！パート入れ替えにも注目！【 #ククルアクレイユ┊︎Re:AcT / #白瀬スイナ┊︎トリステ 】]]></title>
         <id>https://www.youtube.com/watch?v=xV5qlTVAuqY</id>
         <link href="https://www.youtube.com/watch?v=xV5qlTVAuqY"/>
         <updated>2023-05-04T14:55:12.000Z</updated>
@@ -2004,15 +2022,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【原神】ナヒーダ、ではなく申鶴を育てないといけないの 【 #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=j0wm2-RbHoE</id>
-        <link href="https://www.youtube.com/watch?v=j0wm2-RbHoE"/>
-        <updated>2023-04-13T23:53:34.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #弾き語り 】きょうこそしっとり⚡SingingStream👽KARAOKE【 #紅龍イサナ / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ZtFFBa5LsuY</id>
         <link href="https://www.youtube.com/watch?v=ZtFFBa5LsuY"/>
@@ -2082,15 +2091,6 @@
         <updated>2023-04-12T22:52:28.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】YOASOBIさんの新曲がとてもよかった【 #生リサ /Re:AcT/新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=9mHTuCEQKxs</id>
-        <link href="https://www.youtube.com/watch?v=9mHTuCEQKxs"/>
-        <updated>2023-04-12T21:43:50.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
