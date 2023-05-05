@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
+          "publishedOn": "2023-05-05T05:08:04.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】みんなの太陽の元気な歌で盛り上げる！！KARAOKE【新人VTuber/#GWぶち上げ歌リレー】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=h7bRaJxndlM",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-24T18:44:32.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】YOASOBIさんの『アイドル』 覚える！！ KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aD-ObCm3FlM",
-          "publishedOn": "2023-04-24T10:00:00.000Z",
-          "wordCount": null,
-          "title": "流行りの中国語ラップ歌ってみたw #新人vtuber #るっくあっとたらん #歌ってみた #真的没喝多 #shorts",
           "imageUrl": null
         }
       ]
