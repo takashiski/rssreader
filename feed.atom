@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T07:05:42.301Z</id>
+    <id>urn:2023-05-05T07:34:12.245Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T07:05:42.301Z</updated>
+    <updated>2023-05-05T07:34:12.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】]]></title>
+        <title type="html"><![CDATA[【5555耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=OzM7qL2WSk4</id>
         <link href="https://www.youtube.com/watch?v=OzM7qL2WSk4"/>
         <updated>2023-05-05T05:36:15.000Z</updated>
