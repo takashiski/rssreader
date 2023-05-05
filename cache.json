@@ -611,16 +611,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
-          "publishedOn": "2023-05-05T12:02:27.000Z",
-          "wordCount": null,
-          "title": "【耐久/singing】ゆるく5555人目指すお歌枠📛【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
           "author": null,
           "description": "",
@@ -758,6 +748,16 @@
           "publishedOn": "2023-04-27T10:00:21.000Z",
           "wordCount": null,
           "title": "【チャンネル登録ぽち】『強風オールバック』歌ってみた #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
+          "publishedOn": "2023-04-25T10:06:16.000Z",
+          "wordCount": null,
+          "title": "【アカペラ】アイドル / YOASOBI【歌ってみた】#推しの子 #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -2087,6 +2087,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lO5R5aKio8U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lO5R5aKio8U",
+          "publishedOn": "2023-05-05T14:40:30.000Z",
+          "wordCount": null,
+          "title": "【ASMR/睡眠導入】どきどき密着心音耐久♡【Heart Beat/Relax Sounds/Binaural/Whispering】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fJ8Q2I1lad4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fJ8Q2I1lad4",
+          "publishedOn": "2023-05-05T14:22:38.000Z",
+          "wordCount": null,
+          "title": "【お披露目】GWなので！とびきり可愛いの見せちゃいます♡/Free Talk【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=6WYWQ0FA6lM",
           "author": null,
           "description": "",
@@ -2204,26 +2224,6 @@
           "publishedOn": "2023-04-28T16:09:27.000Z",
           "wordCount": null,
           "title": "眠れない夜もすやすやできるASMRらじお #すやらじ ♡7【ASMR Radio/Whisper】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8LSU3oYak6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8LSU3oYak6c",
-          "publishedOn": "2023-04-28T14:12:02.000Z",
-          "wordCount": null,
-          "title": "蟹コラボしてくれるお友達は一生大切にしようと思う/Crab Champions【VTuber/姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_fk301uRaso",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_fk301uRaso",
-          "publishedOn": "2023-04-27T18:44:27.000Z",
-          "wordCount": null,
-          "title": "【ASMR/睡眠導入】あなたのお耳ぺたぺた触らせて♡耳かき・マッサージ【Ear Cleaning/Ear Massage/Relax Sounds/Binaural/Whispering】",
           "imageUrl": null
         }
       ]
