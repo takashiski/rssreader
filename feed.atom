@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-05T04:05:58.500Z</id>
+    <id>urn:2023-05-05T04:34:20.582Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T04:05:58.500Z</updated>
+    <updated>2023-05-05T04:34:20.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🎏子供の日なのではのが主役の雑談しますします【天川はの】]]></title>
+        <id>https://www.youtube.com/watch?v=BAWQuKmmkJg</id>
+        <link href="https://www.youtube.com/watch?v=BAWQuKmmkJg"/>
+        <updated>2023-05-05T04:32:55.000Z</updated>
+        <author>
+            <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／GWの金曜日！ランチタイム歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ytHpTRODqUI</id>
+        <link href="https://www.youtube.com/watch?v=ytHpTRODqUI"/>
+        <updated>2023-05-05T04:11:55.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #がちゃきゅー歌枠リレー 】一番手！音伽ねむ🗝💭可愛くて楽しいお祭りのはじまりだ✨！一緒に盛り上がろ～っ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IXoVeR-j5hQ</id>
+        <link href="https://www.youtube.com/watch?v=IXoVeR-j5hQ"/>
+        <updated>2023-05-05T04:06:55.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】ついにエンディング！！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=K6soADDa6bk</id>
@@ -172,15 +199,6 @@
         <id>https://www.youtube.com/watch?v=3ICPDpDD9zE</id>
         <link href="https://www.youtube.com/watch?v=3ICPDpDD9zE"/>
         <updated>2023-05-04T09:22:12.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #がちゃきゅー歌枠リレー 】一番手！音伽ねむ🗝💭可愛くて楽しいお祭りのはじまりだ✨！一緒に盛り上がろ～っ💕【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=IXoVeR-j5hQ</id>
-        <link href="https://www.youtube.com/watch?v=IXoVeR-j5hQ"/>
-        <updated>2023-05-04T09:12:42.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
@@ -2109,15 +2127,6 @@
         <updated>2023-04-12T09:00:17.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／8ヶ月記念歌枠～～🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=CLfJSKHHEHg</id>
-        <link href="https://www.youtube.com/watch?v=CLfJSKHHEHg"/>
-        <updated>2023-04-12T07:53:14.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
