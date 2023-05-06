@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kM7CNAeTG6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kM7CNAeTG6M",
+          "publishedOn": "2023-05-06T09:00:32.000Z",
+          "wordCount": null,
+          "title": "【ハモリチャレンジ】PAKU / asmi #るーとも #新人VTuber #るっくあっとたらん #歌ってみた #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-27T18:08:36.000Z",
           "wordCount": null,
           "title": "【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d78vJMRfDGw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d78vJMRfDGw",
-          "publishedOn": "2023-04-27T10:00:21.000Z",
-          "wordCount": null,
-          "title": "【チャンネル登録ぽち】『強風オールバック』歌ってみた #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -1012,16 +1012,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=xx7relN5AmI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xx7relN5AmI",
-          "publishedOn": "2023-05-05T19:30:39.000Z",
-          "wordCount": null,
-          "title": "#02【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=Dx8LMoQqHr4",
           "author": null,
           "description": "",
@@ -1159,6 +1149,16 @@
           "publishedOn": "2023-04-23T11:00:08.000Z",
           "wordCount": null,
           "title": "NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=fXfllCskOG8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fXfllCskOG8",
+          "publishedOn": "2023-04-22T15:38:11.000Z",
+          "wordCount": null,
+          "title": "#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T08:34:09.583Z</id>
+    <id>urn:2023-05-06T09:05:32.616Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T08:34:09.583Z</updated>
+    <updated>2023-05-06T09:05:32.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ハモリチャレンジ】PAKU / asmi #るーとも #新人VTuber #るっくあっとたらん #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kM7CNAeTG6M</id>
+        <link href="https://www.youtube.com/watch?v=kM7CNAeTG6M"/>
+        <updated>2023-05-06T09:00:32.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【＃事務所合同歌枠リレー】元気に歌います！魔光リサです！【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=h66pVLHI2mI</id>
@@ -39,15 +48,6 @@
         <updated>2023-05-06T03:24:54.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#02【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=xx7relN5AmI</id>
-        <link href="https://www.youtube.com/watch?v=xx7relN5AmI"/>
-        <updated>2023-05-05T19:30:39.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1176,15 +1176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【チャンネル登録ぽち】『強風オールバック』歌ってみた #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=d78vJMRfDGw</id>
-        <link href="https://www.youtube.com/watch?v=d78vJMRfDGw"/>
-        <updated>2023-04-27T10:00:21.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見大歓迎✨３D❕かわいいお歌で盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=qTUc4YOELU0</id>
         <link href="https://www.youtube.com/watch?v=qTUc4YOELU0"/>
@@ -1479,6 +1470,15 @@
         <updated>2023-04-22T16:59:54.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
+        <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
+        <updated>2023-04-22T15:38:11.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
