@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T11:05:24.163Z</id>
+    <id>urn:2023-05-06T11:34:06.506Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T11:05:24.163Z</updated>
+    <updated>2023-05-06T11:34:06.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#02【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」から～！【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=xx7relN5AmI</id>
+        <link href="https://www.youtube.com/watch?v=xx7relN5AmI"/>
+        <updated>2023-05-06T11:18:18.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 ＃事務所合同歌枠リレー / Singing Stream 】19:30 森の歌姫、見参！🌈【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DEGQjyvUI6E</id>
+        <link href="https://www.youtube.com/watch?v=DEGQjyvUI6E"/>
+        <updated>2023-05-06T11:07:06.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠】いろんなおうたをうたう⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=lQoKe4sWxdg</id>
@@ -1473,15 +1491,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#31【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！最終決戦…？編【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=fXfllCskOG8</id>
-        <link href="https://www.youtube.com/watch?v=fXfllCskOG8"/>
-        <updated>2023-04-22T15:38:11.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=RZAkIfjBUtk</id>
         <link href="https://www.youtube.com/watch?v=RZAkIfjBUtk"/>
@@ -2278,15 +2287,6 @@
         <id>https://www.youtube.com/watch?v=kIgenNvQ82s</id>
         <link href="https://www.youtube.com/watch?v=kIgenNvQ82s"/>
         <updated>2023-04-07T12:38:50.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談/talking stream】一周年ありがとうございました㊗✨【#彩雲のの /#新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=jkJ5785srGs</id>
-        <link href="https://www.youtube.com/watch?v=jkJ5785srGs"/>
-        <updated>2023-04-06T23:19:15.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
         </author>
