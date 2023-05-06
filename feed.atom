@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T05:34:24.954Z</id>
+    <id>urn:2023-05-06T06:06:06.224Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T05:34:24.954Z</updated>
+    <updated>2023-05-06T06:06:06.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#事務所合同歌枠リレー】ククスイデュエット！パート入れ替えにも注目！【 #ククルアクレイユ┊︎Re:AcT / #白瀬スイナ┊︎トリステ 】]]></title>
+        <id>https://www.youtube.com/watch?v=xV5qlTVAuqY</id>
+        <link href="https://www.youtube.com/watch?v=xV5qlTVAuqY"/>
+        <updated>2023-05-06T06:02:53.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#閉店事件】ストーカーと変なやつらに絡まれて一生閉店出来ないカフェ店員【水瓶ミア/VTuber】]]></title>
         <id>https://www.youtube.com/watch?v=Z_CB_oxjl9Q</id>
@@ -253,15 +262,6 @@
         <id>https://www.youtube.com/watch?v=VQNX-XhyCuI</id>
         <link href="https://www.youtube.com/watch?v=VQNX-XhyCuI"/>
         <updated>2023-05-04T15:05:24.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#事務所合同歌枠リレー】ククスイデュエット！パート入れ替えにも注目！【 #ククルアクレイユ┊︎Re:AcT / #白瀬スイナ┊︎トリステ 】]]></title>
-        <id>https://www.youtube.com/watch?v=xV5qlTVAuqY</id>
-        <link href="https://www.youtube.com/watch?v=xV5qlTVAuqY"/>
-        <updated>2023-05-04T14:55:12.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
