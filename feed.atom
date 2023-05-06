@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T13:34:17.174Z</id>
+    <id>urn:2023-05-06T14:05:37.002Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T13:34:17.174Z</updated>
+    <updated>2023-05-06T14:05:37.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #Vsinger歌枠リレー 】歌います！とっても元気です！【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=fqgJeHVUlyI</id>
+        <link href="https://www.youtube.com/watch?v=fqgJeHVUlyI"/>
+        <updated>2023-05-06T14:04:12.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【GW企画】ミステリーレコード（ミリコド）をプレイして最高のご褒美をもらおう！【#まりぼん/姫熊りぼん/かしこまり】]]></title>
         <id>https://www.youtube.com/watch?v=fi--Dq09_Ro</id>
@@ -786,15 +795,6 @@
         <updated>2023-05-01T08:39:42.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #Vsinger歌枠リレー 】歌います！とっても元気です！【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=fqgJeHVUlyI</id>
-        <link href="https://www.youtube.com/watch?v=fqgJeHVUlyI"/>
-        <updated>2023-05-01T08:23:58.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

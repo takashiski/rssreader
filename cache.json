@@ -1012,6 +1012,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
+          "publishedOn": "2023-05-06T14:04:12.000Z",
+          "wordCount": null,
+          "title": "【 #Vsinger歌枠リレー 】歌います！とっても元気です！【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xx7relN5AmI",
           "author": null,
           "description": "",
@@ -1089,16 +1099,6 @@
           "publishedOn": "2023-05-01T18:32:12.000Z",
           "wordCount": null,
           "title": "#32【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
-          "publishedOn": "2023-05-01T08:23:58.000Z",
-          "wordCount": null,
-          "title": "【 #Vsinger歌枠リレー 】歌います！とっても元気です！【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
