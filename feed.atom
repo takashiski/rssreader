@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T16:05:45.703Z</id>
+    <id>urn:2023-05-06T16:35:09.599Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T16:05:45.703Z</updated>
+    <updated>2023-05-06T16:35:09.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,6 +33,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【 #歌枠 SINGING  】お昼から朗らかにまったり歌います。【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=AdJYDNlnYfY</id>
+        <link href="https://www.youtube.com/watch?v=AdJYDNlnYfY"/>
+        <updated>2023-05-06T15:28:37.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[インターネット大好きマンの配信サムネイルがこちら #新人Vtuber #Vtuber #ククルアクレイユ #インターネット大好きマン]]></title>
         <id>https://www.youtube.com/watch?v=cmJ19gTZnpw</id>
         <link href="https://www.youtube.com/watch?v=cmJ19gTZnpw"/>
@@ -48,15 +57,6 @@
         <updated>2023-05-06T14:34:19.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=t9g-zAepFRE</id>
-        <link href="https://www.youtube.com/watch?v=t9g-zAepFRE"/>
-        <updated>2023-05-06T14:20:06.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -231,7 +231,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】どきどき密着心音耐久♡【Heart Beat/Relax Sounds/Binaural/Whispering】]]></title>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】どきどき密着心音耐久♡お腹の音【Heart Beat/Relax Sounds/Binaural/Whispering】]]></title>
         <id>https://www.youtube.com/watch?v=lO5R5aKio8U</id>
         <link href="https://www.youtube.com/watch?v=lO5R5aKio8U"/>
         <updated>2023-05-05T14:40:30.000Z</updated>
@@ -1158,6 +1158,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3R0vmQIv2TA</id>
+        <link href="https://www.youtube.com/watch?v=3R0vmQIv2TA"/>
+        <updated>2023-04-27T18:08:36.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷり癒されて、いっしょに今日は寝よ？💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Or8Tw8iXB1k</id>
         <link href="https://www.youtube.com/watch?v=Or8Tw8iXB1k"/>
@@ -1434,15 +1443,6 @@
         <updated>2023-04-23T11:12:57.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】]]></title>
-        <id>https://www.youtube.com/watch?v=AFtSXGV28FM</id>
-        <link href="https://www.youtube.com/watch?v=AFtSXGV28FM"/>
-        <updated>2023-04-23T11:00:08.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

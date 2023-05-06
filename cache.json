@@ -621,16 +621,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=t9g-zAepFRE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t9g-zAepFRE",
-          "publishedOn": "2023-05-06T14:20:06.000Z",
-          "wordCount": null,
-          "title": "【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
           "author": null,
           "description": "",
@@ -768,6 +758,16 @@
           "publishedOn": "2023-04-28T02:43:26.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
+          "publishedOn": "2023-04-27T18:08:36.000Z",
+          "wordCount": null,
+          "title": "【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1012,6 +1012,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AdJYDNlnYfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AdJYDNlnYfY",
+          "publishedOn": "2023-05-06T15:28:37.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 SINGING  】お昼から朗らかにまったり歌います。【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
           "author": null,
           "description": "",
@@ -1149,16 +1159,6 @@
           "publishedOn": "2023-04-23T12:34:17.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AFtSXGV28FM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AFtSXGV28FM",
-          "publishedOn": "2023-04-23T11:00:08.000Z",
-          "wordCount": null,
-          "title": "NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         }
       ]
@@ -2093,7 +2093,7 @@
           "link": "https://www.youtube.com/watch?v=lO5R5aKio8U",
           "publishedOn": "2023-05-05T14:40:30.000Z",
           "wordCount": null,
-          "title": "【ASMR/睡眠導入】どきどき密着心音耐久♡【Heart Beat/Relax Sounds/Binaural/Whispering】",
+          "title": "【ASMR/睡眠導入】どきどき密着心音耐久♡お腹の音【Heart Beat/Relax Sounds/Binaural/Whispering】",
           "imageUrl": null
         },
         {
