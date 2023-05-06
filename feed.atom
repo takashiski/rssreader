@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T22:05:35.955Z</id>
+    <id>urn:2023-05-06T22:34:21.708Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T22:05:35.955Z</updated>
+    <updated>2023-05-06T22:34:21.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -408,15 +408,6 @@
         <updated>2023-05-04T09:46:56.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第三部♡ラストスパート！今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7VPRtgGQgMo</id>
-        <link href="https://www.youtube.com/watch?v=7VPRtgGQgMo"/>
-        <updated>2023-05-04T09:24:59.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1621,6 +1612,15 @@
         <id>https://www.youtube.com/watch?v=I5iXtP1qe8w</id>
         <link href="https://www.youtube.com/watch?v=I5iXtP1qe8w"/>
         <updated>2023-04-20T23:32:42.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=WKM-SUclS0U</id>
+        <link href="https://www.youtube.com/watch?v=WKM-SUclS0U"/>
+        <updated>2023-04-20T16:38:17.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
