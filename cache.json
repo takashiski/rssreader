@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=e6JKaq2gemk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e6JKaq2gemk",
+          "publishedOn": "2023-05-04T08:07:42.000Z",
+          "wordCount": null,
+          "title": "【#VirtualonMusic】第３回！3D音楽番組「Virtual on Music」ゲスト エルセ【リアクト／Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fMCqD37D5oA",
           "author": null,
           "description": "",
@@ -855,16 +865,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=Lh0m1LPPG4Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Lh0m1LPPG4Q",
-          "publishedOn": "2023-05-05T11:27:21.000Z",
-          "wordCount": null,
-          "title": "【＃事務所合同歌枠リレー】ちこちゃんと！コラボ歌枠【 魔光リサ/小日向千虎】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=qyUkuzdrQqA",
           "author": null,
           "description": "",
@@ -992,6 +992,16 @@
           "publishedOn": "2023-04-14T23:02:50.000Z",
           "wordCount": null,
           "title": "【先行体験】アースリバイバルでマルチしてみる！！w/稀羽すう【 #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j0wm2-RbHoE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j0wm2-RbHoE",
+          "publishedOn": "2023-04-13T23:53:34.000Z",
+          "wordCount": null,
+          "title": "【原神】ナヒーダ、ではなく申鶴を育てないといけないの 【 #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
