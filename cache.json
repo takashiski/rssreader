@@ -855,6 +855,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=h66pVLHI2mI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h66pVLHI2mI",
+          "publishedOn": "2023-05-06T07:05:52.000Z",
+          "wordCount": null,
+          "title": "【＃事務所合同歌枠リレー】元気に歌います！魔光リサです！【 #生リサ /Re:AcT/新人Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Lh0m1LPPG4Q",
           "author": null,
           "description": "",
@@ -862,16 +872,6 @@
           "publishedOn": "2023-05-05T11:27:21.000Z",
           "wordCount": null,
           "title": "【＃事務所合同歌枠リレー】ちこちゃんと！コラボ歌枠【 魔光リサ/小日向千虎】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h66pVLHI2mI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h66pVLHI2mI",
-          "publishedOn": "2023-05-05T11:24:00.000Z",
-          "wordCount": null,
-          "title": "【＃事務所合同歌枠リレー】元気に歌います！魔光リサです！【 #生リサ /Re:AcT/新人Vtuber】",
           "imageUrl": null
         },
         {
