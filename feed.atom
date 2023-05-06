@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T10:34:07.908Z</id>
+    <id>urn:2023-05-06T11:05:24.163Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T10:34:07.908Z</updated>
+    <updated>2023-05-06T11:05:24.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】いろんなおうたをうたう⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=lQoKe4sWxdg</id>
+        <link href="https://www.youtube.com/watch?v=lQoKe4sWxdg"/>
+        <updated>2023-05-06T10:52:32.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第一部♡今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-ivaQ6h-bYI</id>
@@ -165,15 +174,6 @@
         <updated>2023-05-05T11:27:21.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 ＃事務所合同歌枠リレー / Singing Stream 】19:30 森の歌姫、見参！🌈【#彩雲のの / #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=DEGQjyvUI6E</id>
-        <link href="https://www.youtube.com/watch?v=DEGQjyvUI6E"/>
-        <updated>2023-05-05T10:39:51.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -2199,15 +2199,6 @@
         <updated>2023-04-10T19:15:35.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY2～！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=0chMp4huUIE</id>
-        <link href="https://www.youtube.com/watch?v=0chMp4huUIE"/>
-        <updated>2023-04-10T17:37:52.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

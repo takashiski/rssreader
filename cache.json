@@ -768,16 +768,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=DEGQjyvUI6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DEGQjyvUI6E",
-          "publishedOn": "2023-05-05T10:39:51.000Z",
-          "wordCount": null,
-          "title": "【 ＃事務所合同歌枠リレー / Singing Stream 】19:30 森の歌姫、見参！🌈【#彩雲のの / #新人Vtuber】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=7aJzp3YlTyc",
           "author": null,
           "description": "",
@@ -2371,6 +2361,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lQoKe4sWxdg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lQoKe4sWxdg",
+          "publishedOn": "2023-05-06T10:52:32.000Z",
+          "wordCount": null,
+          "title": "【 歌枠】いろんなおうたをうたう⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=kWDJpf-vfq0",
           "author": null,
           "description": "",
@@ -2508,16 +2508,6 @@
           "publishedOn": "2023-04-11T18:55:40.000Z",
           "wordCount": null,
           "title": "【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0chMp4huUIE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0chMp4huUIE",
-          "publishedOn": "2023-04-10T17:37:52.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】V最協カスタムDAY2～！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
