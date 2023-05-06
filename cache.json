@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
+          "publishedOn": "2023-05-06T03:24:54.000Z",
+          "wordCount": null,
+          "title": "【耐久/singing】ゆるく5555人目指すお歌枠📛【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OzM7qL2WSk4",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-04-27T10:00:21.000Z",
           "wordCount": null,
           "title": "【チャンネル登録ぽち】『強風オールバック』歌ってみた #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l5nwR4bfcZU",
-          "publishedOn": "2023-04-25T10:06:16.000Z",
-          "wordCount": null,
-          "title": "【アカペラ】アイドル / YOASOBI【歌ってみた】#推しの子 #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
