@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T18:34:10.106Z</id>
+    <id>urn:2023-05-06T19:05:06.636Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T18:34:10.106Z</updated>
+    <updated>2023-05-06T19:05:06.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】どきどき密着心音耐久♡お腹の音【Heart Beat/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=lO5R5aKio8U</id>
+        <link href="https://www.youtube.com/watch?v=lO5R5aKio8U"/>
+        <updated>2023-05-06T18:27:28.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第ニ部♡今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3ICPDpDD9zE</id>
@@ -1063,15 +1072,6 @@
         <id>https://www.youtube.com/watch?v=H-LLnnNqeI8</id>
         <link href="https://www.youtube.com/watch?v=H-LLnnNqeI8"/>
         <updated>2023-04-28T16:09:27.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蟹コラボしてくれるお友達は一生大切にしようと思う/Crab Champions【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=8LSU3oYak6c</id>
-        <link href="https://www.youtube.com/watch?v=8LSU3oYak6c"/>
-        <updated>2023-04-28T14:12:02.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
