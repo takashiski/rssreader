@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T10:05:43.738Z</id>
+    <id>urn:2023-05-06T10:34:07.908Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T10:05:43.738Z</updated>
+    <updated>2023-05-06T10:34:07.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】GW150曲耐久✨！第一部♡今まで歌ったおうたぜーんぶ＆新曲たくさん！初見さん大歓迎~♡たくさんの人に届きますように💖【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-ivaQ6h-bYI</id>
+        <link href="https://www.youtube.com/watch?v=-ivaQ6h-bYI"/>
+        <updated>2023-05-06T10:15:58.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#事務所合同歌枠リレー】歌うエルフｋｔｋｒ！+(0ﾟ･∀･)+【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=VQNX-XhyCuI</id>
@@ -21,6 +30,15 @@
         <updated>2023-05-06T10:00:07.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】土曜日にはわらわのおうたっෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=tqVEOGiVPfk</id>
+        <link href="https://www.youtube.com/watch?v=tqVEOGiVPfk"/>
+        <updated>2023-05-06T09:59:55.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -861,7 +879,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】楽しく歌って楽しく喋る💃 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <title type="html"><![CDATA[【#歌枠】懐かしいボカロ集めたい💃 Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=2VxrV5eRhIY</id>
         <link href="https://www.youtube.com/watch?v=2VxrV5eRhIY"/>
         <updated>2023-04-30T14:21:43.000Z</updated>
@@ -1599,15 +1617,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ライザのアトリエ】初見プレイ❣方向音痴だけど、目的地に辿り着けるかなぁ…💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WKM-SUclS0U</id>
-        <link href="https://www.youtube.com/watch?v=WKM-SUclS0U"/>
-        <updated>2023-04-20T16:38:17.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[レクイエム / Kanaria×星街すいせい (cover) 黑木 & 紅龍イサナ  #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=HebK8kwMh3o</id>
         <link href="https://www.youtube.com/watch?v=HebK8kwMh3o"/>
@@ -2091,15 +2100,6 @@
         <updated>2023-04-13T03:27:20.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【原神#40】魔神任務 ⌇第二章 第四幕『淵底に響くレクイエム』⚔【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=mbfun_I57Do</id>
-        <link href="https://www.youtube.com/watch?v=mbfun_I57Do"/>
-        <updated>2023-04-13T02:43:42.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
