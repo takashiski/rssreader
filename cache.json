@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t9g-zAepFRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t9g-zAepFRE",
+          "publishedOn": "2023-05-06T14:20:06.000Z",
+          "wordCount": null,
+          "title": "【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-28T02:43:26.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
-          "publishedOn": "2023-04-27T18:08:36.000Z",
-          "wordCount": null,
-          "title": "【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
