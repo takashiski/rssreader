@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rs2qGRyW4HU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rs2qGRyW4HU",
+          "publishedOn": "2023-05-06T15:58:09.000Z",
+          "wordCount": null,
+          "title": "【歌枠】GW楽しかった？｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cmJ19gTZnpw",
           "author": null,
           "description": "",
@@ -444,16 +454,6 @@
           "publishedOn": "2023-04-29T22:51:43.000Z",
           "wordCount": null,
           "title": "古のボカロ曲がエモすぎる #shorts #新人Vtuber #Vtuber #Vsinger #歌ってみた #ククルアクレイユ #ボカロ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9oKCbpFWjpk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9oKCbpFWjpk",
-          "publishedOn": "2023-04-28T21:55:14.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見大歓迎！コードギアス縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2067,6 +2067,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fJ8Q2I1lad4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fJ8Q2I1lad4",
+          "publishedOn": "2023-05-06T16:00:53.000Z",
+          "wordCount": null,
+          "title": "【お披露目】GWなので！とびきり可愛いの見せちゃいます♡/Free Talk【VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fi--Dq09_Ro",
           "author": null,
           "description": "",
@@ -2084,16 +2094,6 @@
           "publishedOn": "2023-05-05T14:40:30.000Z",
           "wordCount": null,
           "title": "【ASMR/睡眠導入】どきどき密着心音耐久♡【Heart Beat/Relax Sounds/Binaural/Whispering】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fJ8Q2I1lad4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fJ8Q2I1lad4",
-          "publishedOn": "2023-05-05T14:22:38.000Z",
-          "wordCount": null,
-          "title": "【お披露目】GWなので！とびきり可愛いの見せちゃいます♡/Free Talk【VTuber/姫熊りぼん】",
           "imageUrl": null
         },
         {
@@ -2375,7 +2375,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=lQoKe4sWxdg",
-          "publishedOn": "2023-05-06T10:52:32.000Z",
+          "publishedOn": "2023-05-06T15:39:52.000Z",
           "wordCount": null,
           "title": "【 歌枠】いろんなおうたをうたう⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】",
           "imageUrl": null

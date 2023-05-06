@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-06T15:34:13.994Z</id>
+    <id>urn:2023-05-06T16:05:45.703Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T15:34:13.994Z</updated>
+    <updated>2023-05-06T16:05:45.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お披露目】GWなので！とびきり可愛いの見せちゃいます♡/Free Talk【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=fJ8Q2I1lad4</id>
+        <link href="https://www.youtube.com/watch?v=fJ8Q2I1lad4"/>
+        <updated>2023-05-06T16:00:53.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】GW楽しかった？｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rs2qGRyW4HU</id>
+        <link href="https://www.youtube.com/watch?v=rs2qGRyW4HU"/>
+        <updated>2023-05-06T15:58:09.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】いろんなおうたをうたう⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=lQoKe4sWxdg</id>
+        <link href="https://www.youtube.com/watch?v=lQoKe4sWxdg"/>
+        <updated>2023-05-06T15:39:52.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インターネット大好きマンの配信サムネイルがこちら #新人Vtuber #Vtuber #ククルアクレイユ #インターネット大好きマン]]></title>
         <id>https://www.youtube.com/watch?v=cmJ19gTZnpw</id>
@@ -75,15 +102,6 @@
         <updated>2023-05-06T11:07:06.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠】いろんなおうたをうたう⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=lQoKe4sWxdg</id>
-        <link href="https://www.youtube.com/watch?v=lQoKe4sWxdg"/>
-        <updated>2023-05-06T10:52:32.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -217,15 +235,6 @@
         <id>https://www.youtube.com/watch?v=lO5R5aKio8U</id>
         <link href="https://www.youtube.com/watch?v=lO5R5aKio8U"/>
         <updated>2023-05-05T14:40:30.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お披露目】GWなので！とびきり可愛いの見せちゃいます♡/Free Talk【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=fJ8Q2I1lad4</id>
-        <link href="https://www.youtube.com/watch?v=fJ8Q2I1lad4"/>
-        <updated>2023-05-05T14:22:38.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
@@ -1020,15 +1029,6 @@
         <updated>2023-04-29T01:04:19.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見大歓迎！コードギアス縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9oKCbpFWjpk</id>
-        <link href="https://www.youtube.com/watch?v=9oKCbpFWjpk"/>
-        <updated>2023-04-28T21:55:14.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
