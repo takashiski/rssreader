@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T13:05:34.322Z</id>
+    <id>urn:2023-05-07T13:34:11.851Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T13:05:34.322Z</updated>
+    <updated>2023-05-07T13:34:11.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,15 +66,6 @@
         <updated>2023-05-07T11:13:21.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】4500人達成感謝🎊GW最終日 partⅡ ✧ 耐久歌枠｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jlm9Fvxaejk</id>
-        <link href="https://www.youtube.com/watch?v=jlm9Fvxaejk"/>
-        <updated>2023-05-07T11:06:29.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -543,15 +534,6 @@
         <updated>2023-05-04T09:46:56.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 GW企画 】みんなと協力してご褒美をゲットしたい！ w/ 月紫アリア  #NeclioN【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=O808i_anwuc</id>
-        <link href="https://www.youtube.com/watch?v=O808i_anwuc"/>
-        <updated>2023-05-04T08:35:38.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -1083,6 +1065,15 @@
         <updated>2023-04-30T04:24:23.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古のボカロ曲がエモすぎる #shorts #新人Vtuber #Vtuber #Vsinger #歌ってみた #ククルアクレイユ #ボカロ]]></title>
+        <id>https://www.youtube.com/watch?v=PxHGim7fCCk</id>
+        <link href="https://www.youtube.com/watch?v=PxHGim7fCCk"/>
+        <updated>2023-04-29T22:51:43.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -2226,6 +2217,15 @@
         <updated>2023-04-10T19:15:35.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY2～！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=0chMp4huUIE</id>
+        <link href="https://www.youtube.com/watch?v=0chMp4huUIE"/>
+        <updated>2023-04-10T17:37:52.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
