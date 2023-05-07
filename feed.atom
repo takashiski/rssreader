@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T05:05:53.830Z</id>
+    <id>urn:2023-05-07T05:34:11.228Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T05:05:53.830Z</updated>
+    <updated>2023-05-07T05:34:11.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=t9g-zAepFRE</id>
+        <link href="https://www.youtube.com/watch?v=t9g-zAepFRE"/>
+        <updated>2023-05-07T05:00:50.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／GW最後まで楽しも～～！！夜歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=MW5JWgXof3k</id>
@@ -84,15 +93,6 @@
         <updated>2023-05-06T15:39:52.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 SINGING  】お昼から朗らかにまったり歌います。【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=AdJYDNlnYfY</id>
-        <link href="https://www.youtube.com/watch?v=AdJYDNlnYfY"/>
-        <updated>2023-05-06T15:28:37.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1158,15 +1158,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=geWicrzdq6E</id>
-        <link href="https://www.youtube.com/watch?v=geWicrzdq6E"/>
-        <updated>2023-04-28T02:43:26.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#クロエのレクイエム】闇が深すぎる2人……！そろそろ佳境！？【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xbMqCHhoe3U</id>
         <link href="https://www.youtube.com/watch?v=xbMqCHhoe3U"/>
@@ -1461,6 +1452,15 @@
         <updated>2023-04-23T11:12:57.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】]]></title>
+        <id>https://www.youtube.com/watch?v=AFtSXGV28FM</id>
+        <link href="https://www.youtube.com/watch?v=AFtSXGV28FM"/>
+        <updated>2023-04-23T11:00:08.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -2271,24 +2271,6 @@
         <updated>2023-04-08T12:00:32.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆お風呂 🛁 / 入ってるみたいなウィスパーお歌と雑談🧼/ sing and talk【九楽ライ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=NYZte8_jz6A</id>
-        <link href="https://www.youtube.com/watch?v=NYZte8_jz6A"/>
-        <updated>2023-04-07T17:10:50.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【👂ASMR】お耳ゼロ距離で癒しの時間をどうぞ？ガチ恋距離【EarCleaning/EarMassage/ASMR for sleep/Whispering/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=B_ETJZIlbjU</id>
-        <link href="https://www.youtube.com/watch?v=B_ETJZIlbjU"/>
-        <updated>2023-04-07T17:07:49.000Z</updated>
-        <author>
-            <name>天川はの/AmakawaHano</name>
         </author>
     </entry>
 </feed>

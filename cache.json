@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=t9g-zAepFRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t9g-zAepFRE",
+          "publishedOn": "2023-05-07T05:00:50.000Z",
+          "wordCount": null,
+          "title": "【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-28T10:05:22.000Z",
           "wordCount": null,
           "title": "【ハモリチャレンジ】シンデレラボーイ / Saucy Dog #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=geWicrzdq6E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=geWicrzdq6E",
-          "publishedOn": "2023-04-28T02:43:26.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1002,16 +1002,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=AdJYDNlnYfY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AdJYDNlnYfY",
-          "publishedOn": "2023-05-06T15:28:37.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 SINGING  】お昼から朗らかにまったり歌います。【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
           "author": null,
           "description": "",
@@ -1150,6 +1140,16 @@
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AFtSXGV28FM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AFtSXGV28FM",
+          "publishedOn": "2023-04-23T11:00:08.000Z",
+          "wordCount": null,
+          "title": "NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
         }
       ]
     },
@@ -1286,16 +1286,6 @@
           "publishedOn": "2023-04-08T17:16:06.000Z",
           "wordCount": null,
           "title": "☆星のカービィWiiデラックス / #03 / 完全初見🔥お前の故郷、救ったる！！〖九楽ライ/Vtuber〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NYZte8_jz6A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NYZte8_jz6A",
-          "publishedOn": "2023-04-07T17:10:50.000Z",
-          "wordCount": null,
-          "title": "◆お風呂 🛁 / 入ってるみたいなウィスパーお歌と雑談🧼/ sing and talk【九楽ライ/Vtuber】",
           "imageUrl": null
         }
       ]
@@ -2037,16 +2027,6 @@
           "publishedOn": "2023-04-08T14:48:46.000Z",
           "wordCount": null,
           "title": "【👻Bendy and the Ink Machine🖊️】デ●ズニー！？カートゥーンな世界でホラー！？；；※悲鳴注意【天川はの】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B_ETJZIlbjU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B_ETJZIlbjU",
-          "publishedOn": "2023-04-07T17:07:49.000Z",
-          "wordCount": null,
-          "title": "【👂ASMR】お耳ゼロ距離で癒しの時間をどうぞ？ガチ恋距離【EarCleaning/EarMassage/ASMR for sleep/Whispering/Binaural】",
           "imageUrl": null
         }
       ]
