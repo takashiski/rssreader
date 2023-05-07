@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
+          "publishedOn": "2023-05-07T00:34:01.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】みんなの太陽の元気な歌で盛り上げる！！KARAOKE【新人VTuber/#GWブチ上げ歌リレー】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
           "author": null,
           "description": "",
@@ -759,16 +769,6 @@
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！誕生日まであと2ヶ月！  KARAOKE【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3R0vmQIv2TA",
-          "publishedOn": "2023-04-27T18:08:36.000Z",
-          "wordCount": null,
-          "title": "【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -835,16 +835,6 @@
           "publishedOn": "2023-04-08T12:00:32.000Z",
           "wordCount": null,
           "title": "【 #shorts 】Vsingerが一発録りで 春を告げる 歌ってみた【#彩雲のの / #新人vtuber 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kIgenNvQ82s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kIgenNvQ82s",
-          "publishedOn": "2023-04-07T12:38:50.000Z",
-          "wordCount": null,
-          "title": "【 歌枠/singing stream 】まったりお歌の時間です⛅karaoke【#彩雲のの / #新人Vtuber】",
           "imageUrl": null
         }
       ]

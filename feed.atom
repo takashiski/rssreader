@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T00:23:04.940Z</id>
+    <id>urn:2023-05-07T00:51:00.382Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T00:23:04.940Z</updated>
+    <updated>2023-05-07T00:51:00.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】みんなの太陽の元気な歌で盛り上げる！！KARAOKE【新人VTuber/#GWブチ上げ歌リレー】]]></title>
+        <id>https://www.youtube.com/watch?v=cDgOYY0bA2k</id>
+        <link href="https://www.youtube.com/watch?v=cDgOYY0bA2k"/>
+        <updated>2023-05-07T00:34:01.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】じつは明日からお休みいただきますの【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=xeYjWH6npfA</id>
@@ -1167,15 +1176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【演奏】クラリネット練習しゅるるん！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3R0vmQIv2TA</id>
-        <link href="https://www.youtube.com/watch?v=3R0vmQIv2TA"/>
-        <updated>2023-04-27T18:08:36.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗たっぷり癒されて、いっしょに今日は寝よ？💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Or8Tw8iXB1k</id>
         <link href="https://www.youtube.com/watch?v=Or8Tw8iXB1k"/>
@@ -2289,15 +2289,6 @@
         <updated>2023-04-07T17:07:49.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】まったりお歌の時間です⛅karaoke【#彩雲のの / #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=kIgenNvQ82s</id>
-        <link href="https://www.youtube.com/watch?v=kIgenNvQ82s"/>
-        <updated>2023-04-07T12:38:50.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
 </feed>
