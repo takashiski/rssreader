@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T23:05:45.658Z</id>
+    <id>urn:2023-05-07T23:34:07.711Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T23:05:45.658Z</updated>
+    <updated>2023-05-07T23:34:07.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=-S5Ymz8Zy7M</id>
         <link href="https://www.youtube.com/watch?v=-S5Ymz8Zy7M"/>
         <updated>2023-05-07T11:34:34.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=rZzbqtQDz0w</id>
-        <link href="https://www.youtube.com/watch?v=rZzbqtQDz0w"/>
-        <updated>2023-05-07T11:32:05.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1938,6 +1929,15 @@
         <updated>2023-04-17T11:17:01.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=PElGn1uvwGw</id>
+        <link href="https://www.youtube.com/watch?v=PElGn1uvwGw"/>
+        <updated>2023-04-17T10:42:16.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
