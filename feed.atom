@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T18:34:26.869Z</id>
+    <id>urn:2023-05-07T19:05:29.451Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T18:34:26.869Z</updated>
+    <updated>2023-05-07T19:05:29.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Q REMASTERED】祝Steam版！物理演算パズル再チャレンジ！【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=KjLwBR8e8D0</id>
+        <link href="https://www.youtube.com/watch?v=KjLwBR8e8D0"/>
+        <updated>2023-05-07T18:38:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイドルユニットキャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=bEJwxPbbQmQ</id>
@@ -993,15 +1002,6 @@
         <updated>2023-05-01T08:39:42.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様の新作ゲーム！完全初見プレイ！♡1【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=wtcql0SJyRg</id>
-        <link href="https://www.youtube.com/watch?v=wtcql0SJyRg"/>
-        <updated>2023-05-01T06:04:05.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
