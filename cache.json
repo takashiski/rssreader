@@ -1002,6 +1002,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AdJYDNlnYfY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AdJYDNlnYfY",
+          "publishedOn": "2023-05-07T05:48:18.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠 SINGING  】お昼から朗らかにまったり歌います。【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fqgJeHVUlyI",
           "author": null,
           "description": "",
@@ -1139,16 +1149,6 @@
           "publishedOn": "2023-04-23T12:34:17.000Z",
           "wordCount": null,
           "title": "【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AFtSXGV28FM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AFtSXGV28FM",
-          "publishedOn": "2023-04-23T11:00:08.000Z",
-          "wordCount": null,
-          "title": "NIGHT DANCER - imase (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         }
       ]
