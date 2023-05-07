@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
+          "publishedOn": "2023-05-07T10:53:57.000Z",
+          "wordCount": null,
+          "title": "【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！前半！！！KARAOKE【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7uEwzi7AsEo",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-28T20:01:10.000Z",
           "wordCount": null,
           "title": "#01【Life is strange】エピソード1からやっていくよ~！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6LqmPU0UhC4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6LqmPU0UhC4",
-          "publishedOn": "2023-04-28T10:05:22.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】シンデレラボーイ / Saucy Dog #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
