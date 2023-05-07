@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T14:34:14.076Z</id>
+    <id>urn:2023-05-07T15:05:26.222Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T14:34:14.076Z</updated>
+    <updated>2023-05-07T15:05:26.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】今夜はねむがぎゅーってしてあげる🤍一緒に癒されて一緒に寝よ…🤍？Heart Beat / Whispering【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=OsAlXEblORw</id>
+        <link href="https://www.youtube.com/watch?v=OsAlXEblORw"/>
+        <updated>2023-05-07T14:36:35.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mrs. GREEN APPLE「ケセラセラ」covered by 水瓶ミア]]></title>
         <id>https://www.youtube.com/watch?v=V2jiVkc_PcU</id>
@@ -1704,15 +1713,6 @@
         <updated>2023-04-21T00:06:32.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】朝ごはん一緒に食べよ～🥞！生活リズムを改善したい朝活☀【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=I5iXtP1qe8w</id>
-        <link href="https://www.youtube.com/watch?v=I5iXtP1qe8w"/>
-        <updated>2023-04-20T23:32:42.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
