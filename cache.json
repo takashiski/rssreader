@@ -1773,6 +1773,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.youtube.com/watch?v=jCFZOiRDFLw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jCFZOiRDFLw",
+          "publishedOn": "2023-05-06T16:24:58.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】月のワルツ／諫山実生 さま／みんなのうた【covered by 丸餅 つきみ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rpBSxxCX7WA",
           "author": null,
           "description": "",
@@ -1900,16 +1910,6 @@
           "publishedOn": "2023-04-13T15:26:06.000Z",
           "wordCount": null,
           "title": "【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ywn6JN24_zU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ywn6JN24_zU",
-          "publishedOn": "2023-04-13T03:27:20.000Z",
-          "wordCount": null,
-          "title": "【moon】もっともっと愛されたい…♡🐰【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]
