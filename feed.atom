@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T17:05:32.638Z</id>
+    <id>urn:2023-05-07T17:34:18.959Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T17:05:32.638Z</updated>
+    <updated>2023-05-07T17:34:18.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[おつかれさま！【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=Dh9F03j2jDk</id>
+        <link href="https://www.youtube.com/watch?v=Dh9F03j2jDk"/>
+        <updated>2023-05-07T17:08:58.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【祝・3周年】今年も越えたわGW✨✨さぁ！祝宴っちゃ🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=9GNt6_akezU</id>
@@ -132,15 +141,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Q REMASTERED】祝Steam版！物理演算パズル再チャレンジ！【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=KjLwBR8e8D0</id>
-        <link href="https://www.youtube.com/watch?v=KjLwBR8e8D0"/>
-        <updated>2023-05-07T11:13:21.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ハモリカラオケ】「僕の心のヤバイやつ」ヨルシカ「斜陽」 一緒に歌って？#shorts #かしこまり]]></title>
         <id>https://www.youtube.com/watch?v=pyPv0poryls</id>
         <link href="https://www.youtube.com/watch?v=pyPv0poryls"/>
@@ -154,15 +154,6 @@
         <id>https://www.youtube.com/watch?v=AVUyWxQR6A0</id>
         <link href="https://www.youtube.com/watch?v=AVUyWxQR6A0"/>
         <updated>2023-05-07T10:53:57.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！後半！！！KARAOKE【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=7uEwzi7AsEo</id>
-        <link href="https://www.youtube.com/watch?v=7uEwzi7AsEo"/>
-        <updated>2023-05-07T09:59:13.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -1227,6 +1218,15 @@
         <updated>2023-04-28T16:43:23.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[眠れない夜もすやすやできるASMRらじお #すやらじ ♡7【ASMR Radio/Whisper】]]></title>
+        <id>https://www.youtube.com/watch?v=H-LLnnNqeI8</id>
+        <link href="https://www.youtube.com/watch?v=H-LLnnNqeI8"/>
+        <updated>2023-04-28T16:09:27.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
