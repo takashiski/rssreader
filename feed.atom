@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T11:34:26.303Z</id>
+    <id>urn:2023-05-07T12:06:37.045Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T11:34:26.303Z</updated>
+    <updated>2023-05-07T12:06:37.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=yxo2I7TWxxc</id>
+        <link href="https://www.youtube.com/watch?v=yxo2I7TWxxc"/>
+        <updated>2023-05-07T11:41:38.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】５月病になりました☔ Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=ROTybhB8VEY</id>
+        <link href="https://www.youtube.com/watch?v=ROTybhB8VEY"/>
+        <updated>2023-05-07T11:40:31.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】最近乳酸菌ばっか食べてる🧠#5【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=-S5Ymz8Zy7M</id>
+        <link href="https://www.youtube.com/watch?v=-S5Ymz8Zy7M"/>
+        <updated>2023-05-07T11:34:34.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=rZzbqtQDz0w</id>
@@ -1878,24 +1905,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】かいぬし様、行ってらっしゃいませ💗 morning stream !!【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=PElGn1uvwGw</id>
-        <link href="https://www.youtube.com/watch?v=PElGn1uvwGw"/>
-        <updated>2023-04-17T10:42:16.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSR 猫乃ユキノ お花見ver🌸 #vtuber #varkshorts]]></title>
-        <id>https://www.youtube.com/watch?v=nEhX4Ekh9t4</id>
-        <link href="https://www.youtube.com/watch?v=nEhX4Ekh9t4"/>
-        <updated>2023-04-17T08:27:22.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#雑談】全快とまではいかないけど、回復のご報告とか！【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=fqKr0Sl78zk</id>
         <link href="https://www.youtube.com/watch?v=fqKr0Sl78zk"/>
@@ -1920,15 +1929,6 @@
         <updated>2023-04-16T15:17:24.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR /#睡眠導入 】最短距離更新中💕極上の睡眠をお届け！耳かき/囁き/マッサージ/タオル (Ear Cleaning/EarBlowing/whisper)【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=LiuuxitqJvA</id>
-        <link href="https://www.youtube.com/watch?v=LiuuxitqJvA"/>
-        <updated>2023-04-16T15:13:07.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
