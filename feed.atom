@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T03:34:13.307Z</id>
+    <id>urn:2023-05-07T04:05:51.842Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-07T03:34:13.307Z</updated>
+    <updated>2023-05-07T04:05:51.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -195,7 +195,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！ 初めての100曲耐久歌枠！前半！！！KARAOKE【新人VTuber/#GW耐久祭り】]]></title>
+        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！前半！！！KARAOKE【新人VTuber/#GW耐久祭り】]]></title>
         <id>https://www.youtube.com/watch?v=AVUyWxQR6A0</id>
         <link href="https://www.youtube.com/watch?v=AVUyWxQR6A0"/>
         <updated>2023-05-06T09:52:25.000Z</updated>
