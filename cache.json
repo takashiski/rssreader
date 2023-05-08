@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=85UPa1tKiFs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=85UPa1tKiFs",
+          "publishedOn": "2023-05-08T07:49:34.000Z",
+          "wordCount": null,
+          "title": "【雑談】#GW耐久祭り 振り返りとスパチャお礼！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7uEwzi7AsEo",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-29T01:52:51.000Z",
           "wordCount": null,
           "title": "【#たらんつかって】植物サムネ選手権！一個ずつ見ていく！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-lUV3IYV2IA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-lUV3IYV2IA",
-          "publishedOn": "2023-04-28T20:01:10.000Z",
-          "wordCount": null,
-          "title": "#01【Life is strange】エピソード1からやっていくよ~！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
