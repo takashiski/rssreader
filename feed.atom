@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T06:34:44.023Z</id>
+    <id>urn:2023-05-08T07:05:35.047Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T06:34:44.023Z</updated>
+    <updated>2023-05-08T07:05:35.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ランチタイム歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Utn5RUfDITM</id>
+        <link href="https://www.youtube.com/watch?v=Utn5RUfDITM"/>
+        <updated>2023-05-08T06:43:09.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今日は深刻めな悩み!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ji95bSQaZy8</id>
@@ -21,15 +30,6 @@
         <updated>2023-05-08T04:02:52.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ランチタイム歌枠🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Utn5RUfDITM</id>
-        <link href="https://www.youtube.com/watch?v=Utn5RUfDITM"/>
-        <updated>2023-05-08T03:30:46.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
         </author>
     </entry>
     <entry>
