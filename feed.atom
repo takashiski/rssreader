@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T16:36:13.712Z</id>
+    <id>urn:2023-05-08T17:05:40.882Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T16:36:13.712Z</updated>
+    <updated>2023-05-08T17:05:40.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ユノりぼ姉妹】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしらの解説はこの先生！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Pvq1srLc1q8</id>
+        <link href="https://www.youtube.com/watch?v=Pvq1srLc1q8"/>
+        <updated>2023-05-08T16:48:28.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インターネットやめろ #INTERNETYAMERO #shorts #インターネット老人会 #新人vtuber #vtuber #ククルアクレイユ]]></title>
+        <id>https://www.youtube.com/watch?v=vffTVXJcWQs</id>
+        <link href="https://www.youtube.com/watch?v=vffTVXJcWQs"/>
+        <updated>2023-05-08T16:46:17.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎💜おはよーっ❕朝から可愛い摂取💜✨ good morning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YwuDjb1kVrg</id>
@@ -1155,15 +1173,6 @@
         <updated>2023-04-30T14:00:31.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚠️炎上注意！？マクロスF縛り歌枠まとめ #shorts #新人Vtuber #Vtuber #歌ってみた #ククルアクレイユ #切り抜き]]></title>
-        <id>https://www.youtube.com/watch?v=Q5MvMK4lBfg</id>
-        <link href="https://www.youtube.com/watch?v=Q5MvMK4lBfg"/>
-        <updated>2023-04-30T13:46:51.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
