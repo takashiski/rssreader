@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=cO00ejbqJ5k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cO00ejbqJ5k",
+          "publishedOn": "2023-05-08T22:05:37.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】100曲耐久で喉終わってるお歌【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0Z0Wlp7CvVs",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-29T08:45:00.000Z",
           "wordCount": null,
           "title": "【ハモリチャレンジ】エジソン / 水曜日のカンパネラ #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tRVJVLOfd3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tRVJVLOfd3s",
-          "publishedOn": "2023-04-29T01:52:51.000Z",
-          "wordCount": null,
-          "title": "【#たらんつかって】植物サムネ選手権！一個ずつ見ていく！！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
