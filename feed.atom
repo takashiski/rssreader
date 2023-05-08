@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T10:34:10.097Z</id>
+    <id>urn:2023-05-08T11:05:37.495Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T10:34:10.097Z</updated>
+    <updated>2023-05-08T11:05:37.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】開拓レベル27になりました！/第1章「ヤリーロⅥ（後半）」♡6【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=9U3ICauOVnA</id>
+        <link href="https://www.youtube.com/watch?v=9U3ICauOVnA"/>
+        <updated>2023-05-08T10:35:48.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【激ムズ！？】Lovers / sumika 【ハモリチャレンジ】#るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
         <id>https://www.youtube.com/watch?v=0Z0Wlp7CvVs</id>
@@ -546,7 +555,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ブローニャはかわいいなぁ/第1章「ヤリーロⅥ（上）」♡5【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ブローニャはかわいいなぁ/第1章「ヤリーロⅥ（前半）」♡5【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=6WYWQ0FA6lM</id>
         <link href="https://www.youtube.com/watch?v=6WYWQ0FA6lM"/>
         <updated>2023-05-05T06:18:23.000Z</updated>
@@ -609,7 +618,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】イケメン美声なのにサンポ嫌われすぎてかわいそう。♡4【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【崩壊：スターレイル】イケメン美声なのにサンポ嫌われすぎてかわいそう。/第1章「ヤリーロⅥ（前半）」♡4【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=Euj6ujbkhfE</id>
         <link href="https://www.youtube.com/watch?v=Euj6ujbkhfE"/>
         <updated>2023-05-04T15:45:11.000Z</updated>
@@ -888,7 +897,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様へ。クラーラちゃんに会いたいな♡2【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ホヨバ様へ。クラーラちゃんに会いたいな/サブクエスト等♡2【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=O_98gL18z3Y</id>
         <link href="https://www.youtube.com/watch?v=O_98gL18z3Y"/>
         <updated>2023-05-02T15:43:09.000Z</updated>
@@ -975,15 +984,6 @@
         <updated>2023-05-01T18:00:07.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】ぺたぺた音圧強め♡深夜のお世話マッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=AfGcnzEohhI</id>
-        <link href="https://www.youtube.com/watch?v=AfGcnzEohhI"/>
-        <updated>2023-05-01T17:42:28.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
