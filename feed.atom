@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T15:05:56.865Z</id>
+    <id>urn:2023-05-08T15:34:18.070Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T15:05:56.865Z</updated>
+    <updated>2023-05-08T15:34:18.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎💜おはよーっ❕朝から可愛い摂取💜✨ good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YwuDjb1kVrg</id>
+        <link href="https://www.youtube.com/watch?v=YwuDjb1kVrg"/>
+        <updated>2023-05-08T14:58:58.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【祝・3周年】今年も越えたわGW✨✨さぁ！祝宴っちゃ🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=9GNt6_akezU</id>
@@ -1704,15 +1713,6 @@
         <updated>2023-04-21T22:23:36.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR】睡眠誘導💗可愛い女の子に癒されながら、安眠💗耳かき/マッサージ💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=HJ0xItzu3k0</id>
-        <link href="https://www.youtube.com/watch?v=HJ0xItzu3k0"/>
-        <updated>2023-04-21T17:43:40.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
