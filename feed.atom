@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T17:34:21.090Z</id>
+    <id>urn:2023-05-08T18:06:11.948Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T17:34:21.090Z</updated>
+    <updated>2023-05-08T18:06:11.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【原神】ゆったり雑談しながら素材あつめ🌙⚔【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=9-fY9F1U1H8</id>
+        <link href="https://www.youtube.com/watch?v=9-fY9F1U1H8"/>
+        <updated>2023-05-08T17:50:53.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ユノりぼ姉妹】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしらの解説はこの先生！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Pvq1srLc1q8</id>
@@ -57,15 +66,6 @@
         <updated>2023-05-08T11:37:00.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】開拓レベル27になりました！/一章「輝かしい朝日の下で」♡6【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=9U3ICauOVnA</id>
-        <link href="https://www.youtube.com/watch?v=9U3ICauOVnA"/>
-        <updated>2023-05-08T10:35:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1002,6 +1002,15 @@
         <updated>2023-05-01T18:00:07.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】ぺたぺた音圧強め♡深夜のお世話マッサージ♡【Ear Massage/Relax Sounds/Binaural/Whispering】]]></title>
+        <id>https://www.youtube.com/watch?v=AfGcnzEohhI</id>
+        <link href="https://www.youtube.com/watch?v=AfGcnzEohhI"/>
+        <updated>2023-05-01T17:42:28.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -2163,15 +2172,6 @@
         <updated>2023-04-13T15:07:30.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠】3.3万人耐久歌枠…！！新しい人にたくさん知ってもらえたらいいな～ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2kc4CdRT-GU</id>
-        <link href="https://www.youtube.com/watch?v=2kc4CdRT-GU"/>
-        <updated>2023-04-13T11:18:58.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
