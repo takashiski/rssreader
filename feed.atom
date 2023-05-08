@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T13:34:20.900Z</id>
+    <id>urn:2023-05-08T14:05:53.406Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T13:34:20.900Z</updated>
+    <updated>2023-05-08T14:05:53.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -33,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】開拓レベル27になりました！/第1章「ヤリーロⅥ（後半）」♡6【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【崩壊：スターレイル】開拓レベル27になりました！/一章「輝かしい朝日の下で」♡6【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=9U3ICauOVnA</id>
         <link href="https://www.youtube.com/watch?v=9U3ICauOVnA"/>
         <updated>2023-05-08T10:35:48.000Z</updated>
@@ -564,7 +564,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ブローニャはかわいいなぁ/第1章「ヤリーロⅥ（前半）」♡5【VTuber/姫熊りぼん】]]></title>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ブローニャはかわいいなぁ/第1章「ヤリーロⅥ（後半）」♡5【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=6WYWQ0FA6lM</id>
         <link href="https://www.youtube.com/watch?v=6WYWQ0FA6lM"/>
         <updated>2023-05-05T06:18:23.000Z</updated>
