@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T10:05:56.174Z</id>
+    <id>urn:2023-05-08T10:34:10.097Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T10:05:56.174Z</updated>
+    <updated>2023-05-08T10:34:10.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【激ムズ！？】Lovers / sumika 【ハモリチャレンジ】#るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=0Z0Wlp7CvVs</id>
+        <link href="https://www.youtube.com/watch?v=0Z0Wlp7CvVs"/>
+        <updated>2023-05-08T10:00:01.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎✨月曜日！？元気にうたっちゃえ～💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=W_9hIHxkhRE</id>
@@ -12,15 +21,6 @@
         <updated>2023-05-08T09:31:05.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】100曲耐久で喉終わってるお歌【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=cO00ejbqJ5k</id>
-        <link href="https://www.youtube.com/watch?v=cO00ejbqJ5k"/>
-        <updated>2023-05-08T08:50:23.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
