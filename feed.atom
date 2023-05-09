@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T12:38:10.094Z</id>
+    <id>urn:2023-05-09T13:21:40.279Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T12:38:10.094Z</updated>
+    <updated>2023-05-09T13:21:40.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／ゲリラ歌枠！しばらくさらば！🎤✨短め🦆【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=NZvlcvSJQhc</id>
+        <link href="https://www.youtube.com/watch?v=NZvlcvSJQhc"/>
+        <updated>2023-05-09T13:02:26.000Z</updated>
+        <author>
+            <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイドル風キャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=bEJwxPbbQmQ</id>
@@ -48,15 +57,6 @@
         <updated>2023-05-09T09:51:28.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】昨日はたくさんのお祝いありがとっ。４年目スタート！！/スパチャ読み 【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=EV3lwUHD7Mw</id>
-        <link href="https://www.youtube.com/watch?v=EV3lwUHD7Mw"/>
-        <updated>2023-05-09T09:36:24.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -2094,15 +2094,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 singing stream🥂 】初見さん大歓迎～／週末、歌で癒されていかない？🎤✨【#新人Vtuber/#美睡の酒場/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6F3QS1aNmeM</id>
-        <link href="https://www.youtube.com/watch?v=6F3QS1aNmeM"/>
-        <updated>2023-04-15T17:20:40.000Z</updated>
-        <author>
-            <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[◆雑談/ 体調不良からの復活。あとOP動画完成した！ちょっと話してかない？/ free talk【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=czDgckapuss</id>
         <link href="https://www.youtube.com/watch?v=czDgckapuss"/>
@@ -2172,6 +2163,15 @@
         <updated>2023-04-13T16:43:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
+        <link href="https://www.youtube.com/watch?v=axkprSyPGck"/>
+        <updated>2023-04-13T15:26:06.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
