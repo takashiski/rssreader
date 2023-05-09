@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_ZwcgZYzJFw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_ZwcgZYzJFw",
+          "publishedOn": "2023-05-09T10:18:12.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！元気なお歌聴いてって！【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cO00ejbqJ5k",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-30T14:40:41.000Z",
           "wordCount": null,
           "title": "【耐久】5勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LyHjaXWksOw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LyHjaXWksOw",
-          "publishedOn": "2023-04-29T08:45:00.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】エジソン / 水曜日のカンパネラ #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -2043,7 +2043,7 @@
           "link": "https://www.youtube.com/watch?v=bEJwxPbbQmQ",
           "publishedOn": "2023-05-07T18:22:32.000Z",
           "wordCount": null,
-          "title": "アイドルユニットキャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】",
+          "title": "アイドル風キャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】",
           "imageUrl": null
         },
         {
