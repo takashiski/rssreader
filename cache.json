@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H9rwYtxKq5g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H9rwYtxKq5g",
+          "publishedOn": "2023-05-09T17:04:39.000Z",
+          "wordCount": null,
+          "title": "【#ククルア居酒屋】ノア・ポラリス様ご来店！第18回は歌うま天使様が襲来！【新人Vtuber/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vffTVXJcWQs",
           "author": null,
           "description": "",
@@ -444,16 +454,6 @@
           "publishedOn": "2023-05-01T11:16:44.000Z",
           "wordCount": null,
           "title": "【お絵描き配信】天川はの先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TBsp3DVmohw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TBsp3DVmohw",
-          "publishedOn": "2023-04-30T18:01:49.000Z",
-          "wordCount": null,
-          "title": "世にも珍しい雑談。そして、お知らせ。",
           "imageUrl": null
         }
       ]
@@ -647,7 +647,7 @@
           "link": "https://www.youtube.com/watch?v=cO00ejbqJ5k",
           "publishedOn": "2023-05-08T22:05:37.000Z",
           "wordCount": null,
-          "title": "【歌枠/singing】100曲耐久で喉終わってるお歌【新人VTuber/#GW耐久祭り】",
+          "title": "【歌枠/singing】100曲耐久で喉終わってるお歌【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
