@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T11:05:33.887Z</id>
+    <id>urn:2023-05-09T12:38:10.094Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T11:05:33.887Z</updated>
+    <updated>2023-05-09T12:38:10.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アイドル風キャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=bEJwxPbbQmQ</id>
+        <link href="https://www.youtube.com/watch?v=bEJwxPbbQmQ"/>
+        <updated>2023-05-09T12:21:23.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[˗ˋ 踊ってみた ˊ˗アイドル／YOASOBI #vtuber #夢川かなう #踊ってみた #リアクト]]></title>
+        <id>https://www.youtube.com/watch?v=nEzXzWRPlZU</id>
+        <link href="https://www.youtube.com/watch?v=nEzXzWRPlZU"/>
+        <updated>2023-05-09T11:00:36.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【謎ゲー】海外で話題のピザとパイナップル題材ゲーム…？/Pineapple on pizza 【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=qPX7BG3Sm10</id>
@@ -199,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=KjLwBR8e8D0</id>
         <link href="https://www.youtube.com/watch?v=KjLwBR8e8D0"/>
         <updated>2023-05-07T18:38:48.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アイドル風キャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=bEJwxPbbQmQ</id>
-        <link href="https://www.youtube.com/watch?v=bEJwxPbbQmQ"/>
-        <updated>2023-05-07T18:22:32.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
@@ -2145,15 +2154,6 @@
         <updated>2023-04-14T15:32:00.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】トウキョウ・シャンディ・ランデヴ/夢川かなう【feat.花譜，ツミキ】]]></title>
-        <id>https://www.youtube.com/watch?v=QmJccBbOpxI</id>
-        <link href="https://www.youtube.com/watch?v=QmJccBbOpxI"/>
-        <updated>2023-04-14T13:00:11.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>

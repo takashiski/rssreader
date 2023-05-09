@@ -2017,6 +2017,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC6HjtF2rHZO8gAsX5FXF-Kg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bEJwxPbbQmQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bEJwxPbbQmQ",
+          "publishedOn": "2023-05-09T12:21:23.000Z",
+          "wordCount": null,
+          "title": "アイドル風キャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qPX7BG3Sm10",
           "author": null,
           "description": "",
@@ -2044,16 +2054,6 @@
           "publishedOn": "2023-05-07T18:38:48.000Z",
           "wordCount": null,
           "title": "【Q REMASTERED】祝Steam版！物理演算パズル再チャレンジ！【VTuber/姫熊りぼん】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bEJwxPbbQmQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bEJwxPbbQmQ",
-          "publishedOn": "2023-05-07T18:22:32.000Z",
-          "wordCount": null,
-          "title": "アイドル風キャッチコピー選手権？！【#ねもくまコラボ/VTuber/姫熊りぼん】",
           "imageUrl": null
         },
         {
@@ -2173,6 +2173,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=nEzXzWRPlZU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nEzXzWRPlZU",
+          "publishedOn": "2023-05-09T11:00:36.000Z",
+          "wordCount": null,
+          "title": "˗ˋ 踊ってみた ˊ˗アイドル／YOASOBI #vtuber #夢川かなう #踊ってみた #リアクト",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9-fY9F1U1H8",
           "author": null,
@@ -2311,16 +2321,6 @@
           "publishedOn": "2023-04-14T15:42:45.000Z",
           "wordCount": null,
           "title": "【生誕&３Ｄお披露目✨】わらわの夢叶える瞬間みてて！✨めでたい日！！ #夢川かなう生誕3Dお披露目【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QmJccBbOpxI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QmJccBbOpxI",
-          "publishedOn": "2023-04-14T13:00:11.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】トウキョウ・シャンディ・ランデヴ/夢川かなう【feat.花譜，ツミキ】",
           "imageUrl": null
         }
       ]
