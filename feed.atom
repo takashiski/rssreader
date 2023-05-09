@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T16:35:45.659Z</id>
+    <id>urn:2023-05-09T17:05:22.681Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T16:35:45.659Z</updated>
+    <updated>2023-05-09T17:05:22.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！元気なお歌聴いてって！【新人VTuber/#GW耐久祭り】]]></title>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】あなたは耐えられる？ゾクゾクする高速耳かき♡【Ear Cleaning/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=tYfsXxHJ290</id>
+        <link href="https://www.youtube.com/watch?v=tYfsXxHJ290"/>
+        <updated>2023-05-09T16:47:22.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！元気なお歌聴いてって！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_ZwcgZYzJFw</id>
         <link href="https://www.youtube.com/watch?v=_ZwcgZYzJFw"/>
         <updated>2023-05-09T16:25:45.000Z</updated>
@@ -33,21 +42,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠/singing】新曲いっぱい覚える！【新人VTuber/#GW耐久祭り】]]></title>
+        <title type="html"><![CDATA[【歌枠/singing】新曲いっぱい覚える！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4Of023Zu05s</id>
         <link href="https://www.youtube.com/watch?v=4Of023Zu05s"/>
         <updated>2023-05-09T15:09:26.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】あなたは耐えられる？ゾクゾクする高速耳かき♡【Ear Cleaning/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=tYfsXxHJ290</id>
-        <link href="https://www.youtube.com/watch?v=tYfsXxHJ290"/>
-        <updated>2023-05-09T14:24:56.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
