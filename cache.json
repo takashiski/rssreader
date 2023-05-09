@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QXXsDvqnBdI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QXXsDvqnBdI",
+          "publishedOn": "2023-05-09T04:31:18.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】新曲いっぱい覚える！【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cO00ejbqJ5k",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-04-30T14:40:41.000Z",
           "wordCount": null,
           "title": "【耐久】5勝するまで終われないFall Guys！！【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LyHjaXWksOw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LyHjaXWksOw",
-          "publishedOn": "2023-04-29T08:45:00.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】エジソン / 水曜日のカンパネラ #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
@@ -1288,7 +1288,7 @@
           "link": "https://www.youtube.com/watch?v=_YdmK_HJwnY",
           "publishedOn": "2023-05-09T04:32:41.000Z",
           "wordCount": null,
-          "title": "【ねこと！ねこと！】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "title": "【お歌多めDAY!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
         },
         {

@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T04:34:26.281Z</id>
+    <id>urn:2023-05-09T05:05:44.221Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T04:34:26.281Z</updated>
+    <updated>2023-05-09T05:05:44.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【ねこと！ねこと！】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【お歌多めDAY!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_YdmK_HJwnY</id>
         <link href="https://www.youtube.com/watch?v=_YdmK_HJwnY"/>
         <updated>2023-05-09T04:32:41.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】新曲いっぱい覚える！【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=QXXsDvqnBdI</id>
+        <link href="https://www.youtube.com/watch?v=QXXsDvqnBdI"/>
+        <updated>2023-05-09T04:31:18.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1236,15 +1245,6 @@
         <updated>2023-04-29T13:27:40.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ハモリチャレンジ】エジソン / 水曜日のカンパネラ #るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=LyHjaXWksOw</id>
-        <link href="https://www.youtube.com/watch?v=LyHjaXWksOw"/>
-        <updated>2023-04-29T08:45:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
