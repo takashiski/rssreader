@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T09:34:20.217Z</id>
+    <id>urn:2023-05-09T10:05:56.067Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T09:34:20.217Z</updated>
+    <updated>2023-05-09T10:05:56.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 / #雑談 】150曲耐久歌枠応援ありがとうございました💖振り返りしたり歌ったりするよ～♬✨singing & talking🤍【新人Vtuber  / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nV_fg1BR8qg</id>
+        <link href="https://www.youtube.com/watch?v=nV_fg1BR8qg"/>
+        <updated>2023-05-09T09:51:28.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】昨日はたくさんのお祝いありがとっ。４年目スタート！！/スパチャ読み 【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=EV3lwUHD7Mw</id>
+        <link href="https://www.youtube.com/watch?v=EV3lwUHD7Mw"/>
+        <updated>2023-05-09T09:36:24.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お歌多めDAY!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_YdmK_HJwnY</id>
@@ -1671,15 +1689,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】戦国大河お疲れさまでした🌸打ち上げじゃ～✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=w7pu9ZPtuAw</id>
-        <link href="https://www.youtube.com/watch?v=w7pu9ZPtuAw"/>
-        <updated>2023-04-22T16:59:54.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】定期歌枠♬♬なんか今日寒い【 #生リサ /Re:AcT/新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=RZAkIfjBUtk</id>
         <link href="https://www.youtube.com/watch?v=RZAkIfjBUtk"/>
@@ -2154,15 +2163,6 @@
         <updated>2023-04-13T16:43:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
-        <link href="https://www.youtube.com/watch?v=axkprSyPGck"/>
-        <updated>2023-04-13T15:26:06.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
