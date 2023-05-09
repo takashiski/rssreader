@@ -307,6 +307,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZyqY5QZ5iq8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZyqY5QZ5iq8",
+          "publishedOn": "2023-05-09T22:00:16.000Z",
+          "wordCount": null,
+          "title": "Butter-Flyコールするの楽しすぎワロタwwwww #切り抜き #shorts #Vtuber #アニソン",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=H9rwYtxKq5g",
           "author": null,
           "description": "",
@@ -444,16 +454,6 @@
           "publishedOn": "2023-05-01T18:00:07.000Z",
           "wordCount": null,
           "title": "【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3z3j2z0YjmU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3z3j2z0YjmU",
-          "publishedOn": "2023-05-01T11:16:44.000Z",
-          "wordCount": null,
-          "title": "【お絵描き配信】天川はの先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -777,6 +777,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "siteUrl": "https://www.youtube.com/channel/UCtKH7ZHAJ7TcTjyiLJRHhvg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=W4d7vKtKgug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=W4d7vKtKgug",
+          "publishedOn": "2023-05-09T21:35:01.000Z",
+          "wordCount": null,
+          "title": "【 歌枠 / Singing Stream 】復活の刻【#彩雲のの / #新人Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=DEGQjyvUI6E",
           "author": null,
