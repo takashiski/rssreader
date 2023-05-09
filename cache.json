@@ -621,6 +621,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4Of023Zu05s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4Of023Zu05s",
+          "publishedOn": "2023-05-09T19:34:00.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】新曲いっぱい覚える！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=i2wHXkcz0Og",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=i2wHXkcz0Og",
+          "publishedOn": "2023-05-09T19:23:01.000Z",
+          "wordCount": null,
+          "title": "さぎょる【メン限】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QXXsDvqnBdI",
           "author": null,
           "description": "",
@@ -638,16 +658,6 @@
           "publishedOn": "2023-05-09T16:25:45.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】初見さん大歓迎！元気なお歌聴いてって！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4Of023Zu05s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4Of023Zu05s",
-          "publishedOn": "2023-05-09T15:09:26.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】新曲いっぱい覚える！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -758,16 +768,6 @@
           "publishedOn": "2023-05-03T18:24:20.000Z",
           "wordCount": null,
           "title": "【耐久∕スプラトゥーン3】354人キルするまで終われない！！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zvy7vVYtil0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zvy7vVYtil0",
-          "publishedOn": "2023-05-02T17:06:02.000Z",
-          "wordCount": null,
-          "title": "【耐久】雀魂優勝するまで終われない！！！【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         }
       ]
