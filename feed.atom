@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T16:07:46.414Z</id>
+    <id>urn:2023-05-10T17:36:12.049Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T16:07:46.414Z</updated>
+    <updated>2023-05-10T17:36:12.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ほんのり謝罪とゼーレ自慢。/第2章「槎に乗り風を御し、仙窟を巡る」♡7【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=z2574GdokAU</id>
+        <link href="https://www.youtube.com/watch?v=z2574GdokAU"/>
+        <updated>2023-05-10T17:24:19.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎 ✧ 元気？五月病？定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=PozjbHCZK9c</id>
@@ -39,15 +48,6 @@
         <updated>2023-05-10T14:48:37.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【崩壊：スターレイル】ほんのり謝罪とゼーレ自慢。/第2章「槎に乗り風を御し、仙窟を巡る」♡7【VTuber/姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=z2574GdokAU</id>
-        <link href="https://www.youtube.com/watch?v=z2574GdokAU"/>
-        <updated>2023-05-10T14:25:40.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
