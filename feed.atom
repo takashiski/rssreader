@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T04:05:58.129Z</id>
+    <id>urn:2023-05-10T04:34:06.412Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T04:05:58.129Z</updated>
+    <updated>2023-05-10T04:34:06.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ほろ酔い系っていつから言ってた？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=WAFq5Bu5wqw</id>
+        <link href="https://www.youtube.com/watch?v=WAFq5Bu5wqw"/>
+        <updated>2023-05-10T04:13:42.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アニソン歌うDAY!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_YdmK_HJwnY</id>
+        <link href="https://www.youtube.com/watch?v=_YdmK_HJwnY"/>
+        <updated>2023-05-10T04:13:02.000Z</updated>
+        <author>
+            <name>Mari Channelかしこまり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#03【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」つづき！【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ovPQWebjLiA</id>
@@ -1842,30 +1860,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ハモリカラオケ】「鬼滅の刃」刀鍛冶の里編「絆ノ奇跡」MAN WITH A MISSION×milet 一緒に歌って？#shorts #かしこまり]]></title>
-        <id>https://www.youtube.com/watch?v=Yrqy9u5nQhY</id>
-        <link href="https://www.youtube.com/watch?v=Yrqy9u5nQhY"/>
-        <updated>2023-04-20T11:00:20.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌ってみた】毒林檎 - Covered by 獅子神レオナ×夢川かなう【DECO*27】]]></title>
         <id>https://www.youtube.com/watch?v=JkWFBvPhIik</id>
         <link href="https://www.youtube.com/watch?v=JkWFBvPhIik"/>
         <updated>2023-04-20T11:00:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ミラノ風ドリアしか勝たん】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=s5DxM2LNPP4</id>
-        <link href="https://www.youtube.com/watch?v=s5DxM2LNPP4"/>
-        <updated>2023-04-20T04:22:44.000Z</updated>
-        <author>
-            <name>Mari Channelかしこまり</name>
         </author>
     </entry>
     <entry>
