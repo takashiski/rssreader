@@ -992,6 +992,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M6rd650_yOQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M6rd650_yOQ",
+          "publishedOn": "2023-05-10T02:34:22.000Z",
+          "wordCount": null,
+          "title": "#34【 P5R 】ペルソナ５ ザ・ロイヤル 完全初見！【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VZb5Mo6WHNo",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2023-04-30T12:47:28.000Z",
           "wordCount": null,
           "title": "【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wosEiCuNjv8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wosEiCuNjv8",
-          "publishedOn": "2023-04-27T15:24:40.000Z",
-          "wordCount": null,
-          "title": "私の声が聞こえるのか",
           "imageUrl": null
         }
       ]
@@ -1298,7 +1298,7 @@
           "link": "https://www.youtube.com/watch?v=_YdmK_HJwnY",
           "publishedOn": "2023-05-09T04:32:41.000Z",
           "wordCount": null,
-          "title": "【お歌多めDAY!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
+          "title": "【アニソン歌うDAY!】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】",
           "imageUrl": null
         },
         {
