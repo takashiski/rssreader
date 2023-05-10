@@ -992,6 +992,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ovPQWebjLiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ovPQWebjLiA",
+          "publishedOn": "2023-05-10T03:08:17.000Z",
+          "wordCount": null,
+          "title": "#03【 崩壊：スターレイル 】完全初見プレイ！ 第1章 「物寂しい冬の夜に」つづき！【 稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M6rd650_yOQ",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2023-04-30T15:00:41.000Z",
           "wordCount": null,
           "title": "稀羽すうが NIGHT DANCER 歌ってみた #shorts #cover #Vsinger",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MevpY5OMCIM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MevpY5OMCIM",
-          "publishedOn": "2023-04-30T12:47:28.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠 SINGING  】雨だ、まったり歌う！ ☔ 【 稀羽すう/Re:AcT 】",
           "imageUrl": null
         }
       ]
