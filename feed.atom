@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T15:05:45.920Z</id>
+    <id>urn:2023-05-10T16:07:46.414Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T15:05:45.920Z</updated>
+    <updated>2023-05-10T16:07:46.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎 ✧ 元気？五月病？定期朝活【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=PozjbHCZK9c</id>
+        <link href="https://www.youtube.com/watch?v=PozjbHCZK9c"/>
+        <updated>2023-05-10T16:01:28.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】#GW耐久祭り 振り返りとスパチャお礼！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nIUtS7BEmSs</id>
+        <link href="https://www.youtube.com/watch?v=nIUtS7BEmSs"/>
+        <updated>2023-05-10T15:46:45.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア居酒屋】ノア・ポラリス様ご来店！第18回は歌うま天使様が襲来！【新人Vtuber/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=H9rwYtxKq5g</id>
+        <link href="https://www.youtube.com/watch?v=H9rwYtxKq5g"/>
+        <updated>2023-05-10T15:07:22.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#被虐のノエル】初見！！戦うの？？【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=h3C9rHdUZa0</id>
@@ -888,15 +915,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
-        <link href="https://www.youtube.com/watch?v=h7bRaJxndlM"/>
-        <updated>2023-05-04T11:54:32.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠/singing】初見大歓迎✨３D❕みんなでいっしょに盛り上がろ💜 karaoke【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Dg6dVXeh8Ro</id>
         <link href="https://www.youtube.com/watch?v=Dg6dVXeh8Ro"/>
@@ -1167,15 +1185,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=92o6qPpbBv0</id>
-        <link href="https://www.youtube.com/watch?v=92o6qPpbBv0"/>
-        <updated>2023-05-01T18:00:07.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】５月になったのも５月のせいです。⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LaQa0GjCkss</id>
         <link href="https://www.youtube.com/watch?v=LaQa0GjCkss"/>
@@ -1209,15 +1218,6 @@
         <updated>2023-05-01T12:36:12.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お絵描き配信】天川はの先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=3z3j2z0YjmU</id>
-        <link href="https://www.youtube.com/watch?v=3z3j2z0YjmU"/>
-        <updated>2023-05-01T11:16:44.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
