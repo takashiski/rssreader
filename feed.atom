@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T13:35:28.644Z</id>
+    <id>urn:2023-05-10T14:06:58.230Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T13:35:28.644Z</updated>
+    <updated>2023-05-10T14:06:58.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -273,15 +273,6 @@
         <updated>2023-05-08T17:50:53.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ユノりぼ姉妹】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしらの解説はこの先生！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Pvq1srLc1q8</id>
-        <link href="https://www.youtube.com/watch?v=Pvq1srLc1q8"/>
-        <updated>2023-05-08T16:48:28.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
