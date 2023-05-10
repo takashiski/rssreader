@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dPRhLUKvyK0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dPRhLUKvyK0",
+          "publishedOn": "2023-05-10T10:00:33.000Z",
+          "wordCount": null,
+          "title": "【ハモリチャレンジ】アイドル / YOASOBI #るーとも #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた  #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=CeVzTIv1vRY",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-05-05T10:38:37.000Z",
           "wordCount": null,
           "title": "【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h7bRaJxndlM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h7bRaJxndlM",
-          "publishedOn": "2023-05-04T11:54:32.000Z",
-          "wordCount": null,
-          "title": "【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         }
       ]

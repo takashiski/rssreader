@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T09:34:24.833Z</id>
+    <id>urn:2023-05-10T10:05:56.083Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T09:34:24.833Z</updated>
+    <updated>2023-05-10T10:05:56.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ハモリチャレンジ】アイドル / YOASOBI #るーとも #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた  #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=dPRhLUKvyK0</id>
+        <link href="https://www.youtube.com/watch?v=dPRhLUKvyK0"/>
+        <updated>2023-05-10T10:00:33.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ほろ酔い系っていつから言ってた？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=WAFq5Bu5wqw</id>
@@ -867,15 +876,6 @@
         <updated>2023-05-04T12:36:36.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
-        <link href="https://www.youtube.com/watch?v=h7bRaJxndlM"/>
-        <updated>2023-05-04T11:54:32.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
