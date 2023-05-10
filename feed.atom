@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T00:49:52.743Z</id>
+    <id>urn:2023-05-10T01:32:19.299Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T00:49:52.743Z</updated>
+    <updated>2023-05-10T01:32:19.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】昨日はたくさんのお祝いありがとっ。４年目スタート！！/スパチャ読み 【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=EV3lwUHD7Mw</id>
+        <link href="https://www.youtube.com/watch?v=EV3lwUHD7Mw"/>
+        <updated>2023-05-10T01:13:21.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見歓迎💜おはよーっ❕朝から可愛い摂取💜✨ good morning【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YwuDjb1kVrg</id>
@@ -64,15 +73,6 @@
         <id>https://www.youtube.com/watch?v=4Of023Zu05s</id>
         <link href="https://www.youtube.com/watch?v=4Of023Zu05s"/>
         <updated>2023-05-09T19:34:00.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[さぎょる【メン限】]]></title>
-        <id>https://www.youtube.com/watch?v=i2wHXkcz0Og</id>
-        <link href="https://www.youtube.com/watch?v=i2wHXkcz0Og"/>
-        <updated>2023-05-09T19:23:01.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -696,6 +696,15 @@
         <updated>2023-05-05T14:19:50.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=OzM7qL2WSk4</id>
+        <link href="https://www.youtube.com/watch?v=OzM7qL2WSk4"/>
+        <updated>2023-05-05T10:38:37.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2181,15 +2190,6 @@
         <updated>2023-04-13T16:43:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AlexiA～アレクシア～】ギャルゲーっていいよね♡…おや、様子が…【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=axkprSyPGck</id>
-        <link href="https://www.youtube.com/watch?v=axkprSyPGck"/>
-        <updated>2023-04-13T15:26:06.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
