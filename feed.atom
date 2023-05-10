@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T23:34:17.202Z</id>
+    <id>urn:2023-05-10T00:20:59.754Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T23:34:17.202Z</updated>
+    <updated>2023-05-10T00:20:59.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -210,15 +210,6 @@
         <updated>2023-05-08T16:46:17.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】初見歓迎💜おはよーっ❕朝から可愛い摂取💜✨ good morning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=YwuDjb1kVrg</id>
-        <link href="https://www.youtube.com/watch?v=YwuDjb1kVrg"/>
-        <updated>2023-05-08T14:58:58.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1041,6 +1032,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗た～っぷり癒されたい？なら、おいで💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=uJJ8YSKDs1A</id>
+        <link href="https://www.youtube.com/watch?v=uJJ8YSKDs1A"/>
+        <updated>2023-05-02T13:48:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【#歌枠】新しいおうたも歌いたい！ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=s-bZXV4lbSg</id>
         <link href="https://www.youtube.com/watch?v=s-bZXV4lbSg"/>
@@ -1576,6 +1576,15 @@
         <id>https://www.youtube.com/watch?v=k_PVBb5_i1I</id>
         <link href="https://www.youtube.com/watch?v=k_PVBb5_i1I"/>
         <updated>2023-04-24T14:47:30.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】#超絶かわいい / HoneyWorks【オリジナルMV/月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=OT6_ohB9Q1M</id>
+        <link href="https://www.youtube.com/watch?v=OT6_ohB9Q1M"/>
+        <updated>2023-04-24T13:00:10.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
