@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T11:05:24.996Z</id>
+    <id>urn:2023-05-10T11:34:18.123Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T11:05:24.996Z</updated>
+    <updated>2023-05-10T11:34:18.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ネタバレ注意】リアル脱出ゲーム×朗読劇『時間旅行と7つの謎』#謎解きし隊【エルセ/大浦るかこ/天城てん/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=GdUyIvDnXsk</id>
+        <link href="https://www.youtube.com/watch?v=GdUyIvDnXsk"/>
+        <updated>2023-05-10T11:19:34.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【membership only】『リトルバスターズ！』同時視聴⚾✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1pIZqDAphpc</id>
+        <link href="https://www.youtube.com/watch?v=1pIZqDAphpc"/>
+        <updated>2023-05-10T11:06:55.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ハモリチャレンジ】アイドル / YOASOBI #るーとも #yoasobi #新人vtuber #るっくあっとたらん #歌ってみた  #shorts]]></title>
         <id>https://www.youtube.com/watch?v=dPRhLUKvyK0</id>
@@ -1059,15 +1077,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【KU100/ASMR】高音質な睡眠導入♡あなた専用もふもふ耳かき/梵天メイン【Binaural/Ear Cleaning/Whispering】]]></title>
-        <id>https://www.youtube.com/watch?v=AeNXzSftJSU</id>
-        <link href="https://www.youtube.com/watch?v=AeNXzSftJSU"/>
-        <updated>2023-05-02T17:17:32.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#ASMR】安眠誘導💗耳かきとマッサージでたっぷり睡眠💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=y4F8zdrfMS8</id>
         <link href="https://www.youtube.com/watch?v=y4F8zdrfMS8"/>
@@ -1686,15 +1695,6 @@
         <updated>2023-04-23T11:12:57.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠 】本日はアニソン祭り❣✨あなたの大好きな曲は入ってるかな…🤍💭singing stream/KARAOKE🌸【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=5q2YTOcdmSw</id>
-        <link href="https://www.youtube.com/watch?v=5q2YTOcdmSw"/>
-        <updated>2023-04-23T10:45:16.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
