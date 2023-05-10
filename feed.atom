@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T14:06:58.230Z</id>
+    <id>urn:2023-05-10T14:38:52.271Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T14:06:58.230Z</updated>
+    <updated>2023-05-10T14:38:52.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【崩壊：スターレイル】ほんのり謝罪とゼーレ自慢。/第2章♡7【VTuber/姫熊りぼん】]]></title>
+        <id>https://www.youtube.com/watch?v=z2574GdokAU</id>
+        <link href="https://www.youtube.com/watch?v=z2574GdokAU"/>
+        <updated>2023-05-10T14:25:40.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #41 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=yyZnNwKPHlY</id>
@@ -165,15 +174,6 @@
         <updated>2023-05-09T18:50:27.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア居酒屋】ノア・ポラリス様ご来店！第18回は歌うま天使様が襲来！【新人Vtuber/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=H9rwYtxKq5g</id>
-        <link href="https://www.youtube.com/watch?v=H9rwYtxKq5g"/>
-        <updated>2023-05-09T17:04:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1032,15 +1032,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[謝罪]]></title>
-        <id>https://www.youtube.com/watch?v=74e8_V9bwTg</id>
-        <link href="https://www.youtube.com/watch?v=74e8_V9bwTg"/>
-        <updated>2023-05-03T03:21:47.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【moon】美うさぎとして横綱は早く卒業したい！！🐰【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=rpBSxxCX7WA</id>
         <link href="https://www.youtube.com/watch?v=rpBSxxCX7WA"/>
@@ -1218,6 +1209,15 @@
         <updated>2023-05-01T12:36:12.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お絵描き配信】天川はの先輩のイラスト描く⭐️｜DRAWING【#ククルアクレイユ | Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=3z3j2z0YjmU</id>
+        <link href="https://www.youtube.com/watch?v=3z3j2z0YjmU"/>
+        <updated>2023-05-01T11:16:44.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
