@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T19:05:40.776Z</id>
+    <id>urn:2023-05-10T20:35:05.010Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T19:05:40.776Z</updated>
+    <updated>2023-05-10T20:35:05.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠/singing】新曲いっぱい覚えて歌いたい！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=CeVzTIv1vRY</id>
+        <link href="https://www.youtube.com/watch?v=CeVzTIv1vRY"/>
+        <updated>2023-05-10T19:50:27.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わー【メン限】]]></title>
+        <id>https://www.youtube.com/watch?v=Md_8wIZ3ImI</id>
+        <link href="https://www.youtube.com/watch?v=Md_8wIZ3ImI"/>
+        <updated>2023-05-10T19:11:47.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【崩壊：スターレイル】ほんのり謝罪とゼーレ自慢。/第2章「槎に乗り風を御し、仙窟を巡る」♡7【VTuber/姫熊りぼん】]]></title>
         <id>https://www.youtube.com/watch?v=z2574GdokAU</id>
@@ -156,15 +174,6 @@
         <updated>2023-05-09T21:35:01.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】新曲いっぱい覚えて歌いたい！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=CeVzTIv1vRY</id>
-        <link href="https://www.youtube.com/watch?v=CeVzTIv1vRY"/>
-        <updated>2023-05-09T20:49:31.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -768,15 +777,6 @@
         <updated>2023-05-05T14:19:50.000Z</updated>
         <author>
             <name>天川はの/AmakawaHano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=OzM7qL2WSk4</id>
-        <link href="https://www.youtube.com/watch?v=OzM7qL2WSk4"/>
-        <updated>2023-05-05T10:38:37.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
