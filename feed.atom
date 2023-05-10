@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T00:20:59.754Z</id>
+    <id>urn:2023-05-10T00:49:52.743Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T00:20:59.754Z</updated>
+    <updated>2023-05-10T00:49:52.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】初見歓迎💜おはよーっ❕朝から可愛い摂取💜✨ good morning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=YwuDjb1kVrg</id>
+        <link href="https://www.youtube.com/watch?v=YwuDjb1kVrg"/>
+        <updated>2023-05-10T00:18:30.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Butter-Flyコールするの楽しすぎワロタwwwww #切り抜き #shorts #Vtuber #アニソン]]></title>
         <id>https://www.youtube.com/watch?v=ZyqY5QZ5iq8</id>
@@ -1576,15 +1585,6 @@
         <id>https://www.youtube.com/watch?v=k_PVBb5_i1I</id>
         <link href="https://www.youtube.com/watch?v=k_PVBb5_i1I"/>
         <updated>2023-04-24T14:47:30.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】#超絶かわいい / HoneyWorks【オリジナルMV/月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=OT6_ohB9Q1M</id>
-        <link href="https://www.youtube.com/watch?v=OT6_ohB9Q1M"/>
-        <updated>2023-04-24T13:00:10.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
