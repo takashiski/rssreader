@@ -641,16 +641,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=nIUtS7BEmSs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nIUtS7BEmSs",
-          "publishedOn": "2023-05-09T20:47:30.000Z",
-          "wordCount": null,
-          "title": "【雑談】#GW耐久祭り 振り返りとスパチャお礼！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=4Of023Zu05s",
           "author": null,
           "description": "",
@@ -768,6 +758,16 @@
           "publishedOn": "2023-05-05T10:38:37.000Z",
           "wordCount": null,
           "title": "【耐久】APEXで1キルするまで終われない！！【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=h7bRaJxndlM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h7bRaJxndlM",
+          "publishedOn": "2023-05-04T11:54:32.000Z",
+          "wordCount": null,
+          "title": "【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         }
       ]
@@ -1753,16 +1753,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=wcn_Eu1I6uY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wcn_Eu1I6uY",
-          "publishedOn": "2023-05-10T12:12:50.000Z",
-          "wordCount": null,
-          "title": "【moon】そろそろロケットで月旅行かしら？【Vtuber・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=EV3lwUHD7Mw",
           "author": null,
           "description": "",
@@ -1901,6 +1891,16 @@
           "wordCount": null,
           "title": "【AlexiA～アレクシア～】すべてを明らかにしたい…。もうひとつの終わりへ。※ネタバレ注意【Vtuber・丸餅つきみ】",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Xd3CL0MIeZg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xd3CL0MIeZg",
+          "publishedOn": "2023-04-16T03:13:35.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】憧れのペットとの生活♡ 【Vtuber・丸餅つきみ】",
+          "imageUrl": null
         }
       ]
     },
@@ -2033,7 +2033,7 @@
           "link": "https://www.youtube.com/watch?v=z2574GdokAU",
           "publishedOn": "2023-05-10T14:25:40.000Z",
           "wordCount": null,
-          "title": "【崩壊：スターレイル】ほんのり謝罪とゼーレ自慢。/第2章♡7【VTuber/姫熊りぼん】",
+          "title": "【崩壊：スターレイル】ほんのり謝罪とゼーレ自慢。/第2章「槎に乗り風を御し、仙窟を巡る」♡7【VTuber/姫熊りぼん】",
           "imageUrl": null
         },
         {
@@ -2550,6 +2550,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=h3C9rHdUZa0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=h3C9rHdUZa0",
+          "publishedOn": "2023-05-10T14:48:37.000Z",
+          "wordCount": null,
+          "title": "【#被虐のノエル】初見！！戦うの？？【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=qUq0LxnzKb8",
           "author": null,
