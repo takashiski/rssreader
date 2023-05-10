@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T08:34:21.537Z</id>
+    <id>urn:2023-05-10T09:05:56.705Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T08:34:21.537Z</updated>
+    <updated>2023-05-10T09:05:56.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -109,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=nIUtS7BEmSs</id>
         <link href="https://www.youtube.com/watch?v=nIUtS7BEmSs"/>
         <updated>2023-05-09T20:47:30.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠！#13【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=B2GKkYj1HGY</id>
-        <link href="https://www.youtube.com/watch?v=B2GKkYj1HGY"/>
-        <updated>2023-05-09T19:49:20.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
         </author>
@@ -876,6 +867,15 @@
         <updated>2023-05-04T12:36:36.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【耐久/クロミ】サンリオキャラクター大賞でクロミ様に50票入るまで終われないお絵描き配信【新人VTuber/#GW耐久祭り】]]></title>
+        <id>https://www.youtube.com/watch?v=h7bRaJxndlM</id>
+        <link href="https://www.youtube.com/watch?v=h7bRaJxndlM"/>
+        <updated>2023-05-04T11:54:32.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
