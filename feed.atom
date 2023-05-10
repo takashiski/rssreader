@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T01:32:19.299Z</id>
+    <id>urn:2023-05-10T02:18:25.478Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T01:32:19.299Z</updated>
+    <updated>2023-05-10T02:18:25.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[絵・雑談【 稀羽すう / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=VZb5Mo6WHNo</id>
+        <link href="https://www.youtube.com/watch?v=VZb5Mo6WHNo"/>
+        <updated>2023-05-10T02:05:42.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #41 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=yyZnNwKPHlY</id>
+        <link href="https://www.youtube.com/watch?v=yyZnNwKPHlY"/>
+        <updated>2023-05-10T01:29:32.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】昨日はたくさんのお祝いありがとっ。４年目スタート！！/スパチャ読み 【Vtuber・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=EV3lwUHD7Mw</id>
@@ -1518,15 +1536,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です / 水曜定期歌枠 #40 ✦ KARAOKE ✦ 【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=DB8LGOXBV8s</id>
-        <link href="https://www.youtube.com/watch?v=DB8LGOXBV8s"/>
-        <updated>2023-04-26T12:17:53.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【GWなにする？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=V4bla6mWH4A</id>
         <link href="https://www.youtube.com/watch?v=V4bla6mWH4A"/>
@@ -1641,15 +1650,6 @@
         <updated>2023-04-23T13:27:43.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎です 踊りだしたくなる夜の歌枠 🌙 KARAOKE 【稀羽すう/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xc4ORSslowY</id>
-        <link href="https://www.youtube.com/watch?v=xc4ORSslowY"/>
-        <updated>2023-04-23T12:34:17.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
