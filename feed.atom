@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T13:06:58.312Z</id>
+    <id>urn:2023-05-11T14:05:37.515Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T13:06:58.312Z</updated>
+    <updated>2023-05-11T14:05:37.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2023-05-11T12:44:06.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Minecraft】1年近くぶり…いや初めての！？Maincraft☆【Vtuber ・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=gN7T8YHYDW0</id>
-        <link href="https://www.youtube.com/watch?v=gN7T8YHYDW0"/>
-        <updated>2023-05-11T11:38:29.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -129,15 +120,6 @@
         <updated>2023-05-10T15:07:22.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#被虐のノエル】初見！！戦うの？？【宇佐美ユノ / リアクト / vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=h3C9rHdUZa0</id>
-        <link href="https://www.youtube.com/watch?v=h3C9rHdUZa0"/>
-        <updated>2023-05-10T14:48:37.000Z</updated>
-        <author>
-            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
         </author>
     </entry>
     <entry>
@@ -2067,6 +2049,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【AlexiA～アレクシア～】すべてを明らかにしたい…。もうひとつの終わりへ。※ネタバレ注意【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=hHIYWxKIXwE</id>
+        <link href="https://www.youtube.com/watch?v=hHIYWxKIXwE"/>
+        <updated>2023-04-16T16:23:52.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【販売促進】 今日まで？！今日までなの？！？！？！【 つばぐら /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-FIoMBw5e-g</id>
         <link href="https://www.youtube.com/watch?v=-FIoMBw5e-g"/>
@@ -2262,15 +2253,6 @@
         <updated>2023-04-12T09:00:17.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠/singing stream 】九楽ライ先輩とコラボ歌枠🎤✨#ライのの karaoke【#彩雲のの / #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Ajl-u1XpmmY</id>
-        <link href="https://www.youtube.com/watch?v=Ajl-u1XpmmY"/>
-        <updated>2023-04-12T01:21:23.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
 </feed>
