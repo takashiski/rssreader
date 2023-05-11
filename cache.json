@@ -2341,6 +2341,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uDAy2z_yLD4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uDAy2z_yLD4",
+          "publishedOn": "2023-05-11T05:59:58.000Z",
+          "wordCount": null,
+          "title": "【 APEX 】新シーズンきちゃからやるぞ～！【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=O808i_anwuc",
           "author": null,
           "description": "",
@@ -2478,16 +2488,6 @@
           "publishedOn": "2023-04-12T09:00:17.000Z",
           "wordCount": null,
           "title": "獅子神レオナ 4th LIVE「言の葉」30秒CM #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5r7htM-uCRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5r7htM-uCRQ",
-          "publishedOn": "2023-04-11T18:55:40.000Z",
-          "wordCount": null,
-          "title": "【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]

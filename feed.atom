@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T06:06:06.973Z</id>
+    <id>urn:2023-05-11T06:34:22.290Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T06:06:06.974Z</updated>
+    <updated>2023-05-11T06:34:22.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 APEX 】新シーズンきちゃからやるぞ～！【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=uDAy2z_yLD4</id>
+        <link href="https://www.youtube.com/watch?v=uDAy2z_yLD4"/>
+        <updated>2023-05-11T05:59:58.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ほろ酔い系っていつから言ってた？】お昼休みはうきうき！ヒルタマリ！！【＃かしこまり/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=WAFq5Bu5wqw</id>
@@ -2271,15 +2280,6 @@
         <updated>2023-04-12T01:21:23.000Z</updated>
         <author>
             <name>彩雲のの - Nono Ayamo -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY3！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=5r7htM-uCRQ</id>
-        <link href="https://www.youtube.com/watch?v=5r7htM-uCRQ"/>
-        <updated>2023-04-11T18:55:40.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
