@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T02:39:19.121Z</id>
+    <id>urn:2023-05-11T03:05:53.631Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T02:39:19.121Z</updated>
+    <updated>2023-05-11T03:05:53.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【moon】そろそろロケットで月旅行かしら？【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=wcn_Eu1I6uY</id>
+        <link href="https://www.youtube.com/watch?v=wcn_Eu1I6uY"/>
+        <updated>2023-05-11T02:58:54.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ユノりぼ姉妹】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしらの解説はこの先生！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Pvq1srLc1q8</id>
@@ -2091,15 +2100,6 @@
         <updated>2023-04-16T05:15:39.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】憧れのペットとの生活♡ 【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=Xd3CL0MIeZg</id>
-        <link href="https://www.youtube.com/watch?v=Xd3CL0MIeZg"/>
-        <updated>2023-04-16T03:13:35.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
