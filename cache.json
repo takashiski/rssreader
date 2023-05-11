@@ -621,6 +621,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2k06NXDDhmc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2k06NXDDhmc",
+          "publishedOn": "2023-05-11T18:21:06.000Z",
+          "wordCount": null,
+          "title": "【歌枠/singing】初見さん大歓迎！夜更かししちゃおー！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GhN299ngK6A",
           "author": null,
           "description": "",
@@ -758,16 +768,6 @@
           "publishedOn": "2023-05-07T00:34:01.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】みんなの太陽の元気な歌で盛り上げる！！KARAOKE【新人VTuber/#GWブチ上げ歌リレー】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kM7CNAeTG6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kM7CNAeTG6M",
-          "publishedOn": "2023-05-06T09:00:32.000Z",
-          "wordCount": null,
-          "title": "【ハモリチャレンジ】PAKU / asmi #るーとも #新人VTuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
