@@ -611,6 +611,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hTWPRQS1NcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hTWPRQS1NcU",
+          "publishedOn": "2023-05-11T22:12:06.000Z",
+          "wordCount": null,
+          "title": "【雑談】ちょっとだけ話したい【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2k06NXDDhmc",
           "author": null,
           "description": "",
@@ -748,16 +758,6 @@
           "publishedOn": "2023-05-07T05:00:50.000Z",
           "wordCount": null,
           "title": "【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cDgOYY0bA2k",
-          "publishedOn": "2023-05-07T00:34:01.000Z",
-          "wordCount": null,
-          "title": "【歌枠/singing】みんなの太陽の元気な歌で盛り上げる！！KARAOKE【新人VTuber/#GWブチ上げ歌リレー】",
           "imageUrl": null
         }
       ]

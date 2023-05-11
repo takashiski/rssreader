@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T22:05:34.602Z</id>
+    <id>urn:2023-05-11T22:34:15.875Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T22:05:34.602Z</updated>
+    <updated>2023-05-11T22:34:15.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ちょっとだけ話したい【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=hTWPRQS1NcU</id>
+        <link href="https://www.youtube.com/watch?v=hTWPRQS1NcU"/>
+        <updated>2023-05-11T22:12:06.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【逆転裁判123】#2 完全初見！裁判やり直して逆転じゃ！※ネタバレあり【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=L16IJRLkAPs</id>
@@ -615,15 +624,6 @@
         <updated>2023-05-07T01:20:49.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠/singing】みんなの太陽の元気な歌で盛り上げる！！KARAOKE【新人VTuber/#GWブチ上げ歌リレー】]]></title>
-        <id>https://www.youtube.com/watch?v=cDgOYY0bA2k</id>
-        <link href="https://www.youtube.com/watch?v=cDgOYY0bA2k"/>
-        <updated>2023-05-07T00:34:01.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
