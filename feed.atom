@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T14:34:18.507Z</id>
+    <id>urn:2023-05-11T15:06:12.233Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T14:34:18.507Z</updated>
+    <updated>2023-05-11T15:06:12.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#酒飲みV座談会】ここを飲酒会場とする！！！【ククルア・クレイユ/ゆいまるちゃん/にじゅな/鬼ヶ島くろめ】]]></title>
+        <id>https://www.youtube.com/watch?v=_w_sFux1vfQ</id>
+        <link href="https://www.youtube.com/watch?v=_w_sFux1vfQ"/>
+        <updated>2023-05-11T14:49:07.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【９ヶ月記念 | 歌枠】🎊プチお披露目＆初お披露目楽曲あり🎊｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QLr3iq56H5M</id>
+        <link href="https://www.youtube.com/watch?v=QLr3iq56H5M"/>
+        <updated>2023-05-11T14:39:59.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【39 Days to Mars】謎解きパズル❕協力して火星を目指せ🌠 #夢敵アリクム 【月紫アリア/リクム/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=DMUs8hfE1gg</id>
+        <link href="https://www.youtube.com/watch?v=DMUs8hfE1gg"/>
+        <updated>2023-05-11T14:36:52.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】一日おつかれさまのおうたෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=yfoqvaXiBGY</id>
@@ -246,15 +273,6 @@
         <updated>2023-05-09T16:25:45.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【39 Days to Mars】謎解きパズル❕協力して火星を目指せ🌠 #夢敵アリクム 【月紫アリア/リクム/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=DMUs8hfE1gg</id>
-        <link href="https://www.youtube.com/watch?v=DMUs8hfE1gg"/>
-        <updated>2023-05-09T16:11:10.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1086,15 +1104,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】リクエストOK！ブチ上げランチタイム｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=n7x71gv5G84</id>
-        <link href="https://www.youtube.com/watch?v=n7x71gv5G84"/>
-        <updated>2023-05-02T17:21:11.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#ASMR】安眠誘導💗耳かきとマッサージでたっぷり睡眠💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=y4F8zdrfMS8</id>
         <link href="https://www.youtube.com/watch?v=y4F8zdrfMS8"/>
@@ -1191,15 +1200,6 @@
         <updated>2023-05-01T18:32:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】睡眠導入 ✧ ピアノオケ縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=92o6qPpbBv0</id>
-        <link href="https://www.youtube.com/watch?v=92o6qPpbBv0"/>
-        <updated>2023-05-01T18:00:07.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
