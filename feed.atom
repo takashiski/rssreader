@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T19:34:25.044Z</id>
+    <id>urn:2023-05-11T20:05:54.756Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T19:34:25.044Z</updated>
+    <updated>2023-05-11T20:05:54.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【逆転裁判123】#2 完全初見！裁判やり直して逆転じゃ！※ネタバレあり【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=L16IJRLkAPs</id>
+        <link href="https://www.youtube.com/watch?v=L16IJRLkAPs"/>
+        <updated>2023-05-11T19:55:49.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！夜更かししちゃおー！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2k06NXDDhmc</id>
@@ -2073,15 +2082,6 @@
         <updated>2023-04-16T12:30:57.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【生誕&３Ｄお披露目振り返り】当日のおはなししたいし皆の感想も聞かせてー！✨【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=HsqcUNkOhdw</id>
-        <link href="https://www.youtube.com/watch?v=HsqcUNkOhdw"/>
-        <updated>2023-04-16T06:19:35.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
