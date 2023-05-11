@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T01:32:32.164Z</id>
+    <id>urn:2023-05-11T02:18:36.855Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T01:32:32.164Z</updated>
+    <updated>2023-05-11T02:18:36.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ユノりぼ姉妹】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしらの解説はこの先生！【宇佐美ユノ / 姫熊りぼん / vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Pvq1srLc1q8</id>
+        <link href="https://www.youtube.com/watch?v=Pvq1srLc1q8"/>
+        <updated>2023-05-11T01:52:02.000Z</updated>
+        <author>
+            <name>Usami Yuno Ch. 宇佐美 ユノ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠/singing】初見さん大歓迎！おやつ歌枠！#13【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=B2GKkYj1HGY</id>
