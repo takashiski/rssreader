@@ -464,6 +464,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7AmXv35H9n0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7AmXv35H9n0",
+          "publishedOn": "2023-05-11T08:45:41.000Z",
+          "wordCount": null,
+          "title": "【ライザのアトリエ】初見プレイ❣ストーリーどんどん進めたい…！【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nV_fg1BR8qg",
           "author": null,
           "description": "",
@@ -602,16 +612,6 @@
           "wordCount": null,
           "title": "【Overcooked!2】出会ったばかりの4人で協力！？みんなお料理できるもん🔥❄🦋🗝with 風吹スサノオ様  冬陽リッカ様  メラ・アカル様【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5q2YTOcdmSw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5q2YTOcdmSw",
-          "publishedOn": "2023-04-23T10:45:16.000Z",
-          "wordCount": null,
-          "title": "【#歌枠 】本日はアニソン祭り❣✨あなたの大好きな曲は入ってるかな…🤍💭singing stream/KARAOKE🌸【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -620,6 +620,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCShDuyxe-cDewxtcPbBmi_Q",
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=hTWPRQS1NcU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hTWPRQS1NcU",
+          "publishedOn": "2023-05-11T08:32:25.000Z",
+          "wordCount": null,
+          "title": "【雑談】ちょっとだけ話したい【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=B2GKkYj1HGY",
           "author": null,
@@ -758,16 +768,6 @@
           "publishedOn": "2023-05-06T09:00:32.000Z",
           "wordCount": null,
           "title": "【ハモリチャレンジ】PAKU / asmi #るーとも #新人VTuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rzeu4Bi-3h4",
-          "publishedOn": "2023-05-06T03:24:54.000Z",
-          "wordCount": null,
-          "title": "【耐久/singing】ゆるく5555人目指すお歌枠📛【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         }
       ]
