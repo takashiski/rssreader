@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T05:34:25.089Z</id>
+    <id>urn:2023-05-12T06:06:03.743Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T05:34:25.089Z</updated>
+    <updated>2023-05-12T06:06:03.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2224,15 +2224,6 @@
         <id>https://www.youtube.com/watch?v=BbA8PtZrfdY</id>
         <link href="https://www.youtube.com/watch?v=BbA8PtZrfdY"/>
         <updated>2023-04-12T22:52:28.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 APEX 】V最協カスタムDAY4！ / w 飛良ひかり、乾伸一郎【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6N-ImUsBOwg</id>
-        <link href="https://www.youtube.com/watch?v=6N-ImUsBOwg"/>
-        <updated>2023-04-12T18:05:01.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
