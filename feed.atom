@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T11:34:28.314Z</id>
+    <id>urn:2023-05-12T12:07:12.777Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T11:34:28.314Z</updated>
+    <updated>2023-05-12T12:07:12.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【９ヶ月記念 | 歌枠】🎊プチお披露目＆初お披露目楽曲あり🎊｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=QLr3iq56H5M</id>
+        <link href="https://www.youtube.com/watch?v=QLr3iq56H5M"/>
+        <updated>2023-05-12T11:59:31.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】寝落ちできる♡ぺたぺた気持ち良いアロマオイルマッサージ♡【Aroma Oil Massage/Whisper Voice/Relaxing/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=UB3eYnTPGrw</id>
+        <link href="https://www.youtube.com/watch?v=UB3eYnTPGrw"/>
+        <updated>2023-05-12T11:59:06.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】祝♡デビュー9か月✨！お話し多めかものゆるゆる歌枠🤍✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rBIirp6xal0</id>
+        <link href="https://www.youtube.com/watch?v=rBIirp6xal0"/>
+        <updated>2023-05-12T11:46:32.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Minecraft】熱くなりやすいうーさぎ🐰【Vtuber ・丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=V5jn18ohbPA</id>
@@ -1059,15 +1086,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ククルアデザイン塾】ゲスト：天日テラス氏！デザインレクチャー新企画 ✧｜DESIGN【#ククルアクレイユ | Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=JUHd_s0iTi0</id>
-        <link href="https://www.youtube.com/watch?v=JUHd_s0iTi0"/>
-        <updated>2023-05-03T15:42:59.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【1.5周年＆3万人✨】1.5st Anniversary✨ありがと～を込めて歌う！告知ナシ！【九楽ライ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=PDpmpYqawjk</id>
         <link href="https://www.youtube.com/watch?v=PDpmpYqawjk"/>
@@ -1110,15 +1128,6 @@
         <updated>2023-05-03T13:10:57.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【機動戦士ガンダムZZ】「サイレント・ヴォイス」/ひろえ純【covered by 姫熊りぼん】]]></title>
-        <id>https://www.youtube.com/watch?v=EGzFWelBvFI</id>
-        <link href="https://www.youtube.com/watch?v=EGzFWelBvFI"/>
-        <updated>2023-05-03T10:30:10.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
@@ -1722,15 +1731,6 @@
         <updated>2023-04-24T01:53:26.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Overcooked!2】出会ったばかりの4人で協力！？みんなお料理できるもん🔥❄🦋🗝with 風吹スサノオ様  冬陽リッカ様  メラ・アカル様【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=EnOMbqGxXjQ</id>
-        <link href="https://www.youtube.com/watch?v=EnOMbqGxXjQ"/>
-        <updated>2023-04-23T23:48:27.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
