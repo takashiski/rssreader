@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T02:17:43.909Z</id>
+    <id>urn:2023-05-12T02:38:32.468Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T02:17:43.909Z</updated>
+    <updated>2023-05-12T02:38:32.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【Minecraft】1年近くぶり…いや初めての！？Maincraft☆【Vtuber ・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=gN7T8YHYDW0</id>
+        <link href="https://www.youtube.com/watch?v=gN7T8YHYDW0"/>
+        <updated>2023-05-12T02:37:50.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#被虐のノエル】初見！！戦うの？？【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=h3C9rHdUZa0</id>
@@ -2064,15 +2073,6 @@
         <updated>2023-04-16T21:57:05.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AlexiA～アレクシア～】すべてを明らかにしたい…。もうひとつの終わりへ。※ネタバレ注意【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=hHIYWxKIXwE</id>
-        <link href="https://www.youtube.com/watch?v=hHIYWxKIXwE"/>
-        <updated>2023-04-16T16:23:52.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
