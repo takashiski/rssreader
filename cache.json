@@ -601,16 +601,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=jxubie_ugE8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jxubie_ugE8",
-          "publishedOn": "2023-05-12T08:32:28.000Z",
-          "wordCount": null,
-          "title": "【9ヶ月記念耐久】VTuber9人とお友達になるまで終われない…！【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=hTWPRQS1NcU",
           "author": null,
           "description": "",
@@ -748,6 +738,16 @@
           "publishedOn": "2023-05-07T10:53:57.000Z",
           "wordCount": null,
           "title": "【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！前半！！！KARAOKE【新人VTuber/#GW耐久祭り】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=t9g-zAepFRE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=t9g-zAepFRE",
+          "publishedOn": "2023-05-07T05:00:50.000Z",
+          "wordCount": null,
+          "title": "【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]

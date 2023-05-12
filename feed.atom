@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T13:06:02.964Z</id>
+    <id>urn:2023-05-12T13:34:15.403Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T13:06:02.964Z</updated>
+    <updated>2023-05-12T13:34:15.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -57,15 +57,6 @@
         <updated>2023-05-12T08:32:42.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9ヶ月記念耐久】VTuber9人とお友達になるまで終われない…！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jxubie_ugE8</id>
-        <link href="https://www.youtube.com/watch?v=jxubie_ugE8"/>
-        <updated>2023-05-12T08:32:28.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -669,6 +660,15 @@
         <updated>2023-05-07T05:48:18.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=t9g-zAepFRE</id>
+        <link href="https://www.youtube.com/watch?v=t9g-zAepFRE"/>
+        <updated>2023-05-07T05:00:50.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
