@@ -601,6 +601,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jxubie_ugE8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jxubie_ugE8",
+          "publishedOn": "2023-05-12T13:38:25.000Z",
+          "wordCount": null,
+          "title": "【9ヶ月記念耐久】VTuber9人とお友達になるまで終われない…！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hTWPRQS1NcU",
           "author": null,
           "description": "",
@@ -738,16 +748,6 @@
           "publishedOn": "2023-05-07T10:53:57.000Z",
           "wordCount": null,
           "title": "【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！前半！！！KARAOKE【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t9g-zAepFRE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t9g-zAepFRE",
-          "publishedOn": "2023-05-07T05:00:50.000Z",
-          "wordCount": null,
-          "title": "【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1713,16 +1713,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=V5jn18ohbPA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V5jn18ohbPA",
-          "publishedOn": "2023-05-12T09:48:22.000Z",
-          "wordCount": null,
-          "title": "【Minecraft】熱くなりやすいうーさぎ🐰【Vtuber ・丸餅つきみ】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=gN7T8YHYDW0",
           "author": null,
           "description": "",
@@ -1860,6 +1850,16 @@
           "publishedOn": "2023-04-21T14:46:38.000Z",
           "wordCount": null,
           "title": "【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BOMRSw9X_bM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BOMRSw9X_bM",
+          "publishedOn": "2023-04-19T02:36:33.000Z",
+          "wordCount": null,
+          "title": "【moon】すっかり釣り人になったうさぎ🐰【Vtuber・丸餅つきみ】",
           "imageUrl": null
         }
       ]

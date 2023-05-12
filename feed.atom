@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T13:34:15.403Z</id>
+    <id>urn:2023-05-12T14:05:33.435Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T13:34:15.403Z</updated>
+    <updated>2023-05-12T14:05:33.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【9ヶ月記念耐久】VTuber9人とお友達になるまで終われない…！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jxubie_ugE8</id>
+        <link href="https://www.youtube.com/watch?v=jxubie_ugE8"/>
+        <updated>2023-05-12T13:38:25.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【９ヶ月記念 | 歌枠】🎊プチお披露目＆初お披露目楽曲あり🎊｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QLr3iq56H5M</id>
@@ -30,15 +39,6 @@
         <updated>2023-05-12T11:46:32.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Minecraft】熱くなりやすいうーさぎ🐰【Vtuber ・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=V5jn18ohbPA</id>
-        <link href="https://www.youtube.com/watch?v=V5jn18ohbPA"/>
-        <updated>2023-05-12T09:48:22.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -660,15 +660,6 @@
         <updated>2023-05-07T05:48:18.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】振り返りと相談させて！【新人VTuber/神輿たらん/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=t9g-zAepFRE</id>
-        <link href="https://www.youtube.com/watch?v=t9g-zAepFRE"/>
-        <updated>2023-05-07T05:00:50.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -2001,6 +1992,15 @@
         <updated>2023-04-19T02:54:27.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【moon】すっかり釣り人になったうさぎ🐰【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=BOMRSw9X_bM</id>
+        <link href="https://www.youtube.com/watch?v=BOMRSw9X_bM"/>
+        <updated>2023-04-19T02:36:33.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
