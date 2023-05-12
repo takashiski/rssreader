@@ -287,6 +287,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_w_sFux1vfQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_w_sFux1vfQ",
+          "publishedOn": "2023-05-12T15:36:54.000Z",
+          "wordCount": null,
+          "title": "【#酒飲みV座談会】ここを飲酒会場とする！！！【ククルア・クレイユ/ゆいまるちゃん/にじゅな/鬼ヶ島くろめ】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QLr3iq56H5M",
           "author": null,
           "description": "",
@@ -424,16 +434,6 @@
           "publishedOn": "2023-05-03T17:29:15.000Z",
           "wordCount": null,
           "title": "【歌枠】リクエストOK！世間は祝日らしい｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JUHd_s0iTi0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JUHd_s0iTi0",
-          "publishedOn": "2023-05-03T15:42:59.000Z",
-          "wordCount": null,
-          "title": "【#ククルアデザイン塾】ゲスト：天日テラス氏！デザインレクチャー新企画 ✧｜DESIGN【#ククルアクレイユ | Re:AcT 】",
           "imageUrl": null
         }
       ]
@@ -2470,6 +2470,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJQMHCFjVZOVRYafR6gY04Q",
       "siteUrl": "https://www.youtube.com/channel/UCJQMHCFjVZOVRYafR6gY04Q",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=BB-u8AWF6Qg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BB-u8AWF6Qg",
+          "publishedOn": "2023-05-12T15:51:19.000Z",
+          "wordCount": null,
+          "title": "【#被虐のノエル】クーリングオフの復讐からの、今回は！？【宇佐美ユノ / リアクト / vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=h3C9rHdUZa0",
           "author": null,
