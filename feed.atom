@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T09:06:00.488Z</id>
+    <id>urn:2023-05-12T09:34:30.076Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T09:06:00.488Z</updated>
+    <updated>2023-05-12T09:34:30.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠】CDのジャケットも公開しちゃうよ～⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=LmIVHyBfr-o</id>
+        <link href="https://www.youtube.com/watch?v=LmIVHyBfr-o"/>
+        <updated>2023-05-12T09:22:31.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地声出ちゃった...// #shorts #vtuber #BIOHAZARD]]></title>
         <id>https://www.youtube.com/watch?v=XkfrKehR5L4</id>
