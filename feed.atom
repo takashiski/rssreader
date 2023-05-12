@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T17:05:35.408Z</id>
+    <id>urn:2023-05-12T17:34:20.000Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T17:05:35.408Z</updated>
+    <updated>2023-05-12T17:34:20.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -66,15 +66,6 @@
         <updated>2023-05-12T11:59:31.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】祝♡デビュー9か月✨！お話し多めかものゆるゆる歌枠🤍✨【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rBIirp6xal0</id>
-        <link href="https://www.youtube.com/watch?v=rBIirp6xal0"/>
-        <updated>2023-05-12T11:46:32.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -1704,6 +1695,15 @@
         <updated>2023-04-24T01:53:26.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Overcooked!2】出会ったばかりの4人で協力！？みんなお料理できるもん🔥❄🦋🗝with 風吹スサノオ様  冬陽リッカ様  メラ・アカル様【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=EnOMbqGxXjQ</id>
+        <link href="https://www.youtube.com/watch?v=EnOMbqGxXjQ"/>
+        <updated>2023-04-23T23:48:27.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
