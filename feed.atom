@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T16:05:59.657Z</id>
+    <id>urn:2023-05-12T16:35:24.595Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T16:05:59.657Z</updated>
+    <updated>2023-05-12T16:35:24.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR】安眠誘導💗た～っぷり癒されたい？なら、おいで💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=uJJ8YSKDs1A</id>
+        <link href="https://www.youtube.com/watch?v=uJJ8YSKDs1A"/>
+        <updated>2023-05-12T16:26:42.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】最近乳酸菌ばっか食べてる🧠#5【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=-S5Ymz8Zy7M</id>
+        <link href="https://www.youtube.com/watch?v=-S5Ymz8Zy7M"/>
+        <updated>2023-05-12T16:02:28.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#被虐のノエル】クーリングオフの復讐からの、今回は！？【宇佐美ユノ / リアクト / vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=BB-u8AWF6Qg</id>
@@ -102,15 +120,6 @@
         <updated>2023-05-11T22:12:06.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【逆転裁判123】#2 完全初見！裁判やり直して逆転じゃ！※ネタバレあり【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=L16IJRLkAPs</id>
-        <link href="https://www.youtube.com/watch?v=L16IJRLkAPs"/>
-        <updated>2023-05-11T19:55:49.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
@@ -1176,15 +1185,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ASMR】安眠誘導💗た～っぷり癒されたい？なら、おいで💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=uJJ8YSKDs1A</id>
-        <link href="https://www.youtube.com/watch?v=uJJ8YSKDs1A"/>
-        <updated>2023-05-02T13:48:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【#歌枠】新しいおうたも歌いたい！ෆ。🎤໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=s-bZXV4lbSg</id>
         <link href="https://www.youtube.com/watch?v=s-bZXV4lbSg"/>
@@ -2013,15 +2013,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #minecraft 】羽を求めて三千里🐥【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=hKg6SEWKimk</id>
-        <link href="https://www.youtube.com/watch?v=hKg6SEWKimk"/>
-        <updated>2023-04-18T13:46:43.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日本地図🗾テストを開催します【天川はの/彩雲のの】]]></title>
         <id>https://www.youtube.com/watch?v=eUPMhMxZZS4</id>
         <link href="https://www.youtube.com/watch?v=eUPMhMxZZS4"/>
@@ -2100,6 +2091,15 @@
         <updated>2023-04-16T12:30:57.000Z</updated>
         <author>
             <name>紅龍イサナ - Isana Kuryu -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【生誕&３Ｄお披露目振り返り】当日のおはなししたいし皆の感想も聞かせてー！✨【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=HsqcUNkOhdw</id>
+        <link href="https://www.youtube.com/watch?v=HsqcUNkOhdw"/>
+        <updated>2023-04-16T06:19:35.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
