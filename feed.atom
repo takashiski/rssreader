@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T11:05:26.497Z</id>
+    <id>urn:2023-05-12T11:34:28.314Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T11:05:26.497Z</updated>
+    <updated>2023-05-12T11:34:28.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=_w_sFux1vfQ</id>
         <link href="https://www.youtube.com/watch?v=_w_sFux1vfQ"/>
         <updated>2023-05-11T14:49:07.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【９ヶ月記念 | 歌枠】🎊プチお披露目＆初お披露目楽曲あり🎊｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=QLr3iq56H5M</id>
-        <link href="https://www.youtube.com/watch?v=QLr3iq56H5M"/>
-        <updated>2023-05-11T14:39:59.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
@@ -1065,6 +1056,15 @@
         <updated>2023-05-03T16:16:05.000Z</updated>
         <author>
             <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ククルアデザイン塾】ゲスト：天日テラス氏！デザインレクチャー新企画 ✧｜DESIGN【#ククルアクレイユ | Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=JUHd_s0iTi0</id>
+        <link href="https://www.youtube.com/watch?v=JUHd_s0iTi0"/>
+        <updated>2023-05-03T15:42:59.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
