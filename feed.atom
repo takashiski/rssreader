@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T17:34:19.606Z</id>
+    <id>urn:2023-05-13T18:06:23.622Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T17:34:19.606Z</updated>
+    <updated>2023-05-13T18:06:23.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】寝落ちできる♡ぺたぺた気持ち良いアロマオイルマッサージ♡【Aroma Oil Massage/Whisper Voice/Relaxing/Binaural】]]></title>
+        <id>https://www.youtube.com/watch?v=UB3eYnTPGrw</id>
+        <link href="https://www.youtube.com/watch?v=UB3eYnTPGrw"/>
+        <updated>2023-05-13T17:52:17.000Z</updated>
+        <author>
+            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】ピアノでゆったり子守唄ෆ。🌙໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=A3ElRo015I0</id>
@@ -174,15 +183,6 @@
         <updated>2023-05-12T11:59:31.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】寝落ちできる♡ぺたぺた気持ち良いアロマオイルマッサージ♡【Aroma Oil Massage/Whisper Voice/Relaxing/Binaural】]]></title>
-        <id>https://www.youtube.com/watch?v=UB3eYnTPGrw</id>
-        <link href="https://www.youtube.com/watch?v=UB3eYnTPGrw"/>
-        <updated>2023-05-12T11:59:06.000Z</updated>
-        <author>
-            <name>Himekuma Ribon Ch. 姫熊 りぼん</name>
         </author>
     </entry>
     <entry>
