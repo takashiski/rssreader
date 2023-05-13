@@ -601,6 +601,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jzR890rpjDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jzR890rpjDc",
+          "publishedOn": "2023-05-13T02:58:20.000Z",
+          "wordCount": null,
+          "title": "【雑談】学園グッズ買って！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jxubie_ugE8",
           "author": null,
           "description": "",
@@ -738,16 +748,6 @@
           "publishedOn": "2023-05-07T17:38:38.000Z",
           "wordCount": null,
           "title": "【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！後半！！！KARAOKE【新人VTuber/#GW耐久祭り】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AVUyWxQR6A0",
-          "publishedOn": "2023-05-07T10:53:57.000Z",
-          "wordCount": null,
-          "title": "【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！前半！！！KARAOKE【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         }
       ]
