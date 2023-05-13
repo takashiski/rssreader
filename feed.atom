@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T17:06:16.728Z</id>
+    <id>urn:2023-05-13T17:34:19.606Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T17:06:16.728Z</updated>
+    <updated>2023-05-13T17:34:19.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】ピアノでゆったり子守唄ෆ。🌙໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=A3ElRo015I0</id>
+        <link href="https://www.youtube.com/watch?v=A3ElRo015I0"/>
+        <updated>2023-05-13T17:24:43.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Lobotomy Corporation】#21 なんでもいいからミッションを進めたい…！！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=xv0y3jKD20g</id>
@@ -2064,15 +2073,6 @@
         <updated>2023-04-17T18:10:35.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[˗ˋ 踊ってみた ˊ˗刀ピークリスマス2022 回るの忘れてた。。 😇#short #ReAcT #月紫アリア #夢川かなう]]></title>
-        <id>https://www.youtube.com/watch?v=yaZipPI84-g</id>
-        <link href="https://www.youtube.com/watch?v=yaZipPI84-g"/>
-        <updated>2023-04-17T11:17:01.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
