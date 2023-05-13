@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T15:05:48.264Z</id>
+    <id>urn:2023-05-13T15:34:16.927Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T15:05:48.264Z</updated>
+    <updated>2023-05-13T15:34:16.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【スナックつきみ】みんなの好きポイントはどこ？？♡ 【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=VdCVAfFa46U</id>
-        <link href="https://www.youtube.com/watch?v=VdCVAfFa46U"/>
-        <updated>2023-05-13T11:30:14.000Z</updated>
+        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！！5555人耐久歌枠！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=eZFw3jBpyno</id>
+        <link href="https://www.youtube.com/watch?v=eZFw3jBpyno"/>
+        <updated>2023-05-13T15:25:14.000Z</updated>
         <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -66,15 +66,6 @@
         <updated>2023-05-13T06:50:58.000Z</updated>
         <author>
             <name>神輿たらん - Taran Mikoshi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】#21 なんでもいいからミッションを進めたい…！！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xv0y3jKD20g</id>
-        <link href="https://www.youtube.com/watch?v=xv0y3jKD20g"/>
-        <updated>2023-05-13T05:30:52.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
@@ -633,15 +624,6 @@
         <updated>2023-05-07T17:51:59.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！後半！！！KARAOKE【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=7uEwzi7AsEo</id>
-        <link href="https://www.youtube.com/watch?v=7uEwzi7AsEo"/>
-        <updated>2023-05-07T17:38:38.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
@@ -1725,6 +1707,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】今日もお疲れさまでした🤍たくさん頑張ったいい子さんを、たーっくさん癒やして寝かしつけてあげる…🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=l8ZxEWe0HyA</id>
+        <link href="https://www.youtube.com/watch?v=l8ZxEWe0HyA"/>
+        <updated>2023-04-24T19:13:31.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【凸待ち / 重大告知】#月紫アリア２周年 ✨ 盛りだくさん❕お祝いして～🎉💜✨ Debut 2nd anniversary 💗【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=k_PVBb5_i1I</id>
         <link href="https://www.youtube.com/watch?v=k_PVBb5_i1I"/>
@@ -1873,6 +1864,15 @@
         <id>https://www.youtube.com/watch?v=YM7UPlMxXS0</id>
         <link href="https://www.youtube.com/watch?v=YM7UPlMxXS0"/>
         <updated>2023-04-21T22:23:36.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=fArgNaHEmCc</id>
+        <link href="https://www.youtube.com/watch?v=fArgNaHEmCc"/>
+        <updated>2023-04-21T14:46:38.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
