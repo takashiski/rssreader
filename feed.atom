@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T09:34:15.422Z</id>
+    <id>urn:2023-05-13T10:05:42.782Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T09:34:15.422Z</updated>
+    <updated>2023-05-13T10:05:42.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -165,15 +165,6 @@
         <updated>2023-05-12T08:32:42.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 / Singing Stream 】はんなり癒しライバーの歌で癒されて♡ #ヒーリングV歌枠リレー 【#彩雲のの / #新人Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=_5cQJ74w9dE</id>
-        <link href="https://www.youtube.com/watch?v=_5cQJ74w9dE"/>
-        <updated>2023-05-12T03:59:08.000Z</updated>
-        <author>
-            <name>彩雲のの - Nono Ayamo -</name>
         </author>
     </entry>
     <entry>
@@ -690,7 +681,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#歌枠】５月病になりました☔ Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <title type="html"><![CDATA[【#歌枠】５月病をFUKITOBASU!! Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
         <id>https://www.youtube.com/watch?v=ROTybhB8VEY</id>
         <link href="https://www.youtube.com/watch?v=ROTybhB8VEY"/>
         <updated>2023-05-07T11:40:31.000Z</updated>
