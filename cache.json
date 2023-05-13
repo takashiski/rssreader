@@ -434,6 +434,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xv0y3jKD20g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xv0y3jKD20g",
+          "publishedOn": "2023-05-13T16:26:14.000Z",
+          "wordCount": null,
+          "title": "【Lobotomy Corporation】#21 なんでもいいからミッションを進めたい…！！【新人Vtuber / 音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rBIirp6xal0",
           "author": null,
           "description": "",
@@ -571,16 +581,6 @@
           "publishedOn": "2023-04-25T17:34:09.000Z",
           "wordCount": null,
           "title": "【雑談】Lobotomy Corporation雑談💖ねむが職員になったりアブノマになったりしたお話し＆スパチャありがとう時間🌸【新人Vtuber / 音伽ねむ / Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l8ZxEWe0HyA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l8ZxEWe0HyA",
-          "publishedOn": "2023-04-24T19:13:31.000Z",
-          "wordCount": null,
-          "title": "【ASMR/睡眠導入】今日もお疲れさまでした🤍たくさん頑張ったいい子さんを、たーっくさん癒やして寝かしつけてあげる…🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -2478,16 +2478,6 @@
           "publishedOn": "2023-05-11T01:52:02.000Z",
           "wordCount": null,
           "title": "【#ユノりぼ姉妹】#宇佐美ユノのおたと～く！初見さん大歓迎♡初めてのミリしらの解説はこの先生！【宇佐美ユノ / 姫熊りぼん / vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qUq0LxnzKb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qUq0LxnzKb8",
-          "publishedOn": "2023-05-05T16:27:20.000Z",
-          "wordCount": null,
-          "title": "【ASMR】とろける耳かき♡寝落ち確実/囁き/吐息/バイノーラル【Ear Cleaning/relax/Binaural/Whispering/asmr】",
           "imageUrl": null
         },
         {
