@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T07:05:21.671Z</id>
+    <id>urn:2023-05-13T07:34:11.817Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T07:05:21.671Z</updated>
+    <updated>2023-05-13T07:34:11.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】ガンダムSEED✧SEED DESTINY 縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BdPxxK5FG4w</id>
+        <link href="https://www.youtube.com/watch?v=BdPxxK5FG4w"/>
+        <updated>2023-05-13T07:13:39.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】学園グッズ買って！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jzR890rpjDc</id>
@@ -159,7 +168,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠 / Singing Stream 】はんなり癒しライバーの歌で癒されて♡ #ヒーリング歌枠リレー 【#彩雲のの / #新人Vtuber】]]></title>
+        <title type="html"><![CDATA[【 歌枠 / Singing Stream 】はんなり癒しライバーの歌で癒されて♡ #ヒーリングV歌枠リレー 【#彩雲のの / #新人Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=_5cQJ74w9dE</id>
         <link href="https://www.youtube.com/watch?v=_5cQJ74w9dE"/>
         <updated>2023-05-12T03:59:08.000Z</updated>
@@ -1101,15 +1110,6 @@
         <updated>2023-05-03T17:37:31.000Z</updated>
         <author>
             <name>美睡シュカ - Syuka Bisui -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】リクエストOK！世間は祝日らしい｜Karaoke Singing【#ククルアクレイユ | Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=iEVLGhkHcSA</id>
-        <link href="https://www.youtube.com/watch?v=iEVLGhkHcSA"/>
-        <updated>2023-05-03T17:29:15.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
