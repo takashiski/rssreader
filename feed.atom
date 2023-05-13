@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T03:34:16.823Z</id>
+    <id>urn:2023-05-13T04:05:44.522Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T03:34:16.823Z</updated>
+    <updated>2023-05-13T04:05:44.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！！5555人耐久歌枠！！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=eZFw3jBpyno</id>
+        <link href="https://www.youtube.com/watch?v=eZFw3jBpyno"/>
+        <updated>2023-05-13T04:00:17.000Z</updated>
+        <author>
+            <name>神輿たらん - Taran Mikoshi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】学園グッズ買って！！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jzR890rpjDc</id>
@@ -597,15 +606,6 @@
         <updated>2023-05-07T17:51:59.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！後半！！！KARAOKE【新人VTuber/#GW耐久祭り】]]></title>
-        <id>https://www.youtube.com/watch?v=7uEwzi7AsEo</id>
-        <link href="https://www.youtube.com/watch?v=7uEwzi7AsEo"/>
-        <updated>2023-05-07T17:38:38.000Z</updated>
-        <author>
-            <name>神輿たらん - Taran Mikoshi -</name>
         </author>
     </entry>
     <entry>
