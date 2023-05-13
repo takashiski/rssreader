@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T11:34:14.096Z</id>
+    <id>urn:2023-05-13T12:06:28.345Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-13T11:34:14.096Z</updated>
+    <updated>2023-05-13T12:06:28.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】みんなの好きポイントはどこ？？♡ 【Vtuber・丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=VdCVAfFa46U</id>
+        <link href="https://www.youtube.com/watch?v=VdCVAfFa46U"/>
+        <updated>2023-05-13T11:30:14.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】ピアノでゆったり子守唄ෆ。🌙໒꒱·ﾟ初見さん大歓迎！🐟Singing Stream【夢川かなう/リアクト/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=A3ElRo015I0</id>
@@ -1873,15 +1882,6 @@
         <id>https://www.youtube.com/watch?v=YM7UPlMxXS0</id>
         <link href="https://www.youtube.com/watch?v=YM7UPlMxXS0"/>
         <updated>2023-04-21T22:23:36.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【零 ～濡鴉ノ巫女～】リラックスしすぎて寝ちゃわないでね♡最終局面わよ！【Vtuber・丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=fArgNaHEmCc</id>
-        <link href="https://www.youtube.com/watch?v=fArgNaHEmCc"/>
-        <updated>2023-04-21T14:46:38.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
