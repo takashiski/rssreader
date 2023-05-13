@@ -277,16 +277,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=BdPxxK5FG4w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BdPxxK5FG4w",
-          "publishedOn": "2023-05-12T20:44:44.000Z",
-          "wordCount": null,
-          "title": "【歌枠】ガンダムSEED✧SEED DESTINY 縛り｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=_w_sFux1vfQ",
           "author": null,
           "description": "",
@@ -424,6 +414,16 @@
           "publishedOn": "2023-05-04T12:36:36.000Z",
           "wordCount": null,
           "title": "【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=iEVLGhkHcSA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iEVLGhkHcSA",
+          "publishedOn": "2023-05-03T17:29:15.000Z",
+          "wordCount": null,
+          "title": "【歌枠】リクエストOK！世間は祝日らしい｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -591,6 +591,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jzR890rpjDc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jzR890rpjDc",
+          "publishedOn": "2023-05-13T06:50:58.000Z",
+          "wordCount": null,
+          "title": "【雑談】学園グッズ買って！！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eZFw3jBpyno",
           "author": null,
           "description": "",
@@ -728,16 +738,6 @@
           "publishedOn": "2023-05-08T10:00:01.000Z",
           "wordCount": null,
           "title": "【激ムズ！？】Lovers / sumika 【ハモリチャレンジ】#るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7uEwzi7AsEo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7uEwzi7AsEo",
-          "publishedOn": "2023-05-07T17:38:38.000Z",
-          "wordCount": null,
-          "title": "【耐久/singing】初見さん大歓迎！初めての100曲耐久歌枠！後半！！！KARAOKE【新人VTuber/#GW耐久祭り】",
           "imageUrl": null
         }
       ]
