@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SCRNNgbdeco",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SCRNNgbdeco",
+          "publishedOn": "2023-05-14T04:56:47.000Z",
+          "wordCount": null,
+          "title": "【第10話〜第15話】同時視聴｜少女革命ウテナ【メン限】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BdPxxK5FG4w",
           "author": null,
           "description": "",
@@ -414,16 +424,6 @@
           "publishedOn": "2023-05-04T17:23:11.000Z",
           "wordCount": null,
           "title": "【歌枠】見つけて！エルフの歌声きいてね｜Karaoke Singing【#ククルアクレイユ | Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8GdQM11mQV8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8GdQM11mQV8",
-          "publishedOn": "2023-05-04T12:36:36.000Z",
-          "wordCount": null,
-          "title": "【朝活】あぁ＾～ぽあようするんじゃぁ＾～【#ククルアクレイユ | Re:AcT】",
           "imageUrl": null
         }
       ]
