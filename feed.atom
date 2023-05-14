@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T05:05:33.637Z</id>
+    <id>urn:2023-05-14T05:34:14.324Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T05:05:33.637Z</updated>
+    <updated>2023-05-14T05:34:14.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ASMR/睡眠導入】たくさん頑張ってるあなたを、ねむがいーっぱい癒やしあげる…🤍ear cleaning /massage/ Whispering【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=AvhUjowTLWU</id>
+        <link href="https://www.youtube.com/watch?v=AvhUjowTLWU"/>
+        <updated>2023-05-14T05:31:38.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #NewSuperHookGirl 】凶悪難易度なステージ5に挑む✨目指せクリア…！！【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=fWxj3GhR7LY</id>
+        <link href="https://www.youtube.com/watch?v=fWxj3GhR7LY"/>
+        <updated>2023-05-14T05:25:42.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎💕歌いたい曲を気まぐれに歌いたい🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-foBMVYnLE8</id>
+        <link href="https://www.youtube.com/watch?v=-foBMVYnLE8"/>
+        <updated>2023-05-14T05:20:48.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第10話〜第15話】同時視聴｜少女革命ウテナ【メン限】]]></title>
         <id>https://www.youtube.com/watch?v=SCRNNgbdeco</id>
@@ -1482,15 +1509,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Lobotomy Corporation】#20 いちご大福って美味しいよね🍓！美味しいよ…ね………【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mFTlSQEKS_g</id>
-        <link href="https://www.youtube.com/watch?v=mFTlSQEKS_g"/>
-        <updated>2023-04-28T18:00:10.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【ASMR】安眠誘導💗一週間お疲れ様な君へ、最高の癒し時間を💗 ear cleaning/massage 【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=tch_6qjN9CA</id>
         <link href="https://www.youtube.com/watch?v=tch_6qjN9CA"/>
@@ -1689,15 +1707,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】Lobotomy Corporation雑談💖ねむが職員になったりアブノマになったりしたお話し＆スパチャありがとう時間🌸【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=m6aFjkokJVw</id>
-        <link href="https://www.youtube.com/watch?v=m6aFjkokJVw"/>
-        <updated>2023-04-25T17:34:09.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠】やっとうたえるぞ～～！⋆͛🎤⋆͛   sing and talk【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=kAEz0LMx8i0</id>
         <link href="https://www.youtube.com/watch?v=kAEz0LMx8i0"/>
@@ -1722,15 +1731,6 @@
         <updated>2023-04-25T04:19:17.000Z</updated>
         <author>
             <name>Mari Channelかしこまり</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ASMR/睡眠導入】今日もお疲れさまでした🤍たくさん頑張ったいい子さんを、たーっくさん癒やして寝かしつけてあげる…🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=l8ZxEWe0HyA</id>
-        <link href="https://www.youtube.com/watch?v=l8ZxEWe0HyA"/>
-        <updated>2023-04-24T19:13:31.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
