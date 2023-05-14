@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T08:05:48.123Z</id>
+    <id>urn:2023-05-14T08:34:17.591Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T08:05:48.123Z</updated>
+    <updated>2023-05-14T08:34:17.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠 / Singing Stream 】歌枠リレーありがとうの舞💃 【#彩雲のの / #新人Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=fIJhUHC-T8g</id>
+        <link href="https://www.youtube.com/watch?v=fIJhUHC-T8g"/>
+        <updated>2023-05-14T08:12:34.000Z</updated>
+        <author>
+            <name>彩雲のの - Nono Ayamo -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【耐久/歌枠/singing】初見さん大歓迎！5555人耐久リベンジ！【新人VTuber/神輿たらん/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=o9HIMRBwHGM</id>
@@ -28,15 +37,6 @@
         <id>https://www.youtube.com/watch?v=fWxj3GhR7LY</id>
         <link href="https://www.youtube.com/watch?v=fWxj3GhR7LY"/>
         <updated>2023-05-14T05:25:42.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠 】初見さん大歓迎💕歌いたい曲を気まぐれに歌いたい🤍💭【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=-foBMVYnLE8</id>
-        <link href="https://www.youtube.com/watch?v=-foBMVYnLE8"/>
-        <updated>2023-05-14T05:20:48.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
@@ -1506,6 +1506,15 @@
         <updated>2023-04-29T01:04:19.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Lobotomy Corporation】#20 いちご大福って美味しいよね🍓！美味しいよ…ね………【新人Vtuber / 音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=mFTlSQEKS_g</id>
+        <link href="https://www.youtube.com/watch?v=mFTlSQEKS_g"/>
+        <updated>2023-04-28T18:00:10.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
