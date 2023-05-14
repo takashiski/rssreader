@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T00:50:04.402Z</id>
+    <id>urn:2023-05-14T01:33:21.935Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T00:50:04.402Z</updated>
+    <updated>2023-05-14T01:33:21.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠】５月病をFUKITOBASU!! Singing Stream !!【Vtuber /#猫乃ユキノ】]]></title>
+        <id>https://www.youtube.com/watch?v=ROTybhB8VEY</id>
+        <link href="https://www.youtube.com/watch?v=ROTybhB8VEY"/>
+        <updated>2023-05-14T01:11:42.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ASMR/睡眠導入】寝落ちできる♡ぺたぺた気持ち良いアロマオイルマッサージ♡【Aroma Oil Massage/Whisper Voice/Relaxing/Binaural】]]></title>
         <id>https://www.youtube.com/watch?v=UB3eYnTPGrw</id>
@@ -1956,15 +1965,6 @@
         <updated>2023-04-20T01:26:13.000Z</updated>
         <author>
             <name>Usami Yuno Ch. 宇佐美 ユノ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PsychoBreak/サイコブレイク】酔い止めを飲むのを忘れない🧠#3【Vtuber /#猫乃ユキノ】]]></title>
-        <id>https://www.youtube.com/watch?v=5iz2SwoEIv0</id>
-        <link href="https://www.youtube.com/watch?v=5iz2SwoEIv0"/>
-        <updated>2023-04-20T01:14:02.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
