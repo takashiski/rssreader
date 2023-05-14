@@ -591,6 +591,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCShDuyxe-cDewxtcPbBmi_Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=o9HIMRBwHGM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=o9HIMRBwHGM",
+          "publishedOn": "2023-05-14T07:02:53.000Z",
+          "wordCount": null,
+          "title": "【耐久/歌枠/singing】初見さん大歓迎！5555人耐久リベンジ！【新人VTuber/神輿たらん/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=eZFw3jBpyno",
           "author": null,
           "description": "",
@@ -728,16 +738,6 @@
           "publishedOn": "2023-05-08T22:05:37.000Z",
           "wordCount": null,
           "title": "【歌枠/singing】100曲耐久で喉終わってるお歌【新人VTuber/神輿たらん/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0Z0Wlp7CvVs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0Z0Wlp7CvVs",
-          "publishedOn": "2023-05-08T10:00:01.000Z",
-          "wordCount": null,
-          "title": "【激ムズ！？】Lovers / sumika 【ハモリチャレンジ】#るーとも #新人vtuber #るっくあっとたらん #歌ってみた #shorts",
           "imageUrl": null
         }
       ]
