@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T12:07:17.784Z</id>
+    <id>urn:2023-05-27T12:40:53.947Z</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T12:07:17.784Z</updated>
+    <updated>2023-05-27T12:40:53.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#VirtualonMusic】第４回！3D音楽番組「Virtual on Music」ゲスト キョンシーのCiちゃん【リアクト／Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=OUT4SKf7Yis</id>
+        <link href="https://www.youtube.com/watch?v=OUT4SKf7Yis"/>
+        <updated>2023-05-27T12:15:27.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#VirtualonMusic】第３回！3D音楽番組「Virtual on Music」ゲスト エルセ【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=e6JKaq2gemk</id>
