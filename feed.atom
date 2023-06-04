@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T21:34:42.802Z</id>
+    <id>urn:2023-06-04T22:06:03.290Z</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T21:34:42.802Z</updated>
+    <updated>2023-06-04T22:06:03.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -19,15 +19,6 @@
         <id>https://www.youtube.com/watch?v=e6JKaq2gemk</id>
         <link href="https://www.youtube.com/watch?v=e6JKaq2gemk"/>
         <updated>2023-05-07T11:14:45.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オリジナル楽曲】Ride on！せれぶれーしょん / Re:AcT]]></title>
-        <id>https://www.youtube.com/watch?v=lz31BQ5B8-I</id>
-        <link href="https://www.youtube.com/watch?v=lz31BQ5B8-I"/>
-        <updated>2023-05-06T10:00:07.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
