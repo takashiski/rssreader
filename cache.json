@@ -10,18 +10,7 @@
       "title": "【Re:AcT /リアクト】公式チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=OUT4SKf7Yis",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OUT4SKf7Yis",
-          "publishedOn": "2023-05-27T12:15:27.000Z",
-          "wordCount": null,
-          "title": "【#VirtualonMusic】第４回！3D音楽番組「Virtual on Music」ゲスト キョンシーのCiちゃん【リアクト／Re:AcT】",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
