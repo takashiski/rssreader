@@ -10,7 +10,18 @@
       "title": "【Re:AcT /リアクト】公式チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QSf2kbATO9k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QSf2kbATO9k",
+          "publishedOn": "2023-07-03T11:19:39.000Z",
+          "wordCount": null,
+          "title": "【 #リアクト５周年 】5th Anniversary✨ 記念ミニライブ 【リアクト／Re:AcT】",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
