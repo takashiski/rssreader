@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-07T10:36:09.547Z</id>
+    <id>urn:2023-07-07T11:05:45.858Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T10:36:09.547Z</updated>
+    <updated>2023-07-07T11:05:45.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[【 #リアクト５周年 】5th Anniversary✨ 記念ミニライブ 【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QSf2kbATO9k</id>
         <link href="https://www.youtube.com/watch?v=QSf2kbATO9k"/>
-        <updated>2023-07-03T11:19:39.000Z</updated>
+        <updated>2023-07-07T11:01:20.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
