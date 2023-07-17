@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-17T11:05:53.210Z</id>
+    <id>urn:2023-07-17T11:34:35.283Z</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T11:05:53.210Z</updated>
+    <updated>2023-07-17T11:34:35.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[【#VirtualonMusic】第５回！3D音楽番組「Virtual on Music」ゲスト 七海うらら【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=l6Wz9B_u3UQ</id>
         <link href="https://www.youtube.com/watch?v=l6Wz9B_u3UQ"/>
-        <updated>2023-07-16T05:33:45.000Z</updated>
+        <updated>2023-07-17T11:06:56.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
