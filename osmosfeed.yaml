@@ -6,7 +6,7 @@
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
 #comic new release
-  - href: https://bookwalker.jp/rss/books2.xml
+  # - href: https://bookwalker.jp/rss/books2.xml
 #official
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q
 #remixx
