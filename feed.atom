@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T13:07:08.626Z</id>
+    <id>urn:2023-10-13T13:34:20.044Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T13:07:08.626Z</updated>
+    <updated>2023-10-13T13:34:20.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[【重大告知🏫】2023年秋の特別企画について発表！さらに3D〇〇衣装も大公開 【リアクト／Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Obdzx7e89BU</id>
         <link href="https://www.youtube.com/watch?v=Obdzx7e89BU"/>
-        <updated>2023-10-09T03:27:48.000Z</updated>
+        <updated>2023-10-13T13:22:40.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
