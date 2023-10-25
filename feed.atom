@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-25T13:06:28.314Z</id>
+    <id>urn:2023-10-25T13:34:29.416Z</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T13:06:28.314Z</updated>
+    <updated>2023-10-25T13:34:29.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【オリジナル楽曲】Bye Bye バッドエンド / Re:AcT【MV】]]></title>
-        <id>https://www.youtube.com/watch?v=wCFv1mRx2TY</id>
-        <link href="https://www.youtube.com/watch?v=wCFv1mRx2TY"/>
-        <updated>2023-10-25T13:00:44.000Z</updated>
+        <title type="html"><![CDATA[【 #リアクト学園文化祭】2023年秋の特別企画🏫 文化祭ライブで盛り上がろう！特別制服MVも大公開！ 【リアクト／Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=SL20yZ3In2o</id>
+        <link href="https://www.youtube.com/watch?v=SL20yZ3In2o"/>
+        <updated>2023-10-25T13:06:54.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #リアクト学園文化祭】2023年秋の特別企画🏫 文化祭ライブで盛り上がろう！特別制服MVも大公開！ 【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=SL20yZ3In2o</id>
-        <link href="https://www.youtube.com/watch?v=SL20yZ3In2o"/>
-        <updated>2023-10-21T10:59:55.000Z</updated>
+        <title type="html"><![CDATA[【オリジナル楽曲】Bye Bye バッドエンド / Re:AcT【MV】]]></title>
+        <id>https://www.youtube.com/watch?v=wCFv1mRx2TY</id>
+        <link href="https://www.youtube.com/watch?v=wCFv1mRx2TY"/>
+        <updated>2023-10-25T13:00:44.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
