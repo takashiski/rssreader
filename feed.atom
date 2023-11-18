@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-17T23:34:33.093Z</id>
+    <id>urn:2023-11-18T00:21:38.029Z</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T23:34:33.093Z</updated>
+    <updated>2023-11-18T00:21:38.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -37,15 +37,6 @@
         <id>https://www.youtube.com/watch?v=wCFv1mRx2TY</id>
         <link href="https://www.youtube.com/watch?v=wCFv1mRx2TY"/>
         <updated>2023-10-25T13:00:44.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#リアクト学園文化祭】放課後カラオケ🎤 文化祭イラストグッズのお品書きも大公開🎵 【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2tD85_pGMtE</id>
-        <link href="https://www.youtube.com/watch?v=2tD85_pGMtE"/>
-        <updated>2023-10-19T12:06:56.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
