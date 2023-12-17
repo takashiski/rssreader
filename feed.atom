@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-16T23:34:26.226Z</id>
+    <id>urn:2023-12-17T00:25:04.056Z</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T23:34:26.226Z</updated>
+    <updated>2023-12-17T00:25:04.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,24 +10,6 @@
         <id>https://www.youtube.com/watch?v=F9K4CqH3E-0</id>
         <link href="https://www.youtube.com/watch?v=F9K4CqH3E-0"/>
         <updated>2023-12-16T13:53:13.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ユメニミタカラ】特大情報大放出カラオケ！ライブキービジュアルも初公開！ 【リアクト／Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nmV02fuRuiA</id>
-        <link href="https://www.youtube.com/watch?v=nmV02fuRuiA"/>
-        <updated>2023-11-17T12:19:31.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CM】ユメニミタカラ〜MAGICAL HARMONY〜 【2023/12/30 開催！】]]></title>
-        <id>https://www.youtube.com/watch?v=922_n_8RmI0</id>
-        <link href="https://www.youtube.com/watch?v=922_n_8RmI0"/>
-        <updated>2023-11-17T12:04:18.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
