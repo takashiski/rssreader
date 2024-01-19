@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-19T00:23:09.660Z</id>
+    <id>urn:2024-01-19T00:49:43.861Z</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T00:23:09.660Z</updated>
+    <updated>2024-01-19T00:49:43.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,15 +28,6 @@
         <id>https://www.youtube.com/watch?v=AcGMuoKLK1k</id>
         <link href="https://www.youtube.com/watch?v=AcGMuoKLK1k"/>
         <updated>2023-12-30T07:11:33.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#リアクト 】縦型３Dカラオケ配信！ #vtuber]]></title>
-        <id>https://www.youtube.com/watch?v=rhSy8vhI4Qo</id>
-        <link href="https://www.youtube.com/watch?v=rhSy8vhI4Qo"/>
-        <updated>2023-12-20T12:28:28.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
