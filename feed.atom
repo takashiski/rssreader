@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-17T00:49:18.122Z</id>
+    <id>urn:2024-02-17T01:25:27.616Z</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T00:49:18.122Z</updated>
+    <updated>2024-02-17T01:25:27.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,15 +10,6 @@
         <id>https://www.youtube.com/watch?v=Tvm6WcmcNEg</id>
         <link href="https://www.youtube.com/watch?v=Tvm6WcmcNEg"/>
         <updated>2024-02-12T13:49:00.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023.12.30 Re:AcT LIVE 「ユメニミタカラ ~ MAGICAL HARMONY ~」]]></title>
-        <id>https://www.youtube.com/watch?v=uBBB1LKiRj8</id>
-        <link href="https://www.youtube.com/watch?v=uBBB1LKiRj8"/>
-        <updated>2024-01-18T13:20:38.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
