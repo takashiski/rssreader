@@ -4,18 +4,7 @@
       "title": "【Re:AcT /リアクト】公式チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Tvm6WcmcNEg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Tvm6WcmcNEg",
-          "publishedOn": "2024-02-12T13:49:00.000Z",
-          "wordCount": null,
-          "title": "【 #VVF2024 】バレンタイン特別配信 🍫Vtuber Valentine Fes 大感想会【リアクト／Re:AcT】",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
