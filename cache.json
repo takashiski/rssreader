@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "【Re:AcT /リアクト】公式チャンネル",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
-      "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
