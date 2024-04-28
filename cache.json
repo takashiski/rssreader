@@ -1,42 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "【Re:AcT /リアクト】公式チャンネル",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
-      "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=BP3LlWtI-Yc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BP3LlWtI-Yc",
-          "publishedOn": "2024-04-22T10:00:07.000Z",
-          "wordCount": null,
-          "title": "『Re:AcT Gaming』4月26日（金）19:00より2期生デビュー決定！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oVPbACfCwZs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oVPbACfCwZs",
-          "publishedOn": "2024-04-19T10:00:47.000Z",
-          "wordCount": null,
-          "title": "『Re:AcT Gaming』2期生ティザーPV",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kufHL9n3iI8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kufHL9n3iI8",
-          "publishedOn": "2024-03-31T12:25:56.000Z",
-          "wordCount": null,
-          "title": "RGC Apex Legends with ハナマルキ 本配信【#RGC_Apex】",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
