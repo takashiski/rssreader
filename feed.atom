@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-18T21:34:15.756Z</id>
+    <id>urn:2024-05-18T22:05:53.478Z</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T21:34:15.756Z</updated>
+    <updated>2024-05-18T22:05:53.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -37,15 +37,6 @@
         <id>https://www.youtube.com/watch?v=BP3LlWtI-Yc</id>
         <link href="https://www.youtube.com/watch?v=BP3LlWtI-Yc"/>
         <updated>2024-04-22T10:00:07.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Re:AcT Gaming』2期生ティザーPV]]></title>
-        <id>https://www.youtube.com/watch?v=oVPbACfCwZs</id>
-        <link href="https://www.youtube.com/watch?v=oVPbACfCwZs"/>
-        <updated>2024-04-19T10:00:47.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
