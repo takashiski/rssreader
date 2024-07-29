@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-29T09:34:25.553Z</id>
+    <id>urn:2024-07-29T10:06:26.293Z</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T09:34:25.553Z</updated>
+    <updated>2024-07-29T10:06:26.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #リアクト 】2024年Re:AcT夏グッズを大公開！ 【 #コミケ104 】]]></title>
+        <id>https://www.youtube.com/watch?v=lynHJjAlsPw</id>
+        <link href="https://www.youtube.com/watch?v=lynHJjAlsPw"/>
+        <updated>2024-07-29T09:41:34.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #リアクト 】コミケ104出展✨ 2024年のRe:AcT夏イラストを大公開！ 【 #コミケ104 】]]></title>
         <id>https://www.youtube.com/watch?v=MRQgwyjAvyc</id>
