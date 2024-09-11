@@ -4,18 +4,7 @@
       "title": "【Re:AcT /リアクト】公式チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=-9aMX1VdCMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-9aMX1VdCMw",
-          "publishedOn": "2024-08-12T12:07:36.000Z",
-          "wordCount": null,
-          "title": "【 #リアクト 】Re:AcTサマーin沖縄 スペシャルライブ！【 #コミケ104 】",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
