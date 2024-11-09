@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4fHyAGPJeFE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4fHyAGPJeFE",
+          "publishedOn": "2024-11-09T12:15:45.000Z",
+          "wordCount": null,
+          "title": "【 #リアクト年末フェス2024  】2024年のライブは「バトル」と「ユメ」！【重大告知】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=64LYa-0woxY",
           "author": null,
           "description": "",
@@ -13,16 +23,6 @@
           "publishedOn": "2024-11-09T12:05:06.000Z",
           "wordCount": null,
           "title": "【Trailer】#リアクト年末フェス2024 開幕【2024.12.27 Fri.】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4fHyAGPJeFE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4fHyAGPJeFE",
-          "publishedOn": "2024-11-07T14:59:09.000Z",
-          "wordCount": null,
-          "title": "【 #リアクト年末フェス2024  】2024年のライブは「バトル」と「ユメ」！【重大告知】",
           "imageUrl": null
         }
       ]
