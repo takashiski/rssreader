@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-19T23:34:35.346Z</id>
+    <id>urn:2024-12-20T00:29:02.260Z</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T23:34:35.346Z</updated>
+    <updated>2024-12-20T00:29:02.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,15 +10,6 @@
         <id>https://www.youtube.com/watch?v=ekTN-A8H6GA</id>
         <link href="https://www.youtube.com/watch?v=ekTN-A8H6GA"/>
         <updated>2024-12-08T11:51:07.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#HADOリアクト】ARスポーツ『HADO』とのコラボ情報公開と体験レポート！#プレゼントキャンペーン のお知らせも！]]></title>
-        <id>https://www.youtube.com/watch?v=MW7YEBrxj2M</id>
-        <link href="https://www.youtube.com/watch?v=MW7YEBrxj2M"/>
-        <updated>2024-11-20T11:48:55.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
