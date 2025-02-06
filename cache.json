@@ -4,18 +4,7 @@
       "title": "【Re:AcT /リアクト】公式チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=m5_g42fOaqY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m5_g42fOaqY",
-          "publishedOn": "2025-01-07T12:09:13.000Z",
-          "wordCount": null,
-          "title": "【#リアクトバレンタイン2025】チケット販売開始とポスト作り！？",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
