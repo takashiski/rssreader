@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-11T11:06:09.174Z</id>
+    <id>urn:2025-02-11T11:34:54.832Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T11:06:09.174Z</updated>
+    <updated>2025-02-11T11:34:54.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【fast food simulator】使えるバイトを採用しました！ガツガツ稼いで幸せに暮らします🍟🍔🥤【チレン・ザヴィ/丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=KaS-kvk-9JI</id>
+        <link href="https://www.youtube.com/watch?v=KaS-kvk-9JI"/>
+        <updated>2025-02-11T11:11:51.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✧ 🍔昼飯雑談🍔✧果たして九楽は12時までにハンバーガーを入手できるのか。【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=RGrOnUDTYks</id>
