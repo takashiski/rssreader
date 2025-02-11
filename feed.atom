@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-11T15:06:58.162Z</id>
+    <id>urn:2025-02-11T15:36:02.617Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T15:06:58.162Z</updated>
+    <updated>2025-02-11T15:36:02.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ぎ　ゅ　..　💜【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=CtwNd75svLE</id>
+        <link href="https://www.youtube.com/watch?v=CtwNd75svLE"/>
+        <updated>2025-02-11T15:20:36.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】New🎉スパチャ演出お披露目🎉｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7PUjCboXLtc</id>
@@ -75,15 +84,6 @@
         <updated>2025-02-10T09:01:00.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぎ　ゅ　..　💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=CtwNd75svLE</id>
-        <link href="https://www.youtube.com/watch?v=CtwNd75svLE"/>
-        <updated>2025-02-10T07:17:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
