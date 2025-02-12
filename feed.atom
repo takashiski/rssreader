@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T12:10:51.630Z</id>
+    <id>urn:2025-02-12T12:46:32.769Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T12:10:51.630Z</updated>
+    <updated>2025-02-12T12:46:32.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #魔光新ビジュだって 】大人の魔光を見てあげて【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=szYfbqbfEOQ</id>
+        <link href="https://www.youtube.com/watch?v=szYfbqbfEOQ"/>
+        <updated>2025-02-12T12:39:40.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #稀羽すう新衣装 】おしゃれでかっこいい、最強の新衣装です。【 Re:AcT / 稀羽すう 】]]></title>
         <id>https://www.youtube.com/watch?v=oDkD7MlcBJU</id>
@@ -361,15 +370,6 @@
         <id>https://www.youtube.com/watch?v=ByzBpNErYV0</id>
         <link href="https://www.youtube.com/watch?v=ByzBpNErYV0"/>
         <updated>2025-02-06T11:12:41.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #魔光新ビジュだって 】大人の魔光を見てあげて【 #Vtuber / #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=szYfbqbfEOQ</id>
-        <link href="https://www.youtube.com/watch?v=szYfbqbfEOQ"/>
-        <updated>2025-02-06T07:08:01.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
         </author>

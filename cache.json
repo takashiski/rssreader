@@ -226,6 +226,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=szYfbqbfEOQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=szYfbqbfEOQ",
+          "publishedOn": "2025-02-12T12:39:40.000Z",
+          "wordCount": null,
+          "title": "【 #魔光新ビジュだって 】大人の魔光を見てあげて【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=49jYVAtMMB0",
           "author": null,
           "description": "",
@@ -293,16 +303,6 @@
           "publishedOn": "2025-02-06T11:12:41.000Z",
           "wordCount": null,
           "title": "【重大告知】ついに？！あの？！？？って、ええ？！？！？！？！【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=szYfbqbfEOQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=szYfbqbfEOQ",
-          "publishedOn": "2025-02-06T07:08:01.000Z",
-          "wordCount": null,
-          "title": "【 #魔光新ビジュだって 】大人の魔光を見てあげて【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
