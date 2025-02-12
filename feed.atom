@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T13:10:10.887Z</id>
+    <id>urn:2025-02-12T13:36:00.398Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T13:10:10.887Z</updated>
+    <updated>2025-02-12T13:36:00.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡ぎゅってしておやすみ💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=n9xxBPMW4Uc</id>
+        <link href="https://www.youtube.com/watch?v=n9xxBPMW4Uc"/>
+        <updated>2025-02-12T13:34:34.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #魔光新ビジュだって 】大人の魔光を見てあげて【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=szYfbqbfEOQ</id>
@@ -1254,15 +1263,6 @@
         <updated>2025-01-19T02:15:10.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖#歌枠 〗久しぶりの縦型📱✨ #shorts 〖Vtuber / #猫乃ユキノ〗]]></title>
-        <id>https://www.youtube.com/watch?v=bSNpVRdPcc0</id>
-        <link href="https://www.youtube.com/watch?v=bSNpVRdPcc0"/>
-        <updated>2025-01-19T01:24:04.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
