@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-12T08:37:34.864Z</id>
+    <id>urn:2025-02-12T09:07:01.910Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T08:37:34.864Z</updated>
+    <updated>2025-02-12T09:07:01.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[明るい曲……じゃない⁉️安藤未知ちゃんの振り付け好き♡#きょういくばんぐみのテーマ #教育番組 #みんなの教育番組 #踊ってみた #九楽ライ #Vtuber #dance #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=zgb4kq3YBFA</id>
+        <link href="https://www.youtube.com/watch?v=zgb4kq3YBFA"/>
+        <updated>2025-02-12T09:01:14.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【fast food simulator】使えるバイトを採用しました！ガツガツ稼いで幸せに暮らします🍟🍔🥤【チレン・ザヴィ/丸餅つきみ】]]></title>
         <id>https://www.youtube.com/watch?v=KaS-kvk-9JI</id>
@@ -1164,15 +1173,6 @@
         <updated>2025-01-22T11:04:20.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✌️✌️難しい方踊れるわけもなく…。#UNDEAD #YOASOBI #物語シリーズ #ダンス #踊ってみた #dance #アイドル #Vtuber #九楽ライ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=R03zTs469PY</id>
-        <link href="https://www.youtube.com/watch?v=R03zTs469PY"/>
-        <updated>2025-01-22T09:43:03.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
