@@ -383,6 +383,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=oDkD7MlcBJU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=oDkD7MlcBJU",
+          "publishedOn": "2025-02-12T11:09:29.000Z",
+          "wordCount": null,
+          "title": "【 #稀羽すう新衣装 】おしゃれでかっこいい、最強の新衣装です。【 Re:AcT / 稀羽すう 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gFXoU-Gxd5Y",
           "author": null,
           "description": "",
@@ -430,16 +440,6 @@
           "publishedOn": "2025-02-04T14:50:37.000Z",
           "wordCount": null,
           "title": "重大告知をします【 Re:AcT / 稀羽すう 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oDkD7MlcBJU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oDkD7MlcBJU",
-          "publishedOn": "2025-02-04T05:09:54.000Z",
-          "wordCount": null,
-          "title": "【 #稀羽すう新衣装 】おしゃれでかっこいい、最強の新衣装です。【 Re:AcT / 稀羽すう 】",
           "imageUrl": null
         },
         {
