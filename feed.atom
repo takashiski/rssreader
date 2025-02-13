@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T06:38:58.828Z</id>
+    <id>urn:2025-02-13T07:06:54.542Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T06:38:58.828Z</updated>
+    <updated>2025-02-13T07:06:54.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 完全広告なし! / バレンタイン特別🍫チョコマッサージと耳かき♡〖ear cleaning/sleeping trriger/JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=qiNb-NLT3f0</id>
+        <link href="https://www.youtube.com/watch?v=qiNb-NLT3f0"/>
+        <updated>2025-02-13T06:59:27.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 雑談 】深夜にゆったり雑談🌙【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iZqKYKMohgY</id>
+        <link href="https://www.youtube.com/watch?v=iZqKYKMohgY"/>
+        <updated>2025-02-13T06:36:52.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】初見さん◎激レア朝☀歌枠！100人とおはよう｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fCSDtdX4z4I</id>
@@ -1137,15 +1155,6 @@
         <updated>2025-01-23T16:18:01.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖呪われたデジカメ〗今緊急で動画回してるんですけど、なんか呪われたっぽいです。〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=r2Rtl_KN28w</id>
-        <link href="https://www.youtube.com/watch?v=r2Rtl_KN28w"/>
-        <updated>2025-01-23T15:54:38.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>

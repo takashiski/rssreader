@@ -550,6 +550,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qiNb-NLT3f0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qiNb-NLT3f0",
+          "publishedOn": "2025-02-13T06:59:27.000Z",
+          "wordCount": null,
+          "title": "◆ASMR / 完全広告なし! / バレンタイン特別🍫チョコマッサージと耳かき♡〖ear cleaning/sleeping trriger/JapaneseVtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=zgb4kq3YBFA",
           "author": null,
           "description": "",
@@ -687,16 +697,6 @@
           "publishedOn": "2025-01-24T08:58:40.000Z",
           "wordCount": null,
           "title": "腐女子的にも刀ピーもしくはピー刀🥜#刀ピークリスマス2024 #刀ピー #ピー刀 #踊ってみた #ピーナッツくん #dance #Vtuber #九楽ライ #にじさんじ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r2Rtl_KN28w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r2Rtl_KN28w",
-          "publishedOn": "2025-01-23T15:54:38.000Z",
-          "wordCount": null,
-          "title": "〖呪われたデジカメ〗今緊急で動画回してるんですけど、なんか呪われたっぽいです。〖九楽ライ/Japanese Vtuber〗",
           "imageUrl": null
         }
       ]
@@ -1313,7 +1313,18 @@
       "title": "夢川かなう/Kanau ch",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jskpQfW9fn2NLK3PdaGdg",
       "siteUrl": "https://www.youtube.com/channel/UC8jskpQfW9fn2NLK3PdaGdg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=iZqKYKMohgY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=iZqKYKMohgY",
+          "publishedOn": "2025-02-13T06:36:52.000Z",
+          "wordCount": null,
+          "title": "【 雑談 】深夜にゆったり雑談🌙【夢川かなう/リアクト/Vtuber】",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "獅子神レオナ/レオナちゃんねる",
