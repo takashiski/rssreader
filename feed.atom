@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T12:10:57.615Z</id>
+    <id>urn:2025-02-13T12:46:42.002Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T12:10:57.615Z</updated>
+    <updated>2025-02-13T12:46:42.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【A Game About Digging A Hole】庭を穴だらけにしてお宝を探します！！一攫千金狙うじゃん🐰✨【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7jDVAylvXA0</id>
+        <link href="https://www.youtube.com/watch?v=7jDVAylvXA0"/>
+        <updated>2025-02-13T12:18:56.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠/singing】全身3D💝はっぴ～ばれんたいん♡  #ありあみゅ カラオケ🦇🐰💝 karaoke【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=a0ljsFXxjcs</id>
+        <link href="https://www.youtube.com/watch?v=a0ljsFXxjcs"/>
+        <updated>2025-02-13T12:18:05.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎮 モンハンワールド/MHWI 】クエストのお手伝いをする！🗡⚔🏹͙【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=MrgygNa4GOQ</id>
@@ -102,15 +120,6 @@
         <updated>2025-02-11T20:28:51.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】全身3D💝はっぴ～ばれんたいん♡  #ありあみゅ カラオケ🦇🐰💝 karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=a0ljsFXxjcs</id>
-        <link href="https://www.youtube.com/watch?v=a0ljsFXxjcs"/>
-        <updated>2025-02-11T15:42:14.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1324,15 +1333,6 @@
         <id>https://www.youtube.com/watch?v=dbIQyBFOhBU</id>
         <link href="https://www.youtube.com/watch?v=dbIQyBFOhBU"/>
         <updated>2025-01-16T02:42:07.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】年が明けてもう二週間です！！！！時の流れよもっとゆっくりでよろ！【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=0IbEZ8_Ghc8</id>
-        <link href="https://www.youtube.com/watch?v=0IbEZ8_Ghc8"/>
-        <updated>2025-01-15T02:32:03.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
