@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T14:06:34.625Z</id>
+    <id>urn:2025-02-13T14:36:24.323Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T14:06:34.625Z</updated>
+    <updated>2025-02-13T14:36:24.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1335,15 +1335,6 @@
         <updated>2025-01-16T02:42:07.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】私は人の家で歌枠をしています。【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=KHPEIG8rMEA</id>
-        <link href="https://www.youtube.com/watch?v=KHPEIG8rMEA"/>
-        <updated>2025-01-15T02:26:01.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
