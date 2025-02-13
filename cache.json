@@ -236,6 +236,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=E0KqqZQ_xWs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E0KqqZQ_xWs",
+          "publishedOn": "2025-02-13T13:06:42.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #30 】今日で30日目【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
+          "publishedOn": "2025-02-13T13:05:17.000Z",
+          "wordCount": null,
+          "title": "【歌枠】新ビジュでの歌枠だあ【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=szYfbqbfEOQ",
           "author": null,
           "description": "",
@@ -363,26 +383,6 @@
           "publishedOn": "2025-02-02T12:07:00.000Z",
           "wordCount": null,
           "title": "【歌枠】2月なの・・・・？【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XEhkdvYGZlE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XEhkdvYGZlE",
-          "publishedOn": "2025-01-31T18:11:58.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #21 】夢を抱きし女【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WMEDw3sGwPU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WMEDw3sGwPU",
-          "publishedOn": "2025-01-29T18:11:42.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #20 】りはびり【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]

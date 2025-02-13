@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-13T13:10:31.176Z</id>
+    <id>urn:2025-02-13T13:36:02.076Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-13T13:10:31.176Z</updated>
+    <updated>2025-02-13T13:36:02.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #30 】今日で30日目【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=E0KqqZQ_xWs</id>
+        <link href="https://www.youtube.com/watch?v=E0KqqZQ_xWs"/>
+        <updated>2025-02-13T13:06:42.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】新ビジュでの歌枠だあ【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-Uze5e_e1P0</id>
+        <link href="https://www.youtube.com/watch?v=-Uze5e_e1P0"/>
+        <updated>2025-02-13T13:05:17.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【A Game About Digging A Hole】庭を穴だらけにしてお宝を探します！！一攫千金狙うじゃん🐰✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7jDVAylvXA0</id>
@@ -753,15 +771,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #ストグラ #21 】夢を抱きし女【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XEhkdvYGZlE</id>
-        <link href="https://www.youtube.com/watch?v=XEhkdvYGZlE"/>
-        <updated>2025-01-31T18:11:58.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】カラオケJOYSOUND for STREAMERを試してみましょう👉【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Zgw4-_z5wwU</id>
         <link href="https://www.youtube.com/watch?v=Zgw4-_z5wwU"/>
@@ -876,15 +885,6 @@
         <updated>2025-01-30T01:46:54.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #20 】りはびり【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WMEDw3sGwPU</id>
-        <link href="https://www.youtube.com/watch?v=WMEDw3sGwPU"/>
-        <updated>2025-01-29T18:11:42.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
