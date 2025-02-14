@@ -246,6 +246,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
+          "publishedOn": "2025-02-14T11:24:09.000Z",
+          "wordCount": null,
+          "title": "【歌枠】新ビジュでの歌枠だあ【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E0KqqZQ_xWs",
           "author": null,
           "description": "",
@@ -253,16 +263,6 @@
           "publishedOn": "2025-02-13T20:16:42.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #30 】今日で30日目【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
-          "publishedOn": "2025-02-13T13:05:17.000Z",
-          "wordCount": null,
-          "title": "【歌枠】新ビジュでの歌枠だあ【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
@@ -1331,6 +1331,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VS6nMDNdfOc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VS6nMDNdfOc",
+          "publishedOn": "2025-02-14T11:07:01.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】今日はバレンタイン🍫❤【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NukHm_hbnwY",
           "author": null,
