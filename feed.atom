@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T05:07:04.864Z</id>
+    <id>urn:2025-02-14T05:35:43.147Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T05:07:04.864Z</updated>
+    <updated>2025-02-14T05:35:43.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 雑談 】深夜にゆったり雑談🌙【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=iZqKYKMohgY</id>
+        <link href="https://www.youtube.com/watch?v=iZqKYKMohgY"/>
+        <updated>2025-02-14T05:17:47.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【A Game About Digging A Hole】庭を穴だらけにしてお宝を探します！！一攫千金狙うじゃん🐰✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7jDVAylvXA0</id>
@@ -84,15 +93,6 @@
         <updated>2025-02-13T12:18:05.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 雑談 】深夜にゆったり雑談🌙【夢川かなう/リアクト/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=iZqKYKMohgY</id>
-        <link href="https://www.youtube.com/watch?v=iZqKYKMohgY"/>
-        <updated>2025-02-13T06:36:52.000Z</updated>
-        <author>
-            <name>夢川かなう/Kanau ch</name>
         </author>
     </entry>
     <entry>
