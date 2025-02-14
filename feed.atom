@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T11:34:38.135Z</id>
+    <id>urn:2025-02-14T12:10:42.988Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T11:34:38.135Z</updated>
+    <updated>2025-02-14T12:10:42.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖⚠実写カメラあり⚠〗バレンタイン🍫だし作っちゃいますか......知育菓子。〖九楽ライ/Japanese Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=f2_Mlsr9lYA</id>
+        <link href="https://www.youtube.com/watch?v=f2_Mlsr9lYA"/>
+        <updated>2025-02-14T11:59:48.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ハッピーバレンタイン🐰💛一緒にチョコの罪にまみれよぉ♡♡【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=4eDg_2JzR9o</id>
+        <link href="https://www.youtube.com/watch?v=4eDg_2JzR9o"/>
+        <updated>2025-02-14T11:58:23.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #31 】PYC【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=axWfJbE9A6E</id>
+        <link href="https://www.youtube.com/watch?v=axWfJbE9A6E"/>
+        <updated>2025-02-14T11:51:23.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】新衣装でバレンタイン歌枠 🍫 Singing Stream【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=hC3m-WALpCQ</id>
+        <link href="https://www.youtube.com/watch?v=hC3m-WALpCQ"/>
+        <updated>2025-02-14T11:46:53.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】新ビジュでの歌枠だあ【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-Uze5e_e1P0</id>
@@ -105,30 +141,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】新衣装でバレンタイン歌枠 🍫 Singing Stream【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=hC3m-WALpCQ</id>
-        <link href="https://www.youtube.com/watch?v=hC3m-WALpCQ"/>
-        <updated>2025-02-13T15:39:40.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡まったりお話ししながら💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=n9xxBPMW4Uc</id>
         <link href="https://www.youtube.com/watch?v=n9xxBPMW4Uc"/>
         <updated>2025-02-13T15:18:43.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖⚠実写カメラあり⚠〗バレンタイン🍫だし作っちゃいますか......知育菓子。〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=f2_Mlsr9lYA</id>
-        <link href="https://www.youtube.com/watch?v=f2_Mlsr9lYA"/>
-        <updated>2025-02-13T14:38:56.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -744,15 +762,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】2月なの・・・・？【 #Vtuber / #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=GpBgO2pYw1s</id>
-        <link href="https://www.youtube.com/watch?v=GpBgO2pYw1s"/>
-        <updated>2025-02-02T12:07:00.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✧ 縦型歌枠 / ＃karaoke ✧ めずらしく縦になってみるくらく。＃shorts【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=lYWz5szC9Lc</id>
         <link href="https://www.youtube.com/watch?v=lYWz5szC9Lc"/>
@@ -1353,15 +1362,6 @@
         <updated>2025-01-18T14:45:21.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【落語風声劇】冬にピッタリなお話ありまーす！✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=dbIQyBFOhBU</id>
-        <link href="https://www.youtube.com/watch?v=dbIQyBFOhBU"/>
-        <updated>2025-01-16T02:42:07.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>
