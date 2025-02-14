@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T12:46:09.790Z</id>
+    <id>urn:2025-02-14T13:09:41.792Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T12:46:09.790Z</updated>
+    <updated>2025-02-14T13:09:41.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -84,15 +84,6 @@
         <updated>2025-02-14T08:55:38.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】💝⌇ ばいのーらる雑談♡ はっぴぃばれんたぃん…✧ member only【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=OQk7wwTxP98</id>
-        <link href="https://www.youtube.com/watch?v=OQk7wwTxP98"/>
-        <updated>2025-02-14T06:31:38.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1281,6 +1272,15 @@
         <updated>2025-01-22T03:54:48.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】初見歓迎💜バイノーラルむにゃむにゃ朝活💜💭 広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=JrKZPci4S-Y</id>
+        <link href="https://www.youtube.com/watch?v=JrKZPci4S-Y"/>
+        <updated>2025-01-21T22:54:03.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
