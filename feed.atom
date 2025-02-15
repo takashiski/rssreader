@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T17:34:50.383Z</id>
+    <id>urn:2025-02-15T18:07:27.242Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T17:34:50.383Z</updated>
+    <updated>2025-02-15T18:07:27.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BkuHr4g2KbE</id>
+        <link href="https://www.youtube.com/watch?v=BkuHr4g2KbE"/>
+        <updated>2025-02-15T17:45:58.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！つづき♡♡♡【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7K_Aw95djUc</id>
@@ -93,15 +102,6 @@
         <updated>2025-02-15T09:00:03.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=BkuHr4g2KbE</id>
-        <link href="https://www.youtube.com/watch?v=BkuHr4g2KbE"/>
-        <updated>2025-02-15T04:34:25.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
