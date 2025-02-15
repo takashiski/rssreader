@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T13:07:37.422Z</id>
+    <id>urn:2025-02-15T13:34:18.992Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T13:07:37.422Z</updated>
+    <updated>2025-02-15T13:34:18.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #32 】明日から警察体験だあ【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=gfEc_cn-CwY</id>
+        <link href="https://www.youtube.com/watch?v=gfEc_cn-CwY"/>
+        <updated>2025-02-15T13:33:44.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=W5AHjMnQDeE</id>
@@ -678,15 +687,6 @@
         <updated>2025-02-04T22:50:45.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #23 】修理屋さん生活【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=q7mBW7ZKwZ4</id>
-        <link href="https://www.youtube.com/watch?v=q7mBW7ZKwZ4"/>
-        <updated>2025-02-04T18:12:32.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
