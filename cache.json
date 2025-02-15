@@ -1168,6 +1168,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rXrMIjHR3pk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rXrMIjHR3pk",
+          "publishedOn": "2025-02-15T11:30:25.000Z",
+          "wordCount": null,
+          "title": "【スナックつきみ】前半でザクザクお題がたまってうれしい！後半組もよろしくっちゃ🐰【丸餅つきみ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4eDg_2JzR9o",
           "author": null,
           "description": "",
@@ -1305,16 +1315,6 @@
           "publishedOn": "2025-01-22T03:54:48.000Z",
           "wordCount": null,
           "title": "【バイノーラル】ときには右から左から…🐰鼓膜を大事になさって【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ULXpp17YyHk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ULXpp17YyHk",
-          "publishedOn": "2025-01-19T14:45:37.000Z",
-          "wordCount": null,
-          "title": "【fast food simulator】超有能スタッフと共にいちから始めるファストフード🍟🍔🥤【獅子神レオナ・丸餅つきみ】",
           "imageUrl": null
         }
       ]
