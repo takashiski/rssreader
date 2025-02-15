@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T09:06:19.104Z</id>
+    <id>urn:2025-02-15T09:34:59.140Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T09:06:19.104Z</updated>
+    <updated>2025-02-15T09:34:59.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[同情するなら姫にして😢💖 #shorts #仮契約のシンデレラ #私立恵比寿中学 #エビ中 #踊ってみた #dance #アイドル #Vtuber #月紫アリア #兎彷魂あみゅ]]></title>
+        <id>https://www.youtube.com/watch?v=35aGBJCQs0I</id>
+        <link href="https://www.youtube.com/watch?v=35aGBJCQs0I"/>
+        <updated>2025-02-15T09:30:02.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おっおー！ゆーりさんのダンスいつもよすぎる🔥#ウシロジカン #ゆーり #踊ってみた #Vtuber #dance #九楽ライ #原口沙輔 #shorts]]></title>
         <id>https://www.youtube.com/watch?v=QVq3mzTlDzU</id>
@@ -12,6 +21,15 @@
         <updated>2025-02-15T09:00:25.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『 モニタリング - DECO*27 』サビを私らしく #歌ってみた ！⁠#shorts  【稀羽すう】]]></title>
+        <id>https://www.youtube.com/watch?v=2i_FpzU9n-A</id>
+        <link href="https://www.youtube.com/watch?v=2i_FpzU9n-A"/>
+        <updated>2025-02-15T09:00:03.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -1284,30 +1302,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】初見歓迎💜バイノーラルむにゃむにゃ朝活💜💭 広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=JrKZPci4S-Y</id>
-        <link href="https://www.youtube.com/watch?v=JrKZPci4S-Y"/>
-        <updated>2025-01-21T22:54:03.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[〖 Fast Food Simulator 〗キミさ、本当にやる気ある？〖Vtuber / #猫乃ユキノ #月紫アリア 〗]]></title>
         <id>https://www.youtube.com/watch?v=hCOLZjTd5eQ</id>
         <link href="https://www.youtube.com/watch?v=hCOLZjTd5eQ"/>
         <updated>2025-01-21T13:56:11.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】 カラオケJOYSOUND for STREAMERで歌う！ - Singing Stream【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=Iib-NkBXtt8</id>
-        <link href="https://www.youtube.com/watch?v=Iib-NkBXtt8"/>
-        <updated>2025-01-21T13:26:07.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
