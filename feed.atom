@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T08:35:43.045Z</id>
+    <id>urn:2025-02-15T09:06:19.104Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T08:35:43.045Z</updated>
+    <updated>2025-02-15T09:06:19.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[おっおー！ゆーりさんのダンスいつもよすぎる🔥#ウシロジカン #ゆーり #踊ってみた #Vtuber #dance #九楽ライ #原口沙輔 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=QVq3mzTlDzU</id>
+        <link href="https://www.youtube.com/watch?v=QVq3mzTlDzU"/>
+        <updated>2025-02-15T09:00:25.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】万年生活リズム崩壊女【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=LQr2dRwLhbc</id>
+        <link href="https://www.youtube.com/watch?v=LQr2dRwLhbc"/>
+        <updated>2025-02-15T08:52:34.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【なろう小説タイトル並べ替えゲーム】なんでこういうのってタイトル長いん？【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TnIFQZ-yMR0</id>
@@ -411,7 +429,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】高評価300目指して‼️1曲でも聞いていってね？【#ククルアクレイユ｜Re:AcT】 #shorts #縦型配信 #初見歓迎]]></title>
+        <title type="html"><![CDATA[【歌枠】高評価300感謝‼️1曲でも聞いていってね？【#ククルアクレイユ｜Re:AcT】 #shorts #縦型配信 #初見歓迎]]></title>
         <id>https://www.youtube.com/watch?v=_gywLHCzJAQ</id>
         <link href="https://www.youtube.com/watch?v=_gywLHCzJAQ"/>
         <updated>2025-02-08T07:09:54.000Z</updated>
@@ -732,15 +750,6 @@
         <updated>2025-02-03T01:49:20.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #22 】PYCがおめでたい日！【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=n4Ye5aGlsWw</id>
-        <link href="https://www.youtube.com/watch?v=n4Ye5aGlsWw"/>
-        <updated>2025-02-02T18:11:58.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1155,15 +1164,6 @@
         <updated>2025-01-26T03:44:51.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#最終回〖ドラクエ３リメイク〗ドラクエ完全初見🔥によるドラゴンクエストⅢ そして大魔王討伐へ...〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=Au90YS0pLNU</id>
-        <link href="https://www.youtube.com/watch?v=Au90YS0pLNU"/>
-        <updated>2025-01-25T18:38:14.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
