@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T04:38:06.650Z</id>
+    <id>urn:2025-02-15T05:06:12.673Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T04:38:06.650Z</updated>
+    <updated>2025-02-15T05:06:12.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BkuHr4g2KbE</id>
+        <link href="https://www.youtube.com/watch?v=BkuHr4g2KbE"/>
+        <updated>2025-02-15T04:34:25.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】ハッピーバレンタイン🐰💛一緒にチョコの罪にまみれよぉ♡♡【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4eDg_2JzR9o</id>
