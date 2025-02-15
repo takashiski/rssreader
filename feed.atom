@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-15T22:06:10.790Z</id>
+    <id>urn:2025-02-15T22:35:29.011Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-15T22:06:10.790Z</updated>
+    <updated>2025-02-15T22:35:29.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！つづき♡♡♡【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=7K_Aw95djUc</id>
+        <link href="https://www.youtube.com/watch?v=7K_Aw95djUc"/>
+        <updated>2025-02-15T22:28:30.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #32 】明日から警察体験だあ【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=gfEc_cn-CwY</id>
@@ -39,15 +48,6 @@
         <updated>2025-02-15T17:19:43.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！つづき♡♡♡【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7K_Aw95djUc</id>
-        <link href="https://www.youtube.com/watch?v=7K_Aw95djUc"/>
-        <updated>2025-02-15T17:16:25.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
