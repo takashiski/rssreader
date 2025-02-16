@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gzcODM_y6uE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gzcODM_y6uE",
+          "publishedOn": "2025-02-16T11:33:00.000Z",
+          "wordCount": null,
+          "title": "【ファンアート頂いたので】勇者 - YOASOBI #歌ってみた #ククルアクレイユ #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TnIFQZ-yMR0",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2025-01-29T13:23:45.000Z",
           "wordCount": null,
           "title": "【Among Us】酒飲んだ人が勝ちってほんと！？｜#Vtuber飲酒あもあす【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HuDQyyEWvkU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HuDQyyEWvkU",
-          "publishedOn": "2025-01-27T16:07:04.000Z",
-          "wordCount": null,
-          "title": "【 デビュー900日記念 】復活の歌枠 ✧ リクエストOK！久々に楽しく歌う｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -763,7 +763,7 @@
           "link": "https://www.youtube.com/watch?v=9PGOXIBveTo",
           "publishedOn": "2025-02-15T20:22:31.000Z",
           "wordCount": null,
-          "title": "【VALORANT】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
+          "title": "【雑談】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
           "imageUrl": null
         },
         {
