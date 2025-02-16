@@ -1208,6 +1208,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hD4ljxUYneU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hD4ljxUYneU",
+          "publishedOn": "2025-02-16T09:17:26.000Z",
+          "wordCount": null,
+          "title": "【A Game About Digging A Hole】庭中掘り返してやるっちゃ⛏️🐰✨【丸餅つきみ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=rXrMIjHR3pk",
           "author": null,
           "description": "",
@@ -1345,16 +1355,6 @@
           "publishedOn": "2025-01-25T03:07:41.000Z",
           "wordCount": null,
           "title": "【グーグーピザ】よく働くつきみ・デリバリー始めました🍕🍕【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=__KVDEhPKP8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=__KVDEhPKP8",
-          "publishedOn": "2025-01-22T03:54:48.000Z",
-          "wordCount": null,
-          "title": "【バイノーラル】ときには右から左から…🐰鼓膜を大事になさって【丸餅つきみ/Re:AcT】",
           "imageUrl": null
         }
       ]
