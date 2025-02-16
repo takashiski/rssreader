@@ -747,6 +747,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TXqwUgj08bU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TXqwUgj08bU",
+          "publishedOn": "2025-02-16T11:00:06.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】祝日天国/皇ロゼ&狐宵いなり【35.7】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9PGOXIBveTo",
           "author": null,
           "description": "",
@@ -754,16 +764,6 @@
           "publishedOn": "2025-02-15T20:22:31.000Z",
           "wordCount": null,
           "title": "【VALORANT】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TXqwUgj08bU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TXqwUgj08bU",
-          "publishedOn": "2025-02-15T17:19:43.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】祝日天国/皇ロゼ&狐宵いなり【35.7】",
           "imageUrl": null
         },
         {
