@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-16T10:05:58.343Z</id>
+    <id>urn:2025-02-16T10:35:17.800Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T10:05:58.343Z</updated>
+    <updated>2025-02-16T10:35:17.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #33 】警察体験1日目!【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=hwIRMolFs3E</id>
+        <link href="https://www.youtube.com/watch?v=hwIRMolFs3E"/>
+        <updated>2025-02-16T10:12:40.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【A Game About Digging A Hole】庭中掘り返してやるっちゃ⛏️🐰✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=hD4ljxUYneU</id>
@@ -696,15 +705,6 @@
         <updated>2025-02-05T12:18:42.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】夕方に歌枠ってわけ【 #Vtuber / #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=aQW6hQ_YjQQ</id>
-        <link href="https://www.youtube.com/watch?v=aQW6hQ_YjQQ"/>
-        <updated>2025-02-05T10:21:55.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
