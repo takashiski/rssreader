@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-16T00:31:56.749Z</id>
+    <id>urn:2025-02-16T01:33:56.563Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T00:31:56.749Z</updated>
+    <updated>2025-02-16T01:33:56.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#8〖 #サイレントヒル2 〗ネタバレあり！完全初見プレイ🔰SILENT HILL2 リメイク 〖Vtuber / #猫乃ユキノ〗]]></title>
+        <id>https://www.youtube.com/watch?v=61KnwgKEVGc</id>
+        <link href="https://www.youtube.com/watch?v=61KnwgKEVGc"/>
+        <updated>2025-02-16T00:42:40.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】シリーズ完全初見！！ねむ、王になる…！！つづき♡♡♡【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=7K_Aw95djUc</id>
@@ -417,15 +426,6 @@
         <updated>2025-02-09T13:21:59.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#8〖 #サイレントヒル2 〗ネタバレあり！完全初見プレイ🔰SILENT HILL2 リメイク 〖Vtuber / #猫乃ユキノ〗]]></title>
-        <id>https://www.youtube.com/watch?v=61KnwgKEVGc</id>
-        <link href="https://www.youtube.com/watch?v=61KnwgKEVGc"/>
-        <updated>2025-02-09T10:09:50.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
