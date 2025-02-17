@@ -747,6 +747,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9PGOXIBveTo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9PGOXIBveTo",
+          "publishedOn": "2025-02-17T02:48:34.000Z",
+          "wordCount": null,
+          "title": "【雑談】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TXqwUgj08bU",
           "author": null,
           "description": "",
@@ -754,16 +764,6 @@
           "publishedOn": "2025-02-16T11:00:06.000Z",
           "wordCount": null,
           "title": "【歌ってみた】祝日天国/皇ロゼ&狐宵いなり【35.7】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9PGOXIBveTo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9PGOXIBveTo",
-          "publishedOn": "2025-02-15T20:22:31.000Z",
-          "wordCount": null,
-          "title": "【雑談】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -1519,16 +1519,6 @@
           "publishedOn": "2025-01-19T14:45:59.000Z",
           "wordCount": null,
           "title": "【-`🎮 fast food simulator 】超有能店長とファーストフードのお店を経営する🍔🍟【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tfOY9CQcBg0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tfOY9CQcBg0",
-          "publishedOn": "2025-01-18T14:45:21.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】たまにはかわいい曲でも【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
