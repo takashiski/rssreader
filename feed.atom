@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T00:31:04.334Z</id>
+    <id>urn:2025-02-17T01:34:35.661Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T00:31:04.334Z</updated>
+    <updated>2025-02-17T01:34:35.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【A Game About Digging A Hole】庭中掘り返してやるっちゃ⛏️🐰✨【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=hD4ljxUYneU</id>
+        <link href="https://www.youtube.com/watch?v=hD4ljxUYneU"/>
+        <updated>2025-02-17T00:41:25.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #33 】警察体験1日目!【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=hwIRMolFs3E</id>
@@ -48,15 +57,6 @@
         <updated>2025-02-16T11:00:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【A Game About Digging A Hole】庭中掘り返してやるっちゃ⛏️🐰✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=hD4ljxUYneU</id>
-        <link href="https://www.youtube.com/watch?v=hD4ljxUYneU"/>
-        <updated>2025-02-16T09:17:26.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -120,15 +120,6 @@
         <updated>2025-02-15T15:19:43.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=W5AHjMnQDeE</id>
-        <link href="https://www.youtube.com/watch?v=W5AHjMnQDeE"/>
-        <updated>2025-02-15T12:36:12.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1369,6 +1360,15 @@
         <id>https://www.youtube.com/watch?v=hCOLZjTd5eQ</id>
         <link href="https://www.youtube.com/watch?v=hCOLZjTd5eQ"/>
         <updated>2025-01-21T13:56:11.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=ri73PvJtK20</id>
+        <link href="https://www.youtube.com/watch?v=ri73PvJtK20"/>
+        <updated>2025-01-20T11:34:14.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
