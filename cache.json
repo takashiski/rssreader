@@ -757,16 +757,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=HKOrQ1aQhd0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HKOrQ1aQhd0",
-          "publishedOn": "2025-02-17T15:12:32.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=dtNQq6Y_iwQ",
           "author": null,
           "description": "",
@@ -904,6 +894,16 @@
           "publishedOn": "2025-01-25T04:44:04.000Z",
           "wordCount": null,
           "title": "【雑談】生誕＆３D振り返り！みんなツッコみたいことたくさんあるよね。【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=zXS9NSTdeaI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zXS9NSTdeaI",
+          "publishedOn": "2025-01-23T12:33:06.000Z",
+          "wordCount": null,
+          "title": "【#皇ロゼ3DLIVE】生誕祭！！！ついに３Dお披露目！重大告知あり！【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
