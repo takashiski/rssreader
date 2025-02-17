@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T08:09:44.242Z</id>
+    <id>urn:2025-02-17T08:38:23.419Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T08:09:44.242Z</updated>
+    <updated>2025-02-17T08:38:23.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1389,15 +1389,6 @@
         <updated>2025-01-19T02:15:10.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#雑談】1月も半分以上経ったってマジ、、？【#水瓶ミア / #Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=k-nTcHBlFOk</id>
-        <link href="https://www.youtube.com/watch?v=k-nTcHBlFOk"/>
-        <updated>2025-01-18T20:37:26.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
 </feed>
