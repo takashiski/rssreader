@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T18:08:22.899Z</id>
+    <id>urn:2025-02-17T18:38:09.465Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T18:08:22.899Z</updated>
+    <updated>2025-02-17T18:38:09.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】#4 シリーズ完全初見！！ねむ、平和な国をつくる…！【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=dVo7ttYVVcc</id>
+        <link href="https://www.youtube.com/watch?v=dVo7ttYVVcc"/>
+        <updated>2025-02-17T18:34:54.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=dtNQq6Y_iwQ</id>
@@ -30,15 +39,6 @@
         <updated>2025-02-17T13:38:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】#4 シリーズ完全初見！！ねむ、平和な国をつくる…！【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=dVo7ttYVVcc</id>
-        <link href="https://www.youtube.com/watch?v=dVo7ttYVVcc"/>
-        <updated>2025-02-17T09:11:17.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
