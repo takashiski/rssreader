@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T15:07:05.107Z</id>
+    <id>urn:2025-02-17T15:34:59.859Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T15:07:05.107Z</updated>
+    <updated>2025-02-17T15:34:59.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HKOrQ1aQhd0</id>
+        <link href="https://www.youtube.com/watch?v=HKOrQ1aQhd0"/>
+        <updated>2025-02-17T15:12:32.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=dtNQq6Y_iwQ</id>
+        <link href="https://www.youtube.com/watch?v=dtNQq6Y_iwQ"/>
+        <updated>2025-02-17T15:11:57.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=KNMIq-F_kU0</id>
@@ -21,15 +39,6 @@
         <updated>2025-02-17T13:38:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=HKOrQ1aQhd0</id>
-        <link href="https://www.youtube.com/watch?v=HKOrQ1aQhd0"/>
-        <updated>2025-02-17T10:58:47.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
@@ -1353,15 +1362,6 @@
         <updated>2025-01-23T15:43:00.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#皇ロゼ3DLIVE】生誕祭！！！ついに３Dお披露目！重大告知あり！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zXS9NSTdeaI</id>
-        <link href="https://www.youtube.com/watch?v=zXS9NSTdeaI"/>
-        <updated>2025-01-23T12:33:06.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
