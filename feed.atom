@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T10:38:03.108Z</id>
+    <id>urn:2025-02-17T11:06:15.038Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T10:38:03.108Z</updated>
+    <updated>2025-02-17T11:06:15.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HKOrQ1aQhd0</id>
+        <link href="https://www.youtube.com/watch?v=HKOrQ1aQhd0"/>
+        <updated>2025-02-17T10:58:47.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=KNMIq-F_kU0</id>
+        <link href="https://www.youtube.com/watch?v=KNMIq-F_kU0"/>
+        <updated>2025-02-17T10:48:40.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 Sid Meier's Civilization VII 】#4 シリーズ完全初見！！ねむ、平和な国をつくる…！【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=dVo7ttYVVcc</id>
@@ -1389,15 +1407,6 @@
         <updated>2025-01-19T14:45:59.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【呪われたデジカメ】無理なもんは無理（リタイアしました）【Re:AcT/皇ロゼ】]]></title>
-        <id>https://www.youtube.com/watch?v=EKZNebGFpks</id>
-        <link href="https://www.youtube.com/watch?v=EKZNebGFpks"/>
-        <updated>2025-01-19T02:15:10.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>

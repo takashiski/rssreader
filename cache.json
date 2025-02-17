@@ -757,6 +757,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HKOrQ1aQhd0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HKOrQ1aQhd0",
+          "publishedOn": "2025-02-17T10:58:47.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
+          "publishedOn": "2025-02-17T10:48:40.000Z",
+          "wordCount": null,
+          "title": "#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9PGOXIBveTo",
           "author": null,
           "description": "",
@@ -884,16 +904,6 @@
           "publishedOn": "2025-01-23T12:33:06.000Z",
           "wordCount": null,
           "title": "【#皇ロゼ3DLIVE】生誕祭！！！ついに３Dお披露目！重大告知あり！【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EKZNebGFpks",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EKZNebGFpks",
-          "publishedOn": "2025-01-19T02:15:10.000Z",
-          "wordCount": null,
-          "title": "【呪われたデジカメ】無理なもんは無理（リタイアしました）【Re:AcT/皇ロゼ】",
           "imageUrl": null
         }
       ]
