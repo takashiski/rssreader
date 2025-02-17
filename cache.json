@@ -757,6 +757,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
+          "publishedOn": "2025-02-17T14:24:13.000Z",
+          "wordCount": null,
+          "title": "#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HKOrQ1aQhd0",
           "author": null,
           "description": "",
@@ -764,16 +774,6 @@
           "publishedOn": "2025-02-17T10:58:47.000Z",
           "wordCount": null,
           "title": "【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
-          "publishedOn": "2025-02-17T10:48:40.000Z",
-          "wordCount": null,
-          "title": "#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】",
           "imageUrl": null
         },
         {

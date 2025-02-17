@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T14:06:51.084Z</id>
+    <id>urn:2025-02-17T14:36:38.586Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T14:06:51.084Z</updated>
+    <updated>2025-02-17T14:36:38.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=KNMIq-F_kU0</id>
+        <link href="https://www.youtube.com/watch?v=KNMIq-F_kU0"/>
+        <updated>2025-02-17T14:24:13.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #98【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ecGDEjsfhuo</id>
@@ -19,15 +28,6 @@
         <id>https://www.youtube.com/watch?v=HKOrQ1aQhd0</id>
         <link href="https://www.youtube.com/watch?v=HKOrQ1aQhd0"/>
         <updated>2025-02-17T10:58:47.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=KNMIq-F_kU0</id>
-        <link href="https://www.youtube.com/watch?v=KNMIq-F_kU0"/>
-        <updated>2025-02-17T10:48:40.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
         </author>
