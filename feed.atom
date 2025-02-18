@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T14:06:39.951Z</id>
+    <id>urn:2025-02-18T14:36:33.319Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T14:06:39.951Z</updated>
+    <updated>2025-02-18T14:36:33.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！おしゃべりしながら歌だ。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=PPF4f4X9XuQ</id>
+        <link href="https://www.youtube.com/watch?v=PPF4f4X9XuQ"/>
+        <updated>2025-02-18T14:16:54.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】お知らせアリ‼️20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Zy1ErySZx3g</id>
@@ -21,15 +30,6 @@
         <updated>2025-02-18T10:25:01.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！おしゃべりしながら歌だ。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PPF4f4X9XuQ</id>
-        <link href="https://www.youtube.com/watch?v=PPF4f4X9XuQ"/>
-        <updated>2025-02-18T06:26:08.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
