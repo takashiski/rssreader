@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T10:37:34.927Z</id>
+    <id>urn:2025-02-18T11:06:07.250Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T10:37:34.927Z</updated>
+    <updated>2025-02-18T11:06:07.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -15,7 +15,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】お知らせアリ‼️20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Zy1ErySZx3g</id>
         <link href="https://www.youtube.com/watch?v=Zy1ErySZx3g"/>
         <updated>2025-02-18T08:04:57.000Z</updated>
