@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T10:07:09.141Z</id>
+    <id>urn:2025-02-18T10:37:34.927Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T10:07:09.141Z</updated>
+    <updated>2025-02-18T10:37:34.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #34 】警察体験2日目!!【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=44aVI30tAyU</id>
+        <link href="https://www.youtube.com/watch?v=44aVI30tAyU"/>
+        <updated>2025-02-18T10:25:01.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Zy1ErySZx3g</id>
@@ -732,15 +741,6 @@
         <updated>2025-02-06T00:56:44.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #24 】航空機免許リベンジ【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mnw9CgYNLxY</id>
-        <link href="https://www.youtube.com/watch?v=mnw9CgYNLxY"/>
-        <updated>2025-02-05T20:23:18.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
