@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T06:09:19.527Z</id>
+    <id>urn:2025-02-18T06:38:57.157Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T06:09:19.527Z</updated>
+    <updated>2025-02-18T06:38:57.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！おしゃべりしながら歌だ。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=PPF4f4X9XuQ</id>
+        <link href="https://www.youtube.com/watch?v=PPF4f4X9XuQ"/>
+        <updated>2025-02-18T06:26:08.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=dtNQq6Y_iwQ</id>
@@ -1353,15 +1362,6 @@
         <updated>2025-01-23T15:43:00.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#皇ロゼ3DLIVE】生誕祭！！！ついに３Dお披露目！重大告知あり！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=zXS9NSTdeaI</id>
-        <link href="https://www.youtube.com/watch?v=zXS9NSTdeaI"/>
-        <updated>2025-01-23T12:33:06.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
