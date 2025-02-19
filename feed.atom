@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T13:36:00.768Z</id>
+    <id>urn:2025-02-19T14:06:34.371Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T13:36:00.768Z</updated>
+    <updated>2025-02-19T14:06:34.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #雑談 〗さよなら雨漏り隙間風。 〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=R5MeuO1gIDE</id>
+        <link href="https://www.youtube.com/watch?v=R5MeuO1gIDE"/>
+        <updated>2025-02-19T13:45:59.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【APEX】初見歓迎！元7.8.9マスター（現激よわ）がランクをするのだよ。【皇ロゼ/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=Ozty38TvBrs</id>
@@ -1326,15 +1335,6 @@
         <updated>2025-01-26T12:12:38.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 2nd Single 〗『♡ Sweet Biting Cat ♡』Trailer〖Vtuber / #猫乃ユキノ〗]]></title>
-        <id>https://www.youtube.com/watch?v=M7CGbViizFU</id>
-        <link href="https://www.youtube.com/watch?v=M7CGbViizFU"/>
-        <updated>2025-01-26T11:30:07.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
