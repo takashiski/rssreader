@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T13:09:56.216Z</id>
+    <id>urn:2025-02-19T13:36:00.768Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T13:09:56.216Z</updated>
+    <updated>2025-02-19T13:36:00.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【APEX】初見歓迎！元7.8.9マスター（現激よわ）がランクをするのだよ。【皇ロゼ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Ozty38TvBrs</id>
+        <link href="https://www.youtube.com/watch?v=Ozty38TvBrs"/>
+        <updated>2025-02-19T13:29:32.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #ミタクルブロック 】わたしを作る【 Re:AcT / 稀羽すう 】]]></title>
+        <id>https://www.youtube.com/watch?v=YDigCJTshyM</id>
+        <link href="https://www.youtube.com/watch?v=YDigCJTshyM"/>
+        <updated>2025-02-19T13:24:17.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=0iLJov8n4Zw</id>
+        <link href="https://www.youtube.com/watch?v=0iLJov8n4Zw"/>
+        <updated>2025-02-19T13:08:34.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#9〖 #サイレントヒル2 〗ネタバレあり！完全初見プレイ🔰SILENT HILL2 リメイク 〖Vtuber / #猫乃ユキノ〗]]></title>
+        <id>https://www.youtube.com/watch?v=8acE4xlWFR4</id>
+        <link href="https://www.youtube.com/watch?v=8acE4xlWFR4"/>
+        <updated>2025-02-19T13:07:44.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #歌枠 〗リクエスト受付中🌙✧︎*〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=6qnrxkyAa9M</id>
+        <link href="https://www.youtube.com/watch?v=6qnrxkyAa9M"/>
+        <updated>2025-02-19T13:06:56.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #98【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=ecGDEjsfhuo</id>
@@ -1329,15 +1374,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】生誕＆３D振り返り！みんなツッコみたいことたくさんあるよね。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=va0_Oo_XW8M</id>
-        <link href="https://www.youtube.com/watch?v=va0_Oo_XW8M"/>
-        <updated>2025-01-25T04:44:04.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【グーグーピザ】よく働くつきみ・デリバリー始めました🍕🍕【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fD45tT9LfcM</id>
         <link href="https://www.youtube.com/watch?v=fD45tT9LfcM"/>
@@ -1365,24 +1401,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠 KARAOKE  】 初見さん大歓迎！深夜にまったり縦型歌枠🌙 #shorts #Vtuber 【 稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ZrCphypnwak</id>
-        <link href="https://www.youtube.com/watch?v=ZrCphypnwak"/>
-        <updated>2025-01-23T16:18:01.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡密着０距離でまったりタイム💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=NpNpxtwMzK4</id>
-        <link href="https://www.youtube.com/watch?v=NpNpxtwMzK4"/>
-        <updated>2025-01-23T15:43:00.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[蹴るの得意です😳‼️ #一旦ステイtonight #踊ってみた #dance #にじさんじ #不破湊 #Vtuber #月紫アリア #いつでもどこでも一旦ステイ#shorts]]></title>
         <id>https://www.youtube.com/watch?v=dF72fgjkLJc</id>
         <link href="https://www.youtube.com/watch?v=dF72fgjkLJc"/>
@@ -1398,15 +1416,6 @@
         <updated>2025-01-22T11:04:20.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 Fast Food Simulator 〗キミさ、本当にやる気ある？〖Vtuber / #猫乃ユキノ #月紫アリア 〗]]></title>
-        <id>https://www.youtube.com/watch?v=hCOLZjTd5eQ</id>
-        <link href="https://www.youtube.com/watch?v=hCOLZjTd5eQ"/>
-        <updated>2025-01-21T13:56:11.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
