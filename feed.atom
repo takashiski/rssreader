@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T10:37:27.255Z</id>
+    <id>urn:2025-02-19T11:06:06.629Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T10:37:27.255Z</updated>
+    <updated>2025-02-19T11:06:06.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】では、歌います🎙【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6Nxb0Grvdm4</id>
+        <link href="https://www.youtube.com/watch?v=6Nxb0Grvdm4"/>
+        <updated>2025-02-19T10:42:31.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #35 】警察体験最終日!!!【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=1rKnuFVMwp8</id>
+        <link href="https://www.youtube.com/watch?v=1rKnuFVMwp8"/>
+        <updated>2025-02-19T10:32:38.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #34 】警察体験2日目!!【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=44aVI30tAyU</id>
@@ -723,15 +741,6 @@
         <updated>2025-02-06T12:23:39.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重大告知】ついに？！あの？！？？って、ええ？！？！？！？！【 #Vtuber / #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ByzBpNErYV0</id>
-        <link href="https://www.youtube.com/watch?v=ByzBpNErYV0"/>
-        <updated>2025-02-06T11:12:41.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

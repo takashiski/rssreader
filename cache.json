@@ -286,6 +286,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1rKnuFVMwp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1rKnuFVMwp8",
+          "publishedOn": "2025-02-19T10:32:38.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #35 】警察体験最終日!!!【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=44aVI30tAyU",
           "author": null,
           "description": "",
@@ -423,16 +433,6 @@
           "publishedOn": "2025-02-06T20:18:44.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #25 】運転練習【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ByzBpNErYV0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ByzBpNErYV0",
-          "publishedOn": "2025-02-06T11:12:41.000Z",
-          "wordCount": null,
-          "title": "【重大告知】ついに？！あの？！？？って、ええ？！？！？！？！【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1391,6 +1391,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6Nxb0Grvdm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6Nxb0Grvdm4",
+          "publishedOn": "2025-02-19T10:42:31.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】では、歌います🎙【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VS6nMDNdfOc",
           "author": null,
