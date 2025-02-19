@@ -757,6 +757,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xu0EppoLDys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xu0EppoLDys",
+          "publishedOn": "2025-02-19T21:45:08.000Z",
+          "wordCount": null,
+          "title": "【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Ozty38TvBrs",
           "author": null,
           "description": "",
@@ -894,16 +904,6 @@
           "publishedOn": "2025-01-29T00:59:30.000Z",
           "wordCount": null,
           "title": "【歌枠】１月ももうすぐ終わっちまうね。【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NWcwJP_qSts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NWcwJP_qSts",
-          "publishedOn": "2025-01-26T12:12:38.000Z",
-          "wordCount": null,
-          "title": "【モンハン】個人的にまたハマっている。【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]

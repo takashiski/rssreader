@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T21:34:33.352Z</id>
+    <id>urn:2025-02-19T22:06:21.344Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T21:34:33.352Z</updated>
+    <updated>2025-02-19T22:06:21.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】]]></title>
+        <id>https://www.youtube.com/watch?v=xu0EppoLDys</id>
+        <link href="https://www.youtube.com/watch?v=xu0EppoLDys"/>
+        <updated>2025-02-19T21:45:08.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #35 】警察体験最終日!!!【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=1rKnuFVMwp8</id>
@@ -1335,15 +1344,6 @@
         <updated>2025-01-26T16:31:17.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【モンハン】個人的にまたハマっている。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=NWcwJP_qSts</id>
-        <link href="https://www.youtube.com/watch?v=NWcwJP_qSts"/>
-        <updated>2025-01-26T12:12:38.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
