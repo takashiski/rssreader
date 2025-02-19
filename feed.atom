@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T15:07:05.600Z</id>
+    <id>urn:2025-02-19T15:35:49.491Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T15:07:05.600Z</updated>
+    <updated>2025-02-19T15:35:49.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【デザインメイキング】第２回！ロゴ制作のつづき！九楽ライ先輩にillustrator入門講座！【#ククルアデザイン塾｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Rrh0AQD2jIY</id>
+        <link href="https://www.youtube.com/watch?v=Rrh0AQD2jIY"/>
+        <updated>2025-02-19T15:17:08.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】エコー（リバーブ）なし歌枠！？ ✦ Singing Stream【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=7Qxq_nOeQVk</id>
+        <link href="https://www.youtube.com/watch?v=7Qxq_nOeQVk"/>
+        <updated>2025-02-19T15:15:46.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】では、歌います🎙【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6Nxb0Grvdm4</id>
+        <link href="https://www.youtube.com/watch?v=6Nxb0Grvdm4"/>
+        <updated>2025-02-19T15:10:14.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】100人とおはようしたい！初見さん◎ガチ寝起き朝歌枠｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=SfguLEbqE64</id>
@@ -84,15 +111,6 @@
         <updated>2025-02-19T12:26:23.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】では、歌います🎙【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6Nxb0Grvdm4</id>
-        <link href="https://www.youtube.com/watch?v=6Nxb0Grvdm4"/>
-        <updated>2025-02-19T10:42:31.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -987,15 +1005,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#名前狩り歌枠✧９】初見＆リスナーの名前を奪う歌枠。お前さんの名前、いただくよ。#Karaoke【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=EV-Jnzh42s4</id>
-        <link href="https://www.youtube.com/watch?v=EV-Jnzh42s4"/>
-        <updated>2025-02-02T14:15:26.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#7〖 #サイレントヒル2 〗ネタバレあり！完全初見プレイ🔰SILENT HILL2 リメイク 〖Vtuber / #猫乃ユキノ〗]]></title>
         <id>https://www.youtube.com/watch?v=Bh55F_JjOUk</id>
         <link href="https://www.youtube.com/watch?v=Bh55F_JjOUk"/>
@@ -1389,15 +1398,6 @@
         <updated>2025-01-24T16:20:19.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初見さん大歓迎！ 深夜雑談 - midnight chat 「みなさんのおかげで眼科にいけました。」【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ifDYtG_-o8w</id>
-        <link href="https://www.youtube.com/watch?v=ifDYtG_-o8w"/>
-        <updated>2025-01-24T15:18:46.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
