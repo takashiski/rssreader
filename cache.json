@@ -1228,6 +1228,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=f3qJdpelVE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f3qJdpelVE0",
+          "publishedOn": "2025-02-20T12:45:52.000Z",
+          "wordCount": null,
+          "title": "【怪談サークル　七不思議】学校の七不思議調べるいい季節よね👻【丸餅つきみ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=hD4ljxUYneU",
           "author": null,
           "description": "",
@@ -1365,16 +1375,6 @@
           "publishedOn": "2025-01-26T03:44:51.000Z",
           "wordCount": null,
           "title": "【スナックつきみ】おひさしぶりの開店✨旅に思いをはせて…【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fD45tT9LfcM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fD45tT9LfcM",
-          "publishedOn": "2025-01-25T03:07:41.000Z",
-          "wordCount": null,
-          "title": "【グーグーピザ】よく働くつきみ・デリバリー始めました🍕🍕【丸餅つきみ/Re:AcT】",
           "imageUrl": null
         }
       ]

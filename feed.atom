@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T12:47:09.481Z</id>
+    <id>urn:2025-02-20T13:10:55.322Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T12:47:09.481Z</updated>
+    <updated>2025-02-20T13:10:55.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【怪談サークル　七不思議】学校の七不思議調べるいい季節よね👻【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=f3qJdpelVE0</id>
+        <link href="https://www.youtube.com/watch?v=f3qJdpelVE0"/>
+        <updated>2025-02-20T12:45:52.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見歓迎！なに歌うか迷い中。【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TplOF-65o6M</id>
@@ -1371,15 +1380,6 @@
         <updated>2025-01-25T06:19:37.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【グーグーピザ】よく働くつきみ・デリバリー始めました🍕🍕【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=fD45tT9LfcM</id>
-        <link href="https://www.youtube.com/watch?v=fD45tT9LfcM"/>
-        <updated>2025-01-25T03:07:41.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
