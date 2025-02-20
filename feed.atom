@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T00:56:05.835Z</id>
+    <id>urn:2025-02-20T01:35:01.833Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T00:56:05.835Z</updated>
+    <updated>2025-02-20T01:35:01.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】100人とおはようしたい！初見さん◎ガチ寝起き朝歌枠｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=SfguLEbqE64</id>
+        <link href="https://www.youtube.com/watch?v=SfguLEbqE64"/>
+        <updated>2025-02-20T01:26:14.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】]]></title>
         <id>https://www.youtube.com/watch?v=xu0EppoLDys</id>
@@ -66,15 +75,6 @@
         <updated>2025-02-19T15:10:14.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】100人とおはようしたい！初見さん◎ガチ寝起き朝歌枠｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=SfguLEbqE64</id>
-        <link href="https://www.youtube.com/watch?v=SfguLEbqE64"/>
-        <updated>2025-02-19T14:24:28.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
