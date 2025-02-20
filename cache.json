@@ -757,6 +757,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TplOF-65o6M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TplOF-65o6M",
+          "publishedOn": "2025-02-20T12:24:48.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！なに歌うか迷い中。【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xu0EppoLDys",
           "author": null,
           "description": "",
@@ -894,16 +904,6 @@
           "publishedOn": "2025-01-29T14:08:35.000Z",
           "wordCount": null,
           "title": "【歌枠】急遽カラオケをします。【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oAtO6kw37Iw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oAtO6kw37Iw",
-          "publishedOn": "2025-01-29T00:59:30.000Z",
-          "wordCount": null,
-          "title": "【歌枠】１月ももうすぐ終わっちまうね。【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]

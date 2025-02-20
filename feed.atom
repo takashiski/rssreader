@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T12:11:15.140Z</id>
+    <id>urn:2025-02-20T12:47:09.481Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T12:11:15.140Z</updated>
+    <updated>2025-02-20T12:47:09.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！なに歌うか迷い中。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=TplOF-65o6M</id>
+        <link href="https://www.youtube.com/watch?v=TplOF-65o6M"/>
+        <updated>2025-02-20T12:24:48.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[君、きらい。#無形有形 #illustration #九楽ライ #Vtuber #meme #田村芽実 #イラスト #描いてみた #shorts #手描き]]></title>
         <id>https://www.youtube.com/watch?v=6LqOMekQzYQ</id>
@@ -1290,15 +1299,6 @@
         <updated>2025-01-29T07:51:46.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】１月ももうすぐ終わっちまうね。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=oAtO6kw37Iw</id>
-        <link href="https://www.youtube.com/watch?v=oAtO6kw37Iw"/>
-        <updated>2025-01-29T00:59:30.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
