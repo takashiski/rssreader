@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-21T12:10:55.542Z</id>
+    <id>urn:2025-02-21T12:46:43.213Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T12:10:55.542Z</updated>
+    <updated>2025-02-21T12:46:43.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #36 】久々のPYCだ～！【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=02CQ0iMczbE</id>
+        <link href="https://www.youtube.com/watch?v=02CQ0iMczbE"/>
+        <updated>2025-02-21T12:30:16.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】花粉の季節、早すぎると思います。【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qtUhF7nHSnE</id>
@@ -24,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=kq2IiVC0-T8</id>
         <link href="https://www.youtube.com/watch?v=kq2IiVC0-T8"/>
         <updated>2025-02-21T09:42:46.000Z</updated>
@@ -849,15 +858,6 @@
         <updated>2025-02-07T01:50:58.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #25 】運転練習【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wscncFro9sI</id>
-        <link href="https://www.youtube.com/watch?v=wscncFro9sI"/>
-        <updated>2025-02-06T20:18:44.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>

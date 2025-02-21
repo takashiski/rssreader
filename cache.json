@@ -286,6 +286,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=02CQ0iMczbE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=02CQ0iMczbE",
+          "publishedOn": "2025-02-21T12:30:16.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #36 】久々のPYCだ～！【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=1rKnuFVMwp8",
           "author": null,
           "description": "",
@@ -423,16 +433,6 @@
           "publishedOn": "2025-02-07T20:21:33.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #26  】体験ちゃんとともに！【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wscncFro9sI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wscncFro9sI",
-          "publishedOn": "2025-02-06T20:18:44.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #25 】運転練習【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -763,7 +763,7 @@
           "link": "https://www.youtube.com/watch?v=kq2IiVC0-T8",
           "publishedOn": "2025-02-21T09:42:46.000Z",
           "wordCount": null,
-          "title": "【歌枠】今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】",
+          "title": "【歌枠】初見歓迎！今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】",
           "imageUrl": null
         },
         {
