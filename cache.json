@@ -757,6 +757,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=kq2IiVC0-T8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kq2IiVC0-T8",
+          "publishedOn": "2025-02-21T09:42:46.000Z",
+          "wordCount": null,
+          "title": "【歌枠】今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TplOF-65o6M",
           "author": null,
           "description": "",
@@ -894,16 +904,6 @@
           "publishedOn": "2025-01-29T16:08:18.000Z",
           "wordCount": null,
           "title": "【歌ってみた】二十九、三十/皇ロゼ【クリープハイプ】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2vmlrpSMmI8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2vmlrpSMmI8",
-          "publishedOn": "2025-01-29T14:08:35.000Z",
-          "wordCount": null,
-          "title": "【歌枠】急遽カラオケをします。【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
