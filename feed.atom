@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-21T14:35:43.277Z</id>
+    <id>urn:2025-02-21T15:06:53.103Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T14:35:43.277Z</updated>
+    <updated>2025-02-21T15:06:53.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】マクロスF＆マクロスΔ縛り！私の歌を聴け～！｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=j26V02zrREw</id>
+        <link href="https://www.youtube.com/watch?v=j26V02zrREw"/>
+        <updated>2025-02-21T14:35:56.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見歓迎！今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=kq2IiVC0-T8</id>
@@ -39,15 +48,6 @@
         <updated>2025-02-21T11:24:53.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】マクロスF＆マクロスΔ縛り！私の歌を聴け～！｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=j26V02zrREw</id>
-        <link href="https://www.youtube.com/watch?v=j26V02zrREw"/>
-        <updated>2025-02-21T10:45:27.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
