@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-21T21:34:32.093Z</id>
+    <id>urn:2025-02-21T22:06:08.334Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T21:34:32.093Z</updated>
+    <updated>2025-02-21T22:06:08.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1407,15 +1407,6 @@
         <updated>2025-01-24T15:18:46.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蹴るの得意です😳‼️ #一旦ステイtonight #踊ってみた #dance #にじさんじ #不破湊 #Vtuber #月紫アリア #いつでもどこでも一旦ステイ#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=dF72fgjkLJc</id>
-        <link href="https://www.youtube.com/watch?v=dF72fgjkLJc"/>
-        <updated>2025-01-23T10:00:41.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
 </feed>
