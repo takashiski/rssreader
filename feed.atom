@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-21T16:38:06.680Z</id>
+    <id>urn:2025-02-21T17:05:57.239Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T16:38:06.680Z</updated>
+    <updated>2025-02-21T17:05:57.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#スト6】初見歓迎！皇ロゼ、頂点を目指す。～無限だれか教えて編～【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=bRlwwvMu4Cc</id>
+        <link href="https://www.youtube.com/watch?v=bRlwwvMu4Cc"/>
+        <updated>2025-02-21T16:53:55.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】花粉の季節、早すぎると思います。【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qtUhF7nHSnE</id>
@@ -1245,15 +1254,6 @@
         <updated>2025-01-30T04:17:20.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】二十九、三十/皇ロゼ【クリープハイプ】]]></title>
-        <id>https://www.youtube.com/watch?v=usDdaJiCrOM</id>
-        <link href="https://www.youtube.com/watch?v=usDdaJiCrOM"/>
-        <updated>2025-01-29T16:08:18.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
