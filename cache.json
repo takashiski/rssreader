@@ -12,6 +12,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j26V02zrREw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j26V02zrREw",
+          "publishedOn": "2025-02-21T10:45:27.000Z",
+          "wordCount": null,
+          "title": "【歌枠】マクロスF＆マクロスΔ縛り！私の歌を聴け～！｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Rrh0AQD2jIY",
           "author": null,
           "description": "",
@@ -149,16 +159,6 @@
           "publishedOn": "2025-02-04T11:00:19.000Z",
           "wordCount": null,
           "title": "【アカペラ】時を刻む唄 - Lia #歌ってみた #ククルアクレイユ #vtuber",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6Xaor2vqWmY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6Xaor2vqWmY",
-          "publishedOn": "2025-02-04T01:38:03.000Z",
-          "wordCount": null,
-          "title": "【#ククルア居酒屋】​​朔夜トバリ様ご来店！第27回はバーテンダーのお姉さんが居酒屋に襲来！【#VTuber｜Re:AcT】",
           "imageUrl": null
         }
       ]
