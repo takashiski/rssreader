@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-22T11:34:32.612Z</id>
+    <id>urn:2025-02-22T12:09:28.718Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T11:34:32.612Z</updated>
+    <updated>2025-02-22T12:09:28.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】龍角散はすごいってことが証明された【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=V_qCCx6NoU4</id>
+        <link href="https://www.youtube.com/watch?v=V_qCCx6NoU4"/>
+        <updated>2025-02-22T11:41:22.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【めっちゃハモるやつ】Good Morning, Polar Night - yukkedoluce #多重録音 #ククルアクレイユ #歌ってみた #vtuber #shorts]]></title>
         <id>https://www.youtube.com/watch?v=EBBo48RretU</id>
@@ -327,6 +336,15 @@
         <updated>2025-02-17T14:24:13.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#希望の種を紡ぐ歌枠リレー】敵だというのなら、私を討ちますか？【#ククルアクレイユ #歌枠 #Vtuber #KARAOKE｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jsGm0Ow9glI</id>
+        <link href="https://www.youtube.com/watch?v=jsGm0Ow9glI"/>
+        <updated>2025-02-17T13:10:38.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -870,15 +888,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #ストグラ #26  】体験ちゃんとともに！【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=tsjpemjBLcI</id>
-        <link href="https://www.youtube.com/watch?v=tsjpemjBLcI"/>
-        <updated>2025-02-07T20:21:33.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 -`🎮 MHWilds / OBT 】モンハンワイルズのオープンベータやるぞー！！！😎✨【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=BfrtJZRCA0A</id>
         <link href="https://www.youtube.com/watch?v=BfrtJZRCA0A"/>
@@ -975,15 +984,6 @@
         <updated>2025-02-06T02:33:14.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】激レア朝歌もあるよ☀初見カウントあり◎100人とおはよう！｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=k0ONoZdd_zg</id>
-        <link href="https://www.youtube.com/watch?v=k0ONoZdd_zg"/>
-        <updated>2025-02-06T00:56:44.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
