@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-22T10:37:31.909Z</id>
+    <id>urn:2025-02-22T11:05:47.364Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T10:37:31.909Z</updated>
+    <updated>2025-02-22T11:05:47.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【めっちゃハモるやつ】Good Morning, Polar Night - yukkedoluce #多重録音 #ククルアクレイユ #歌ってみた #vtuber #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=EBBo48RretU</id>
+        <link href="https://www.youtube.com/watch?v=EBBo48RretU"/>
+        <updated>2025-02-22T11:00:14.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#varkshorts 】　ねこダンス　#猫の日 #ねこの日 #2月22日]]></title>
+        <id>https://www.youtube.com/watch?v=FMzrXjVlLRw</id>
+        <link href="https://www.youtube.com/watch?v=FMzrXjVlLRw"/>
+        <updated>2025-02-22T10:52:11.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#varkshorts 】寝過ごし注意報 #電車 #通勤 #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=BuFCJkWmbPY</id>
+        <link href="https://www.youtube.com/watch?v=BuFCJkWmbPY"/>
+        <updated>2025-02-22T10:49:07.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピッタリすぎる🤣 #shorts #loveandjoy #ラブアンドジョイ #木村由姫 #III #宝鐘マリン #kobokanaeru #踊ってみた #Vtuber #月紫アリア #兎彷魂あみゅ]]></title>
         <id>https://www.youtube.com/watch?v=l8i_ScKJUJ0</id>
@@ -1047,15 +1074,6 @@
         <updated>2025-02-04T13:00:06.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アカペラ】時を刻む唄 - Lia #歌ってみた #ククルアクレイユ #vtuber]]></title>
-        <id>https://www.youtube.com/watch?v=Ad3fsxNqz3s</id>
-        <link href="https://www.youtube.com/watch?v=Ad3fsxNqz3s"/>
-        <updated>2025-02-04T11:00:19.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
