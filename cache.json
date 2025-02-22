@@ -286,6 +286,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LuFEYnKk22c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LuFEYnKk22c",
+          "publishedOn": "2025-02-22T14:26:56.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #37 】遅めの出勤だあ【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
           "author": null,
           "description": "",
@@ -423,16 +433,6 @@
           "publishedOn": "2025-02-08T20:21:12.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #27 】ヘリウキウキ♬【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hcD6QzE-EQc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hcD6QzE-EQc",
-          "publishedOn": "2025-02-08T11:24:42.000Z",
-          "wordCount": null,
-          "title": "【歌枠】ほんとに久々の土曜定期歌枠だああああああああああ【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
