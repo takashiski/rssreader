@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-22T07:34:32.787Z</id>
+    <id>urn:2025-02-22T08:07:40.458Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T07:34:32.787Z</updated>
+    <updated>2025-02-22T08:07:40.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[初見さん大歓迎！ 深夜雑談 - midnight chat 「猫の日にまつわらぬ」【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=2pQcpMj_YvU</id>
+        <link href="https://www.youtube.com/watch?v=2pQcpMj_YvU"/>
+        <updated>2025-02-22T07:55:07.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #36 】久々のPYCだ～！【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=02CQ0iMczbE</id>
@@ -1398,15 +1407,6 @@
         <updated>2025-01-24T16:20:19.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初見さん大歓迎！ 深夜雑談 - midnight chat 「みなさんのおかげで眼科にいけました。」【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=ifDYtG_-o8w</id>
-        <link href="https://www.youtube.com/watch?v=ifDYtG_-o8w"/>
-        <updated>2025-01-24T15:18:46.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
 </feed>
