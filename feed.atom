@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-22T18:07:20.727Z</id>
+    <id>urn:2025-02-22T18:37:20.742Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-22T18:07:20.727Z</updated>
+    <updated>2025-02-22T18:37:20.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #37 】遅めの出勤だあ【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=LuFEYnKk22c</id>
+        <link href="https://www.youtube.com/watch?v=LuFEYnKk22c"/>
+        <updated>2025-02-22T18:11:26.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#スト6】初見歓迎！皇ロゼ、頂点を目指す。～無限だれか教えて編～【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=bRlwwvMu4Cc</id>
@@ -12,15 +21,6 @@
         <updated>2025-02-22T14:54:34.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #37 】遅めの出勤だあ【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LuFEYnKk22c</id>
-        <link href="https://www.youtube.com/watch?v=LuFEYnKk22c"/>
-        <updated>2025-02-22T14:26:56.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
