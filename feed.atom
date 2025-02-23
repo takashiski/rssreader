@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-23T15:34:40.294Z</id>
+    <id>urn:2025-02-23T16:06:33.012Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T15:34:40.294Z</updated>
+    <updated>2025-02-23T16:06:33.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】視聴者参加型 #二択カラオケ vol.6｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3zwfoql-VFI</id>
+        <link href="https://www.youtube.com/watch?v=3zwfoql-VFI"/>
+        <updated>2025-02-23T15:52:09.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ネタバレが激しすぎるＲＰＧ２―親友の真の姿は大魔王―】長らく寝かせたネタバレ２✨✨ついに進展！！/その4【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=kvLjW_QoQpc</id>
@@ -57,15 +66,6 @@
         <updated>2025-02-23T09:00:39.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】視聴者参加型 #二択カラオケ vol.6｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3zwfoql-VFI</id>
-        <link href="https://www.youtube.com/watch?v=3zwfoql-VFI"/>
-        <updated>2025-02-23T08:42:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
