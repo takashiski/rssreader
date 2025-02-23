@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-23T04:07:37.058Z</id>
+    <id>urn:2025-02-23T04:37:52.716Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T04:07:37.058Z</updated>
+    <updated>2025-02-23T04:37:52.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1423,15 +1423,6 @@
         <id>https://www.youtube.com/watch?v=VhP_hhTMctQ</id>
         <link href="https://www.youtube.com/watch?v=VhP_hhTMctQ"/>
         <updated>2025-01-25T07:10:22.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗お耳ふぅ、はぁ💗ごしごしタオルで安眠💗 earcleaning 広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=nCR6CW4kCgs</id>
-        <link href="https://www.youtube.com/watch?v=nCR6CW4kCgs"/>
-        <updated>2025-01-24T16:20:19.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
