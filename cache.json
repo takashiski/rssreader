@@ -286,6 +286,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
+          "publishedOn": "2025-02-23T03:05:36.000Z",
+          "wordCount": null,
+          "title": "【歌枠】龍角散はすごいってことが証明された【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LuFEYnKk22c",
           "author": null,
           "description": "",
@@ -293,16 +303,6 @@
           "publishedOn": "2025-02-22T18:11:26.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #37 】遅めの出勤だあ【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
-          "publishedOn": "2025-02-22T11:41:22.000Z",
-          "wordCount": null,
-          "title": "【歌枠】龍角散はすごいってことが証明された【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
