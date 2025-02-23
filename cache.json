@@ -757,6 +757,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fkEXu4gJFnc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fkEXu4gJFnc",
+          "publishedOn": "2025-02-23T06:58:04.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！今日生誕グッズ販売終了！買うなら今！！！！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bRlwwvMu4Cc",
           "author": null,
           "description": "",
@@ -894,16 +904,6 @@
           "publishedOn": "2025-02-02T01:58:12.000Z",
           "wordCount": null,
           "title": "【歌枠】2月最初のkaraoke【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ujA4a1Xbk0c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ujA4a1Xbk0c",
-          "publishedOn": "2025-01-30T12:00:06.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】おやすみ泣き声、さよなら歌姫/皇ロゼ【クリープハイプ】",
           "imageUrl": null
         }
       ]
