@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-23T00:31:57.770Z</id>
+    <id>urn:2025-02-23T01:34:00.745Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T00:31:57.770Z</updated>
+    <updated>2025-02-23T01:34:00.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[初見さん大歓迎！ 深夜雑談 - midnight chat 「猫の日にまつわらぬ」【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=2pQcpMj_YvU</id>
+        <link href="https://www.youtube.com/watch?v=2pQcpMj_YvU"/>
+        <updated>2025-02-23T01:30:57.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #37 】遅めの出勤だあ【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=LuFEYnKk22c</id>
@@ -93,15 +102,6 @@
         <updated>2025-02-22T09:00:01.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初見さん大歓迎！ 深夜雑談 - midnight chat 「猫の日にまつわらぬ」【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=2pQcpMj_YvU</id>
-        <link href="https://www.youtube.com/watch?v=2pQcpMj_YvU"/>
-        <updated>2025-02-22T07:55:07.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
