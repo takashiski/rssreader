@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-23T19:05:49.271Z</id>
+    <id>urn:2025-02-23T19:34:30.713Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T19:05:49.271Z</updated>
+    <updated>2025-02-23T19:34:30.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1434,15 +1434,6 @@
         <updated>2025-01-26T11:00:07.000Z</updated>
         <author>
             <name>花鋏キョウ*Kyo Hanabasami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#歌枠/singing】3D💜土曜日のお昼はアイドルと💜✨ karaoke【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VhP_hhTMctQ</id>
-        <link href="https://www.youtube.com/watch?v=VhP_hhTMctQ"/>
-        <updated>2025-01-25T07:10:22.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
 </feed>
