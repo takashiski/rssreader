@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-23T08:07:46.151Z</id>
+    <id>urn:2025-02-23T08:36:10.273Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T08:07:46.151Z</updated>
+    <updated>2025-02-23T08:36:10.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【ネタバレが激しすぎるＲＰＧ２―親友の真の姿は大魔王―】長らく寝かせたネタバレ２✨✨ついに進展！！/その4【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=kvLjW_QoQpc</id>
+        <link href="https://www.youtube.com/watch?v=kvLjW_QoQpc"/>
+        <updated>2025-02-23T08:20:53.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 ミタクルブロック 】では、レオと一緒に獅子神レオナを組み立てましょう😎✨【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RjlyIV8NxtE</id>
@@ -1333,15 +1342,6 @@
         <id>https://www.youtube.com/watch?v=Cf-NSf85cZw</id>
         <link href="https://www.youtube.com/watch?v=Cf-NSf85cZw"/>
         <updated>2025-01-29T14:09:40.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ヤンデレ】束縛の強さが愛の重さだと思ってる彼女は、束縛が甘くなってきたことに不満を感じて豹変してしまう【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9xbFY93BRPo</id>
-        <link href="https://www.youtube.com/watch?v=9xbFY93BRPo"/>
-        <updated>2025-01-29T13:45:49.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
