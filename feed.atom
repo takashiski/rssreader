@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T13:11:22.446Z</id>
+    <id>urn:2025-02-24T13:37:28.203Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T13:11:22.446Z</updated>
+    <updated>2025-02-24T13:37:28.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[復　活（仮）集　合【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=VrsXRltcPqY</id>
+        <link href="https://www.youtube.com/watch?v=VrsXRltcPqY"/>
+        <updated>2025-02-24T13:17:09.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#水瓶ミア星誕祭2025】今年はまったり雑談を交えてお祝いじゃ～～！！【VTuber / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=5w69kL52oew</id>
