@@ -600,6 +600,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=NjPHS3Cp1C4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=NjPHS3Cp1C4",
+          "publishedOn": "2025-02-25T09:29:34.000Z",
+          "wordCount": null,
+          "title": "〖深夜雑談〗ただいも。肘ちょと負傷した。〖九楽ライ/Japanese Vtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_Vb2l1D7_bk",
           "author": null,
           "description": "",
@@ -738,16 +748,6 @@
           "wordCount": null,
           "title": "先輩と歌って踊った曲💜#PONPONPON #きゃりーぱみゅぱみゅ #踊ってみた #九楽ライ #dance #Vtuber #アイドル #平成 #memes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lYWz5szC9Lc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lYWz5szC9Lc",
-          "publishedOn": "2025-02-02T09:44:49.000Z",
-          "wordCount": null,
-          "title": "✧ 縦型歌枠 / ＃karaoke ✧ めずらしく縦になってみるくらく。＃shorts【新人Vtuber/九楽ライ】",
-          "imageUrl": null
         }
       ]
     },
@@ -756,6 +756,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVbRXkQP-LumaBzfw-wsrrg",
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=soYtbkt4E-A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=soYtbkt4E-A",
+          "publishedOn": "2025-02-25T09:53:34.000Z",
+          "wordCount": null,
+          "title": "【#VALORANT】おそらく初のフルパコンペ　w/バーチャルゴリラ 椿 鴉紋ゆうく３ 狐宵いなり【皇ロゼ//Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
           "author": null,
@@ -894,16 +904,6 @@
           "publishedOn": "2025-02-09T02:04:16.000Z",
           "wordCount": null,
           "title": "【歌枠】初見さん歓迎！いろんな曲歌いたい！【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jIGm9_vMu6A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jIGm9_vMu6A",
-          "publishedOn": "2025-02-03T02:02:27.000Z",
-          "wordCount": null,
-          "title": "【Overcooked！2】協力！！！【皇ロゼ/獅子神レオナ/水瓶ミア/丸餅つきみ/Re:AcT】",
           "imageUrl": null
         }
       ]
