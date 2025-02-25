@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T03:12:47.792Z</id>
+    <id>urn:2025-02-25T03:38:19.444Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T03:12:47.792Z</updated>
+    <updated>2025-02-25T03:38:19.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【APEX】初見歓迎！元7.8.9マスター皇ロゼ。（現激よわ）教わりたい。ｗ/獅子神レオナ/バーチャルゴリラ【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-X4v2sAs3mQ</id>
+        <link href="https://www.youtube.com/watch?v=-X4v2sAs3mQ"/>
+        <updated>2025-02-25T03:10:33.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】15年以上前のボカロ縛り！ケモノとエルフのコラボ！ #うるルア｜Karaoke Singing【#ククルアクレイユ × #天和うる】]]></title>
         <id>https://www.youtube.com/watch?v=ff6DZMRgMJ0</id>
@@ -1245,15 +1254,6 @@
         <updated>2025-02-02T03:53:44.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】2月最初のkaraoke【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=gM4vRbseLLA</id>
-        <link href="https://www.youtube.com/watch?v=gM4vRbseLLA"/>
-        <updated>2025-02-02T01:58:12.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>

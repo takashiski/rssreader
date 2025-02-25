@@ -757,6 +757,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
+          "publishedOn": "2025-02-25T03:10:33.000Z",
+          "wordCount": null,
+          "title": "【APEX】初見歓迎！元7.8.9マスター皇ロゼ。（現激よわ）教わりたい。ｗ/獅子神レオナ/バーチャルゴリラ【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fkEXu4gJFnc",
           "author": null,
           "description": "",
@@ -894,16 +904,6 @@
           "publishedOn": "2025-02-03T02:02:27.000Z",
           "wordCount": null,
           "title": "【Overcooked！2】協力！！！【皇ロゼ/獅子神レオナ/水瓶ミア/丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gM4vRbseLLA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gM4vRbseLLA",
-          "publishedOn": "2025-02-02T01:58:12.000Z",
-          "wordCount": null,
-          "title": "【歌枠】2月最初のkaraoke【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
