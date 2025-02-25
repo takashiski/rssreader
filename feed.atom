@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T00:56:42.290Z</id>
+    <id>urn:2025-02-25T01:35:16.983Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T00:56:42.290Z</updated>
+    <updated>2025-02-25T01:35:16.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】15年以上前のボカロ縛り！ケモノとエルフのコラボ！ #うるルア｜Karaoke Singing【#ククルアクレイユ × #天和うる】]]></title>
+        <id>https://www.youtube.com/watch?v=ff6DZMRgMJ0</id>
+        <link href="https://www.youtube.com/watch?v=ff6DZMRgMJ0"/>
+        <updated>2025-02-25T01:05:50.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みんなの画面に迫りくる水瓶ミア【#varkshorts 】#至近距離 #近すぎ注意]]></title>
         <id>https://www.youtube.com/watch?v=w7yPk8yu3mI</id>
@@ -834,15 +843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】New🎉スパチャ演出お披露目🎉｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=7PUjCboXLtc</id>
-        <link href="https://www.youtube.com/watch?v=7PUjCboXLtc"/>
-        <updated>2025-02-11T14:52:41.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✧ 🍔昼飯雑談🍔✧果たして九楽は12時までにハンバーガーを入手できるのか。【新人Vtuber/九楽ライ】]]></title>
         <id>https://www.youtube.com/watch?v=RGrOnUDTYks</id>
         <link href="https://www.youtube.com/watch?v=RGrOnUDTYks"/>
@@ -1461,15 +1461,6 @@
         <updated>2025-01-26T16:31:17.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #歌雑 〗✧˖° 重大告知 °˖✧〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=AoIPvS1HvCA</id>
-        <link href="https://www.youtube.com/watch?v=AoIPvS1HvCA"/>
-        <updated>2025-01-26T13:11:49.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
