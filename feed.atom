@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T11:34:50.336Z</id>
+    <id>urn:2025-02-25T12:11:31.533Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T11:34:50.336Z</updated>
+    <updated>2025-02-25T12:11:31.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【fast food simulator】またアプデ来てたから様子見に行く！🍟🍔🥤【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=TjL0amb69Eg</id>
+        <link href="https://www.youtube.com/watch?v=TjL0amb69Eg"/>
+        <updated>2025-02-25T11:44:31.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vc:僕ver作ってみた❕めんどくさくても愛してね♡#無形有形 #illustration #描いてみた #歌ってみた #九楽ライ #vtuber #meme #田村芽実 #手描き #shorts]]></title>
         <id>https://www.youtube.com/watch?v=Vhik5Lo6GUU</id>
@@ -1389,15 +1398,6 @@
         <updated>2025-01-29T14:53:07.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【fast food simulator】うちの店のレベル上げたい！🍟🍔🥤【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Cf-NSf85cZw</id>
-        <link href="https://www.youtube.com/watch?v=Cf-NSf85cZw"/>
-        <updated>2025-01-29T14:09:40.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
