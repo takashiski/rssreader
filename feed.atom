@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-25T04:08:32.996Z</id>
+    <id>urn:2025-02-25T04:37:03.096Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T04:08:32.996Z</updated>
+    <updated>2025-02-25T04:37:03.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1452,15 +1452,6 @@
         <updated>2025-01-26T17:26:54.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】念願の✨嬉しい告知、するから集合💜✨ ※モテないひと必見【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Gv6lsYUTkQo</id>
-        <link href="https://www.youtube.com/watch?v=Gv6lsYUTkQo"/>
-        <updated>2025-01-26T16:31:17.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
 </feed>
