@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T14:06:50.476Z</id>
+    <id>urn:2025-02-26T14:37:13.074Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T14:06:50.476Z</updated>
+    <updated>2025-02-26T14:37:13.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【復 活】祝🎉 引越し完了💜 集合💜【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=VrsXRltcPqY</id>
+        <link href="https://www.youtube.com/watch?v=VrsXRltcPqY"/>
+        <updated>2025-02-26T14:14:07.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】]]></title>
         <id>https://www.youtube.com/watch?v=xu0EppoLDys</id>
@@ -183,15 +192,6 @@
         <updated>2025-02-24T21:40:18.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復 活】祝🎉 引越し完了💜 集合💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VrsXRltcPqY</id>
-        <link href="https://www.youtube.com/watch?v=VrsXRltcPqY"/>
-        <updated>2025-02-24T13:17:09.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
