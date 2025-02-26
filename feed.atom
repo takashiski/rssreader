@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T05:36:02.696Z</id>
+    <id>urn:2025-02-26T06:09:35.777Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T05:36:02.696Z</updated>
+    <updated>2025-02-26T06:09:35.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1423,15 +1423,6 @@
         <id>https://www.youtube.com/watch?v=XfWhkYA6-Bc</id>
         <link href="https://www.youtube.com/watch?v=XfWhkYA6-Bc"/>
         <updated>2025-01-29T10:00:37.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[𝔣𝔯𝔢𝔢 𝔠𝔥𝔞𝔱【初の✨ オリジナル香水 販売中💜🩷】]]></title>
-        <id>https://www.youtube.com/watch?v=Pi2PmSz-K9E</id>
-        <link href="https://www.youtube.com/watch?v=Pi2PmSz-K9E"/>
-        <updated>2025-01-29T07:51:46.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
