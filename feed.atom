@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-26T09:07:21.735Z</id>
+    <id>urn:2025-02-26T09:35:35.693Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T09:07:21.735Z</updated>
+    <updated>2025-02-26T09:35:35.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -105,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[復　活（仮）集　合【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【復 活】祝🎉 引越し完了💜 集合💜【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=VrsXRltcPqY</id>
         <link href="https://www.youtube.com/watch?v=VrsXRltcPqY"/>
         <updated>2025-02-24T13:17:09.000Z</updated>
