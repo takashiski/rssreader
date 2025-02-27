@@ -1362,6 +1362,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dqGlhtUMELM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dqGlhtUMELM",
+          "publishedOn": "2025-02-27T10:15:06.000Z",
+          "wordCount": null,
+          "title": "【-`🎮 APEX 】エッホエッホ、ランクしなきゃ～🦉！うっほうっほ🦍【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=7zFQMRzDeYs",
           "author": null,
           "description": "",
@@ -1499,16 +1509,6 @@
           "publishedOn": "2025-01-31T15:40:34.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】カラオケJOYSOUND for STREAMERを試してみましょう👉【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1tkV6-RHGQc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1tkV6-RHGQc",
-          "publishedOn": "2025-01-29T14:53:07.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】1月は思ったよりすぐ終わる。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
