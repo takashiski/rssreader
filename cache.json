@@ -747,6 +747,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
+          "publishedOn": "2025-02-27T14:37:46.000Z",
+          "wordCount": null,
+          "title": "【APEX】初見歓迎！元7.8.9マスター（現激よわ）ウッホウッホｗ/獅子神レオナ/バーチャルゴリラ【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xu0EppoLDys",
           "author": null,
           "description": "",
@@ -764,16 +774,6 @@
           "publishedOn": "2025-02-25T14:49:40.000Z",
           "wordCount": null,
           "title": "【#VALORANT】おそらく初のフルパコンペ　w/バーチャルゴリラ 椿 鴉紋ゆうく３ 狐宵いなり【皇ロゼ//Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
-          "publishedOn": "2025-02-25T03:10:33.000Z",
-          "wordCount": null,
-          "title": "【APEX】初見歓迎！元7.8.9マスター（現激よわ）ウッホウッホｗ/獅子神レオナ/バーチャルゴリラ【皇ロゼ/Re:AcT】",
           "imageUrl": null
         },
         {
@@ -1047,7 +1047,7 @@
           "link": "https://www.youtube.com/watch?v=7-7psH3fFeA",
           "publishedOn": "2025-02-26T17:48:01.000Z",
           "wordCount": null,
-          "title": "【#ASMR/3dio】睡眠誘導💗お耳ふぅ～…💗ごりごり気持ちぃ耳かき💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】",
+          "title": "【#ASMR/3dio】メン限！睡眠誘導💗お耳ふぅ～…💗ごりごり気持ちぃ耳かき💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】",
           "imageUrl": null
         },
         {
@@ -1366,7 +1366,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=dqGlhtUMELM",
-          "publishedOn": "2025-02-27T10:15:06.000Z",
+          "publishedOn": "2025-02-27T14:53:03.000Z",
           "wordCount": null,
           "title": "【-`🎮 APEX 】エッホエッホ、ランクしなきゃ～🦉！うっほうっほ🦍【獅子神レオナ/Re:AcT】",
           "imageUrl": null
