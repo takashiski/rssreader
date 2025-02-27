@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-27T00:56:28.340Z</id>
+    <id>urn:2025-02-27T01:35:10.562Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T00:56:28.340Z</updated>
+    <updated>2025-02-27T01:35:10.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1443,15 +1443,6 @@
         <updated>2025-01-29T10:00:37.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 ＃巫てんり主催歌枠リレーResonance 】シティポップしばりでおしゃれな夜にします🕺✨【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=0D8cjM-eezo</id>
-        <link href="https://www.youtube.com/watch?v=0D8cjM-eezo"/>
-        <updated>2025-01-28T13:19:27.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
 </feed>
