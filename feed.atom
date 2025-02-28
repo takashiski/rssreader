@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T12:46:56.019Z</id>
+    <id>urn:2025-02-28T13:10:37.264Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T12:46:56.019Z</updated>
+    <updated>2025-02-28T13:10:37.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -210,6 +210,15 @@
         <updated>2025-02-26T02:40:09.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#第4回久遠V歌祭り】インターネット老人会の出番ｋｔｋｒ(ﾟ∀ﾟ)!!｜Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6SoRe7zyzgU</id>
+        <link href="https://www.youtube.com/watch?v=6SoRe7zyzgU"/>
+        <updated>2025-02-25T23:43:30.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -876,15 +885,6 @@
         <updated>2025-02-14T15:13:58.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オンラインチェキ会】バレンタイン🍫チェキ撮影＆サイン会💝【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ptCoKRQPOSg</id>
-        <link href="https://www.youtube.com/watch?v=ptCoKRQPOSg"/>
-        <updated>2025-02-14T14:55:49.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
