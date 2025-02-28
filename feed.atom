@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T02:30:39.912Z</id>
+    <id>urn:2025-02-28T03:13:29.936Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T02:30:39.912Z</updated>
+    <updated>2025-02-28T03:13:29.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎮 モンハンワイルズ/MHWilds 】ついに狩猟解禁！！！待ってろモンスター！！！😎✨【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=js3nJ3D6Za8</id>
+        <link href="https://www.youtube.com/watch?v=js3nJ3D6Za8"/>
+        <updated>2025-02-28T02:49:48.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【同時視聴】１週間よく働いたうさぎとのんびり映画鑑賞✨🐊🐊【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=RyXXtU39Vbo</id>
@@ -1365,15 +1374,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】カラオケJOYSOUND for STREAMERを試してみましょう👉【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Zgw4-_z5wwU</id>
-        <link href="https://www.youtube.com/watch?v=Zgw4-_z5wwU"/>
-        <updated>2025-01-31T15:40:34.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[生きてるだけでえらい！ #vtuber #varkshorts #水瓶ミア]]></title>
         <id>https://www.youtube.com/watch?v=w-q1AI0TpVY</id>
         <link href="https://www.youtube.com/watch?v=w-q1AI0TpVY"/>
@@ -1407,15 +1407,6 @@
         <updated>2025-01-30T04:17:20.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #雑談  】嬉しいお知らせをお持ちしました…♡♡♡ 【 #音伽ねむ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ktm9WA8IQiE</id>
-        <link href="https://www.youtube.com/watch?v=ktm9WA8IQiE"/>
-        <updated>2025-01-29T15:12:20.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
