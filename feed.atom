@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T06:09:21.807Z</id>
+    <id>urn:2025-02-28T06:39:31.105Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T06:09:21.807Z</updated>
+    <updated>2025-02-28T06:39:31.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】ついに狩猟解禁！ついにこの日が来ちゃったじゃん⚔️✨【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-UkSUFz9NAI</id>
+        <link href="https://www.youtube.com/watch?v=-UkSUFz9NAI"/>
+        <updated>2025-02-28T06:20:13.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎮 モンハンワイルズ/MHWilds 】ついに狩猟解禁！！！待ってろモンスター！！！😎✨【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=js3nJ3D6Za8</id>
@@ -1191,15 +1200,6 @@
         <updated>2025-02-06T12:23:39.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Placid Plastic Duck Simulator】癒されたいときはやっぱこれでしょ！🦆🦆【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=UL8YuZyEPO8</id>
-        <link href="https://www.youtube.com/watch?v=UL8YuZyEPO8"/>
-        <updated>2025-02-06T02:33:14.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
