@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T13:10:37.264Z</id>
+    <id>urn:2025-02-28T13:36:26.510Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T13:10:37.264Z</updated>
+    <updated>2025-02-28T13:36:26.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2025-02-28T10:12:07.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】2月最後！supercell縛り！ボカロ黄金時代✧懐かしの神曲メドレー｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_zhD7topMDU</id>
-        <link href="https://www.youtube.com/watch?v=_zhD7topMDU"/>
-        <updated>2025-02-28T09:24:10.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -885,6 +876,15 @@
         <updated>2025-02-14T15:13:58.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【オンラインチェキ会】バレンタイン🍫チェキ撮影＆サイン会💝【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ptCoKRQPOSg</id>
+        <link href="https://www.youtube.com/watch?v=ptCoKRQPOSg"/>
+        <updated>2025-02-14T14:55:49.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
