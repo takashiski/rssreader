@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T11:06:14.520Z</id>
+    <id>urn:2025-02-28T11:34:44.231Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T11:06:14.520Z</updated>
+    <updated>2025-02-28T11:34:44.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -24,7 +24,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】supercell縛り！ボカロ黄金時代✧懐かしの神曲メドレー｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】2月最後！supercell縛り！ボカロ黄金時代✧懐かしの神曲メドレー｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_zhD7topMDU</id>
         <link href="https://www.youtube.com/watch?v=_zhD7topMDU"/>
         <updated>2025-02-28T09:24:10.000Z</updated>
