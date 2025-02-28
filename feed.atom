@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-28T18:39:25.741Z</id>
+    <id>urn:2025-02-28T19:06:08.077Z</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T18:39:25.741Z</updated>
+    <updated>2025-02-28T19:06:08.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！華金はどの時間から配信しても許されますね。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JHcTRVtc0vw</id>
+        <link href="https://www.youtube.com/watch?v=JHcTRVtc0vw"/>
+        <updated>2025-02-28T18:54:24.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】初見さんも常連さんも、みんなでお昼休憩🍴💜【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=jZMIN8HtjP4</id>
@@ -1083,15 +1092,6 @@
         <updated>2025-02-09T13:35:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】今日のイベントの感想とかも話そう！！！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p5dWTiksWp0</id>
-        <link href="https://www.youtube.com/watch?v=p5dWTiksWp0"/>
-        <updated>2025-02-09T13:21:59.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>

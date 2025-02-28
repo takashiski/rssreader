@@ -737,6 +737,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JHcTRVtc0vw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JHcTRVtc0vw",
+          "publishedOn": "2025-02-28T18:54:24.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！華金はどの時間から配信しても許されますね。【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pNAqhjuIHxY",
           "author": null,
           "description": "",
@@ -874,16 +884,6 @@
           "publishedOn": "2025-02-16T11:00:06.000Z",
           "wordCount": null,
           "title": "【歌ってみた】祝日天国/皇ロゼ&狐宵いなり【35.7】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p5dWTiksWp0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p5dWTiksWp0",
-          "publishedOn": "2025-02-09T13:21:59.000Z",
-          "wordCount": null,
-          "title": "【歌枠】今日のイベントの感想とかも話そう！！！【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
