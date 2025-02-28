@@ -286,6 +286,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7ZtFLQkUams",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7ZtFLQkUams",
+          "publishedOn": "2025-02-28T00:01:53.000Z",
+          "wordCount": null,
+          "title": "【歌枠】ゆうがた【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=9TH-8m1-ldI",
           "author": null,
           "description": "",
@@ -303,16 +313,6 @@
           "publishedOn": "2025-02-26T19:43:59.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #39 】ぼんやり【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7ZtFLQkUams",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7ZtFLQkUams",
-          "publishedOn": "2025-02-26T12:19:44.000Z",
-          "wordCount": null,
-          "title": "【歌枠】ゆうがた【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
@@ -570,16 +570,6 @@
           "publishedOn": "2025-02-01T14:34:52.000Z",
           "wordCount": null,
           "title": "【 #メメメのメ 歌枠リレー 】だつりょく系Vsinger、わたしらしく歌います🦢✨【 稀羽すう / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GWiLa7WBkY0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GWiLa7WBkY0",
-          "publishedOn": "2025-01-29T12:17:01.000Z",
-          "wordCount": null,
-          "title": "【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #96【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         }
       ]
