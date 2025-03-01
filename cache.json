@@ -1342,6 +1342,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=r9PlvRm1DvQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r9PlvRm1DvQ",
+          "publishedOn": "2025-03-01T06:49:38.000Z",
+          "wordCount": null,
+          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】うおおおおやるぞやるぞ！！！😎✨【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=js3nJ3D6Za8",
           "author": null,
           "description": "",
@@ -1479,16 +1489,6 @@
           "publishedOn": "2025-02-03T15:18:07.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】2月になったので歌いますよ、と🎤【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iCChwA_fqho",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iCChwA_fqho",
-          "publishedOn": "2025-02-01T12:16:53.000Z",
-          "wordCount": null,
-          "title": "【 友竹庵×ブイエール🍵 】どら焼きの皮にレオがいる！？これは食べるしかないな…😎✨【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
