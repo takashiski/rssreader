@@ -33,6 +33,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=jsGm0Ow9glI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jsGm0Ow9glI",
+          "publishedOn": "2025-03-01T12:41:43.000Z",
+          "wordCount": null,
+          "title": "【#希望の種を紡ぐ歌枠リレー】敵だというのなら、私を討ちますか？【#ククルアクレイユ #歌枠 #Vtuber #KARAOKE｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L2cEtOcGeko",
           "author": null,
           "description": "",
@@ -140,16 +150,6 @@
           "publishedOn": "2025-02-18T14:05:55.000Z",
           "wordCount": null,
           "title": "【歌枠】お知らせアリ‼️20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jsGm0Ow9glI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jsGm0Ow9glI",
-          "publishedOn": "2025-02-17T13:10:38.000Z",
-          "wordCount": null,
-          "title": "【#希望の種を紡ぐ歌枠リレー】敵だというのなら、私を討ちますか？【#ククルアクレイユ #歌枠 #Vtuber #KARAOKE｜Re:AcT】",
           "imageUrl": null
         },
         {
@@ -1691,7 +1691,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=T3eMdYIUsF0",
-          "publishedOn": "2025-03-01T07:26:22.000Z",
+          "publishedOn": "2025-03-01T12:19:46.000Z",
           "wordCount": null,
           "title": "【Detroit: Become Human】02. はじめてのゲームソロ配信⁠🌼【#キョウの生放送 】",
           "imageUrl": null
