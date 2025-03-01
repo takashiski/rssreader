@@ -317,6 +317,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
+          "publishedOn": "2025-03-01T23:09:03.000Z",
+          "wordCount": null,
+          "title": "【歌枠】もう３月ですってよ【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PI9x5YTDaiE",
           "author": null,
           "description": "",
@@ -324,16 +334,6 @@
           "publishedOn": "2025-03-01T18:59:44.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #41 】政見放送を聞くのだ【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
-          "publishedOn": "2025-03-01T08:37:18.000Z",
-          "wordCount": null,
-          "title": "【歌枠】もう３月ですってよ【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
