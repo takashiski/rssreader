@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ujO9n5nb_v8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ujO9n5nb_v8",
+          "publishedOn": "2025-03-01T12:01:18.000Z",
+          "wordCount": null,
+          "title": "【3月デビュー１人目！】君は僕に騙されている【歌ってみた】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pbVXMY41mMY",
           "author": null,
           "description": "",
@@ -180,6 +190,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=43pAHetmqx4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=43pAHetmqx4",
+          "publishedOn": "2025-03-01T11:39:37.000Z",
+          "wordCount": null,
+          "title": "【 #civ7 】指導者ねむ、新たな国をつくる…！#6【 #音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XirEQYM2YkQ",
           "author": null,
           "description": "",
@@ -296,6 +316,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrG8pzkq_cCCLcN5wgrzNw",
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PI9x5YTDaiE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PI9x5YTDaiE",
+          "publishedOn": "2025-03-01T12:01:51.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #41 】政見放送を聞くのだ【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
           "author": null,
@@ -434,16 +464,6 @@
           "publishedOn": "2025-02-14T20:24:04.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #31 】PYC【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-Uze5e_e1P0",
-          "publishedOn": "2025-02-14T11:24:09.000Z",
-          "wordCount": null,
-          "title": "【歌枠】新ビジュでの歌枠だあ【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
