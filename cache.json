@@ -4,7 +4,18 @@
       "title": "【Re:AcT /リアクト】公式チャンネル",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC90vyzmRgWCE17-uWNsKW2Q",
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pbVXMY41mMY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pbVXMY41mMY",
+          "publishedOn": "2025-03-01T11:01:04.000Z",
+          "wordCount": null,
+          "title": "【 Re:AcT 】2025年3月 3名デビュー決定！【ティザーPV】",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "ククルア・クレイユ - Coucourua Creil -",
@@ -747,6 +758,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j0CooUUxeps",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j0CooUUxeps",
+          "publishedOn": "2025-03-01T11:12:08.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！歌枠。今月すでに２度目。【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JHcTRVtc0vw",
           "author": null,
           "description": "",
@@ -884,16 +905,6 @@
           "publishedOn": "2025-02-17T02:48:34.000Z",
           "wordCount": null,
           "title": "【雑談】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TXqwUgj08bU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TXqwUgj08bU",
-          "publishedOn": "2025-02-16T11:00:06.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】祝日天国/皇ロゼ&狐宵いなり【35.7】",
           "imageUrl": null
         }
       ]
