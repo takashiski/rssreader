@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-02T01:34:13.827Z</id>
+    <id>urn:2025-03-02T02:31:30.055Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T01:34:13.827Z</updated>
+    <updated>2025-03-02T02:31:30.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1443,24 +1443,6 @@
         <updated>2025-02-01T02:11:04.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生きてるだけでえらい！ #vtuber #varkshorts #水瓶ミア]]></title>
-        <id>https://www.youtube.com/watch?v=w-q1AI0TpVY</id>
-        <link href="https://www.youtube.com/watch?v=w-q1AI0TpVY"/>
-        <updated>2025-01-31T14:03:52.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なにかがおかしいアンパンマン #vtuber #アンパンマン #歌ヘタ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mxJ3_G12avg</id>
-        <link href="https://www.youtube.com/watch?v=mxJ3_G12avg"/>
-        <updated>2025-01-31T13:54:58.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
 </feed>
