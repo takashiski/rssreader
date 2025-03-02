@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-02T14:06:21.940Z</id>
+    <id>urn:2025-03-02T14:35:13.845Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T14:06:21.940Z</updated>
+    <updated>2025-03-02T14:35:13.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】イケメンツキヒコは虫に負けない！！⚔️✨【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=wr60mI3v7-w</id>
+        <link href="https://www.youtube.com/watch?v=wr60mI3v7-w"/>
+        <updated>2025-03-02T14:17:24.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #civ7 】ねむ、バカンスしながら指導者する…！#7【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nT_WnFCJieI</id>
@@ -39,15 +48,6 @@
         <updated>2025-03-02T11:13:41.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】イケメンツキヒコは虫に負けない！！⚔️✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wr60mI3v7-w</id>
-        <link href="https://www.youtube.com/watch?v=wr60mI3v7-w"/>
-        <updated>2025-03-02T09:22:04.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1452,15 +1452,6 @@
         <updated>2025-02-01T14:34:52.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活雑談】初見歓迎💜おはよ～って言いにきてほちぃ💜💭 goodmorning【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=z1hNM2VQVJM</id>
-        <link href="https://www.youtube.com/watch?v=z1hNM2VQVJM"/>
-        <updated>2025-02-01T02:11:04.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
 </feed>
