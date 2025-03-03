@@ -347,6 +347,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=GFzup6nXCbc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GFzup6nXCbc",
+          "publishedOn": "2025-03-03T16:09:16.000Z",
+          "wordCount": null,
+          "title": "ばけもん　#ストグラ #ストグラ切り抜き #真島ルイ #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=E9zp5i7ct1w",
           "author": null,
           "description": "",
@@ -484,16 +494,6 @@
           "publishedOn": "2025-02-15T20:25:32.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #32 】明日から警察体験だあ【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LQr2dRwLhbc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LQr2dRwLhbc",
-          "publishedOn": "2025-02-15T11:25:39.000Z",
-          "wordCount": null,
-          "title": "【歌枠】万年生活リズム崩壊女【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
