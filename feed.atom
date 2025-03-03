@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-03T15:07:19.053Z</id>
+    <id>urn:2025-03-03T15:36:17.520Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-03T15:07:19.053Z</updated>
+    <updated>2025-03-03T15:36:17.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】3月、それは花粉の季節。【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DLETeIcJX3Q</id>
+        <link href="https://www.youtube.com/watch?v=DLETeIcJX3Q"/>
+        <updated>2025-03-03T15:17:47.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第4回 #fairy歌枠リレー】ここが古のインターネットってこと｜Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=KpHyzTTevOQ</id>
@@ -21,15 +30,6 @@
         <updated>2025-03-03T12:00:43.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】3月、それは花粉の季節。【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DLETeIcJX3Q</id>
-        <link href="https://www.youtube.com/watch?v=DLETeIcJX3Q"/>
-        <updated>2025-03-03T11:32:57.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
