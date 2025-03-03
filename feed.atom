@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-03T02:31:31.878Z</id>
+    <id>urn:2025-03-03T03:14:57.266Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-03T02:31:31.878Z</updated>
+    <updated>2025-03-03T03:14:57.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1452,15 +1452,6 @@
         <updated>2025-02-02T01:43:03.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #メメメのメ 歌枠リレー 】だつりょく系Vsinger、わたしらしく歌います🦢✨【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=dfkVerr9StQ</id>
-        <link href="https://www.youtube.com/watch?v=dfkVerr9StQ"/>
-        <updated>2025-02-01T14:34:52.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
 </feed>
