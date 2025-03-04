@@ -347,6 +347,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=d6yHJoWp-Zw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=d6yHJoWp-Zw",
+          "publishedOn": "2025-03-04T08:35:40.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #43 】ぽんこつ警察【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GFzup6nXCbc",
           "author": null,
           "description": "",
@@ -484,16 +494,6 @@
           "publishedOn": "2025-02-16T20:29:32.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #33 】警察体験1日目!【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gfEc_cn-CwY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gfEc_cn-CwY",
-          "publishedOn": "2025-02-15T20:25:32.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #32 】明日から警察体験だあ【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1403,6 +1403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dZCrJlzjlvg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dZCrJlzjlvg",
+          "publishedOn": "2025-03-04T08:00:36.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】プロポーズ/Covered by 獅子神レオナ【内緒のピアス】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DLETeIcJX3Q",
           "author": null,
           "description": "",
@@ -1540,16 +1550,6 @@
           "publishedOn": "2025-02-07T15:36:44.000Z",
           "wordCount": null,
           "title": "【 -`🎮 MHWilds / OBT 】モンハンワイルズのオープンベータやるぞー！！！😎✨【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tA47R-rEgnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tA47R-rEgnE",
-          "publishedOn": "2025-02-04T22:50:45.000Z",
-          "wordCount": null,
-          "title": "【-`💬 CAPCOMミラー配信 】最新情報来るぞ‼️『カプコンスポットライト&モンスターハンターワイルズショーケース』みんなで一緒に見よう！😎✨【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
