@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QWmlyMHMP0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QWmlyMHMP0Q",
+          "publishedOn": "2025-03-04T11:33:42.000Z",
+          "wordCount": null,
+          "title": "【歌枠】ノンストップで歌うよ！初見さん歓迎！！【#ククルアクレイユ｜Re:AcT】 #shorts #縦型配信 #初見歓迎",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=KpHyzTTevOQ",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-02-16T11:33:00.000Z",
           "wordCount": null,
           "title": "【ファンアート頂いたので】勇者 - YOASOBI #歌ってみた #ククルアクレイユ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TnIFQZ-yMR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TnIFQZ-yMR0",
-          "publishedOn": "2025-02-15T15:19:43.000Z",
-          "wordCount": null,
-          "title": "【なろう小説タイトル並べ替えゲーム】なんでこういうのってタイトル長いん？【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
