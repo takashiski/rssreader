@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-04T09:07:16.159Z</id>
+    <id>urn:2025-03-04T09:36:02.277Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T09:07:16.159Z</updated>
+    <updated>2025-03-04T09:36:02.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎮 モンハンワイルズ/MHWilds 】上位進めるぞ！！HR40～😎✨【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=RZXKMaMJ0zQ</id>
+        <link href="https://www.youtube.com/watch?v=RZXKMaMJ0zQ"/>
+        <updated>2025-03-04T09:27:20.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖＃モンハンワイルズ〗ガチ初心者スラアク脳筋ハンターの初モンハン配信🔥白の孤影よりセクレトの雛を探したい。〖九楽ライ/Japanese Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=zuCvT70clU0</id>
+        <link href="https://www.youtube.com/watch?v=zuCvT70clU0"/>
+        <updated>2025-03-04T09:03:35.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #43 】ぽんこつ警察【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=d6yHJoWp-Zw</id>
@@ -1320,15 +1338,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 -`🎮 MHWilds / OBT 】モンハンワイルズのオープンベータやるぞー！！！😎✨【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=BfrtJZRCA0A</id>
-        <link href="https://www.youtube.com/watch?v=BfrtJZRCA0A"/>
-        <updated>2025-02-07T15:36:44.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #ラクリッチ 】ラクでリッチな冷凍グルメをいただきます。やったー！！【 Re:AcT / 稀羽すう 】]]></title>
         <id>https://www.youtube.com/watch?v=ai0UuuhpY1Q</id>
         <link href="https://www.youtube.com/watch?v=ai0UuuhpY1Q"/>
@@ -1344,15 +1353,6 @@
         <updated>2025-02-07T09:01:13.000Z</updated>
         <author>
             <name>花鋏キョウ*Kyo Hanabasami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事務所に怒られる可能性がある。#野獣先輩 #野獣先輩ダンス #踊ってみた #Vtuber #九楽ライ #114514 #ﾔｼﾞｭｾﾝﾊﾟｲｲｷｽｷﾞﾝｲｸｲｸｱｯｱｯｱｯｱｰﾔﾘﾏｽﾈ #dance]]></title>
-        <id>https://www.youtube.com/watch?v=ofL9p3Ntjt0</id>
-        <link href="https://www.youtube.com/watch?v=ofL9p3Ntjt0"/>
-        <updated>2025-02-07T09:00:57.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
