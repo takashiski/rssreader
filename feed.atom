@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T10:38:14.131Z</id>
+    <id>urn:2025-03-05T11:06:22.672Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T10:38:14.131Z</updated>
+    <updated>2025-03-05T11:06:22.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】目指せHR７✨今日も大剣をふるう！！！【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=pO4B7zZ2Q2A</id>
+        <link href="https://www.youtube.com/watch?v=pO4B7zZ2Q2A"/>
+        <updated>2025-03-05T09:50:44.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アリアがいれば大丈夫💜 #shorts #ケンチャナ #khongsaoca #khôngsaocả #7dnight  #괜찮아 #踊ってみた #Vtuber #月紫アリア]]></title>
         <id>https://www.youtube.com/watch?v=Ub8hCMs7-O8</id>
@@ -1245,15 +1254,6 @@
         <updated>2025-02-12T09:01:14.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【fast food simulator】使えるバイトを採用しました！ガツガツ稼いで幸せに暮らします🍟🍔🥤【チレン・ザヴィ/丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=KaS-kvk-9JI</id>
-        <link href="https://www.youtube.com/watch?v=KaS-kvk-9JI"/>
-        <updated>2025-02-12T02:08:24.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>

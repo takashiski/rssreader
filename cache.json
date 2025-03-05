@@ -1229,6 +1229,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pO4B7zZ2Q2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pO4B7zZ2Q2A",
+          "publishedOn": "2025-03-05T09:50:44.000Z",
+          "wordCount": null,
+          "title": "【 #モンハンワイルズ /MHWilds 】目指せHR７✨今日も大剣をふるう！！！【丸餅つきみ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wr60mI3v7-w",
           "author": null,
           "description": "",
@@ -1366,16 +1376,6 @@
           "publishedOn": "2025-02-14T02:42:20.000Z",
           "wordCount": null,
           "title": "【A Game About Digging A Hole】庭を穴だらけにしてお宝を探します！！一攫千金狙うじゃん🐰✨【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KaS-kvk-9JI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KaS-kvk-9JI",
-          "publishedOn": "2025-02-12T02:08:24.000Z",
-          "wordCount": null,
-          "title": "【fast food simulator】使えるバイトを採用しました！ガツガツ稼いで幸せに暮らします🍟🍔🥤【チレン・ザヴィ/丸餅つきみ】",
           "imageUrl": null
         }
       ]
