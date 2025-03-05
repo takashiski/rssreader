@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T09:07:40.559Z</id>
+    <id>urn:2025-03-05T09:36:04.969Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T09:07:40.559Z</updated>
+    <updated>2025-03-05T09:36:04.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アリアがいれば大丈夫💜 #shorts #ケンチャナ #khongsaoca #khôngsaocả #7dnight  #괜찮아 #踊ってみた #Vtuber #月紫アリア]]></title>
+        <id>https://www.youtube.com/watch?v=Ub8hCMs7-O8</id>
+        <link href="https://www.youtube.com/watch?v=Ub8hCMs7-O8"/>
+        <updated>2025-03-05T09:30:18.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【デザインメイキング】生誕＆３ＤLIVEのロゴ作るよ！｜illustrator Photoshop【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=9yL3rla3IK4</id>
+        <link href="https://www.youtube.com/watch?v=9yL3rla3IK4"/>
+        <updated>2025-03-05T09:12:46.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #civ7 】ねむ、宇宙を目指す…！#8【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Fikg8kUcUtE</id>
@@ -1038,15 +1056,6 @@
         <updated>2025-02-16T14:11:09.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ファンアート頂いたので】勇者 - YOASOBI #歌ってみた #ククルアクレイユ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=gzcODM_y6uE</id>
-        <link href="https://www.youtube.com/watch?v=gzcODM_y6uE"/>
-        <updated>2025-02-16T11:33:00.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
