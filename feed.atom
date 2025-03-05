@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T12:11:39.410Z</id>
+    <id>urn:2025-03-05T12:47:15.610Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T12:11:39.410Z</updated>
+    <updated>2025-03-05T12:47:15.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream ㊗ #100 回【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=NokBKuUh7RM</id>
+        <link href="https://www.youtube.com/watch?v=NokBKuUh7RM"/>
+        <updated>2025-03-05T12:36:08.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】目指せHR７✨今日も大剣をふるう！！！【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=pO4B7zZ2Q2A</id>
@@ -100,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=84YyMrj4JE0</id>
         <link href="https://www.youtube.com/watch?v=84YyMrj4JE0"/>
         <updated>2025-03-04T07:54:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream ㊗ #100 回【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=NokBKuUh7RM</id>
-        <link href="https://www.youtube.com/watch?v=NokBKuUh7RM"/>
-        <updated>2025-03-04T07:07:32.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
