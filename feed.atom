@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-06T00:57:17.349Z</id>
+    <id>urn:2025-03-06T01:36:11.074Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T00:57:17.349Z</updated>
+    <updated>2025-03-06T01:36:11.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1452,24 +1452,6 @@
         <updated>2025-02-04T15:43:41.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 3D LIVE】#音伽ねむ生誕祭2025 初めての生誕3Dライブ🤍可愛いお姿をい～っぱいお届け💝素敵なお知らせもあるよ…♡【 #音伽ねむ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=h8ZkSE3XsFU</id>
-        <link href="https://www.youtube.com/watch?v=h8ZkSE3XsFU"/>
-        <updated>2025-02-04T13:15:29.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleeping Awake ‐ covered by 音伽ねむ【歌ってみた】]]></title>
-        <id>https://www.youtube.com/watch?v=TNArtlbOXz4</id>
-        <link href="https://www.youtube.com/watch?v=TNArtlbOXz4"/>
-        <updated>2025-02-04T13:00:06.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
