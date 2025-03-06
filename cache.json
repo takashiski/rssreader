@@ -53,16 +53,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=6fNw2yY7scs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6fNw2yY7scs",
-          "publishedOn": "2025-03-06T00:39:19.000Z",
-          "wordCount": null,
-          "title": "【朝活】#デザインメイキング 生誕＆３ＤLIVEのロゴ作るよ！｜illustrator Photoshop【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=QWmlyMHMP0Q",
           "author": null,
           "description": "",
@@ -200,6 +190,16 @@
           "publishedOn": "2025-02-18T14:05:55.000Z",
           "wordCount": null,
           "title": "【歌枠】お知らせアリ‼️20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gzcODM_y6uE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gzcODM_y6uE",
+          "publishedOn": "2025-02-16T11:33:00.000Z",
+          "wordCount": null,
+          "title": "【ファンアート頂いたので】勇者 - YOASOBI #歌ってみた #ククルアクレイユ #shorts",
           "imageUrl": null
         }
       ]
@@ -500,7 +500,7 @@
           "link": "https://www.youtube.com/watch?v=84YyMrj4JE0",
           "publishedOn": "2025-03-04T07:54:12.000Z",
           "wordCount": null,
-          "title": "【 お絵描き 】新しいスタンプ描きます！！！ ※アーカイブはメンバーシップへ～",
+          "title": "【 お絵描き 】新しいスタンプ描きます！！！ ※アーカイブはメンバーシップ限定となります",
           "imageUrl": null
         },
         {
