@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-06T21:34:43.764Z</id>
+    <id>urn:2025-03-06T22:06:39.756Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T21:34:43.764Z</updated>
+    <updated>2025-03-06T22:06:39.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1416,15 +1416,6 @@
         <updated>2025-02-05T12:18:42.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[㌧㌧㌧‼️ #いとまきのうた #糸まきまき #糸まきまき界隈 #shorts #踊ってみた #Vtuber #月紫アリア]]></title>
-        <id>https://www.youtube.com/watch?v=7HpYO702VrQ</id>
-        <link href="https://www.youtube.com/watch?v=7HpYO702VrQ"/>
-        <updated>2025-02-05T10:00:05.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
 </feed>
