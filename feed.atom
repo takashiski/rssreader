@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-06T23:34:48.114Z</id>
+    <id>urn:2025-03-07T00:30:23.375Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T23:34:48.114Z</updated>
+    <updated>2025-03-07T00:30:23.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1407,15 +1407,6 @@
         <updated>2025-02-05T16:21:06.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #97【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=KA1H2cDJdbA</id>
-        <link href="https://www.youtube.com/watch?v=KA1H2cDJdbA"/>
-        <updated>2025-02-05T12:18:42.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
 </feed>
