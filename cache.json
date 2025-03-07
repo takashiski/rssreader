@@ -788,6 +788,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DCUPZkf1Ylw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DCUPZkf1Ylw",
+          "publishedOn": "2025-03-07T09:18:06.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！ただいま！！！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j0CooUUxeps",
           "author": null,
           "description": "",
@@ -926,16 +936,6 @@
           "wordCount": null,
           "title": "#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9PGOXIBveTo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9PGOXIBveTo",
-          "publishedOn": "2025-02-17T02:48:34.000Z",
-          "wordCount": null,
-          "title": "【雑談】初コラボ！いなりちゃんにいろいろ教えてもらいたい【皇ロゼ/狐宵いなり/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -1051,6 +1051,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5XQhzMH08PgWa4Zp02Gcsw",
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ITCKg3rhuNY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ITCKg3rhuNY",
+          "publishedOn": "2025-03-07T09:30:07.000Z",
+          "wordCount": null,
+          "title": "ぷりぷりだし、笑顔もすき？💜 #shorts #すーぱーかれんたいむ #FRUITSZIPPER #松本かれん #ふるっぱー #踊ってみた #dance #Vtuber #月紫アリア #アイドル",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ub8hCMs7-O8",
           "author": null,
