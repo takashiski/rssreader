@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-08T05:34:23.965Z</id>
+    <id>urn:2025-03-08T06:07:12.951Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T05:34:23.965Z</updated>
+    <updated>2025-03-08T06:07:12.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[椅子なんて組み立てれるわけないだろ！アーカイブ不明【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=Mb32TqpvMMc</id>
+        <link href="https://www.youtube.com/watch?v=Mb32TqpvMMc"/>
+        <updated>2025-03-08T05:35:11.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎です！フライデーナイトを彩りたい【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=qDMzxAUMZN8</id>
