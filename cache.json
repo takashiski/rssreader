@@ -327,6 +327,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SrftpE0X1pU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SrftpE0X1pU",
+          "publishedOn": "2025-03-08T10:08:24.000Z",
+          "wordCount": null,
+          "title": "【歌枠】家族とお出かけをするのは大切【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=u2mlynAvAjo",
           "author": null,
           "description": "",
@@ -464,16 +474,6 @@
           "publishedOn": "2025-02-21T20:19:46.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #36 】久々のPYCだ～！【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1rKnuFVMwp8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1rKnuFVMwp8",
-          "publishedOn": "2025-02-19T20:23:18.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #35 】警察体験最終日!!!【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
