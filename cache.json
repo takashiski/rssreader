@@ -327,6 +327,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=BVdEXV0ei4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BVdEXV0ei4U",
+          "publishedOn": "2025-03-08T13:05:58.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #46 】気合と根性です【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SrftpE0X1pU",
           "author": null,
           "description": "",
@@ -464,16 +474,6 @@
           "publishedOn": "2025-02-22T18:11:26.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #37 】遅めの出勤だあ【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=02CQ0iMczbE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=02CQ0iMczbE",
-          "publishedOn": "2025-02-21T20:19:46.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #36 】久々のPYCだ～！【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
