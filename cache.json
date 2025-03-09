@@ -327,6 +327,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SrftpE0X1pU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SrftpE0X1pU",
+          "publishedOn": "2025-03-09T00:35:36.000Z",
+          "wordCount": null,
+          "title": "【歌枠】家族とお出かけをするのは大切【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BVdEXV0ei4U",
           "author": null,
           "description": "",
@@ -334,16 +344,6 @@
           "publishedOn": "2025-03-08T20:18:39.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #46 】気合と根性です【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SrftpE0X1pU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SrftpE0X1pU",
-          "publishedOn": "2025-03-08T10:08:24.000Z",
-          "wordCount": null,
-          "title": "【歌枠】家族とお出かけをするのは大切【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
@@ -611,16 +611,6 @@
           "publishedOn": "2025-02-08T12:23:49.000Z",
           "wordCount": null,
           "title": "【 歌枠 / KARAOKE 】バンド曲しばり歌枠🎸 Singing Stream【 稀羽すう / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ai0UuuhpY1Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ai0UuuhpY1Q",
-          "publishedOn": "2025-02-07T12:34:44.000Z",
-          "wordCount": null,
-          "title": "【 #ラクリッチ 】ラクでリッチな冷凍グルメをいただきます。やったー！！【 Re:AcT / 稀羽すう 】",
           "imageUrl": null
         }
       ]
