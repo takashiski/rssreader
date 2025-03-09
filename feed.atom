@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-09T18:06:35.181Z</id>
+    <id>urn:2025-03-09T18:35:03.388Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T18:06:35.181Z</updated>
+    <updated>2025-03-09T18:35:03.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #47 】気持ちの整理【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=wPI4Vt6U9X0</id>
+        <link href="https://www.youtube.com/watch?v=wPI4Vt6U9X0"/>
+        <updated>2025-03-09T18:14:20.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎮 モンハンワイルズ/MHWilds 】視聴者参加型！みんなで素材集めよう！😎✨【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ko6691dAqVk</id>
@@ -12,15 +21,6 @@
         <updated>2025-03-09T17:00:23.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #47 】気持ちの整理【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wPI4Vt6U9X0</id>
-        <link href="https://www.youtube.com/watch?v=wPI4Vt6U9X0"/>
-        <updated>2025-03-09T13:43:54.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
