@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-09T19:05:30.122Z</id>
+    <id>urn:2025-03-09T19:34:17.214Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T19:05:30.122Z</updated>
+    <updated>2025-03-09T19:34:17.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2025-03-09T09:00:05.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖＃モンハンワイルズ〗初めてのモンハン配信🔥目指せ上位ハンター！！〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=gzBCsZcwy_E</id>
-        <link href="https://www.youtube.com/watch?v=gzBCsZcwy_E"/>
-        <updated>2025-03-09T08:58:59.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1371,6 +1362,15 @@
         <updated>2025-02-09T13:35:12.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 完全広告なし! / じっくりたっぷりオイルマッサージ♡#shorts〖Oil massage/sleeping trriger/binaural/JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=x2d_9O-bObo</id>
+        <link href="https://www.youtube.com/watch?v=x2d_9O-bObo"/>
+        <updated>2025-02-08T16:59:41.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
