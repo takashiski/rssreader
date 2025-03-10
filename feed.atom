@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-10T14:07:15.443Z</id>
+    <id>urn:2025-03-10T14:37:56.691Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T14:07:15.443Z</updated>
+    <updated>2025-03-10T14:37:56.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！元気！！歌うぞ！！【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6pfn6NfUljg</id>
+        <link href="https://www.youtube.com/watch?v=6pfn6NfUljg"/>
+        <updated>2025-03-10T14:23:13.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【オフコラボ】新居に 白 音 ゆ き 襲撃  #ついんめとりー【月紫アリア/白音ゆき/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=XwaT1R-8_1o</id>
@@ -21,15 +30,6 @@
         <updated>2025-03-10T05:15:31.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！元気！！歌うぞ！！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=6pfn6NfUljg</id>
-        <link href="https://www.youtube.com/watch?v=6pfn6NfUljg"/>
-        <updated>2025-03-10T05:15:02.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
