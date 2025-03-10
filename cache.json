@@ -748,6 +748,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6pfn6NfUljg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6pfn6NfUljg",
+          "publishedOn": "2025-03-10T05:15:02.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！元気！！歌うぞ！！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DCUPZkf1Ylw",
           "author": null,
           "description": "",
@@ -886,16 +896,6 @@
           "wordCount": null,
           "title": "【歌枠】初見歓迎！夜のお歌の時間【皇ロゼ/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KNMIq-F_kU0",
-          "publishedOn": "2025-02-17T14:24:13.000Z",
-          "wordCount": null,
-          "title": "#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -991,6 +991,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5XQhzMH08PgWa4Zp02Gcsw",
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=D7cdoeTw7s4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=D7cdoeTw7s4",
+          "publishedOn": "2025-03-10T05:15:31.000Z",
+          "wordCount": null,
+          "title": "【#ASMR/3dio】  広告なし【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Mb32TqpvMMc",
           "author": null,

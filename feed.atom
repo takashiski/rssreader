@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-10T05:06:36.693Z</id>
+    <id>urn:2025-03-10T05:34:27.381Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T05:06:36.693Z</updated>
+    <updated>2025-03-10T05:34:27.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=D7cdoeTw7s4</id>
+        <link href="https://www.youtube.com/watch?v=D7cdoeTw7s4"/>
+        <updated>2025-03-10T05:15:31.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！元気！！歌うぞ！！【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6pfn6NfUljg</id>
+        <link href="https://www.youtube.com/watch?v=6pfn6NfUljg"/>
+        <updated>2025-03-10T05:15:02.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】サイドクエストやり放題🐰💛大剣ツキヒコの自由な一日✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=w5MkOSqlrf4</id>
@@ -1119,15 +1137,6 @@
         <updated>2025-02-17T18:34:54.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BUFFLASH【VALORANT】BUFFLASHリーダー対抗戦参加させていただきます！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=KNMIq-F_kU0</id>
-        <link href="https://www.youtube.com/watch?v=KNMIq-F_kU0"/>
-        <updated>2025-02-17T14:24:13.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
