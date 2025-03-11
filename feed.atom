@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T15:07:22.381Z</id>
+    <id>urn:2025-03-11T15:36:59.524Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T15:07:22.381Z</updated>
+    <updated>2025-03-11T15:36:59.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#VALORANT】フルパコンペやるぞ　w/バーチャルゴリラ ずんだもん 鴉紋ゆうく花束ゆいは３ 【皇ロゼ//Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=uVVtemuiqDU</id>
+        <link href="https://www.youtube.com/watch?v=uVVtemuiqDU"/>
+        <updated>2025-03-11T15:28:18.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗お耳ふぅ～…💗ごりごり気持ちぃ耳かき💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=IGnbqo6-WiY</id>
@@ -30,15 +39,6 @@
         <updated>2025-03-11T12:05:30.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#VALORANT】フルパコンペやるぞ　w/バーチャルゴリラ ずんだもん 鴉紋ゆうく花束ゆいは３ 【皇ロゼ//Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=uVVtemuiqDU</id>
-        <link href="https://www.youtube.com/watch?v=uVVtemuiqDU"/>
-        <updated>2025-03-11T11:54:17.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
