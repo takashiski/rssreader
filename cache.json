@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FRlYjlEqPG4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FRlYjlEqPG4",
+          "publishedOn": "2025-03-11T02:43:00.000Z",
+          "wordCount": null,
+          "title": "【歌枠】睡眠導入✧雨音とピアノと歌｜Piano Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IqcoQa7a2cU",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-02-20T01:26:14.000Z",
           "wordCount": null,
           "title": "【朝活】100人とおはようしたい！初見さん◎ガチ寝起き朝歌枠｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zy1ErySZx3g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zy1ErySZx3g",
-          "publishedOn": "2025-02-18T14:05:55.000Z",
-          "wordCount": null,
-          "title": "【歌枠】お知らせアリ‼️20年前！？平成アニソン縛り｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
