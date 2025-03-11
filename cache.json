@@ -317,6 +317,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=FL1ACRLV-cA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=FL1ACRLV-cA",
+          "publishedOn": "2025-03-11T12:18:33.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #47 】新時代じゃ【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wPI4Vt6U9X0",
           "author": null,
           "description": "",
@@ -454,16 +464,6 @@
           "publishedOn": "2025-02-25T20:18:57.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #38 】※鼻水注意【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V_qCCx6NoU4",
-          "publishedOn": "2025-02-23T03:05:36.000Z",
-          "wordCount": null,
-          "title": "【歌枠】龍角散はすごいってことが証明された【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
