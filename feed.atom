@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T23:34:41.611Z</id>
+    <id>urn:2025-03-12T00:30:07.578Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T23:34:41.611Z</updated>
+    <updated>2025-03-12T00:30:07.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1389,15 +1389,6 @@
         <updated>2025-02-11T06:21:13.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=SWJCRKe7zt8</id>
-        <link href="https://www.youtube.com/watch?v=SWJCRKe7zt8"/>
-        <updated>2025-02-10T12:01:27.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
