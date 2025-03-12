@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-12T12:47:18.126Z</id>
+    <id>urn:2025-03-12T13:12:07.677Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T12:47:18.126Z</updated>
+    <updated>2025-03-12T13:12:07.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！元気！！歌うぞ！！【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=380nS1A1Y68</id>
+        <link href="https://www.youtube.com/watch?v=380nS1A1Y68"/>
+        <updated>2025-03-12T13:06:15.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #101【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=-9HaO6nZTGM</id>
@@ -1191,15 +1200,6 @@
         <updated>2025-02-19T12:41:38.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！おしゃべりしながら歌だ。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PPF4f4X9XuQ</id>
-        <link href="https://www.youtube.com/watch?v=PPF4f4X9XuQ"/>
-        <updated>2025-02-18T14:16:54.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
