@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T09:36:16.278Z</id>
+    <id>urn:2025-03-13T10:07:31.894Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T09:36:16.278Z</updated>
+    <updated>2025-03-13T10:07:31.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【BUFFLASHリーダー対抗戦】初見歓迎～！久々のロケットリーグがんばるぞ！【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=4U2LGOY1imU</id>
+        <link href="https://www.youtube.com/watch?v=4U2LGOY1imU"/>
+        <updated>2025-03-13T09:57:04.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】お昼ご飯はお歌でどうでしょう？【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=aZsK9IXs_TQ</id>
@@ -1182,15 +1191,6 @@
         <updated>2025-02-20T01:26:14.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【APEX】初見歓迎！元7.8.9マスター（現激よわ）がランクをするのだよ。【皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Ozty38TvBrs</id>
-        <link href="https://www.youtube.com/watch?v=Ozty38TvBrs"/>
-        <updated>2025-02-19T17:45:27.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>

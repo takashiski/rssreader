@@ -768,6 +768,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4U2LGOY1imU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4U2LGOY1imU",
+          "publishedOn": "2025-03-13T09:57:04.000Z",
+          "wordCount": null,
+          "title": "【BUFFLASHリーダー対抗戦】初見歓迎～！久々のロケットリーグがんばるぞ！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=380nS1A1Y68",
           "author": null,
           "description": "",
@@ -905,16 +915,6 @@
           "publishedOn": "2025-02-20T15:08:56.000Z",
           "wordCount": null,
           "title": "【歌枠】初見歓迎！なに歌うか迷い中。【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ozty38TvBrs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ozty38TvBrs",
-          "publishedOn": "2025-02-19T17:45:27.000Z",
-          "wordCount": null,
-          "title": "【APEX】初見歓迎！元7.8.9マスター（現激よわ）がランクをするのだよ。【皇ロゼ/Vtuber】",
           "imageUrl": null
         }
       ]
