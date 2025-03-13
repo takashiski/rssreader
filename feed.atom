@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T11:06:20.250Z</id>
+    <id>urn:2025-03-13T11:34:48.788Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T11:06:20.250Z</updated>
+    <updated>2025-03-13T11:34:48.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【3月デビュー2人目！】あなたの夜が明けるまで【歌ってみた】]]></title>
+        <id>https://www.youtube.com/watch?v=6D9R-uzXhEI</id>
+        <link href="https://www.youtube.com/watch?v=6D9R-uzXhEI"/>
+        <updated>2025-03-13T11:00:15.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BUFFLASHリーダー対抗戦】初見歓迎～！久々のロケットリーグがんばるぞ！【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4U2LGOY1imU</id>
