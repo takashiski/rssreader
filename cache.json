@@ -788,6 +788,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nmCud9eMoTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nmCud9eMoTM",
+          "publishedOn": "2025-03-13T17:26:32.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！みんな今週もお疲れさま！！華金！！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4U2LGOY1imU",
           "author": null,
           "description": "",
@@ -925,16 +935,6 @@
           "publishedOn": "2025-02-21T14:32:33.000Z",
           "wordCount": null,
           "title": "【歌枠】初見歓迎！今日もお歌。眠くなるまで、、【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TplOF-65o6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TplOF-65o6M",
-          "publishedOn": "2025-02-20T15:08:56.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見歓迎！なに歌うか迷い中。【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
