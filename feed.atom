@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-14T09:07:17.944Z</id>
+    <id>urn:2025-03-14T09:35:23.731Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T09:07:17.944Z</updated>
+    <updated>2025-03-14T09:35:23.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【3月デビュー2人目！】花人局【歌ってみた】]]></title>
+        <id>https://www.youtube.com/watch?v=CkChojXjarE</id>
+        <link href="https://www.youtube.com/watch?v=CkChojXjarE"/>
+        <updated>2025-03-14T09:00:13.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】#デザインメイキング ④ 生誕＆３ＤLIVEのロゴ作るよ！｜illustrator Photoshop【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=D2Z2z2B2vms</id>
