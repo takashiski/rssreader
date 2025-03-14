@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-14T20:35:23.295Z</id>
+    <id>urn:2025-03-14T21:06:02.652Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T20:35:23.295Z</updated>
+    <updated>2025-03-14T21:06:02.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！俺の歌を聴け。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=amU-jep4p8M</id>
+        <link href="https://www.youtube.com/watch?v=amU-jep4p8M"/>
+        <updated>2025-03-14T20:32:12.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】Re:AcTモンハン部！！！！【皇ロゼ/獅子神レオナ/丸餅つきみ/白音ゆき/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=EsKFAAWraXY</id>
+        <link href="https://www.youtube.com/watch?v=EsKFAAWraXY"/>
+        <updated>2025-03-14T20:29:20.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#VALORANT】初見歓迎！ゆき先輩と久々に！！！！ 【皇ロゼ/白音ゆき/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=f63niAZ7OdY</id>
@@ -1104,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！今日生誕グッズ販売終了！買うなら今！！！！【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=fkEXu4gJFnc</id>
-        <link href="https://www.youtube.com/watch?v=fkEXu4gJFnc"/>
-        <updated>2025-02-23T12:42:54.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[僕にUNO勝てんの？♡#みむかぅわナイストライ #踊ってみた #Vtuber #dance #九楽ライ #fyp #meme #ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ #UNO]]></title>
         <id>https://www.youtube.com/watch?v=_Vb2l1D7_bk</id>
         <link href="https://www.youtube.com/watch?v=_Vb2l1D7_bk"/>
@@ -1137,15 +1146,6 @@
         <updated>2025-02-23T01:30:57.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#スト6】初見歓迎！皇ロゼ、頂点を目指す。～無限だれか教えて編～【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=bRlwwvMu4Cc</id>
-        <link href="https://www.youtube.com/watch?v=bRlwwvMu4Cc"/>
-        <updated>2025-02-22T14:54:34.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>

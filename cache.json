@@ -788,6 +788,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=amU-jep4p8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=amU-jep4p8M",
+          "publishedOn": "2025-03-14T20:32:12.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！俺の歌を聴け。【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=EsKFAAWraXY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EsKFAAWraXY",
+          "publishedOn": "2025-03-14T20:29:20.000Z",
+          "wordCount": null,
+          "title": "【 #モンハンワイルズ /MHWilds 】Re:AcTモンハン部！！！！【皇ロゼ/獅子神レオナ/丸餅つきみ/白音ゆき/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=f63niAZ7OdY",
           "author": null,
           "description": "",
@@ -915,26 +935,6 @@
           "publishedOn": "2025-02-25T14:49:40.000Z",
           "wordCount": null,
           "title": "【#VALORANT】おそらく初のフルパコンペ　w/バーチャルゴリラ 椿 鴉紋ゆうく３ 狐宵いなり【皇ロゼ//Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fkEXu4gJFnc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fkEXu4gJFnc",
-          "publishedOn": "2025-02-23T12:42:54.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見歓迎！今日生誕グッズ販売終了！買うなら今！！！！【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bRlwwvMu4Cc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bRlwwvMu4Cc",
-          "publishedOn": "2025-02-22T14:54:34.000Z",
-          "wordCount": null,
-          "title": "【#スト6】初見歓迎！皇ロゼ、頂点を目指す。～無限だれか教えて編～【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
