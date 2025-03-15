@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-15T11:05:50.261Z</id>
+    <id>urn:2025-03-15T11:34:35.660Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T11:05:50.261Z</updated>
+    <updated>2025-03-15T11:34:35.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[令和にｳｯｰｳｯｰｳﾏｳﾏ(ﾟ∀ﾟ)を歌うVTuber #ククルアすこるわ助かるわ #配信切り抜き #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=wlSdDDbNdrg</id>
+        <link href="https://www.youtube.com/watch?v=wlSdDDbNdrg"/>
+        <updated>2025-03-15T11:01:20.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3月デビュー2人目！】青を焚べて【歌ってみた】]]></title>
+        <id>https://www.youtube.com/watch?v=QUn-Njo6g_o</id>
+        <link href="https://www.youtube.com/watch?v=QUn-Njo6g_o"/>
+        <updated>2025-03-15T11:00:39.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【落語風声劇】個性的な女のひとが出てくるお話✨ 落語：たらちね【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=B4VARBbJoWg</id>
@@ -1263,15 +1281,6 @@
         <updated>2025-02-20T02:06:41.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【朝活】100人とおはようしたい！初見さん◎ガチ寝起き朝歌枠｜木曜定期朝活【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=SfguLEbqE64</id>
-        <link href="https://www.youtube.com/watch?v=SfguLEbqE64"/>
-        <updated>2025-02-20T01:26:14.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
