@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-15T15:06:02.545Z</id>
+    <id>urn:2025-03-15T15:34:48.806Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T15:06:02.545Z</updated>
+    <updated>2025-03-15T15:34:48.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2025-03-15T12:55:04.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #雑談 〗新居から初配信✨かいぬし様ただいま！！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=ZPBv97EVBDw</id>
-        <link href="https://www.youtube.com/watch?v=ZPBv97EVBDw"/>
-        <updated>2025-03-15T12:33:55.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
