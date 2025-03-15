@@ -1413,6 +1413,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yWnIdDN7K4A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yWnIdDN7K4A",
+          "publishedOn": "2025-03-15T15:01:33.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】ねえ、もう寝るの？【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=aZsK9IXs_TQ",
           "author": null,
           "description": "",
@@ -1550,16 +1560,6 @@
           "publishedOn": "2025-02-19T15:10:14.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】では、歌います🎙【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VS6nMDNdfOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VS6nMDNdfOc",
-          "publishedOn": "2025-02-14T15:13:58.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】今日はバレンタイン🍫❤【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
