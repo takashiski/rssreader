@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-15T11:34:35.660Z</id>
+    <id>urn:2025-03-15T12:10:11.340Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T11:34:35.660Z</updated>
+    <updated>2025-03-15T12:10:11.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【3月デビュー3人目！】ダーリン【歌ってみた】]]></title>
+        <id>https://www.youtube.com/watch?v=SUrYNuleaLI</id>
+        <link href="https://www.youtube.com/watch?v=SUrYNuleaLI"/>
+        <updated>2025-03-15T12:00:40.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和にｳｯｰｳｯｰｳﾏｳﾏ(ﾟ∀ﾟ)を歌うVTuber #ククルアすこるわ助かるわ #配信切り抜き #shorts]]></title>
         <id>https://www.youtube.com/watch?v=wlSdDDbNdrg</id>
