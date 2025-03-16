@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-16T20:35:11.953Z</id>
+    <id>urn:2025-03-16T21:06:05.514Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T20:35:11.953Z</updated>
+    <updated>2025-03-16T21:06:05.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1398,24 +1398,6 @@
         <updated>2025-02-15T09:30:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おっおー！ゆーりさんのダンスいつもよすぎる🔥#ウシロジカン #ゆーり #踊ってみた #Vtuber #dance #九楽ライ #原口沙輔 #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=QVq3mzTlDzU</id>
-        <link href="https://www.youtube.com/watch?v=QVq3mzTlDzU"/>
-        <updated>2025-02-15T09:00:25.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『 モニタリング - DECO*27 』サビを私なりに #歌ってみた ！⁠#shorts  【稀羽すう】]]></title>
-        <id>https://www.youtube.com/watch?v=2i_FpzU9n-A</id>
-        <link href="https://www.youtube.com/watch?v=2i_FpzU9n-A"/>
-        <updated>2025-02-15T09:00:03.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
 </feed>
