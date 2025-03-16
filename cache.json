@@ -534,6 +534,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
+          "publishedOn": "2025-03-16T10:00:09.000Z",
+          "wordCount": null,
+          "title": "BRAIN - Kanaria (covered by 稀羽すう) 【歌ってみた】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=WzhFzU-x240",
           "author": null,
           "description": "",
@@ -541,16 +551,6 @@
           "publishedOn": "2025-03-13T11:52:42.000Z",
           "wordCount": null,
           "title": "【 歌枠 / KARAOKE 】初見さん大歓迎！失恋ソングしばり歌枠✦Singing Stream 【 稀羽すう / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
-          "publishedOn": "2025-03-12T13:43:21.000Z",
-          "wordCount": null,
-          "title": "BRAIN - Kanaria (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         },
         {
