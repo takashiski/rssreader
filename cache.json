@@ -1363,6 +1363,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=V_BG1cTmX5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=V_BG1cTmX5M",
+          "publishedOn": "2025-03-16T05:34:29.000Z",
+          "wordCount": null,
+          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】粉塵の調合分が足りません。【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yWnIdDN7K4A",
           "author": null,
           "description": "",
@@ -1500,16 +1510,6 @@
           "publishedOn": "2025-02-21T15:24:46.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】花粉の季節、早すぎると思います。【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6Nxb0Grvdm4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6Nxb0Grvdm4",
-          "publishedOn": "2025-02-19T15:10:14.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】では、歌います🎙【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
