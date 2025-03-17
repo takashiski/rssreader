@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-17T15:06:54.466Z</id>
+    <id>urn:2025-03-17T15:36:57.864Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T15:06:54.466Z</updated>
+    <updated>2025-03-17T15:36:57.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,6 +21,15 @@
         <updated>2025-03-17T13:13:03.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #違う冬のぼくら 】同じ場所なのに世界が全然違う？ #生意気ギャルズ で協力💜【月紫アリア/七星みりり/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=hAG4k1I4jy4</id>
+        <link href="https://www.youtube.com/watch?v=hAG4k1I4jy4"/>
+        <updated>2025-03-17T13:11:45.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -60,7 +69,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗お耳ふぅ～…💗ごりごり気持ちぃ耳かき💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=TwVINge3q14</id>
         <link href="https://www.youtube.com/watch?v=TwVINge3q14"/>
         <updated>2025-03-17T05:39:14.000Z</updated>
@@ -1299,15 +1308,6 @@
         <updated>2025-02-22T10:49:07.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ピッタリすぎる🤣 #shorts #loveandjoy #ラブアンドジョイ #木村由姫 #III #宝鐘マリン #kobokanaeru #踊ってみた #Vtuber #月紫アリア #兎彷魂あみゅ]]></title>
-        <id>https://www.youtube.com/watch?v=l8i_ScKJUJ0</id>
-        <link href="https://www.youtube.com/watch?v=l8i_ScKJUJ0"/>
-        <updated>2025-02-22T09:30:16.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
