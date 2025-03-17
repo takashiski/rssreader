@@ -758,6 +758,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=amU-jep4p8M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=amU-jep4p8M",
+          "publishedOn": "2025-03-17T16:27:13.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！祝！登録者15000人の宴だ！！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EsKFAAWraXY",
           "author": null,
           "description": "",
@@ -775,16 +785,6 @@
           "publishedOn": "2025-03-15T12:55:04.000Z",
           "wordCount": null,
           "title": "【#VALORANT】初見歓迎！ゆき先輩と久々に！！！！ 【皇ロゼ/白音ゆき/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=amU-jep4p8M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=amU-jep4p8M",
-          "publishedOn": "2025-03-14T20:32:12.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見歓迎！祝！登録者15000人の宴だ！！【皇ロゼ/Re:AcT】",
           "imageUrl": null
         },
         {
