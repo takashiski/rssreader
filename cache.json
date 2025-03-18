@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nDJl-taipqk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nDJl-taipqk",
+          "publishedOn": "2025-03-18T07:13:04.000Z",
+          "wordCount": null,
+          "title": "【あと６日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PEZlC67bjtE",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-02-24T10:00:08.000Z",
           "wordCount": null,
           "title": "何曲わかる？コメントで教えて！【平成ロボソン神曲まとめ】 #ククルアクレイユ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3zwfoql-VFI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3zwfoql-VFI",
-          "publishedOn": "2025-02-23T15:52:09.000Z",
-          "wordCount": null,
-          "title": "【歌枠】視聴者参加型 #二択カラオケ vol.6｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
