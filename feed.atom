@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-18T19:05:54.664Z</id>
+    <id>urn:2025-03-18T19:34:46.877Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T19:05:54.664Z</updated>
+    <updated>2025-03-18T19:34:46.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=C7NgntZafWc</id>
+        <link href="https://www.youtube.com/watch?v=C7NgntZafWc"/>
+        <updated>2025-03-18T19:16:05.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #DBD 〗一生初心者サバイバー🔰〖Vtuber / #猫乃ユキノ〗]]></title>
+        <id>https://www.youtube.com/watch?v=nz007kDVkmg</id>
+        <link href="https://www.youtube.com/watch?v=nz007kDVkmg"/>
+        <updated>2025-03-18T19:14:12.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡心音でリラックスしよ💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=HVxj3UPiobc</id>
+        <link href="https://www.youtube.com/watch?v=HVxj3UPiobc"/>
+        <updated>2025-03-18T18:58:43.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=8y5buQDWDcg</id>
