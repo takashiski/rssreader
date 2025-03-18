@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-18T16:39:58.627Z</id>
+    <id>urn:2025-03-18T17:06:21.272Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T16:39:58.627Z</updated>
+    <updated>2025-03-18T17:06:21.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=TwVINge3q14</id>
+        <link href="https://www.youtube.com/watch?v=TwVINge3q14"/>
+        <updated>2025-03-18T16:45:48.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#VALORANT】Re:AcT＆RAGフルパ！！！！！！！【皇ロゼ/魔光リサ/天華あむ/狐宵いなり/白妙とき/Re:AcT/RAG】]]></title>
         <id>https://www.youtube.com/watch?v=2TeONx7Lt1I</id>
@@ -136,15 +145,6 @@
         <id>https://www.youtube.com/watch?v=U0QFsTrmaIs</id>
         <link href="https://www.youtube.com/watch?v=U0QFsTrmaIs"/>
         <updated>2025-03-17T09:30:20.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=TwVINge3q14</id>
-        <link href="https://www.youtube.com/watch?v=TwVINge3q14"/>
-        <updated>2025-03-17T05:39:14.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
