@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PEZlC67bjtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PEZlC67bjtE",
+          "publishedOn": "2025-03-18T06:22:08.000Z",
+          "wordCount": null,
+          "title": "【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=RdlvaIvl1CI",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-02-23T15:52:09.000Z",
           "wordCount": null,
           "title": "【歌枠】視聴者参加型 #二択カラオケ vol.6｜Karaoke Singing【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EBBo48RretU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EBBo48RretU",
-          "publishedOn": "2025-02-22T11:00:14.000Z",
-          "wordCount": null,
-          "title": "【めっちゃハモるやつ】Good Morning, Polar Night - yukkedoluce #多重録音 #ククルアクレイユ #歌ってみた #vtuber #shorts",
           "imageUrl": null
         }
       ]
