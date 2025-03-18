@@ -758,6 +758,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ZLRUiWAslhw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ZLRUiWAslhw",
+          "publishedOn": "2025-03-18T17:52:50.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見歓迎！夜の歌の時間デス。【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=2TeONx7Lt1I",
           "author": null,
           "description": "",
@@ -895,16 +905,6 @@
           "publishedOn": "2025-02-27T14:37:46.000Z",
           "wordCount": null,
           "title": "【APEX】初見歓迎！元7.8.9マスター（現激よわ）ウッホウッホｗ/獅子神レオナ/バーチャルゴリラ【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xu0EppoLDys",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xu0EppoLDys",
-          "publishedOn": "2025-02-26T13:11:07.000Z",
-          "wordCount": null,
-          "title": "【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】",
           "imageUrl": null
         }
       ]

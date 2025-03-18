@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-18T17:36:09.292Z</id>
+    <id>urn:2025-03-18T18:09:25.145Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T17:36:09.293Z</updated>
+    <updated>2025-03-18T18:09:25.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！夜の歌の時間デス。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZLRUiWAslhw</id>
+        <link href="https://www.youtube.com/watch?v=ZLRUiWAslhw"/>
+        <updated>2025-03-18T17:52:50.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=TwVINge3q14</id>
@@ -1128,15 +1137,6 @@
         <updated>2025-02-26T14:14:07.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】]]></title>
-        <id>https://www.youtube.com/watch?v=xu0EppoLDys</id>
-        <link href="https://www.youtube.com/watch?v=xu0EppoLDys"/>
-        <updated>2025-02-26T13:11:07.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
