@@ -758,6 +758,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2TeONx7Lt1I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2TeONx7Lt1I",
+          "publishedOn": "2025-03-18T12:11:06.000Z",
+          "wordCount": null,
+          "title": "【#VALORANT】Re:AcT＆RAGフルパ！！！！！！！【皇ロゼ/魔光リサ/天華あむ/狐宵いなり/白妙とき/Re:AcT/RAG】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=amU-jep4p8M",
           "author": null,
           "description": "",
@@ -895,16 +905,6 @@
           "publishedOn": "2025-02-26T13:11:07.000Z",
           "wordCount": null,
           "title": "【雑談】初コラボ！KRのうるちゃんと歌ったりいろいろはなすよ！！【皇ロゼ/水雲うる/Re:AcT/Re:AcTKR】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=soYtbkt4E-A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=soYtbkt4E-A",
-          "publishedOn": "2025-02-25T14:49:40.000Z",
-          "wordCount": null,
-          "title": "【#VALORANT】おそらく初のフルパコンペ　w/バーチャルゴリラ 椿 鴉紋ゆうく３ 狐宵いなり【皇ロゼ//Re:AcT】",
           "imageUrl": null
         }
       ]

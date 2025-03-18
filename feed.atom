@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-18T11:34:46.485Z</id>
+    <id>urn:2025-03-18T12:11:41.348Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-18T11:34:46.485Z</updated>
+    <updated>2025-03-18T12:11:41.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#VALORANT】Re:AcT＆RAGフルパ！！！！！！！【皇ロゼ/魔光リサ/天華あむ/狐宵いなり/白妙とき/Re:AcT/RAG】]]></title>
+        <id>https://www.youtube.com/watch?v=2TeONx7Lt1I</id>
+        <link href="https://www.youtube.com/watch?v=2TeONx7Lt1I"/>
+        <updated>2025-03-18T12:11:06.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#ククルアクレイユ MCトーク集がワロタ #Vtuber #shorts]]></title>
         <id>https://www.youtube.com/watch?v=K_Cdi-JQ57A</id>
@@ -1182,15 +1191,6 @@
         <updated>2025-02-25T16:26:57.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#VALORANT】おそらく初のフルパコンペ　w/バーチャルゴリラ 椿 鴉紋ゆうく３ 狐宵いなり【皇ロゼ//Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=soYtbkt4E-A</id>
-        <link href="https://www.youtube.com/watch?v=soYtbkt4E-A"/>
-        <updated>2025-02-25T14:49:40.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
