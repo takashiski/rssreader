@@ -1403,6 +1403,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sySSlIQXn5M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sySSlIQXn5M",
+          "publishedOn": "2025-03-19T20:25:17.000Z",
+          "wordCount": null,
+          "title": "【 -`💬 朝活/Morning 】おはようって言って。【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=V_BG1cTmX5M",
           "author": null,
           "description": "",
@@ -1540,16 +1550,6 @@
           "publishedOn": "2025-02-23T14:43:25.000Z",
           "wordCount": null,
           "title": "【 ミタクルブロック 】では、レオと一緒に獅子神レオナを組み立てましょう😎✨【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qtUhF7nHSnE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qtUhF7nHSnE",
-          "publishedOn": "2025-02-21T15:24:46.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】花粉の季節、早すぎると思います。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
