@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T11:06:11.226Z</id>
+    <id>urn:2025-03-19T11:34:43.011Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T11:06:11.226Z</updated>
+    <updated>2025-03-19T11:34:43.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】高評価300目標👍多声類エルフの歌✧一曲どうですか？｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=qxd1XmfbmCo</id>
+        <link href="https://www.youtube.com/watch?v=qxd1XmfbmCo"/>
+        <updated>2025-03-19T11:34:10.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3983とは何ぞや？ #ククルアクレイユ  #shorts]]></title>
         <id>https://www.youtube.com/watch?v=RJ5BKAYHNC4</id>
@@ -1173,15 +1182,6 @@
         <updated>2025-02-27T13:13:53.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どこが好き？コメントで教えて！【Vtuberこんな感じテスト】#ククルアクレイユ #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=L2cEtOcGeko</id>
-        <link href="https://www.youtube.com/watch?v=L2cEtOcGeko"/>
-        <updated>2025-02-27T11:00:23.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
