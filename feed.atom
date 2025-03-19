@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-19T15:37:06.136Z</id>
+    <id>urn:2025-03-19T16:08:12.342Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T15:37:06.136Z</updated>
+    <updated>2025-03-19T16:08:12.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見歓迎！夜の歌の時間デス。【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZLRUiWAslhw</id>
+        <link href="https://www.youtube.com/watch?v=ZLRUiWAslhw"/>
+        <updated>2025-03-19T15:58:46.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=VUGxVNChQP0</id>
+        <link href="https://www.youtube.com/watch?v=VUGxVNChQP0"/>
+        <updated>2025-03-19T15:45:11.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #違う冬のぼくら 】同じ場所なのに世界が全然違う？ #生意気ギャルズ で協力💜【月紫アリア/七星みりり/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=hAG4k1I4jy4</id>
@@ -102,15 +120,6 @@
         <updated>2025-03-18T18:30:31.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！夜の歌の時間デス。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ZLRUiWAslhw</id>
-        <link href="https://www.youtube.com/watch?v=ZLRUiWAslhw"/>
-        <updated>2025-03-18T17:52:50.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
     <entry>
@@ -1191,15 +1200,6 @@
         <updated>2025-02-26T15:53:55.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【復 活】祝🎉 引越し完了💜 集合💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VrsXRltcPqY</id>
-        <link href="https://www.youtube.com/watch?v=VrsXRltcPqY"/>
-        <updated>2025-02-26T14:14:07.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
