@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-20T16:08:21.826Z</id>
+    <id>urn:2025-03-20T16:40:12.269Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T16:08:21.826Z</updated>
+    <updated>2025-03-20T16:40:12.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗超至近距離でドキドキ耳かき💗ふぅはぁ〜…💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=VUGxVNChQP0</id>
+        <link href="https://www.youtube.com/watch?v=VUGxVNChQP0"/>
+        <updated>2025-03-20T16:14:25.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡寂しい夜はぎゅってしてあげる💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=twvBLoWjrQQ</id>
@@ -66,15 +75,6 @@
         <updated>2025-03-19T15:58:46.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗超至近距離でドキドキ耳かき💗ふぅはぁ〜…💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VUGxVNChQP0</id>
-        <link href="https://www.youtube.com/watch?v=VUGxVNChQP0"/>
-        <updated>2025-03-19T15:45:11.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
