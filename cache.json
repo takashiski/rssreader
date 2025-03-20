@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yy_qqAs6-OA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yy_qqAs6-OA",
+          "publishedOn": "2025-03-20T21:52:37.000Z",
+          "wordCount": null,
+          "title": "【あと４日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=dd1xOhoIlEs",
           "author": null,
           "description": "",
@@ -169,7 +179,7 @@
           "link": "https://www.youtube.com/watch?v=nDJl-taipqk",
           "publishedOn": "2025-03-19T02:54:31.000Z",
           "wordCount": null,
-          "title": "【あと６日！】寝坊した【#ククルアクレイユ｜Re:AcT】",
+          "title": "あと６日なのに寝坊した",
           "imageUrl": null
         },
         {
@@ -261,16 +271,6 @@
           "wordCount": null,
           "title": "【第4回 #fairy歌枠リレー】ここが古のインターネットってこと｜Singing Stream【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QWmlyMHMP0Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QWmlyMHMP0Q",
-          "publishedOn": "2025-03-05T01:52:27.000Z",
-          "wordCount": null,
-          "title": "【歌枠】ノンストップで歌うよ！初見さん歓迎！！【#ククルアクレイユ｜Re:AcT】 #shorts #縦型配信 #初見歓迎",
-          "imageUrl": null
         }
       ]
     },
@@ -336,6 +336,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDrG8pzkq_cCCLcN5wgrzNw",
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=krIK5qO9qCE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=krIK5qO9qCE",
+          "publishedOn": "2025-03-20T21:32:00.000Z",
+          "wordCount": null,
+          "title": "【歌枠】療養を満喫させていただきました【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1EW6dUcFAmw",
           "author": null,
@@ -474,16 +484,6 @@
           "publishedOn": "2025-02-28T00:01:53.000Z",
           "wordCount": null,
           "title": "【歌枠】ゆうがた【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9TH-8m1-ldI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9TH-8m1-ldI",
-          "publishedOn": "2025-02-27T20:18:55.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #40 】報告です【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
