@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-20T00:30:06.364Z</id>
+    <id>urn:2025-03-20T00:57:17.689Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T00:30:06.364Z</updated>
+    <updated>2025-03-20T00:57:17.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -19,15 +19,6 @@
         <id>https://www.youtube.com/watch?v=ta-DkY7OP9A</id>
         <link href="https://www.youtube.com/watch?v=ta-DkY7OP9A"/>
         <updated>2025-03-19T22:27:55.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【あと５日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠]]></title>
-        <id>https://www.youtube.com/watch?v=VQBYogx6n5U</id>
-        <link href="https://www.youtube.com/watch?v=VQBYogx6n5U"/>
-        <updated>2025-03-19T22:26:47.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
@@ -975,6 +966,15 @@
         <updated>2025-03-02T12:00:33.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#第4回久遠V歌祭り】インターネット老人会の出番ｋｔｋｒ(ﾟ∀ﾟ)!!｜Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=6SoRe7zyzgU</id>
+        <link href="https://www.youtube.com/watch?v=6SoRe7zyzgU"/>
+        <updated>2025-03-02T11:13:41.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
