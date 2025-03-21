@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T09:07:07.590Z</id>
+    <id>urn:2025-03-21T09:35:44.560Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T09:07:07.590Z</updated>
+    <updated>2025-03-21T09:35:44.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アリアだけ見て💜✨️ #shorts #仮契約のシンデレラ #私立恵比寿中学 #えび中 #えびちゅう #踊ってみた #dance #月紫アリア #vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=x2nIAS2b9W4</id>
+        <link href="https://www.youtube.com/watch?v=x2nIAS2b9W4"/>
+        <updated>2025-03-21T09:30:23.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 超絶告知 】全国流通ニューシングルがリリースされるだって～～～！？！？みんな集まれ！！！【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=3xCF6wVvXKI</id>
+        <link href="https://www.youtube.com/watch?v=3xCF6wVvXKI"/>
+        <updated>2025-03-21T09:25:44.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】あのさ、なんだか歌いたい気分なんだ。 ✦ Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=2Qxn0pwDHEM</id>
@@ -1104,15 +1122,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【雑談】初見さんも常連さんも、みんなでお昼休憩🍴💜【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=jZMIN8HtjP4</id>
-        <link href="https://www.youtube.com/watch?v=jZMIN8HtjP4"/>
-        <updated>2025-03-01T05:03:10.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌枠】初見歓迎！華金はどの時間から配信しても許されますね。【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JHcTRVtc0vw</id>
         <link href="https://www.youtube.com/watch?v=JHcTRVtc0vw"/>
@@ -1362,15 +1371,6 @@
         <updated>2025-02-23T15:00:06.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 ミタクルブロック 】では、レオと一緒に獅子神レオナを組み立てましょう😎✨【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=RjlyIV8NxtE</id>
-        <link href="https://www.youtube.com/watch?v=RjlyIV8NxtE"/>
-        <updated>2025-02-23T14:43:25.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
