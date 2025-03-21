@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-21T15:36:05.546Z</id>
+    <id>urn:2025-03-21T16:08:03.189Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T15:36:05.546Z</updated>
+    <updated>2025-03-21T16:08:03.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,15 +30,6 @@
         <updated>2025-03-21T13:00:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】高評価400目標👍多声類エルフの歌✧一曲どうですか？｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jXQsBE4ZnwU</id>
-        <link href="https://www.youtube.com/watch?v=jXQsBE4ZnwU"/>
-        <updated>2025-03-21T11:14:21.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -651,6 +642,15 @@
         <updated>2025-03-11T20:32:51.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】睡眠導入✧雨音とピアノと歌｜Piano Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=FRlYjlEqPG4</id>
+        <link href="https://www.youtube.com/watch?v=FRlYjlEqPG4"/>
+        <updated>2025-03-11T16:33:19.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
