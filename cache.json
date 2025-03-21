@@ -768,6 +768,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SdVVaEAqAvo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SdVVaEAqAvo",
+          "publishedOn": "2025-03-21T11:51:58.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】二度寝/皇ロゼ【Creepy Nuts】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZLRUiWAslhw",
           "author": null,
           "description": "",
@@ -905,16 +915,6 @@
           "publishedOn": "2025-02-28T14:00:47.000Z",
           "wordCount": null,
           "title": "【 #モンハンワイルズ /MHWilds 】初見歓迎！さて、できるのか。スタートダッシュは遅れました。【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-X4v2sAs3mQ",
-          "publishedOn": "2025-02-27T14:37:46.000Z",
-          "wordCount": null,
-          "title": "【APEX】初見歓迎！元7.8.9マスター（現激よわ）ウッホウッホｗ/獅子神レオナ/バーチャルゴリラ【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
