@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-22T04:07:45.433Z</id>
+    <id>urn:2025-03-22T04:38:33.210Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-22T04:07:45.433Z</updated>
+    <updated>2025-03-22T04:38:33.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【メン限】💜⌇ 作業通話♡ ✧ member only【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=VxhHgHFyK58</id>
+        <link href="https://www.youtube.com/watch?v=VxhHgHFyK58"/>
+        <updated>2025-03-22T04:25:21.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大切なお知らせ！！！！！]]></title>
         <id>https://www.youtube.com/watch?v=sLwpBn762BY</id>
@@ -975,15 +984,6 @@
         <updated>2025-03-03T12:00:43.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もう踊るしかない…😢 #shorts #きょういくばんぐみのテーマ #みんなの教育番組 #教育番組 #踊ってみた #dance #Vtuber  #月紫アリア]]></title>
-        <id>https://www.youtube.com/watch?v=fcpq_f1Yw9o</id>
-        <link href="https://www.youtube.com/watch?v=fcpq_f1Yw9o"/>
-        <updated>2025-03-03T09:30:13.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
