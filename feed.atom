@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-22T10:37:40.781Z</id>
+    <id>urn:2025-03-22T11:06:00.761Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-22T10:37:40.781Z</updated>
+    <updated>2025-03-22T11:06:00.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ホラゲ嫌いによるIbゲーム実況がうるさすぎワロタｗｗｗ #ゲーム実況  #配信切り抜き #ククルアクレイユ]]></title>
+        <id>https://www.youtube.com/watch?v=t4TRW_7mkwc</id>
+        <link href="https://www.youtube.com/watch?v=t4TRW_7mkwc"/>
+        <updated>2025-03-22T11:01:17.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】ご褒美まみれで生きたいうさぎの自分へのご褒美🥂🐰【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=IAABOc6r3oo</id>
@@ -489,15 +498,6 @@
         <updated>2025-03-15T12:00:40.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和にｳｯｰｳｯｰｳﾏｳﾏ(ﾟ∀ﾟ)を歌うVTuber #ククルアすこるわ助かるわ #配信切り抜き #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=wlSdDDbNdrg</id>
-        <link href="https://www.youtube.com/watch?v=wlSdDDbNdrg"/>
-        <updated>2025-03-15T11:01:20.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
