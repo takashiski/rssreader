@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-23T06:08:25.904Z</id>
+    <id>urn:2025-03-23T06:38:58.626Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-23T06:08:25.904Z</updated>
+    <updated>2025-03-23T06:38:58.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】大剣コレクションの為に歴戦の証集めつつ双剣に浮気！？【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=rcD3hvGka68</id>
+        <link href="https://www.youtube.com/watch?v=rcD3hvGka68"/>
+        <updated>2025-03-23T06:36:36.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】ご褒美まみれで生きたいうさぎの自分へのご褒美🥂🐰【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IAABOc6r3oo</id>
+        <link href="https://www.youtube.com/watch?v=IAABOc6r3oo"/>
+        <updated>2025-03-23T06:18:05.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大切なお知らせ！！！！！]]></title>
         <id>https://www.youtube.com/watch?v=sLwpBn762BY</id>
@@ -84,15 +102,6 @@
         <updated>2025-03-22T11:01:17.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】ご褒美まみれで生きたいうさぎの自分へのご褒美🥂🐰【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=IAABOc6r3oo</id>
-        <link href="https://www.youtube.com/watch?v=IAABOc6r3oo"/>
-        <updated>2025-03-22T10:23:54.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1272,15 +1281,6 @@
         <updated>2025-02-26T11:23:39.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【fast food simulator】またアプデ来てたから様子見に行く！🍟🍔🥤【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=TjL0amb69Eg</id>
-        <link href="https://www.youtube.com/watch?v=TjL0amb69Eg"/>
-        <updated>2025-02-26T02:40:09.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
