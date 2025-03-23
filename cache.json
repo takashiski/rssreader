@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2U0XblcLJBc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2U0XblcLJBc",
+          "publishedOn": "2025-03-23T22:20:12.000Z",
+          "wordCount": null,
+          "title": "【あと１日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=sLwpBn762BY",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-03-19T02:54:31.000Z",
           "wordCount": null,
           "title": "あと６日なのに寝坊した",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K_Cdi-JQ57A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K_Cdi-JQ57A",
-          "publishedOn": "2025-03-18T11:00:26.000Z",
-          "wordCount": null,
-          "title": "#ククルアクレイユ MCトーク集がワロタ #Vtuber #shorts",
           "imageUrl": null
         }
       ]
