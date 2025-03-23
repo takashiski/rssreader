@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-23T07:34:48.087Z</id>
+    <id>urn:2025-03-23T08:08:20.588Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-23T07:34:48.087Z</updated>
+    <updated>2025-03-23T08:08:20.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#歌枠/sing】 初見歓迎✨好きなお歌をいっぱい歌うのです！【九楽ライ/Japanese Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=7p41Hi5STcY</id>
+        <link href="https://www.youtube.com/watch?v=7p41Hi5STcY"/>
+        <updated>2025-03-23T07:44:10.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】大剣コレクションの為に歴戦の証集めつつ双剣に浮気！？【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=rcD3hvGka68</id>
