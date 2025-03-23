@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-23T10:36:17.145Z</id>
+    <id>urn:2025-03-23T11:06:40.150Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-23T10:36:17.145Z</updated>
+    <updated>2025-03-23T11:06:40.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -118,15 +118,6 @@
         <id>https://www.youtube.com/watch?v=PltJLCKpywM</id>
         <link href="https://www.youtube.com/watch?v=PltJLCKpywM"/>
         <updated>2025-03-22T08:24:28.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】💜⌇ 作業通話♡ ✧ member only【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VxhHgHFyK58</id>
-        <link href="https://www.youtube.com/watch?v=VxhHgHFyK58"/>
-        <updated>2025-03-22T04:25:21.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -966,6 +957,15 @@
         <updated>2025-03-04T16:09:17.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[急募：君 た ち の 知 恵【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=-r4v_MlmGYs</id>
+        <link href="https://www.youtube.com/watch?v=-r4v_MlmGYs"/>
+        <updated>2025-03-04T13:18:33.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
