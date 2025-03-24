@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-24T15:37:04.557Z</id>
+    <id>urn:2025-03-24T16:08:57.037Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T15:37:04.557Z</updated>
+    <updated>2025-03-24T16:08:57.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【生誕当日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠]]></title>
+        <id>https://www.youtube.com/watch?v=pTvj1WdXZY4</id>
+        <link href="https://www.youtube.com/watch?v=pTvj1WdXZY4"/>
+        <updated>2025-03-24T16:02:09.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア爆誕歌謡祭】本日の主役🎊俺のターン！ドロー！最高の一日の始まりだ🎉Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=p5GHz_O4RFY</id>
+        <link href="https://www.youtube.com/watch?v=p5GHz_O4RFY"/>
+        <updated>2025-03-24T15:56:10.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗落ち着くとんとん💗お耳ふぅで癒すね💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=eSspms8a9n0</id>
@@ -136,15 +154,6 @@
         <id>https://www.youtube.com/watch?v=eiKnY8lo550</id>
         <link href="https://www.youtube.com/watch?v=eiKnY8lo550"/>
         <updated>2025-03-23T00:24:47.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア爆誕歌謡祭】本日の主役🎊俺のターン！ドロー！最高の一日の始まりだ🎉Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p5GHz_O4RFY</id>
-        <link href="https://www.youtube.com/watch?v=p5GHz_O4RFY"/>
-        <updated>2025-03-22T15:02:32.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
@@ -352,15 +361,6 @@
         <id>https://www.youtube.com/watch?v=RJ5BKAYHNC4</id>
         <link href="https://www.youtube.com/watch?v=RJ5BKAYHNC4"/>
         <updated>2025-03-19T11:00:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あと６日なのに寝坊した]]></title>
-        <id>https://www.youtube.com/watch?v=nDJl-taipqk</id>
-        <link href="https://www.youtube.com/watch?v=nDJl-taipqk"/>
-        <updated>2025-03-19T02:54:31.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
