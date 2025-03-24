@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-24T07:07:48.950Z</id>
+    <id>urn:2025-03-24T07:35:35.569Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T07:07:48.950Z</updated>
+    <updated>2025-03-24T07:35:35.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活 / 雑談 】🍔🍟 goodmorning【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=9fNHMDugO-0</id>
+        <link href="https://www.youtube.com/watch?v=9fNHMDugO-0"/>
+        <updated>2025-03-24T07:13:37.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eoz78jEl6D8</id>
+        <link href="https://www.youtube.com/watch?v=eoz78jEl6D8"/>
+        <updated>2025-03-24T07:11:49.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗超至近距離でドキドキ耳かき💗ふぅはぁ〜…💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eSspms8a9n0</id>
+        <link href="https://www.youtube.com/watch?v=eSspms8a9n0"/>
+        <updated>2025-03-24T07:11:06.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #違う冬のぼくら #2 】なんでこっちが怖い世界なんだよ‼💥 #生意気ギャルズ で協力💜【月紫アリア/七星みりり/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=_yhN1OPMb08</id>
+        <link href="https://www.youtube.com/watch?v=_yhN1OPMb08"/>
+        <updated>2025-03-24T07:09:41.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖＃モンハンワイルズ〗初めてのモンハン配信🔥上位モンスター全解放したいのだ！〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=nBRq1abM-9g</id>
@@ -825,15 +861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[椅子なんて組み立てれるわけないだろ！アーカイブ不明【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=Mb32TqpvMMc</id>
-        <link href="https://www.youtube.com/watch?v=Mb32TqpvMMc"/>
-        <updated>2025-03-08T07:37:17.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎です！フライデーナイトを彩りたい【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=qDMzxAUMZN8</id>
         <link href="https://www.youtube.com/watch?v=qDMzxAUMZN8"/>
@@ -867,15 +894,6 @@
         <updated>2025-03-07T12:36:50.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぷりぷりだし、笑顔もすき？💜 #shorts #すーぱーかれんたいむ #FRUITSZIPPER #松本かれん #ふるっぱー #踊ってみた #dance #Vtuber #月紫アリア #アイドル]]></title>
-        <id>https://www.youtube.com/watch?v=ITCKg3rhuNY</id>
-        <link href="https://www.youtube.com/watch?v=ITCKg3rhuNY"/>
-        <updated>2025-03-07T09:30:07.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -924,15 +942,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[アリアがいれば大丈夫💜 #shorts #ケンチャナ #khongsaoca #khôngsaocả #7dnight  #괜찮아 #踊ってみた #Vtuber #月紫アリア]]></title>
-        <id>https://www.youtube.com/watch?v=Ub8hCMs7-O8</id>
-        <link href="https://www.youtube.com/watch?v=Ub8hCMs7-O8"/>
-        <updated>2025-03-05T09:30:18.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #ストグラ #43 】ぽんこつ警察【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=d6yHJoWp-Zw</id>
         <link href="https://www.youtube.com/watch?v=d6yHJoWp-Zw"/>
@@ -957,15 +966,6 @@
         <updated>2025-03-04T16:09:17.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[急募：君 た ち の 知 恵【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=-r4v_MlmGYs</id>
-        <link href="https://www.youtube.com/watch?v=-r4v_MlmGYs"/>
-        <updated>2025-03-04T13:18:33.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
