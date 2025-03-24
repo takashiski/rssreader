@@ -1383,6 +1383,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=LCy-hacSiSU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LCy-hacSiSU",
+          "publishedOn": "2025-03-24T08:57:05.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】のどの痛みからの解放、迫りくる花粉。【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3xCF6wVvXKI",
           "author": null,
           "description": "",
@@ -1520,16 +1530,6 @@
           "publishedOn": "2025-02-27T14:53:03.000Z",
           "wordCount": null,
           "title": "【-`🎮 APEX 】エッホエッホ、ランクしなきゃ～🦉！うっほうっほ🦍【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7zFQMRzDeYs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7zFQMRzDeYs",
-          "publishedOn": "2025-02-26T15:53:55.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】2月がそろそろ終わるみたいです。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
