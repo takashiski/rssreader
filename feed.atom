@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-24T20:35:30.397Z</id>
+    <id>urn:2025-03-24T21:06:14.798Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T20:35:30.397Z</updated>
+    <updated>2025-03-24T21:06:14.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1398,15 +1398,6 @@
         <updated>2025-02-23T14:18:06.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僕にUNO勝てんの？♡#みむかぅわナイストライ #踊ってみた #Vtuber #dance #九楽ライ #fyp #meme #ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ #UNO]]></title>
-        <id>https://www.youtube.com/watch?v=_Vb2l1D7_bk</id>
-        <link href="https://www.youtube.com/watch?v=_Vb2l1D7_bk"/>
-        <updated>2025-02-23T09:00:39.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
 </feed>
