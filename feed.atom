@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-24T22:36:53.433Z</id>
+    <id>urn:2025-03-24T23:06:51.650Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T22:36:53.433Z</updated>
+    <updated>2025-03-24T23:06:51.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#水瓶ミア】ほんまに花粉症勘弁して 雑談＆歌枠【VTuber / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=nMpqlqItZjc</id>
+        <link href="https://www.youtube.com/watch?v=nMpqlqItZjc"/>
+        <updated>2025-03-24T22:53:24.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖＃モンハンワイルズ〗初めてのモンハン配信🔥上位モンスター全解放したいのだ！〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=nBRq1abM-9g</id>
@@ -57,15 +66,6 @@
         <updated>2025-03-24T11:37:59.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#水瓶ミア】ほんまに花粉症勘弁して 雑談＆歌枠【VTuber / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nMpqlqItZjc</id>
-        <link href="https://www.youtube.com/watch?v=nMpqlqItZjc"/>
-        <updated>2025-03-24T08:39:31.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
     <entry>
