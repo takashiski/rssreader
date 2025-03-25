@@ -768,6 +768,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VFmp-Lx0eAQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VFmp-Lx0eAQ",
+          "publishedOn": "2025-03-25T21:18:21.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】more than words/皇ロゼ【羊文学】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SdVVaEAqAvo",
           "author": null,
           "description": "",
@@ -905,16 +915,6 @@
           "publishedOn": "2025-02-28T20:48:56.000Z",
           "wordCount": null,
           "title": "【歌枠】初見歓迎！華金はどの時間から配信しても許されますね。【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pNAqhjuIHxY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pNAqhjuIHxY",
-          "publishedOn": "2025-02-28T14:00:47.000Z",
-          "wordCount": null,
-          "title": "【 #モンハンワイルズ /MHWilds 】初見歓迎！さて、できるのか。スタートダッシュは遅れました。【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
