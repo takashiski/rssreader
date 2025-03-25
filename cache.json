@@ -123,6 +123,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PEZlC67bjtE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PEZlC67bjtE",
+          "publishedOn": "2025-03-25T13:34:52.000Z",
+          "wordCount": null,
+          "title": "【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QFCSANsxM2Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QFCSANsxM2Q",
+          "publishedOn": "2025-03-25T13:15:06.000Z",
+          "wordCount": null,
+          "title": "Blindness - ELECTROCUTICA / covered by ククルア・クレイユ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pTvj1WdXZY4",
           "author": null,
           "description": "",
@@ -213,16 +233,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.youtube.com/watch?v=QFCSANsxM2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QFCSANsxM2Q",
-          "publishedOn": "2025-03-21T10:53:39.000Z",
-          "wordCount": null,
-          "title": "Blindness - ELECTROCUTICA / covered by ククルア・クレイユ",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=yy_qqAs6-OA",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-03-19T16:49:29.000Z",
           "wordCount": null,
           "title": "【歌枠】高評価300目標👍多声類エルフの歌✧一曲どうですか？｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PEZlC67bjtE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PEZlC67bjtE",
-          "publishedOn": "2025-03-18T06:22:08.000Z",
-          "wordCount": null,
-          "title": "【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]

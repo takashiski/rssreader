@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-25T13:13:00.429Z</id>
+    <id>urn:2025-03-25T13:38:54.963Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T13:13:00.429Z</updated>
+    <updated>2025-03-25T13:38:54.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=PEZlC67bjtE</id>
+        <link href="https://www.youtube.com/watch?v=PEZlC67bjtE"/>
+        <updated>2025-03-25T13:34:52.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blindness - ELECTROCUTICA / covered by ククルア・クレイユ]]></title>
+        <id>https://www.youtube.com/watch?v=QFCSANsxM2Q</id>
+        <link href="https://www.youtube.com/watch?v=QFCSANsxM2Q"/>
+        <updated>2025-03-25T13:15:06.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎮 #CAPCOMミラー配信 】待ってた！みんなで一緒に最新情報チェック！モンスターハンターワイルズ ショーケース公認ミラー配信😎✨【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=PRzstG5yh0k</id>
@@ -276,15 +294,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blindness - ELECTROCUTICA / covered by ククルア・クレイユ]]></title>
-        <id>https://www.youtube.com/watch?v=QFCSANsxM2Q</id>
-        <link href="https://www.youtube.com/watch?v=QFCSANsxM2Q"/>
-        <updated>2025-03-21T10:53:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[アリアだけ見て💜✨️ #shorts #仮契約のシンデレラ #私立恵比寿中学 #えび中 #えびちゅう #踊ってみた #dance #月紫アリア #vtuber]]></title>
         <id>https://www.youtube.com/watch?v=x2nIAS2b9W4</id>
         <link href="https://www.youtube.com/watch?v=x2nIAS2b9W4"/>
@@ -444,15 +453,6 @@
         <updated>2025-03-18T09:00:53.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=PEZlC67bjtE</id>
-        <link href="https://www.youtube.com/watch?v=PEZlC67bjtE"/>
-        <updated>2025-03-18T06:22:08.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
