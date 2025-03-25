@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-25T11:35:05.367Z</id>
+    <id>urn:2025-03-25T12:11:49.528Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T11:35:05.367Z</updated>
+    <updated>2025-03-25T12:11:49.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -393,15 +393,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3983とは何ぞや？ #ククルアクレイユ  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=RJ5BKAYHNC4</id>
-        <link href="https://www.youtube.com/watch?v=RJ5BKAYHNC4"/>
-        <updated>2025-03-19T11:00:42.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[〖 #歌枠 〗るんるんで歌うんだー！！！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=utxVA529B34</id>
         <link href="https://www.youtube.com/watch?v=utxVA529B34"/>
@@ -453,6 +444,15 @@
         <updated>2025-03-18T09:00:53.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=PEZlC67bjtE</id>
+        <link href="https://www.youtube.com/watch?v=PEZlC67bjtE"/>
+        <updated>2025-03-18T06:22:08.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
