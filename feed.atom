@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-26T22:06:19.830Z</id>
+    <id>urn:2025-03-26T22:36:47.743Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T22:06:19.830Z</updated>
+    <updated>2025-03-26T22:36:47.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1362,15 +1362,6 @@
         <updated>2025-02-25T12:18:47.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vc:僕ver作ってみた❕めんどくさくても愛してね♡#無形有形 #illustration #描いてみた #歌ってみた #九楽ライ #vtuber #meme #田村芽実 #手描き #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Vhik5Lo6GUU</id>
-        <link href="https://www.youtube.com/watch?v=Vhik5Lo6GUU"/>
-        <updated>2025-02-25T10:30:32.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
 </feed>
