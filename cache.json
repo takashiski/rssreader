@@ -123,6 +123,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=7LsGGpdsg5g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7LsGGpdsg5g",
+          "publishedOn": "2025-03-26T11:26:35.000Z",
+          "wordCount": null,
+          "title": "【#ククルア爆誕3Dお披露目】メン限 ✧ 振り返り二次会【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=wwUYxaNw5CY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wwUYxaNw5CY",
+          "publishedOn": "2025-03-26T11:10:45.000Z",
+          "wordCount": null,
+          "title": "【#ククルア爆誕3Dお披露目】振り返り＆スパチャお礼配信【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PEZlC67bjtE",
           "author": null,
           "description": "",
@@ -250,26 +270,6 @@
           "publishedOn": "2025-03-20T10:35:23.000Z",
           "wordCount": null,
           "title": "晩餐歌 - tuki. #歌ってみた #アカペラ #ククルアクレイユ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ta-DkY7OP9A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ta-DkY7OP9A",
-          "publishedOn": "2025-03-20T01:22:17.000Z",
-          "wordCount": null,
-          "title": "【あと５日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qxd1XmfbmCo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qxd1XmfbmCo",
-          "publishedOn": "2025-03-19T16:49:29.000Z",
-          "wordCount": null,
-          "title": "【歌枠】高評価300目標👍多声類エルフの歌✧一曲どうですか？｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
