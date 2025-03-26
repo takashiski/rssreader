@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-26T13:39:00.035Z</id>
+    <id>urn:2025-03-26T14:07:28.825Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T13:39:00.035Z</updated>
+    <updated>2025-03-26T14:07:28.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】あの～！告知あります！初見さん大歓迎！水曜定期歌枠 Singing Stream #103【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】あの～！告知あります！水曜定期歌枠 Singing Stream #103【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=lDocv4qW4SQ</id>
         <link href="https://www.youtube.com/watch?v=lDocv4qW4SQ"/>
         <updated>2025-03-26T13:25:24.000Z</updated>
@@ -429,7 +429,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #102【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】水曜定期歌枠 Singing Stream #102【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=8Ue95ZOLEZM</id>
         <link href="https://www.youtube.com/watch?v=8Ue95ZOLEZM"/>
         <updated>2025-03-19T13:20:42.000Z</updated>
@@ -735,7 +735,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！失恋ソングしばり歌枠✦Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】失恋ソングしばり歌枠✦Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=WzhFzU-x240</id>
         <link href="https://www.youtube.com/watch?v=WzhFzU-x240"/>
         <updated>2025-03-13T11:52:42.000Z</updated>
@@ -789,7 +789,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #101【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】水曜定期歌枠 Singing Stream #101【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=-9HaO6nZTGM</id>
         <link href="https://www.youtube.com/watch?v=-9HaO6nZTGM"/>
         <updated>2025-03-12T12:20:56.000Z</updated>
@@ -924,7 +924,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎です！フライデーナイトを彩りたい【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】フライデーナイトを彩りたい【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=qDMzxAUMZN8</id>
         <link href="https://www.youtube.com/watch?v=qDMzxAUMZN8"/>
         <updated>2025-03-07T15:22:40.000Z</updated>
@@ -996,7 +996,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream ㊗ #100 回【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】水曜定期歌枠 Singing Stream ㊗ #100 回【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=NokBKuUh7RM</id>
         <link href="https://www.youtube.com/watch?v=NokBKuUh7RM"/>
         <updated>2025-03-05T12:36:08.000Z</updated>
@@ -1302,7 +1302,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】初見さん大歓迎！水曜定期歌枠 Singing Stream #99【 稀羽すう / Re:AcT 】]]></title>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】水曜定期歌枠 Singing Stream #99【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=IMBgZiIAUx8</id>
         <link href="https://www.youtube.com/watch?v=IMBgZiIAUx8"/>
         <updated>2025-02-26T12:20:42.000Z</updated>
