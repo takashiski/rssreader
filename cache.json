@@ -494,6 +494,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lDocv4qW4SQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lDocv4qW4SQ",
+          "publishedOn": "2025-03-26T13:25:24.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠  / KARAOKE 】あの～！告知あります！初見さん大歓迎！水曜定期歌枠 Singing Stream #103【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tqt0l_GvrSU",
           "author": null,
           "description": "",
@@ -511,16 +521,6 @@
           "publishedOn": "2025-03-25T04:46:06.000Z",
           "wordCount": null,
           "title": "【 #ミタクルブロック 】わたしを作る【 Re:AcT / 稀羽すう 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lDocv4qW4SQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lDocv4qW4SQ",
-          "publishedOn": "2025-03-25T03:54:53.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠  / KARAOKE 】あの～！告知あります！初見さん大歓迎！水曜定期歌枠 Singing Stream #103【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
