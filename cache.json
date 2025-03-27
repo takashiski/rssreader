@@ -758,6 +758,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-95KmRNRWYQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-95KmRNRWYQ",
+          "publishedOn": "2025-03-27T14:20:57.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】アイドル/皇ロゼ【YOASOBI】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=VFmp-Lx0eAQ",
           "author": null,
           "description": "",
@@ -895,16 +905,6 @@
           "publishedOn": "2025-03-01T13:46:03.000Z",
           "wordCount": null,
           "title": "【歌枠】初見歓迎！歌枠。今月すでに２度目。【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JHcTRVtc0vw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JHcTRVtc0vw",
-          "publishedOn": "2025-02-28T20:48:56.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見歓迎！華金はどの時間から配信しても許されますね。【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
