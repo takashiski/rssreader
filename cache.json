@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yDiLzc2B02Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yDiLzc2B02Q",
+          "publishedOn": "2025-03-27T11:01:29.000Z",
+          "wordCount": null,
+          "title": "Blindness - ELLECTROCUTICA #歌ってみた #ククルアクレイユ #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=wwUYxaNw5CY",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-03-20T10:35:23.000Z",
           "wordCount": null,
           "title": "晩餐歌 - tuki. #歌ってみた #アカペラ #ククルアクレイユ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ta-DkY7OP9A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ta-DkY7OP9A",
-          "publishedOn": "2025-03-20T01:22:17.000Z",
-          "wordCount": null,
-          "title": "【あと５日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
           "imageUrl": null
         }
       ]
