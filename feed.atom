@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-28T11:34:39.980Z</id>
+    <id>urn:2025-03-28T12:11:35.867Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-28T11:34:39.980Z</updated>
+    <updated>2025-03-28T12:11:35.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,15 +21,6 @@
         <updated>2025-03-28T11:00:45.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #RAG 】新人ティザーPV【Re:AcT Gaming】]]></title>
-        <id>https://www.youtube.com/watch?v=-TsNpMRCGdA</id>
-        <link href="https://www.youtube.com/watch?v=-TsNpMRCGdA"/>
-        <updated>2025-03-28T11:00:00.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
