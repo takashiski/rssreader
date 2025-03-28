@@ -123,6 +123,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qZAylUg-SWc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qZAylUg-SWc",
+          "publishedOn": "2025-03-28T08:15:02.000Z",
+          "wordCount": null,
+          "title": "【#平成37年歌枠リレー】ここは素晴らしいインターネッツですね【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yDiLzc2B02Q",
           "author": null,
           "description": "",
@@ -260,16 +270,6 @@
           "publishedOn": "2025-03-21T01:25:30.000Z",
           "wordCount": null,
           "title": "【あと４日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dd1xOhoIlEs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dd1xOhoIlEs",
-          "publishedOn": "2025-03-20T10:35:23.000Z",
-          "wordCount": null,
-          "title": "晩餐歌 - tuki. #歌ってみた #アカペラ #ククルアクレイユ #shorts",
           "imageUrl": null
         }
       ]
