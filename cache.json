@@ -1333,6 +1333,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=JSTJuvNXg8I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=JSTJuvNXg8I",
+          "publishedOn": "2025-03-29T10:44:08.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】春はもうすぐそこ。【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=FIIXfy7x6Q4",
           "author": null,
           "description": "",
@@ -1470,16 +1480,6 @@
           "publishedOn": "2025-03-03T15:17:47.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】3月、それは花粉の季節。【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r9PlvRm1DvQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r9PlvRm1DvQ",
-          "publishedOn": "2025-03-01T13:10:29.000Z",
-          "wordCount": null,
-          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】うおおおおやるぞやるぞ！！！😎✨【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
