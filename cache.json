@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2UAv-KJs0Ck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2UAv-KJs0Ck",
+          "publishedOn": "2025-03-29T08:11:39.000Z",
+          "wordCount": null,
+          "title": "【歌枠】春だね【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=L9RztrW1saI",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2025-03-02T20:28:50.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #42 】警察になって3日目です！【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zS_XyC9gCH4",
-          "publishedOn": "2025-03-01T23:09:03.000Z",
-          "wordCount": null,
-          "title": "【歌枠】もう３月ですってよ【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
