@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T13:35:30.510Z</id>
+    <id>urn:2025-03-29T14:06:06.914Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T13:35:30.510Z</updated>
+    <updated>2025-03-29T14:06:06.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1335,15 +1335,6 @@
         <updated>2025-02-28T10:36:57.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【同時視聴】１週間よく働いたうさぎとのんびり映画鑑賞✨🐊🐊【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=RyXXtU39Vbo</id>
-        <link href="https://www.youtube.com/watch?v=RyXXtU39Vbo"/>
-        <updated>2025-02-28T02:04:02.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>
