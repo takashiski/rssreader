@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T00:30:39.326Z</id>
+    <id>urn:2025-03-29T01:34:36.113Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T00:30:39.326Z</updated>
+    <updated>2025-03-29T01:34:36.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【メン限】#VackON vol.6 同時視聴【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=-4WXJKbr7tg</id>
+        <link href="https://www.youtube.com/watch?v=-4WXJKbr7tg"/>
+        <updated>2025-03-29T01:15:46.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #52 】長くは起きられない気がする・・・【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=L9RztrW1saI</id>
@@ -399,15 +408,6 @@
         <updated>2025-03-21T13:00:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#多声類 エルフの声真似５選がワロタｗｗｗ #ククルアすこるわ助かるわ  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=MPVesa4vXh4</id>
-        <link href="https://www.youtube.com/watch?v=MPVesa4vXh4"/>
-        <updated>2025-03-21T11:00:34.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1326,15 +1326,6 @@
         <updated>2025-02-28T02:04:02.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #雑談 〗さよなら雨漏り隙間風。 〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=R5MeuO1gIDE</id>
-        <link href="https://www.youtube.com/watch?v=R5MeuO1gIDE"/>
-        <updated>2025-02-27T13:13:53.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
