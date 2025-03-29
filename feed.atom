@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T16:38:51.956Z</id>
+    <id>urn:2025-03-29T17:06:10.338Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T16:38:51.956Z</updated>
+    <updated>2025-03-29T17:06:10.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #53 】3月は怖い【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=74Nm87DXwT8</id>
+        <link href="https://www.youtube.com/watch?v=74Nm87DXwT8"/>
+        <updated>2025-03-29T16:43:48.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】弱点さらけだして楽におなりなさい🥂🐰【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=wKCSvLlv8q0</id>
@@ -30,15 +39,6 @@
         <updated>2025-03-29T14:29:13.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #53 】3月は怖い【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=74Nm87DXwT8</id>
-        <link href="https://www.youtube.com/watch?v=74Nm87DXwT8"/>
-        <updated>2025-03-29T14:02:45.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
