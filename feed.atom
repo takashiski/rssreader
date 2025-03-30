@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-30T20:06:50.042Z</id>
+    <id>urn:2025-03-30T20:35:35.699Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T20:06:50.042Z</updated>
+    <updated>2025-03-30T20:35:35.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #54 】3月も終わりですね・・・【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_dGr5oZbVlA</id>
+        <link href="https://www.youtube.com/watch?v=_dGr5oZbVlA"/>
+        <updated>2025-03-30T20:33:39.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖♡重大告知♡〗かわいいの、セクシーなのどっちが好き？♡〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=47XHJexIP8o</id>
@@ -66,15 +75,6 @@
         <updated>2025-03-30T10:00:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #54 】3月も終わりですね・・・【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=_dGr5oZbVlA</id>
-        <link href="https://www.youtube.com/watch?v=_dGr5oZbVlA"/>
-        <updated>2025-03-30T08:52:20.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1326,15 +1326,6 @@
         <updated>2025-03-01T11:01:04.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #civ7 】指導者ねむ、新たな国をつくる…！#5【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XirEQYM2YkQ</id>
-        <link href="https://www.youtube.com/watch?v=XirEQYM2YkQ"/>
-        <updated>2025-03-01T08:20:28.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
