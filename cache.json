@@ -337,6 +337,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_dGr5oZbVlA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_dGr5oZbVlA",
+          "publishedOn": "2025-03-30T08:52:20.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #54 】3月も終わりですね・・・【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=74Nm87DXwT8",
           "author": null,
           "description": "",
@@ -474,16 +484,6 @@
           "publishedOn": "2025-03-04T20:29:33.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #43 】ぽんこつ警察【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GFzup6nXCbc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GFzup6nXCbc",
-          "publishedOn": "2025-03-03T16:09:16.000Z",
-          "wordCount": null,
-          "title": "ばけもん　#ストグラ #ストグラ切り抜き #真島ルイ #shorts",
           "imageUrl": null
         }
       ]
