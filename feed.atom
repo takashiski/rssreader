@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T05:07:51.937Z</id>
+    <id>urn:2025-03-31T05:37:12.869Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T05:07:51.937Z</updated>
+    <updated>2025-03-31T05:37:12.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1272,15 +1272,6 @@
         <updated>2025-03-02T12:00:33.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #civ7 】指導者ねむ、新たな国をつくる…！#6【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=43pAHetmqx4</id>
-        <link href="https://www.youtube.com/watch?v=43pAHetmqx4"/>
-        <updated>2025-03-01T17:25:39.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
