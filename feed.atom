@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T20:08:01.298Z</id>
+    <id>urn:2025-03-31T20:36:36.573Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T20:08:01.298Z</updated>
+    <updated>2025-03-31T20:36:36.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #? 】#ストグラSPD2025【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=pJ-b95xrW_o</id>
+        <link href="https://www.youtube.com/watch?v=pJ-b95xrW_o"/>
+        <updated>2025-03-31T20:16:15.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#10【 メタファー：リファンタジオ 】 完全初見！実況プレイ（7/23夜～）【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=TpvF1KZQms0</id>
@@ -48,15 +57,6 @@
         <updated>2025-03-31T15:10:57.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #? 】#ストグラSPD2025【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=pJ-b95xrW_o</id>
-        <link href="https://www.youtube.com/watch?v=pJ-b95xrW_o"/>
-        <updated>2025-03-31T15:01:17.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
