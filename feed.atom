@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T09:08:15.882Z</id>
+    <id>urn:2025-03-31T09:36:50.869Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T09:08:15.882Z</updated>
+    <updated>2025-03-31T09:36:50.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#倍倍FIGHT するぞᡣ(＞⩊＜)📣 #shorts #CANDYTUNE #きゃんちゅー #kawaiilab #カワラボ #踊ってみた #dance #月紫アリア #Vtuber]]></title>
+        <id>https://www.youtube.com/watch?v=vuNjz2as7mo</id>
+        <link href="https://www.youtube.com/watch?v=vuNjz2as7mo"/>
+        <updated>2025-03-31T09:01:02.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ねこちゃんと戯れたい  #varkshorts #vtuber #水瓶ミア]]></title>
         <id>https://www.youtube.com/watch?v=4vSgdt5oEr8</id>
@@ -991,15 +1000,6 @@
         <id>https://www.youtube.com/watch?v=XwaT1R-8_1o</id>
         <link href="https://www.youtube.com/watch?v=XwaT1R-8_1o"/>
         <updated>2025-03-11T12:05:30.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗こそこそ💗まったり癒しの雑談💗 広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=D7cdoeTw7s4</id>
-        <link href="https://www.youtube.com/watch?v=D7cdoeTw7s4"/>
-        <updated>2025-03-10T14:47:10.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
