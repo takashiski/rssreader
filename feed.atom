@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T10:38:59.698Z</id>
+    <id>urn:2025-03-31T11:06:17.537Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T10:38:59.698Z</updated>
+    <updated>2025-03-31T11:06:17.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ホラゲ嫌いなVTuberの見守り配信がワロタｗｗｗ #久遠なつめ #ククルアクレイユ #ホラゲ実況 #切り抜き]]></title>
+        <id>https://www.youtube.com/watch?v=nA1fGRZavDQ</id>
+        <link href="https://www.youtube.com/watch?v=nA1fGRZavDQ"/>
+        <updated>2025-03-31T11:00:58.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#倍倍FIGHT するぞᡣ(＞⩊＜)📣 #shorts #CANDYTUNE #きゃんちゅー #kawaiilab #カワラボ #踊ってみた #dance #月紫アリア #Vtuber]]></title>
         <id>https://www.youtube.com/watch?v=vuNjz2as7mo</id>
@@ -516,15 +525,6 @@
         <updated>2025-03-21T13:00:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#多声類 エルフの声真似５選がワロタｗｗｗ #ククルアすこるわ助かるわ  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=MPVesa4vXh4</id>
-        <link href="https://www.youtube.com/watch?v=MPVesa4vXh4"/>
-        <updated>2025-03-21T11:00:34.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1056,15 +1056,6 @@
         <updated>2025-03-09T09:00:05.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#深海の歌枠リレー】Vartist花鋏キョウです🦋蒼いですね..!【花鋏キョウ】]]></title>
-        <id>https://www.youtube.com/watch?v=RyIHHGc_PYA</id>
-        <link href="https://www.youtube.com/watch?v=RyIHHGc_PYA"/>
-        <updated>2025-03-09T08:09:44.000Z</updated>
-        <author>
-            <name>花鋏キョウ*Kyo Hanabasami</name>
         </author>
     </entry>
     <entry>
