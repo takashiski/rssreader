@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T04:08:46.258Z</id>
+    <id>urn:2025-03-31T04:38:24.351Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T04:08:46.258Z</updated>
+    <updated>2025-03-31T04:38:24.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1281,15 +1281,6 @@
         <updated>2025-03-01T17:25:39.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】レトロトークで脱線たのし！🥂🐰【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=S6oRXeZMJ5A</id>
-        <link href="https://www.youtube.com/watch?v=S6oRXeZMJ5A"/>
-        <updated>2025-03-01T16:12:51.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>
