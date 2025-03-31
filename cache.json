@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=1KstDkYZfNg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1KstDkYZfNg",
+          "publishedOn": "2025-03-31T12:26:38.000Z",
+          "wordCount": null,
+          "title": "【 歌枠 / KARAOKE 】夜、ここで待ってます。 ✦ Singing Stream 【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Tqt0l_GvrSU",
           "author": null,
           "description": "",
@@ -580,16 +590,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxLgvntienV0kwNLxrbcmyQ",
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=47XHJexIP8o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=47XHJexIP8o",
-          "publishedOn": "2025-03-30T18:48:35.000Z",
-          "wordCount": null,
-          "title": "〖♡重大告知♡〗かわいいの、セクシーなのどっちが好き？♡〖九楽ライ/Japanese Vtuber〗",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=pvziYo4iAcE",
           "author": null,
