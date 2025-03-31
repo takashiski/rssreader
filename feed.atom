@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T07:35:12.059Z</id>
+    <id>urn:2025-03-31T08:10:25.448Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T07:35:12.059Z</updated>
+    <updated>2025-03-31T08:10:25.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ねこちゃんと戯れたい  #varkshorts #vtuber #水瓶ミア]]></title>
+        <id>https://www.youtube.com/watch?v=4vSgdt5oEr8</id>
+        <link href="https://www.youtube.com/watch?v=4vSgdt5oEr8"/>
+        <updated>2025-03-31T07:57:04.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バーチャル戦闘ってこんな感じ？  #varkshorts #vtuber #水瓶ミア]]></title>
+        <id>https://www.youtube.com/watch?v=20OITn876JA</id>
+        <link href="https://www.youtube.com/watch?v=20OITn876JA"/>
+        <updated>2025-03-31T07:54:50.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #54 】3月も終わりですね・・・【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_dGr5oZbVlA</id>
