@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ybXlVzdXWdM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ybXlVzdXWdM",
+          "publishedOn": "2025-04-01T23:32:27.000Z",
+          "wordCount": null,
+          "title": "パッチノート4.0.2 お披露目あります【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pJ-b95xrW_o",
           "author": null,
           "description": "",
@@ -414,16 +424,6 @@
           "publishedOn": "2025-03-06T20:35:28.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #45 】グレネードを警察に当てないようにする【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ylRShDYjbtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ylRShDYjbtI",
-          "publishedOn": "2025-03-05T18:13:30.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #44 】本日はPYC出勤の日♬【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
