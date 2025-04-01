@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-31T23:34:55.627Z</id>
+    <id>urn:2025-04-01T00:36:02.546Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T23:34:55.627Z</updated>
+    <updated>2025-04-01T00:36:02.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1326,24 +1326,6 @@
         <updated>2025-03-02T14:17:24.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #civ7 】ねむ、バカンスしながら指導者する…！#7【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nT_WnFCJieI</id>
-        <link href="https://www.youtube.com/watch?v=nT_WnFCJieI"/>
-        <updated>2025-03-02T12:22:03.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3月デビュー１人目！】共感覚おばけ【歌ってみた】]]></title>
-        <id>https://www.youtube.com/watch?v=NGHSkeekaxQ</id>
-        <link href="https://www.youtube.com/watch?v=NGHSkeekaxQ"/>
-        <updated>2025-03-02T12:00:33.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
 </feed>
