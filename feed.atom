@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-01T01:35:55.717Z</id>
+    <id>urn:2025-04-01T02:37:04.336Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T01:35:55.717Z</updated>
+    <updated>2025-04-01T02:37:04.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #DBD 〗僕のだぞ！！！！！〖Vtuber / #猫乃ユキノ〗]]></title>
+        <id>https://www.youtube.com/watch?v=chWW5QJh3fI</id>
+        <link href="https://www.youtube.com/watch?v=chWW5QJh3fI"/>
+        <updated>2025-04-01T02:01:18.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #? 】#ストグラSPD2025【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=pJ-b95xrW_o</id>
@@ -1317,15 +1326,6 @@
         <updated>2025-03-02T18:39:59.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】イケメンツキヒコは虫に負けない！！⚔️✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wr60mI3v7-w</id>
-        <link href="https://www.youtube.com/watch?v=wr60mI3v7-w"/>
-        <updated>2025-03-02T14:17:24.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>

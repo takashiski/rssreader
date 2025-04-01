@@ -865,6 +865,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=chWW5QJh3fI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=chWW5QJh3fI",
+          "publishedOn": "2025-04-01T02:01:18.000Z",
+          "wordCount": null,
+          "title": "〖 #DBD 〗僕のだぞ！！！！！〖Vtuber / #猫乃ユキノ〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=C7NgntZafWc",
           "author": null,
           "description": "",
@@ -1226,16 +1236,6 @@
           "publishedOn": "2025-03-05T14:32:36.000Z",
           "wordCount": null,
           "title": "【 #モンハンワイルズ /MHWilds 】目指せHR７✨今日も大剣をふるう！！！【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wr60mI3v7-w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wr60mI3v7-w",
-          "publishedOn": "2025-03-02T14:17:24.000Z",
-          "wordCount": null,
-          "title": "【 #モンハンワイルズ /MHWilds 】イケメンツキヒコは虫に負けない！！⚔️✨【丸餅つきみ/Re:AcT】",
           "imageUrl": null
         }
       ]
