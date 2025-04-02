@@ -93,16 +93,6 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=tHK0Ye7NExU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tHK0Ye7NExU",
-          "publishedOn": "2025-04-02T12:28:26.000Z",
-          "wordCount": null,
-          "title": "【メン限】4月のククルアファンミーティング【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=fxGpF7aM2pU",
           "author": null,
           "description": "",
@@ -240,6 +230,16 @@
           "publishedOn": "2025-03-23T00:24:47.000Z",
           "wordCount": null,
           "title": "【あと２日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=sFAnzguBKVE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sFAnzguBKVE",
+          "publishedOn": "2025-03-22T12:39:31.000Z",
+          "wordCount": null,
+          "title": "【あと３日！】100人とおはようしたい☀生誕まで毎日朝活歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠",
           "imageUrl": null
         }
       ]
