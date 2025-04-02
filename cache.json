@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC90vyzmRgWCE17-uWNsKW2Q",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=OQeKOCA4cXg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=OQeKOCA4cXg",
+          "publishedOn": "2025-04-02T11:00:36.000Z",
+          "wordCount": null,
+          "title": "【 #RAG 】新人ティザーPV【Re:AcT Gaming】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=SUrYNuleaLI",
           "author": null,
           "description": "",
@@ -271,7 +281,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=ybXlVzdXWdM",
-          "publishedOn": "2025-04-01T23:32:27.000Z",
+          "publishedOn": "2025-04-02T11:08:40.000Z",
           "wordCount": null,
           "title": "パッチノート4.0.2 お披露目あります【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
