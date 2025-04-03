@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T09:07:43.990Z</id>
+    <id>urn:2025-04-03T09:36:20.953Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T09:07:43.990Z</updated>
+    <updated>2025-04-03T09:36:20.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#水瓶ミア】4月、はやくない？美味しそうな新作商品多くない？【VTuber / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XXs4YkpPDFE</id>
+        <link href="https://www.youtube.com/watch?v=XXs4YkpPDFE"/>
+        <updated>2025-04-03T09:29:01.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[九楽のドタバタトレイン🚃💦かなちゃん推しかも…💚#ラブトレ #踊ってみた #cutiestreet #きゅーすと #vtuber #九楽ライ #アイドル #dance #shorts]]></title>
         <id>https://www.youtube.com/watch?v=j9k07J7YSKI</id>
