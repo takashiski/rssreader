@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T13:39:01.594Z</id>
+    <id>urn:2025-04-03T14:07:21.473Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T13:39:01.594Z</updated>
+    <updated>2025-04-03T14:07:21.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #雑談 〗みんなのオタ活エピソード👓✨マシュマロ読むよ！〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=3gNqoEKm8IM</id>
+        <link href="https://www.youtube.com/watch?v=3gNqoEKm8IM"/>
+        <updated>2025-04-03T13:58:04.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#水瓶ミア】4月、はやくない？美味しそうな新作商品多くない？【VTuber / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=XXs4YkpPDFE</id>
+        <link href="https://www.youtube.com/watch?v=XXs4YkpPDFE"/>
+        <updated>2025-04-03T13:53:09.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #DBD 〗僕のだぞ！！！！！〖Vtuber / #猫乃ユキノ〗]]></title>
+        <id>https://www.youtube.com/watch?v=chWW5QJh3fI</id>
+        <link href="https://www.youtube.com/watch?v=chWW5QJh3fI"/>
+        <updated>2025-04-03T13:41:12.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】4月にこんにちは。【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=NIqaql7SZbY</id>
@@ -21,15 +48,6 @@
         <updated>2025-04-03T09:30:00.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#水瓶ミア】4月、はやくない？美味しそうな新作商品多くない？【VTuber / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XXs4YkpPDFE</id>
-        <link href="https://www.youtube.com/watch?v=XXs4YkpPDFE"/>
-        <updated>2025-04-03T09:29:01.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -91,15 +109,6 @@
         <id>https://www.youtube.com/watch?v=HVxj3UPiobc</id>
         <link href="https://www.youtube.com/watch?v=HVxj3UPiobc"/>
         <updated>2025-04-01T15:15:02.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #DBD 〗僕のだぞ！！！！！〖Vtuber / #猫乃ユキノ〗]]></title>
-        <id>https://www.youtube.com/watch?v=chWW5QJh3fI</id>
-        <link href="https://www.youtube.com/watch?v=chWW5QJh3fI"/>
-        <updated>2025-04-01T02:01:18.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -766,6 +775,15 @@
         <id>https://www.youtube.com/watch?v=utxVA529B34</id>
         <link href="https://www.youtube.com/watch?v=utxVA529B34"/>
         <updated>2025-03-19T01:20:37.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=8y5buQDWDcg</id>
+        <link href="https://www.youtube.com/watch?v=8y5buQDWDcg"/>
+        <updated>2025-03-18T18:34:56.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
