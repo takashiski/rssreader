@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T08:39:54.514Z</id>
+    <id>urn:2025-04-03T09:07:43.990Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T08:39:54.514Z</updated>
+    <updated>2025-04-03T09:07:43.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[九楽のドタバタトレイン🚃💦かなちゃん推しかも…💚#ラブトレ #踊ってみた #cutiestreet #きゅーすと #vtuber #九楽ライ #アイドル #dance #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=j9k07J7YSKI</id>
+        <link href="https://www.youtube.com/watch?v=j9k07J7YSKI"/>
+        <updated>2025-04-03T08:53:47.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】100人とおはよう挨拶！メンシスタンプ描くよ🎨【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠]]></title>
         <id>https://www.youtube.com/watch?v=EO2juBtA2p0</id>
