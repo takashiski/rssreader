@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T09:36:20.953Z</id>
+    <id>urn:2025-04-03T10:07:42.821Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T09:36:20.953Z</updated>
+    <updated>2025-04-03T10:07:42.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[君のとくべチュ、にして？💜 #shorts #とくべチュして #イコールラブ #イコラブ #踊ってみた #dance #Vtuber #月紫アリア #アイドル]]></title>
+        <id>https://www.youtube.com/watch?v=1ByMXEfF_DQ</id>
+        <link href="https://www.youtube.com/watch?v=1ByMXEfF_DQ"/>
+        <updated>2025-04-03T09:30:00.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#水瓶ミア】4月、はやくない？美味しそうな新作商品多くない？【VTuber / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=XXs4YkpPDFE</id>
@@ -1119,15 +1128,6 @@
         <updated>2025-03-11T15:28:18.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オフコラボ】新居に 白 音 ゆ き 襲撃  #ついんめとりー【月紫アリア/白音ゆき/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=XwaT1R-8_1o</id>
-        <link href="https://www.youtube.com/watch?v=XwaT1R-8_1o"/>
-        <updated>2025-03-11T12:05:30.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
