@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-03T14:07:21.473Z</id>
+    <id>urn:2025-04-03T14:37:54.060Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T14:07:21.473Z</updated>
+    <updated>2025-04-03T14:37:54.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #歌枠 〗夏も近い歌枠🌻✨〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=Lr3SNI3i4B8</id>
+        <link href="https://www.youtube.com/watch?v=Lr3SNI3i4B8"/>
+        <updated>2025-04-03T14:20:56.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡心音と耳かきで癒されちゃお？💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=AyNVMqQiJTw</id>
+        <link href="https://www.youtube.com/watch?v=AyNVMqQiJTw"/>
+        <updated>2025-04-03T14:09:30.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #雑談 〗みんなのオタ活エピソード👓✨マシュマロ読むよ！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=3gNqoEKm8IM</id>
