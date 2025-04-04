@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-04T16:39:38.688Z</id>
+    <id>urn:2025-04-04T17:06:22.172Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T16:39:38.688Z</updated>
+    <updated>2025-04-04T17:06:22.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】この声が、聴こえていますか？ ランチタイム歌枠  ✦ Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=-sS-OLXCT8o</id>
+        <link href="https://www.youtube.com/watch?v=-sS-OLXCT8o"/>
+        <updated>2025-04-04T16:56:24.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#10【 メタファー：リファンタジオ 】 完全初見！実況プレイ（7/23夜～）【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=TpvF1KZQms0</id>
+        <link href="https://www.youtube.com/watch?v=TpvF1KZQms0"/>
+        <updated>2025-04-04T16:46:08.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】15年以上前の古ボカロ縛り！ボーカロイド老人会集合！｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=IWR80qJfPAE</id>
@@ -201,15 +219,6 @@
         <updated>2025-03-31T20:16:15.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#10【 メタファー：リファンタジオ 】 完全初見！実況プレイ（7/23夜～）【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=TpvF1KZQms0</id>
-        <link href="https://www.youtube.com/watch?v=TpvF1KZQms0"/>
-        <updated>2025-03-31T16:25:24.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

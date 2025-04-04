@@ -434,13 +434,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=bCDEMyHK-Bs",
+          "id": "https://www.youtube.com/watch?v=-sS-OLXCT8o",
           "author": null,
           "description": "",
-          "link": "https://www.youtube.com/watch?v=bCDEMyHK-Bs",
-          "publishedOn": "2025-04-02T13:01:44.000Z",
+          "link": "https://www.youtube.com/watch?v=-sS-OLXCT8o",
+          "publishedOn": "2025-04-04T16:56:24.000Z",
           "wordCount": null,
-          "title": "デビュー3周年記念歌枠 ✦ 3rd Anniversary / Singing Stream 【 稀羽すう / Re:AcT 】",
+          "title": "【 歌枠 / KARAOKE 】この声が、聴こえていますか？ ランチタイム歌枠  ✦ Singing Stream 【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -448,9 +448,19 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=TpvF1KZQms0",
-          "publishedOn": "2025-03-31T16:25:24.000Z",
+          "publishedOn": "2025-04-04T16:46:08.000Z",
           "wordCount": null,
           "title": "#10【 メタファー：リファンタジオ 】 完全初見！実況プレイ（7/23夜～）【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bCDEMyHK-Bs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bCDEMyHK-Bs",
+          "publishedOn": "2025-04-02T13:01:44.000Z",
+          "wordCount": null,
+          "title": "デビュー3周年記念歌枠 ✦ 3rd Anniversary / Singing Stream 【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
