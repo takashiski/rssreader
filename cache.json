@@ -688,6 +688,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCVbRXkQP-LumaBzfw-wsrrg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QMeJYHTm6ls",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QMeJYHTm6ls",
+          "publishedOn": "2025-04-04T06:37:57.000Z",
+          "wordCount": null,
+          "title": "【歌枠】久々の生歌！！！【皇ロゼ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5_QyKDkCBPo",
           "author": null,
           "description": "",
@@ -825,16 +835,6 @@
           "publishedOn": "2025-03-10T14:23:13.000Z",
           "wordCount": null,
           "title": "【歌枠】初見歓迎！元気！！歌うぞ！！【皇ロゼ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DCUPZkf1Ylw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DCUPZkf1Ylw",
-          "publishedOn": "2025-03-07T13:41:10.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見歓迎！ただいま！！！【皇ロゼ/Re:AcT】",
           "imageUrl": null
         }
       ]
