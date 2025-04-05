@@ -103,6 +103,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=3LXa2OR6by4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3LXa2OR6by4",
+          "publishedOn": "2025-04-05T21:48:20.000Z",
+          "wordCount": null,
+          "title": "【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(＾ω＾)【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Gekcnt5nF_Y",
           "author": null,
           "description": "",
@@ -240,16 +250,6 @@
           "publishedOn": "2025-03-24T15:56:10.000Z",
           "wordCount": null,
           "title": "【#ククルア爆誕歌謡祭】本日の主役🎊俺のターン！ドロー！最高の一日の始まりだ🎉Singing Stream【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=p3VLneHuqew",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=p3VLneHuqew",
-          "publishedOn": "2025-03-24T11:37:59.000Z",
-          "wordCount": null,
-          "title": "【#ククルア爆誕歌謡祭】☆★☆★開会式☆★☆★～ついに宴が始まる～【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
