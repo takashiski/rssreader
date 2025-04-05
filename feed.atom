@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-05T10:37:12.816Z</id>
+    <id>urn:2025-04-05T11:06:10.416Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T10:37:12.816Z</updated>
+    <updated>2025-04-05T11:06:10.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[3年目のVTuberついに3D化！ #ククルアクレイユ #shorts #LIVEオファー待ってます]]></title>
+        <id>https://www.youtube.com/watch?v=nP0Tw9fNAG4</id>
+        <link href="https://www.youtube.com/watch?v=nP0Tw9fNAG4"/>
+        <updated>2025-04-05T11:00:58.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【-`🎮 APEX 】#TIEカスタム TIE CUSTOM SPRING.VER にでるよー！頑張る！🔫【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=_FnlD1kpdjg</id>
@@ -741,15 +750,6 @@
         <updated>2025-03-23T06:18:05.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大切なお知らせ！！！！！]]></title>
-        <id>https://www.youtube.com/watch?v=sLwpBn762BY</id>
-        <link href="https://www.youtube.com/watch?v=sLwpBn762BY"/>
-        <updated>2025-03-23T01:22:09.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
