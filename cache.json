@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UHS7Lm9P1v8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UHS7Lm9P1v8",
+          "publishedOn": "2025-04-05T17:49:07.000Z",
+          "wordCount": null,
+          "title": "【歌枠】やっと咳治ってきた【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2025-03-09T00:35:36.000Z",
           "wordCount": null,
           "title": "【歌枠】家族とお出かけをするのは大切【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BVdEXV0ei4U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BVdEXV0ei4U",
-          "publishedOn": "2025-03-08T20:18:39.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #46 】気合と根性です【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
