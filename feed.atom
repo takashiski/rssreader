@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-05T09:06:39.878Z</id>
+    <id>urn:2025-04-05T09:34:41.424Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T09:06:39.878Z</updated>
+    <updated>2025-04-05T09:34:41.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【-`🎮 APEX 】#TIEカスタム TIE CUSTOM SPRING.VER にでるよー！頑張る！🔫【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_FnlD1kpdjg</id>
+        <link href="https://www.youtube.com/watch?v=_FnlD1kpdjg"/>
+        <updated>2025-04-05T09:10:03.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】この声が、聴こえていますか？ ランチタイム歌枠  ✦ Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=-sS-OLXCT8o</id>
@@ -1297,15 +1306,6 @@
         <id>https://www.youtube.com/watch?v=ko6691dAqVk</id>
         <link href="https://www.youtube.com/watch?v=ko6691dAqVk"/>
         <updated>2025-03-09T17:00:23.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『 スケッチ - あいみょん 』ドラえもんの映画最高だった  #歌ってみた #shorts 【 #獅子神レオナ 】]]></title>
-        <id>https://www.youtube.com/watch?v=3omI_uG6KXI</id>
-        <link href="https://www.youtube.com/watch?v=3omI_uG6KXI"/>
-        <updated>2025-03-09T09:00:05.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>

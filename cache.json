@@ -1303,6 +1303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=_FnlD1kpdjg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_FnlD1kpdjg",
+          "publishedOn": "2025-04-05T09:10:03.000Z",
+          "wordCount": null,
+          "title": "【-`🎮 APEX 】#TIEカスタム TIE CUSTOM SPRING.VER にでるよー！頑張る！🔫【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5sMPIQc7mzk",
           "author": null,
           "description": "",
@@ -1440,16 +1450,6 @@
           "publishedOn": "2025-03-09T17:00:23.000Z",
           "wordCount": null,
           "title": "【 -`🎮 モンハンワイルズ/MHWilds 】視聴者参加型！みんなで素材集めよう！😎✨【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3omI_uG6KXI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3omI_uG6KXI",
-          "publishedOn": "2025-03-09T09:00:05.000Z",
-          "wordCount": null,
-          "title": "『 スケッチ - あいみょん 』ドラえもんの映画最高だった  #歌ってみた #shorts 【 #獅子神レオナ 】",
           "imageUrl": null
         }
       ]
