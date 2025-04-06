@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-06T08:08:21.765Z</id>
+    <id>urn:2025-04-06T08:37:44.196Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T08:08:21.765Z</updated>
+    <updated>2025-04-06T08:37:44.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【つぐのひ】1.5万人記念｜ホラゲ嫌いのエルフによるホラゲ実況 #良質な悲鳴【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Gekcnt5nF_Y</id>
+        <link href="https://www.youtube.com/watch?v=Gekcnt5nF_Y"/>
+        <updated>2025-04-06T08:15:04.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】タマミツネ美しいって聞きまして✨✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=YiEUmC0qPAE</id>
@@ -57,15 +66,6 @@
         <updated>2025-04-05T15:55:43.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【つぐのひ】1.5万人記念｜ホラゲ嫌いのエルフによるホラゲ実況 #良質な悲鳴【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Gekcnt5nF_Y</id>
-        <link href="https://www.youtube.com/watch?v=Gekcnt5nF_Y"/>
-        <updated>2025-04-05T14:42:10.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
