@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-06T00:33:50.295Z</id>
+    <id>urn:2025-04-06T01:34:33.425Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T00:33:50.295Z</updated>
+    <updated>2025-04-06T01:34:33.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #雑談 〗みんなのオタ活エピソード👓✨マシュマロ読むよ！〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=3gNqoEKm8IM</id>
+        <link href="https://www.youtube.com/watch?v=3gNqoEKm8IM"/>
+        <updated>2025-04-06T01:19:16.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(＾ω＾)【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3LXa2OR6by4</id>
@@ -42,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【つぐのひ】１.５万人記念｜ホラゲ嫌いのエルフによるホラゲ実況【#ククルアクレイユ｜Re:AcT】]]></title>
+        <title type="html"><![CDATA[【つぐのひ】1.5万人記念｜ホラゲ嫌いのエルフによるホラゲ実況 #良質な悲鳴【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Gekcnt5nF_Y</id>
         <link href="https://www.youtube.com/watch?v=Gekcnt5nF_Y"/>
         <updated>2025-04-05T14:42:10.000Z</updated>
@@ -172,15 +181,6 @@
         <id>https://www.youtube.com/watch?v=AyNVMqQiJTw</id>
         <link href="https://www.youtube.com/watch?v=AyNVMqQiJTw"/>
         <updated>2025-04-03T14:09:30.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #雑談 〗みんなのオタ活エピソード👓✨マシュマロ読むよ！〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=3gNqoEKm8IM</id>
-        <link href="https://www.youtube.com/watch?v=3gNqoEKm8IM"/>
-        <updated>2025-04-03T13:58:04.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
@@ -1362,15 +1362,6 @@
         <updated>2025-03-07T14:15:35.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #civ7 】ねむ、宇宙を目指す…！#9【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jNavQqymA10</id>
-        <link href="https://www.youtube.com/watch?v=jNavQqymA10"/>
-        <updated>2025-03-07T12:36:50.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
 </feed>
