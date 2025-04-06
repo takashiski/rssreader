@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-06T12:10:37.060Z</id>
+    <id>urn:2025-04-06T12:46:07.794Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T12:10:37.060Z</updated>
+    <updated>2025-04-06T12:46:07.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #春のリアクトまつり 】嬉しいお知らせもあるRe:AcT全体企画【3Dミニライブもあるよ】]]></title>
+        <id>https://www.youtube.com/watch?v=yx3Yye0JIL4</id>
+        <link href="https://www.youtube.com/watch?v=yx3Yye0JIL4"/>
+        <updated>2025-04-06T12:18:24.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【つぐのひ】1.5万人記念｜ホラゲ嫌いのエルフによるホラゲ実況 #良質な悲鳴【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Gekcnt5nF_Y</id>
@@ -228,15 +237,6 @@
         <updated>2025-04-03T08:53:47.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #春のリアクトまつり 】嬉しいお知らせもあるRe:AcT全体企画【3Dミニライブもあるよ】]]></title>
-        <id>https://www.youtube.com/watch?v=yx3Yye0JIL4</id>
-        <link href="https://www.youtube.com/watch?v=yx3Yye0JIL4"/>
-        <updated>2025-04-03T07:27:09.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
