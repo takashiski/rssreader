@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-06T03:20:45.902Z</id>
+    <id>urn:2025-04-06T03:41:39.956Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T03:20:45.902Z</updated>
+    <updated>2025-04-06T03:41:39.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1351,15 +1351,6 @@
         <id>https://www.youtube.com/watch?v=cBkBoEq09io</id>
         <link href="https://www.youtube.com/watch?v=cBkBoEq09io"/>
         <updated>2025-03-08T12:08:12.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】フライデーナイトを彩りたい【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=qDMzxAUMZN8</id>
-        <link href="https://www.youtube.com/watch?v=qDMzxAUMZN8"/>
-        <updated>2025-03-07T15:22:40.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
