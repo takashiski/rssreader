@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
+          "publishedOn": "2025-04-06T13:30:06.000Z",
+          "wordCount": null,
+          "title": "【歌ってみた】ハレンチ by 魔光リサ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UHS7Lm9P1v8",
           "author": null,
           "description": "",
@@ -304,16 +314,6 @@
           "publishedOn": "2025-04-05T17:49:07.000Z",
           "wordCount": null,
           "title": "【歌枠】やっと咳治ってきた【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
-          "publishedOn": "2025-04-05T17:05:43.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】ハレンチ by 魔光リサ",
           "imageUrl": null
         },
         {
