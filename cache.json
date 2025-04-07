@@ -1293,6 +1293,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mN-GWmmhZD0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mN-GWmmhZD0",
+          "publishedOn": "2025-04-07T10:24:24.000Z",
+          "wordCount": null,
+          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】奏でるは生命の調べ【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_FnlD1kpdjg",
           "author": null,
           "description": "",
@@ -1430,16 +1440,6 @@
           "publishedOn": "2025-03-13T05:28:46.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】お昼ご飯はお歌でどうでしょう？【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ko6691dAqVk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ko6691dAqVk",
-          "publishedOn": "2025-03-09T17:00:23.000Z",
-          "wordCount": null,
-          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】視聴者参加型！みんなで素材集めよう！😎✨【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
