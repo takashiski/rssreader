@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-07T11:06:15.257Z</id>
+    <id>urn:2025-04-07T11:34:42.778Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T11:06:15.257Z</updated>
+    <updated>2025-04-07T11:34:42.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=8y5buQDWDcg</id>
+        <link href="https://www.youtube.com/watch?v=8y5buQDWDcg"/>
+        <updated>2025-04-07T11:25:33.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#minecraft 】蛍島予定地の整備をすすめなきゃ‼鉄も欲しいよ⛏️【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=4V-TFDDvXEw</id>
@@ -937,15 +946,6 @@
         <id>https://www.youtube.com/watch?v=utxVA529B34</id>
         <link href="https://www.youtube.com/watch?v=utxVA529B34"/>
         <updated>2025-03-19T01:20:37.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=8y5buQDWDcg</id>
-        <link href="https://www.youtube.com/watch?v=8y5buQDWDcg"/>
-        <updated>2025-03-18T18:34:56.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>

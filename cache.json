@@ -865,6 +865,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=8y5buQDWDcg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8y5buQDWDcg",
+          "publishedOn": "2025-04-07T11:25:33.000Z",
+          "wordCount": null,
+          "title": "〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3gNqoEKm8IM",
           "author": null,
           "description": "",
@@ -962,16 +972,6 @@
           "publishedOn": "2025-03-19T01:20:37.000Z",
           "wordCount": null,
           "title": "〖 #歌枠 〗るんるんで歌うんだー！！！！〖 Vtuber /#猫乃ユキノ 〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=8y5buQDWDcg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=8y5buQDWDcg",
-          "publishedOn": "2025-03-18T18:34:56.000Z",
-          "wordCount": null,
-          "title": "〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗",
           "imageUrl": null
         },
         {
