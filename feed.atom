@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-08T09:07:55.805Z</id>
+    <id>urn:2025-04-08T09:36:45.654Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T09:07:55.805Z</updated>
+    <updated>2025-04-08T09:36:45.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗激ムズ音ゲー耐久⁉ 吹部パーカス経験あるから余裕余裕......〖九楽ライ/Japanese Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=8Dnb3GeCAWs</id>
+        <link href="https://www.youtube.com/watch?v=8Dnb3GeCAWs"/>
+        <updated>2025-04-08T09:35:13.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plazma - 米津玄師 (covered by 稀羽すう) 【歌ってみた】]]></title>
         <id>https://www.youtube.com/watch?v=GXCfT3L_chk</id>
@@ -33,7 +42,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大事なお知らせ【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[大事なお知らせ！【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=E1A7Rv414YI</id>
         <link href="https://www.youtube.com/watch?v=E1A7Rv414YI"/>
         <updated>2025-04-07T15:02:39.000Z</updated>
