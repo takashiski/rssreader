@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-08T17:06:38.297Z</id>
+    <id>urn:2025-04-08T17:36:23.198Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T17:06:38.297Z</updated>
+    <updated>2025-04-08T17:36:23.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -402,6 +402,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【#三原色の輝き歌枠リレー】緑担当！インターネット老人会いきます！【#ククルアクレイユ #歌枠 #Vtuber #KARAOKE｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_o8oi8pTe_Q</id>
+        <link href="https://www.youtube.com/watch?v=_o8oi8pTe_Q"/>
+        <updated>2025-04-01T07:39:41.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #ストグラ #? 】#ストグラSPD2025【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=pJ-b95xrW_o</id>
         <link href="https://www.youtube.com/watch?v=pJ-b95xrW_o"/>
@@ -795,15 +804,6 @@
         <updated>2025-03-25T08:22:22.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【生誕当日！】200人に祝ってもらいたい！生誕当日朝歌枠！【#ククルアクレイユ｜Re:AcT】#朝活 #歌枠]]></title>
-        <id>https://www.youtube.com/watch?v=pTvj1WdXZY4</id>
-        <link href="https://www.youtube.com/watch?v=pTvj1WdXZY4"/>
-        <updated>2025-03-25T00:48:52.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
