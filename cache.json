@@ -454,6 +454,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=-laNi9L3YAE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-laNi9L3YAE",
+          "publishedOn": "2025-04-09T13:24:37.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠  / KARAOKE 】歌おっか！水曜定期歌枠 Singing Stream #104【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GXCfT3L_chk",
           "author": null,
           "description": "",
@@ -471,16 +481,6 @@
           "publishedOn": "2025-04-08T09:45:33.000Z",
           "wordCount": null,
           "title": "深夜雑談 - midnight chat 「わたしの魂は何色か。」【 稀羽すう / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-laNi9L3YAE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-laNi9L3YAE",
-          "publishedOn": "2025-04-08T09:27:20.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠  / KARAOKE 】歌おっか！水曜定期歌枠 Singing Stream #104【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
