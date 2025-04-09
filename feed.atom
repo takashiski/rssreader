@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-09T22:06:46.672Z</id>
+    <id>urn:2025-04-09T22:36:19.196Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T22:06:46.672Z</updated>
+    <updated>2025-04-09T22:36:19.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【朝活】100人とおはよう！メンシスタンプ描くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=p-Ugcg95HvI</id>
+        <link href="https://www.youtube.com/watch?v=p-Ugcg95HvI"/>
+        <updated>2025-04-09T22:19:16.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ステージ12を超えた高難易度へ...正直めっちゃハマってます。〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=zk-zAXiQAwM</id>
@@ -766,15 +775,6 @@
         <id>https://www.youtube.com/watch?v=yDiLzc2B02Q</id>
         <link href="https://www.youtube.com/watch?v=yDiLzc2B02Q"/>
         <updated>2025-03-27T11:01:29.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ククルア爆誕3Dお披露目】振り返り＆スパチャお礼配信【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wwUYxaNw5CY</id>
-        <link href="https://www.youtube.com/watch?v=wwUYxaNw5CY"/>
-        <updated>2025-03-26T15:18:34.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
