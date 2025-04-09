@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x06N4u3TYZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x06N4u3TYZA",
+          "publishedOn": "2025-04-09T10:28:45.000Z",
+          "wordCount": null,
+          "title": "【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nrJzGZ2ylMU",
           "author": null,
           "description": "",
