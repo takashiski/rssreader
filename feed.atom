@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-09T09:37:33.683Z</id>
+    <id>urn:2025-04-09T10:09:08.418Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T09:37:33.683Z</updated>
+    <updated>2025-04-09T10:09:08.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -276,7 +276,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】久々の生歌！！！【皇ロゼ/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】久々の歌！！！【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=QMeJYHTm6ls</id>
         <link href="https://www.youtube.com/watch?v=QMeJYHTm6ls"/>
         <updated>2025-04-04T06:37:57.000Z</updated>
