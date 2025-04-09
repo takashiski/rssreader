@@ -113,6 +113,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XwAJq0fb_hg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XwAJq0fb_hg",
+          "publishedOn": "2025-04-09T09:28:48.000Z",
+          "wordCount": null,
+          "title": "【歌枠】ロボソン縛り！ここが俺たちのロボット大戦だ｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=BjoKWhHJbSg",
           "author": null,
           "description": "",
@@ -250,16 +260,6 @@
           "publishedOn": "2025-03-25T13:34:52.000Z",
           "wordCount": null,
           "title": "【#ククルア爆誕3Dお披露目】オレでなきゃ見逃しちゃうね【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QFCSANsxM2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QFCSANsxM2Q",
-          "publishedOn": "2025-03-25T13:15:06.000Z",
-          "wordCount": null,
-          "title": "Blindness - ELECTROCUTICA / covered by ククルア・クレイユ",
           "imageUrl": null
         }
       ]
