@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-10T01:35:11.253Z</id>
+    <id>urn:2025-04-10T02:33:28.619Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T01:35:11.253Z</updated>
+    <updated>2025-04-10T02:33:28.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【同時視聴】ゾンビ・スクールで夏を先取り✨✨【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=z-DkQwj6yLI</id>
+        <link href="https://www.youtube.com/watch?v=z-DkQwj6yLI"/>
+        <updated>2025-04-10T02:17:43.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【朝活】100人とおはよう！メンシスタンプ描くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=p-Ugcg95HvI</id>
@@ -57,15 +66,6 @@
         <updated>2025-04-09T13:24:37.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【同時視聴】ゾンビ・スクールで夏を先取り✨✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=z-DkQwj6yLI</id>
-        <link href="https://www.youtube.com/watch?v=z-DkQwj6yLI"/>
-        <updated>2025-04-09T11:53:58.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
