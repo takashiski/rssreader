@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bbevgbXKWp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bbevgbXKWp8",
+          "publishedOn": "2025-04-10T17:35:18.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #57 】早番→SKE体験【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Sy5-DAltQyY",
           "author": null,
           "description": "",
@@ -304,16 +314,6 @@
           "publishedOn": "2025-04-10T08:17:35.000Z",
           "wordCount": null,
           "title": "【歌枠】鼻声だって歌いたい【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bbevgbXKWp8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bbevgbXKWp8",
-          "publishedOn": "2025-04-10T07:46:44.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #57 】早番→SKE体験【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         },
         {
