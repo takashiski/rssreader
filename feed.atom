@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-10T12:47:32.564Z</id>
+    <id>urn:2025-04-10T13:13:33.874Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T12:47:32.564Z</updated>
+    <updated>2025-04-10T13:13:33.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[大事なお知らせ！【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=E1A7Rv414YI</id>
+        <link href="https://www.youtube.com/watch?v=E1A7Rv414YI"/>
+        <updated>2025-04-10T12:51:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ステージ12を超えた高難易度へ...正直めっちゃハマってます。〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=zk-zAXiQAwM</id>
@@ -165,15 +174,6 @@
         <updated>2025-04-07T17:57:20.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大事なお知らせ！【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=E1A7Rv414YI</id>
-        <link href="https://www.youtube.com/watch?v=E1A7Rv414YI"/>
-        <updated>2025-04-07T15:02:39.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
