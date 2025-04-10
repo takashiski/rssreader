@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=bbevgbXKWp8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bbevgbXKWp8",
+          "publishedOn": "2025-04-10T07:46:44.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #57 】早番→SKE体験【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3T4BqtPLpXw",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2025-03-13T20:21:39.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #50 】セミ【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Tf2QWOWJIek",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Tf2QWOWJIek",
-          "publishedOn": "2025-03-12T20:25:58.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #49 】穏やかな日々になりますように【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
