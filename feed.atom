@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-10T12:12:24.909Z</id>
+    <id>urn:2025-04-10T12:47:32.564Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T12:12:24.909Z</updated>
+    <updated>2025-04-10T12:47:32.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ステージ12を超えた高難易度へ...正直めっちゃハマってます。〖九楽ライ/Japanese Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=zk-zAXiQAwM</id>
+        <link href="https://www.youtube.com/watch?v=zk-zAXiQAwM"/>
+        <updated>2025-04-10T12:15:02.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】鼻声だって歌いたい【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Sy5-DAltQyY</id>
@@ -39,15 +48,6 @@
         <updated>2025-04-10T01:17:26.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ステージ12を超えた高難易度へ...正直めっちゃハマってます。〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=zk-zAXiQAwM</id>
-        <link href="https://www.youtube.com/watch?v=zk-zAXiQAwM"/>
-        <updated>2025-04-09T21:13:01.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
