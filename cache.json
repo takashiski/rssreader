@@ -454,6 +454,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=QlcDlMM7kDs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QlcDlMM7kDs",
+          "publishedOn": "2025-04-11T14:17:18.000Z",
+          "wordCount": null,
+          "title": "【この枠は移動しましたさよなら】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hw3yNAOereo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hw3yNAOereo",
+          "publishedOn": "2025-04-11T14:09:59.000Z",
+          "wordCount": null,
+          "title": "【シン・枠移動先】深夜雑談 - midnight chat 「わたしの魂は何色か。」【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=r6l5Wx2yT8s",
           "author": null,
           "description": "",
@@ -481,16 +501,6 @@
           "publishedOn": "2025-04-08T16:05:06.000Z",
           "wordCount": null,
           "title": "Plazma - 米津玄師 (covered by 稀羽すう) 【歌ってみた】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QlcDlMM7kDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QlcDlMM7kDs",
-          "publishedOn": "2025-04-08T09:45:33.000Z",
-          "wordCount": null,
-          "title": "深夜雑談 - midnight chat 「わたしの魂は何色か。」【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -591,16 +601,6 @@
           "publishedOn": "2025-03-17T13:00:31.000Z",
           "wordCount": null,
           "title": "『 BRAIN - Kanaria 』私なりに #歌ってみた ！⁠#shorts #cover   【稀羽すう】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
-          "publishedOn": "2025-03-16T10:00:09.000Z",
-          "wordCount": null,
-          "title": "BRAIN - Kanaria (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         }
       ]
@@ -1286,16 +1286,6 @@
           "publishedOn": "2025-03-15T02:17:42.000Z",
           "wordCount": null,
           "title": "【落語風声劇】個性的な女のひとが出てくるお話✨ 落語：たらちね【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LmqmrBadG58",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LmqmrBadG58",
-          "publishedOn": "2025-03-13T02:17:52.000Z",
-          "wordCount": null,
-          "title": "【晩酌配信】ここ数日摂取してない！！！！！百薬の長しなきゃっ🍶【丸餅つきみ/Re:AcT】",
           "imageUrl": null
         }
       ]
