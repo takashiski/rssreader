@@ -454,23 +454,13 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=QlcDlMM7kDs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QlcDlMM7kDs",
-          "publishedOn": "2025-04-11T14:17:18.000Z",
-          "wordCount": null,
-          "title": "【この枠は移動しましたさよなら】",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.youtube.com/watch?v=hw3yNAOereo",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=hw3yNAOereo",
           "publishedOn": "2025-04-11T14:09:59.000Z",
           "wordCount": null,
-          "title": "【シン・枠移動先】深夜雑談 - midnight chat 「わたしの魂は何色か。」【 稀羽すう / Re:AcT 】",
+          "title": "深夜雑談 - midnight chat 「わたしの魂は何色か。」【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -601,6 +591,16 @@
           "publishedOn": "2025-03-17T13:00:31.000Z",
           "wordCount": null,
           "title": "『 BRAIN - Kanaria 』私なりに #歌ってみた ！⁠#shorts #cover   【稀羽すう】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tlq9xjeuNTM",
+          "publishedOn": "2025-03-16T10:00:09.000Z",
+          "wordCount": null,
+          "title": "BRAIN - Kanaria (covered by 稀羽すう) 【歌ってみた】",
           "imageUrl": null
         }
       ]
@@ -1317,7 +1317,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=DFGHKYwIgsQ",
-          "publishedOn": "2025-04-11T10:46:03.000Z",
+          "publishedOn": "2025-04-11T15:40:23.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】喉の調子が少しいい、とても【獅子神レオナ/Re:AcT】",
           "imageUrl": null
