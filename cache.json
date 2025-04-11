@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ElqzCFnodU8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ElqzCFnodU8",
+          "publishedOn": "2025-04-11T13:48:44.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #58 】明日からちょっとおやすみ【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=x06N4u3TYZA",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2025-03-23T19:37:49.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #51 】おはよう【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=krIK5qO9qCE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=krIK5qO9qCE",
-          "publishedOn": "2025-03-22T11:44:58.000Z",
-          "wordCount": null,
-          "title": "【歌枠】療養を満喫させていただきました【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
