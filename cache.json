@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=x06N4u3TYZA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x06N4u3TYZA",
+          "publishedOn": "2025-04-11T11:00:06.000Z",
+          "wordCount": null,
+          "title": "【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=bbevgbXKWp8",
           "author": null,
           "description": "",
@@ -324,16 +334,6 @@
           "publishedOn": "2025-04-09T18:21:11.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #56 】おはよう～♬【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x06N4u3TYZA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x06N4u3TYZA",
-          "publishedOn": "2025-04-09T10:28:45.000Z",
-          "wordCount": null,
-          "title": "【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ",
           "imageUrl": null
         },
         {
@@ -1313,6 +1313,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DFGHKYwIgsQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DFGHKYwIgsQ",
+          "publishedOn": "2025-04-11T10:46:03.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】喉の調子が少しいい、とても【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mN-GWmmhZD0",
           "author": null,
           "description": "",
@@ -1450,16 +1460,6 @@
           "publishedOn": "2025-03-15T20:00:06.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】ねえ、もう寝るの？【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aZsK9IXs_TQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aZsK9IXs_TQ",
-          "publishedOn": "2025-03-13T05:28:46.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】お昼ご飯はお歌でどうでしょう？【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]

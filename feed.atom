@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-11T10:38:33.669Z</id>
+    <id>urn:2025-04-11T11:06:10.841Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T10:38:33.669Z</updated>
+    <updated>2025-04-11T11:06:10.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ]]></title>
+        <id>https://www.youtube.com/watch?v=x06N4u3TYZA</id>
+        <link href="https://www.youtube.com/watch?v=x06N4u3TYZA"/>
+        <updated>2025-04-11T11:00:06.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】喉の調子が少しいい、とても【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DFGHKYwIgsQ</id>
+        <link href="https://www.youtube.com/watch?v=DFGHKYwIgsQ"/>
+        <updated>2025-04-11T10:46:03.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[みんなの好きな沖縄料理は？僕は海ぶどう🌺🌴#カリスマさびら #踊ってみた #九楽ライ #vtuber #アイドル #dance #七人のカリスマ #charisma #charisma_house]]></title>
         <id>https://www.youtube.com/watch?v=1S_R8lyhnx0</id>
@@ -129,15 +147,6 @@
         <updated>2025-04-09T11:10:39.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ]]></title>
-        <id>https://www.youtube.com/watch?v=x06N4u3TYZA</id>
-        <link href="https://www.youtube.com/watch?v=x06N4u3TYZA"/>
-        <updated>2025-04-09T10:28:45.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
@@ -1362,15 +1371,6 @@
         <updated>2025-03-13T11:00:15.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】お昼ご飯はお歌でどうでしょう？【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=aZsK9IXs_TQ</id>
-        <link href="https://www.youtube.com/watch?v=aZsK9IXs_TQ"/>
-        <updated>2025-03-13T05:28:46.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
