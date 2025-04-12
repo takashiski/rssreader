@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-12T14:35:33.336Z</id>
+    <id>urn:2025-04-12T15:06:00.080Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T14:35:33.336Z</updated>
+    <updated>2025-04-12T15:06:00.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【32ヶ月記念✧歌枠】お知らせあり！ゲストデュエットあり！｜32 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=2iiZfSPiqIQ</id>
+        <link href="https://www.youtube.com/watch?v=2iiZfSPiqIQ"/>
+        <updated>2025-04-12T14:51:16.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #PushingitTogether 】岩、転がせえええぇええぇ‼💥【月紫アリア/獅子神レオナ/白音ゆき/皇ロゼ/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=RLERHVN-R_4</id>
+        <link href="https://www.youtube.com/watch?v=RLERHVN-R_4"/>
+        <updated>2025-04-12T14:38:24.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】弱点があったっていいじゃん！開き直って生きるわよっ🥂🐰【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=U9ULt0QLT3Y</id>
@@ -48,24 +66,6 @@
         <updated>2025-04-12T09:01:11.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #PushingitTogether 】岩、転がせえええぇええぇ‼💥【月紫アリア/獅子神レオナ/白音ゆき/皇ロゼ/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=RLERHVN-R_4</id>
-        <link href="https://www.youtube.com/watch?v=RLERHVN-R_4"/>
-        <updated>2025-04-12T06:59:08.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】32ヶ月記念メンバー限定配信【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=5b2TtEH49o8</id>
-        <link href="https://www.youtube.com/watch?v=5b2TtEH49o8"/>
-        <updated>2025-04-12T00:48:21.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -246,15 +246,6 @@
         <updated>2025-04-09T13:24:37.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【32ヶ月記念✧歌枠】お知らせあり！ゲストデュエットあり！｜32 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2iiZfSPiqIQ</id>
-        <link href="https://www.youtube.com/watch?v=2iiZfSPiqIQ"/>
-        <updated>2025-04-09T11:10:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -849,6 +840,15 @@
         <updated>2025-03-28T18:24:36.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#多声類 エルフの声真似７連発がワロタｗｗｗ #ククルアすこるわ助かるわ  #切り抜き #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=X7MiGeKuP0U</id>
+        <link href="https://www.youtube.com/watch?v=X7MiGeKuP0U"/>
+        <updated>2025-03-28T11:00:45.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
