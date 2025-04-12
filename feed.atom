@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-12T12:10:25.419Z</id>
+    <id>urn:2025-04-12T12:46:14.595Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T12:10:25.419Z</updated>
+    <updated>2025-04-12T12:46:14.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】弱点があったっていいじゃん！開き直って生きるわよっ🥂🐰【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=U9ULt0QLT3Y</id>
+        <link href="https://www.youtube.com/watch?v=U9ULt0QLT3Y"/>
+        <updated>2025-04-12T12:40:37.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌ってみた】星が瞬くこんな夜に/Covered by 花鋏キョウ]]></title>
         <id>https://www.youtube.com/watch?v=HlN8Plr9UZY</id>
