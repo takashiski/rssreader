@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-12T16:06:58.284Z</id>
+    <id>urn:2025-04-12T16:38:16.547Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T16:06:58.284Z</updated>
+    <updated>2025-04-12T16:38:16.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【コラボ雑談】美声の女王様レイラ・サマ様にアレコレおねだりしたい！【レイラ・サマ/丸餅つきみ Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=YKKvM6yfxTA</id>
+        <link href="https://www.youtube.com/watch?v=YKKvM6yfxTA"/>
+        <updated>2025-04-12T16:32:23.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【32ヶ月記念✧歌枠】お知らせあり！ゲストデュエットあり！｜32 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=2iiZfSPiqIQ</id>
