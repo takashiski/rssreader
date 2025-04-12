@@ -93,6 +93,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5b2TtEH49o8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5b2TtEH49o8",
+          "publishedOn": "2025-04-12T00:48:21.000Z",
+          "wordCount": null,
+          "title": "【メン限】32ヶ月記念メンバー限定配信【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3LXa2OR6by4",
           "author": null,
           "description": "",
@@ -230,16 +240,6 @@
           "publishedOn": "2025-03-28T11:00:45.000Z",
           "wordCount": null,
           "title": "#多声類 エルフの声真似７連発がワロタｗｗｗ #ククルアすこるわ助かるわ  #切り抜き #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yDiLzc2B02Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yDiLzc2B02Q",
-          "publishedOn": "2025-03-27T11:01:29.000Z",
-          "wordCount": null,
-          "title": "Blindness - ELLECTROCUTICA #歌ってみた #ククルアクレイユ #shorts",
           "imageUrl": null
         }
       ]
