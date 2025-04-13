@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T13:10:39.797Z</id>
+    <id>urn:2025-04-13T13:39:30.727Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T13:10:39.797Z</updated>
+    <updated>2025-04-13T13:39:30.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】アリアとまったりお話…する？💜 talking stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=93B5-zi9JZ8</id>
+        <link href="https://www.youtube.com/watch?v=93B5-zi9JZ8"/>
+        <updated>2025-04-13T13:31:39.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#オレンジデー前夜祭歌枠リレー】多声類エルフからの愛、受け取ってくれるよね？【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=vl7W8W9pqsY</id>
@@ -12,15 +21,6 @@
         <updated>2025-04-13T12:36:08.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】アリアとまったりお話…する？💜 talking stream【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=93B5-zi9JZ8</id>
-        <link href="https://www.youtube.com/watch?v=93B5-zi9JZ8"/>
-        <updated>2025-04-13T10:16:48.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
