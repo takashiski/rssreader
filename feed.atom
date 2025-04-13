@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T17:06:05.811Z</id>
+    <id>urn:2025-04-13T17:35:29.255Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T17:06:05.811Z</updated>
+    <updated>2025-04-13T17:35:29.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=FVkPRQ0Fx8I</id>
+        <link href="https://www.youtube.com/watch?v=FVkPRQ0Fx8I"/>
+        <updated>2025-04-13T17:27:28.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【コラボ雑談】美声の女王様レイラ・サマ様にアレコレおねだりしたい！【レイラ・サマ/丸餅つきみ Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=YKKvM6yfxTA</id>
@@ -84,15 +93,6 @@
         <updated>2025-04-12T13:44:00.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=FVkPRQ0Fx8I</id>
-        <link href="https://www.youtube.com/watch?v=FVkPRQ0Fx8I"/>
-        <updated>2025-04-12T13:19:02.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
