@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T10:06:47.559Z</id>
+    <id>urn:2025-04-13T10:37:50.260Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T10:06:47.559Z</updated>
+    <updated>2025-04-13T10:37:50.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【雑談】アリアとまったりお話…する？💜 talking stream【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=93B5-zi9JZ8</id>
+        <link href="https://www.youtube.com/watch?v=93B5-zi9JZ8"/>
+        <updated>2025-04-13T10:16:48.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🐓🍌海外のおばあ様の参考にしたら全然みんなと違った🤣 #ChickenBanana #CrazyMusicChannel #踊ってみた #vtuber #dance #meme #九楽ライ]]></title>
         <id>https://www.youtube.com/watch?v=uRn-QiPTYnI</id>
@@ -1263,15 +1272,6 @@
         <updated>2025-03-17T11:22:51.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いつもビジュいいじゃん… #Vtuber #月紫アリア #milk #イイじゃん #今日ビジュいいじゃん #踊ってみた #DANCE #アイドル  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=U0QFsTrmaIs</id>
-        <link href="https://www.youtube.com/watch?v=U0QFsTrmaIs"/>
-        <updated>2025-03-17T09:30:20.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
