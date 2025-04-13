@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T19:34:47.234Z</id>
+    <id>urn:2025-04-13T20:06:55.513Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T19:34:47.234Z</updated>
+    <updated>2025-04-13T20:06:55.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖Amanda the Adventurer 2〗呪われた恐怖の子供番組...アマンダ久しぶり！！！！！！〖九楽ライ/Japanese Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=-bhHQK8acYY</id>
+        <link href="https://www.youtube.com/watch?v=-bhHQK8acYY"/>
+        <updated>2025-04-13T19:39:42.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=FVkPRQ0Fx8I</id>
