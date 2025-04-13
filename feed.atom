@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T12:10:39.464Z</id>
+    <id>urn:2025-04-13T12:46:31.503Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T12:10:39.464Z</updated>
+    <updated>2025-04-13T12:46:31.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#オレンジデー前夜祭歌枠リレー】多声類エルフからの愛、受け取ってくれるよね？【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=vl7W8W9pqsY</id>
+        <link href="https://www.youtube.com/watch?v=vl7W8W9pqsY"/>
+        <updated>2025-04-13T12:36:08.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】アリアとまったりお話…する？💜 talking stream【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=93B5-zi9JZ8</id>
@@ -282,15 +291,6 @@
         <updated>2025-04-09T13:24:37.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#オレンジデー前夜祭歌枠リレー】多声類エルフからの愛、受け取ってくれるよね？【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vl7W8W9pqsY</id>
-        <link href="https://www.youtube.com/watch?v=vl7W8W9pqsY"/>
-        <updated>2025-04-09T06:12:03.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
