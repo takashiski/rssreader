@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-13T08:38:06.259Z</id>
+    <id>urn:2025-04-13T09:06:42.516Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T08:38:06.259Z</updated>
+    <updated>2025-04-13T09:06:42.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🐓🍌海外のおばあ様の参考にしたら全然みんなと違った🤣 #ChickenBanana #CrazyMusicChannel #踊ってみた #vtuber #dance #meme #九楽ライ]]></title>
+        <id>https://www.youtube.com/watch?v=uRn-QiPTYnI</id>
+        <link href="https://www.youtube.com/watch?v=uRn-QiPTYnI"/>
+        <updated>2025-04-13T09:01:10.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】弱点があったっていいじゃん！開き直って生きるわよっ🥂🐰新枠✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=AF-qyRCfYhE</id>
