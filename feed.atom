@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-14T07:35:36.127Z</id>
+    <id>urn:2025-04-14T08:10:15.337Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T07:35:36.127Z</updated>
+    <updated>2025-04-14T08:10:15.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗3日目！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=RARNCmQyBws</id>
+        <link href="https://www.youtube.com/watch?v=RARNCmQyBws"/>
+        <updated>2025-04-14T07:34:16.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗憧れの『It Go』をみんなと攻略していくんだ🔥〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=6kxxGKHwtac</id>
@@ -1326,24 +1335,6 @@
         <updated>2025-03-16T03:26:28.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #雑談 〗新居から初配信✨かいぬし様ただいま！！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=lz0dFOSCqAM</id>
-        <link href="https://www.youtube.com/watch?v=lz0dFOSCqAM"/>
-        <updated>2025-03-16T00:38:19.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】ねえ、もう寝るの？【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=yWnIdDN7K4A</id>
-        <link href="https://www.youtube.com/watch?v=yWnIdDN7K4A"/>
-        <updated>2025-03-15T20:00:06.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
