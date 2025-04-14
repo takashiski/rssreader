@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-14T11:06:27.743Z</id>
+    <id>urn:2025-04-14T11:34:41.809Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T11:06:27.743Z</updated>
+    <updated>2025-04-14T11:34:41.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】睡眠導入🫧波音とギターと歌｜Guitar Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=t6OZf19gwKw</id>
+        <link href="https://www.youtube.com/watch?v=t6OZf19gwKw"/>
+        <updated>2025-04-14T11:22:22.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗3日目！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=RARNCmQyBws</id>
@@ -894,15 +903,6 @@
         <updated>2025-03-28T18:24:36.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#多声類 エルフの声真似７連発がワロタｗｗｗ #ククルアすこるわ助かるわ  #切り抜き #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=X7MiGeKuP0U</id>
-        <link href="https://www.youtube.com/watch?v=X7MiGeKuP0U"/>
-        <updated>2025-03-28T11:00:45.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
