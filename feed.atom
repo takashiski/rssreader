@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-14T17:36:12.094Z</id>
+    <id>urn:2025-04-14T18:09:34.271Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T17:36:12.094Z</updated>
+    <updated>2025-04-14T18:09:34.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ついに最難関エリア！！王冠ステージ攻略するんだ🔥〖九楽ライ/Japanese Vtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=6kxxGKHwtac</id>
+        <link href="https://www.youtube.com/watch?v=6kxxGKHwtac"/>
+        <updated>2025-04-14T17:38:46.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】睡眠導入🫧波音とギターと歌｜Guitar Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=t6OZf19gwKw</id>
@@ -39,15 +48,6 @@
         <updated>2025-04-14T07:34:16.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ついに最難関エリア！！王冠ステージ攻略するんだ🔥〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=6kxxGKHwtac</id>
-        <link href="https://www.youtube.com/watch?v=6kxxGKHwtac"/>
-        <updated>2025-04-13T21:19:24.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
