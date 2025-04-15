@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KZU5mqRRk_o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KZU5mqRRk_o",
+          "publishedOn": "2025-04-15T17:37:05.000Z",
+          "wordCount": null,
+          "title": "【歌枠】平成アニソン縛り！～俺たちの平成は終わらない～｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PKGE0endXqs",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-04-01T07:39:41.000Z",
           "wordCount": null,
           "title": "【#三原色の輝き歌枠リレー】緑担当！インターネット老人会いきます！【#ククルアクレイユ #歌枠 #Vtuber #KARAOKE｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nA1fGRZavDQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nA1fGRZavDQ",
-          "publishedOn": "2025-03-31T11:00:58.000Z",
-          "wordCount": null,
-          "title": "ホラゲ嫌いなVTuberの見守り配信がワロタｗｗｗ #久遠なつめ #ククルアクレイユ #ホラゲ実況 #切り抜き",
           "imageUrl": null
         }
       ]
@@ -393,6 +393,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqIMtLuGc3YgwkhEaG8oDg",
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9wHM9xD_cvA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9wHM9xD_cvA",
+          "publishedOn": "2025-04-15T17:40:59.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠  / KARAOKE 】歌いたくなっちゃった 水曜定期歌枠 Singing Stream #104【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hw3yNAOereo",
           "author": null,
