@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-15T09:37:00.060Z</id>
+    <id>urn:2025-04-15T10:07:53.649Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T09:37:00.060Z</updated>
+    <updated>2025-04-15T10:07:53.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[愛しちゃったかもしれないです…💜 #shorts #最終未来少女 #AISEECHAT #踊ってみた #Dance #アイドル #Vtuber #月紫アリア #めるりぷ]]></title>
+        <id>https://www.youtube.com/watch?v=iwPZ6awHIEc</id>
+        <link href="https://www.youtube.com/watch?v=iwPZ6awHIEc"/>
+        <updated>2025-04-15T09:29:00.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗ついに最難関エリア！！王冠ステージ攻略するんだ🔥〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=6kxxGKHwtac</id>
@@ -1236,15 +1245,6 @@
         <updated>2025-03-19T01:20:37.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗ず～っと気持ちぃ💗耳かきで寝よ？ earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=TwVINge3q14</id>
-        <link href="https://www.youtube.com/watch?v=TwVINge3q14"/>
-        <updated>2025-03-18T16:45:48.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
