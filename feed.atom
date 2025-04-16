@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T13:39:48.509Z</id>
+    <id>urn:2025-04-16T14:07:52.629Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T13:39:48.509Z</updated>
+    <updated>2025-04-16T14:07:52.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】歌いたくなっちゃった 水曜定期歌枠 Singing Stream #105【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=9wHM9xD_cvA</id>
+        <link href="https://www.youtube.com/watch?v=9wHM9xD_cvA"/>
+        <updated>2025-04-16T13:49:51.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【✨重大告知✨】超超最高なお知らせ💜聞きにこーいっっ！💥【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=3dgsNavH1QE</id>
+        <link href="https://www.youtube.com/watch?v=3dgsNavH1QE"/>
+        <updated>2025-04-16T13:40:39.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗4日目！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=deEr_MF5KsI</id>
@@ -15,7 +33,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【3D一人芝居】いい女将さんならつきみが一番✨✨旦那様の人生変えてあげるわっ！！【丸餅つきみ/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【3D一人芝居】いい女将さんならつきみが一番✨✨旦那様の人生変えてあげるわっ！！3D初演：落語・芝浜【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TPOVu0MvndE</id>
         <link href="https://www.youtube.com/watch?v=TPOVu0MvndE"/>
         <updated>2025-04-16T12:12:04.000Z</updated>
@@ -39,15 +57,6 @@
         <updated>2025-04-16T08:38:44.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】歌いたくなっちゃった 水曜定期歌枠 Singing Stream #105【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=9wHM9xD_cvA</id>
-        <link href="https://www.youtube.com/watch?v=9wHM9xD_cvA"/>
-        <updated>2025-04-15T17:40:59.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -129,15 +138,6 @@
         <updated>2025-04-14T15:38:45.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【✨重大告知✨】超超最高なお知らせ💜聞きにこーいっっ！💥【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=3dgsNavH1QE</id>
-        <link href="https://www.youtube.com/watch?v=3dgsNavH1QE"/>
-        <updated>2025-04-14T11:54:17.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
