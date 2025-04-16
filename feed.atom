@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T12:12:10.026Z</id>
+    <id>urn:2025-04-16T12:47:30.804Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T12:12:10.026Z</updated>
+    <updated>2025-04-16T12:47:30.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【3D一人芝居】いい女将さんならつきみが一番✨✨旦那様の人生変えてあげるわっ！！【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=TPOVu0MvndE</id>
+        <link href="https://www.youtube.com/watch?v=TPOVu0MvndE"/>
+        <updated>2025-04-16T12:12:04.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #59 】春～♬【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=-pm2g-Zbphw</id>
