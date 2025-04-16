@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T13:14:02.334Z</id>
+    <id>urn:2025-04-16T13:39:48.509Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T13:14:02.334Z</updated>
+    <updated>2025-04-16T13:39:48.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗4日目！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=deEr_MF5KsI</id>
+        <link href="https://www.youtube.com/watch?v=deEr_MF5KsI"/>
+        <updated>2025-04-16T13:30:19.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3D一人芝居】いい女将さんならつきみが一番✨✨旦那様の人生変えてあげるわっ！！【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=TPOVu0MvndE</id>
@@ -55,15 +64,6 @@
         <id>https://www.youtube.com/watch?v=RARNCmQyBws</id>
         <link href="https://www.youtube.com/watch?v=RARNCmQyBws"/>
         <updated>2025-04-15T17:12:50.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗4日目！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=deEr_MF5KsI</id>
-        <link href="https://www.youtube.com/watch?v=deEr_MF5KsI"/>
-        <updated>2025-04-15T16:51:32.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
