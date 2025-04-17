@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-17T09:07:45.092Z</id>
+    <id>urn:2025-04-17T09:36:39.478Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T09:07:45.092Z</updated>
+    <updated>2025-04-17T09:36:39.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[寂しくさせないで🐰💖 #shorts #とくべチュして #イコールラブ #イコラブ  #踊ってみた #Dance #アイドル #Vtuber #月紫アリア #めるりぷ]]></title>
+        <id>https://www.youtube.com/watch?v=GxffsO_gSZA</id>
+        <link href="https://www.youtube.com/watch?v=GxffsO_gSZA"/>
+        <updated>2025-04-17T09:30:13.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #60 】はやばん【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=gJ0jBonZ--c</id>
@@ -1243,15 +1252,6 @@
         <id>https://www.youtube.com/watch?v=x2nIAS2b9W4</id>
         <link href="https://www.youtube.com/watch?v=x2nIAS2b9W4"/>
         <updated>2025-03-21T09:30:23.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗超至近距離でドキドキ耳かき💗ふぅはぁ〜…💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VUGxVNChQP0</id>
-        <link href="https://www.youtube.com/watch?v=VUGxVNChQP0"/>
-        <updated>2025-03-20T16:14:25.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
