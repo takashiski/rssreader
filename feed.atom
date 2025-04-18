@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-18T12:11:28.630Z</id>
+    <id>urn:2025-04-18T12:47:17.504Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T12:11:28.630Z</updated>
+    <updated>2025-04-18T12:47:17.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ジャラランブル/獅子神レオナ　【Official Music Video】]]></title>
+        <id>https://www.youtube.com/watch?v=S2n6XY2qleg</id>
+        <link href="https://www.youtube.com/watch?v=S2n6XY2qleg"/>
+        <updated>2025-04-18T12:30:34.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【祝２万とX１万】雑談。～２万人記念。準備不足。無念。～【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BhS8rf2VZps</id>
+        <link href="https://www.youtube.com/watch?v=BhS8rf2VZps"/>
+        <updated>2025-04-18T12:29:14.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ママに隠れて夜食を食べる】ママにバレたら即終了！？🐰深夜の夜食泥棒チャレンジ🍽️👻【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=0XEcpq7jGfE</id>
+        <link href="https://www.youtube.com/watch?v=0XEcpq7jGfE"/>
+        <updated>2025-04-18T12:14:03.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 歌枠 / KARAOKE 】今日も良い日にするね ✦ Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=vHWLmZFw1so</id>
@@ -1317,15 +1344,6 @@
         <updated>2025-03-20T09:00:28.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`💬 朝活/Morning 】おはようって言って。【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=sySSlIQXn5M</id>
-        <link href="https://www.youtube.com/watch?v=sySSlIQXn5M"/>
-        <updated>2025-03-20T00:21:51.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
