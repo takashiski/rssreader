@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-18T20:07:31.779Z</id>
+    <id>urn:2025-04-18T20:35:44.442Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T20:07:31.779Z</updated>
+    <updated>2025-04-18T20:35:44.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #61 】東署のディラン【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=VolnyIhspig</id>
+        <link href="https://www.youtube.com/watch?v=VolnyIhspig"/>
+        <updated>2025-04-18T20:22:50.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗最終日！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=Opv8-9pxg8A</id>
@@ -66,15 +75,6 @@
         <updated>2025-04-18T14:08:35.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #61 】東署のディラン【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=VolnyIhspig</id>
-        <link href="https://www.youtube.com/watch?v=VolnyIhspig"/>
-        <updated>2025-04-18T12:41:50.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
