@@ -237,6 +237,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=0CQNtSfQQ2U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0CQNtSfQQ2U",
+          "publishedOn": "2025-04-18T10:18:25.000Z",
+          "wordCount": null,
+          "title": "【歌枠】もうすぐライブなのですなのです【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=gJ0jBonZ--c",
           "author": null,
           "description": "",
@@ -244,16 +254,6 @@
           "publishedOn": "2025-04-17T18:29:22.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #60 】はやばん【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0CQNtSfQQ2U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0CQNtSfQQ2U",
-          "publishedOn": "2025-04-17T08:03:48.000Z",
-          "wordCount": null,
-          "title": "【歌枠】もうすぐライブなのですなのです【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
@@ -393,6 +393,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqIMtLuGc3YgwkhEaG8oDg",
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=QazUlIcte60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QazUlIcte60",
+          "publishedOn": "2025-04-18T10:37:14.000Z",
+          "wordCount": null,
+          "title": "金曜は宅飲みすべ。",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=9wHM9xD_cvA",
           "author": null,
