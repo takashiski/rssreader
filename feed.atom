@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-18T03:42:09.734Z</id>
+    <id>urn:2025-04-18T04:08:35.965Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-18T03:42:09.734Z</updated>
+    <updated>2025-04-18T04:08:35.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1290,15 +1290,6 @@
         <updated>2025-03-20T00:21:51.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見歓迎！夜の歌の時間デス。【皇ロゼ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ZLRUiWAslhw</id>
-        <link href="https://www.youtube.com/watch?v=ZLRUiWAslhw"/>
-        <updated>2025-03-19T15:58:46.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
