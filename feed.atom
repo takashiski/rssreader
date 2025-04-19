@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T10:36:59.179Z</id>
+    <id>urn:2025-04-19T11:05:51.722Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T10:36:59.179Z</updated>
+    <updated>2025-04-19T11:05:51.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #歌枠 〗今日も元気に歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=pZQN0OWH0fo</id>
+        <link href="https://www.youtube.com/watch?v=pZQN0OWH0fo"/>
+        <updated>2025-04-19T10:54:30.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=6PLFWI4_q9M</id>
+        <link href="https://www.youtube.com/watch?v=6PLFWI4_q9M"/>
+        <updated>2025-04-19T10:45:55.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】扇風機の音が入るかも注意【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=I866fk3Lczc</id>
@@ -1308,15 +1326,6 @@
         <updated>2025-03-23T06:18:05.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #supermarketsimulator 〗安い！早い！うまい！スーパーマーケット経営💰〖Vtuber / #猫乃ユキノ〗]]></title>
-        <id>https://www.youtube.com/watch?v=kEwAlL8PLHM</id>
-        <link href="https://www.youtube.com/watch?v=kEwAlL8PLHM"/>
-        <updated>2025-03-22T12:52:24.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>

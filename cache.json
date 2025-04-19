@@ -795,6 +795,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=pZQN0OWH0fo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pZQN0OWH0fo",
+          "publishedOn": "2025-04-19T10:54:30.000Z",
+          "wordCount": null,
+          "title": "〖 #歌枠 〗今日も元気に歌います🎤〖 Vtuber /#猫乃ユキノ 〗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=6PLFWI4_q9M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6PLFWI4_q9M",
+          "publishedOn": "2025-04-19T10:45:55.000Z",
+          "wordCount": null,
+          "title": "〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Opv8-9pxg8A",
           "author": null,
           "description": "",
@@ -922,16 +942,6 @@
           "publishedOn": "2025-03-30T14:02:42.000Z",
           "wordCount": null,
           "title": "〖 #DBD 〗一生初心者サバイバー🔰〖Vtuber / #猫乃ユキノ〗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kEwAlL8PLHM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kEwAlL8PLHM",
-          "publishedOn": "2025-03-22T12:52:24.000Z",
-          "wordCount": null,
-          "title": "〖 #supermarketsimulator 〗安い！早い！うまい！スーパーマーケット経営💰〖Vtuber / #猫乃ユキノ〗",
           "imageUrl": null
         }
       ]
