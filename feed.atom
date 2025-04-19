@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T15:06:01.814Z</id>
+    <id>urn:2025-04-19T15:35:06.721Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T15:06:01.814Z</updated>
+    <updated>2025-04-19T15:35:06.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗可愛い女の子の耳かきで寝落ち、しよ？💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=MHrPiUQ1bc8</id>
+        <link href="https://www.youtube.com/watch?v=MHrPiUQ1bc8"/>
+        <updated>2025-04-19T15:15:02.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #62 】遅め出勤【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=lQbDak3JDSk</id>
@@ -127,15 +136,6 @@
         <id>https://www.youtube.com/watch?v=SAf1OAj7pXc</id>
         <link href="https://www.youtube.com/watch?v=SAf1OAj7pXc"/>
         <updated>2025-04-18T16:19:26.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗可愛い女の子の耳かきで寝落ち、しよ？💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=MHrPiUQ1bc8</id>
-        <link href="https://www.youtube.com/watch?v=MHrPiUQ1bc8"/>
-        <updated>2025-04-18T16:04:11.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
