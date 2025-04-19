@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T20:06:56.628Z</id>
+    <id>urn:2025-04-19T20:35:48.837Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T20:06:56.628Z</updated>
+    <updated>2025-04-19T20:35:48.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #62 】遅め出勤【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=lQbDak3JDSk</id>
+        <link href="https://www.youtube.com/watch?v=lQbDak3JDSk"/>
+        <updated>2025-04-19T20:18:45.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#土用の丑の日】至高の女神うさぎと至高の神うなぎ。学びて時に之を食す✨✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=CvLR_aMeVRM</id>
@@ -48,15 +57,6 @@
         <updated>2025-04-19T15:15:02.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #62 】遅め出勤【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=lQbDak3JDSk</id>
-        <link href="https://www.youtube.com/watch?v=lQbDak3JDSk"/>
-        <updated>2025-04-19T13:54:28.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
