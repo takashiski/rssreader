@@ -247,6 +247,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=lQbDak3JDSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lQbDak3JDSk",
+          "publishedOn": "2025-04-19T13:54:28.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #62 】遅め出勤【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=I866fk3Lczc",
           "author": null,
           "description": "",
@@ -384,16 +394,6 @@
           "publishedOn": "2025-04-02T11:08:40.000Z",
           "wordCount": null,
           "title": "パッチノート4.0.2 お披露目あります【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pJ-b95xrW_o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pJ-b95xrW_o",
-          "publishedOn": "2025-03-31T20:16:15.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #? 】#ストグラSPD2025【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]

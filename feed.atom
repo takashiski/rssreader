@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T13:36:44.346Z</id>
+    <id>urn:2025-04-19T14:06:24.570Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T13:36:44.346Z</updated>
+    <updated>2025-04-19T14:06:24.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #62 】遅め出勤【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=lQbDak3JDSk</id>
+        <link href="https://www.youtube.com/watch?v=lQbDak3JDSk"/>
+        <updated>2025-04-19T13:54:28.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【スナックつきみ】今夜はあなたが知恵袋♡スナックつきみライフハックナイト🌙🍸✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=WQ0Z_xc5cH4</id>
@@ -984,15 +993,6 @@
         <updated>2025-04-01T15:15:02.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #? 】#ストグラSPD2025【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=pJ-b95xrW_o</id>
-        <link href="https://www.youtube.com/watch?v=pJ-b95xrW_o"/>
-        <updated>2025-03-31T20:16:15.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
