@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T11:05:51.722Z</id>
+    <id>urn:2025-04-19T11:34:41.916Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T11:05:51.722Z</updated>
+    <updated>2025-04-19T11:34:41.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】扇風機の音が入るかも注意【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=I866fk3Lczc</id>
+        <link href="https://www.youtube.com/watch?v=I866fk3Lczc"/>
+        <updated>2025-04-19T11:34:29.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #歌枠 〗今日も元気に歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=pZQN0OWH0fo</id>
@@ -21,15 +30,6 @@
         <updated>2025-04-19T10:45:55.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】扇風機の音が入るかも注意【 #Vtuber / #生リサ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=I866fk3Lczc</id>
-        <link href="https://www.youtube.com/watch?v=I866fk3Lczc"/>
-        <updated>2025-04-19T09:11:13.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
