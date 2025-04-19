@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-19T15:35:06.721Z</id>
+    <id>urn:2025-04-19T16:07:05.279Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-19T15:35:06.721Z</updated>
+    <updated>2025-04-19T16:07:05.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】今夜はあなたが知恵袋♡スナックつきみライフハックナイト🌙🍸✨【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=WQ0Z_xc5cH4</id>
+        <link href="https://www.youtube.com/watch?v=WQ0Z_xc5cH4"/>
+        <updated>2025-04-19T15:46:22.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 モンハンワイルズ 】シリーズ完全初見！！まずはかわいくメイクしたい…💄💕【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ZKzVgVhIk0Q</id>
+        <link href="https://www.youtube.com/watch?v=ZKzVgVhIk0Q"/>
+        <updated>2025-04-19T15:43:56.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗可愛い女の子の耳かきで寝落ち、しよ？💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=MHrPiUQ1bc8</id>
@@ -21,15 +39,6 @@
         <updated>2025-04-19T13:54:28.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】今夜はあなたが知恵袋♡スナックつきみライフハックナイト🌙🍸✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WQ0Z_xc5cH4</id>
-        <link href="https://www.youtube.com/watch?v=WQ0Z_xc5cH4"/>
-        <updated>2025-04-19T13:13:14.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -84,15 +93,6 @@
         <updated>2025-04-19T06:21:01.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 モンハンワイルズ 】シリーズ完全初見！！まずはかわいくメイクしたい…💄💕【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ZKzVgVhIk0Q</id>
-        <link href="https://www.youtube.com/watch?v=ZKzVgVhIk0Q"/>
-        <updated>2025-04-19T03:30:42.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
