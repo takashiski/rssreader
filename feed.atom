@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T22:06:29.710Z</id>
+    <id>urn:2025-04-20T22:36:57.462Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T22:06:29.710Z</updated>
+    <updated>2025-04-20T22:36:57.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【うなぎ食レポPR配信】おっきいうなぎを口いっぱいに頬張る幸せ＆うなぎを活かせるおかずも紹介するよ！🍀【水瓶ミア / #vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=h9KNB61c2h0</id>
+        <link href="https://www.youtube.com/watch?v=h9KNB61c2h0"/>
+        <updated>2025-04-20T22:29:26.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #63 】公務員花見【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=iqvMP_7fAtE</id>
@@ -66,15 +75,6 @@
         <updated>2025-04-20T06:33:51.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【うなぎ食レポPR配信】おっきいうなぎを口いっぱいに頬張る幸せ＆うなぎを活かせるおかずも紹介するよ！🍀【水瓶ミア / #vtuber 】]]></title>
-        <id>https://www.youtube.com/watch?v=h9KNB61c2h0</id>
-        <link href="https://www.youtube.com/watch?v=h9KNB61c2h0"/>
-        <updated>2025-04-20T01:10:37.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
         </author>
     </entry>
     <entry>
