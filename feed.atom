@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T00:35:10.821Z</id>
+    <id>urn:2025-04-20T01:34:55.016Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T00:35:10.821Z</updated>
+    <updated>2025-04-20T01:34:55.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【うなぎ食レポPR配信】おっきいうなぎを口いっぱいに頬張る幸せ＆うなぎを活かせるおかずも紹介するよ！🍀【水瓶ミア / #vtuber 】]]></title>
+        <id>https://www.youtube.com/watch?v=h9KNB61c2h0</id>
+        <link href="https://www.youtube.com/watch?v=h9KNB61c2h0"/>
+        <updated>2025-04-20T01:10:37.000Z</updated>
+        <author>
+            <name>水瓶ミア/ミアちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #62 】遅め出勤【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=lQbDak3JDSk</id>
@@ -1353,24 +1362,6 @@
         <updated>2025-03-21T13:41:22.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 / KARAOKE 】あのさ、なんだか歌いたい気分なんだ。 ✦ Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=2Qxn0pwDHEM</id>
-        <link href="https://www.youtube.com/watch?v=2Qxn0pwDHEM"/>
-        <updated>2025-03-21T13:28:00.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】二度寝/皇ロゼ【Creepy Nuts】]]></title>
-        <id>https://www.youtube.com/watch?v=SdVVaEAqAvo</id>
-        <link href="https://www.youtube.com/watch?v=SdVVaEAqAvo"/>
-        <updated>2025-03-21T13:00:06.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>
