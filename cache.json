@@ -210,6 +210,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCi6nuuHhOj_usxkjlcHdRXw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=vWVfWlfOMUU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=vWVfWlfOMUU",
+          "publishedOn": "2025-04-20T01:46:33.000Z",
+          "wordCount": null,
+          "title": "【 モンハンワイルズ 】シリーズ完全初見！ストーリ進めたい！！素材も集めたい！！！【 #音伽ねむ / Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ZKzVgVhIk0Q",
           "author": null,
           "description": "",
@@ -1410,16 +1420,6 @@
           "publishedOn": "2025-03-24T14:48:48.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】のどの痛みからの解放、迫りくる花粉。【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3xCF6wVvXKI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3xCF6wVvXKI",
-          "publishedOn": "2025-03-21T13:41:22.000Z",
-          "wordCount": null,
-          "title": "【 超絶告知 】全国流通ニューシングルがリリースされるだって～～～！？！？みんな集まれ！！！【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
