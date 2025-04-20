@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T15:06:07.623Z</id>
+    <id>urn:2025-04-20T15:35:30.405Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T15:06:07.623Z</updated>
+    <updated>2025-04-20T15:35:30.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #違う冬のぼくら #3 】この世界も今回で終わり...なの？ #生意気ギャルズ で協力💜【月紫アリア/七星みりり/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=SAf1OAj7pXc</id>
+        <link href="https://www.youtube.com/watch?v=SAf1OAj7pXc"/>
+        <updated>2025-04-20T15:16:46.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】同接100人目標！10分キープ耐久配信🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ookE7MiiBvU</id>
@@ -201,15 +210,6 @@
         <updated>2025-04-18T17:04:47.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #違う冬のぼくら #3 】この世界も今回で終わり...なの？ #生意気ギャルズ で協力💜【月紫アリア/七星みりり/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=SAf1OAj7pXc</id>
-        <link href="https://www.youtube.com/watch?v=SAf1OAj7pXc"/>
-        <updated>2025-04-18T16:19:26.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
