@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T11:34:44.752Z</id>
+    <id>urn:2025-04-20T12:10:28.868Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T11:34:44.752Z</updated>
+    <updated>2025-04-20T12:10:28.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -78,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#土用の丑の日】至高の女神うさぎと至高の神うなぎ。学びて時に之を食す✨✨【丸餅つきみ/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【#土用の丑の日】至高の女神うさぎと至高の神うなぎ。うなぎ雑学×食レポ✨✨【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=CvLR_aMeVRM</id>
         <link href="https://www.youtube.com/watch?v=CvLR_aMeVRM"/>
         <updated>2025-04-19T18:07:42.000Z</updated>
