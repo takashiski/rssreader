@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6_dxUFwCiq4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6_dxUFwCiq4",
+          "publishedOn": "2025-04-21T03:14:42.000Z",
+          "wordCount": null,
+          "title": "【デザインメイキング】タイトルフレームデザイン！月紫アリア先輩にプレゼント🎁｜illustrator【#ククルアデザイン塾｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ookE7MiiBvU",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-04-08T11:00:22.000Z",
           "wordCount": null,
           "title": "Loveit？ #ククルアクレイユ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Gekcnt5nF_Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gekcnt5nF_Y",
-          "publishedOn": "2025-04-06T08:15:04.000Z",
-          "wordCount": null,
-          "title": "【つぐのひ】1.5万人記念｜ホラゲ嫌いのエルフによるホラゲ実況 #良質な悲鳴【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
