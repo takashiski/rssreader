@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-21T10:40:09.676Z</id>
+    <id>urn:2025-04-21T11:06:28.581Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T10:40:09.676Z</updated>
+    <updated>2025-04-21T11:06:28.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=6PLFWI4_q9M</id>
+        <link href="https://www.youtube.com/watch?v=6PLFWI4_q9M"/>
+        <updated>2025-04-21T11:04:38.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[こっち見てよね！💜 #shorts #超特急逃走中 #イコラブ #イコールラブ #アイドル #踊ってみた #dance #Vtuber #月紫アリア #めるりぷ]]></title>
         <id>https://www.youtube.com/watch?v=zPYBsQGhCX0</id>
@@ -172,15 +181,6 @@
         <id>https://www.youtube.com/watch?v=pZQN0OWH0fo</id>
         <link href="https://www.youtube.com/watch?v=pZQN0OWH0fo"/>
         <updated>2025-04-19T10:54:30.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=6PLFWI4_q9M</id>
-        <link href="https://www.youtube.com/watch?v=6PLFWI4_q9M"/>
-        <updated>2025-04-19T10:45:55.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
         </author>
