@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-21T18:08:59.529Z</id>
+    <id>urn:2025-04-21T18:40:35.973Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T18:08:59.529Z</updated>
+    <updated>2025-04-21T18:40:35.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1369,15 +1369,6 @@
         <id>https://www.youtube.com/watch?v=rcD3hvGka68</id>
         <link href="https://www.youtube.com/watch?v=rcD3hvGka68"/>
         <updated>2025-03-23T13:26:33.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】ご褒美まみれで生きたいうさぎの自分へのご褒美🥂🐰【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=IAABOc6r3oo</id>
-        <link href="https://www.youtube.com/watch?v=IAABOc6r3oo"/>
-        <updated>2025-03-23T06:18:05.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
