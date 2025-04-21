@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-21T09:08:16.305Z</id>
+    <id>urn:2025-04-21T09:36:11.963Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-21T09:08:16.305Z</updated>
+    <updated>2025-04-21T09:36:11.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[こっち見てよね！💜 #shorts #超特急逃走中 #イコラブ #イコールラブ #アイドル #踊ってみた #dance #Vtuber #月紫アリア #めるりぷ]]></title>
+        <id>https://www.youtube.com/watch?v=zPYBsQGhCX0</id>
+        <link href="https://www.youtube.com/watch?v=zPYBsQGhCX0"/>
+        <updated>2025-04-21T09:30:28.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【デザインメイキング】タイトルフレームデザイン！月紫アリア先輩にプレゼント🎁｜illustrator【#ククルアデザイン塾｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=6_dxUFwCiq4</id>
@@ -1281,15 +1290,6 @@
         <updated>2025-03-26T13:25:24.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手のひらで踊って🦊💋 #shorts #キスキツネ #HIMEHINA #ヒメヒナ #踊ってみた #dance #Vtuber #月紫アリア #アイドル]]></title>
-        <id>https://www.youtube.com/watch?v=twl5cTx2WI8</id>
-        <link href="https://www.youtube.com/watch?v=twl5cTx2WI8"/>
-        <updated>2025-03-26T09:33:23.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
