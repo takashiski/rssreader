@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-22T00:32:19.645Z</id>
+    <id>urn:2025-04-22T01:35:40.892Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T00:32:19.645Z</updated>
+    <updated>2025-04-22T01:35:40.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1362,15 +1362,6 @@
         <updated>2025-03-23T13:44:49.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】大剣コレクションの為に歴戦の証集めつつ双剣に浮気！？【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=rcD3hvGka68</id>
-        <link href="https://www.youtube.com/watch?v=rcD3hvGka68"/>
-        <updated>2025-03-23T13:26:33.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
 </feed>
