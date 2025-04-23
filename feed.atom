@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T16:08:34.504Z</id>
+    <id>urn:2025-04-23T16:41:12.388Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T16:08:34.504Z</updated>
+    <updated>2025-04-23T16:41:12.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#月紫アリア4周年】デビュー４周年の激カワアイドル、祝うしかないっ💜💗✨ 4th anniversary【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=hbtw5BWBIog</id>
+        <link href="https://www.youtube.com/watch?v=hbtw5BWBIog"/>
+        <updated>2025-04-23T16:10:52.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【-`🎮 APEX 】参加型カスタムだっていい！🔫 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=BPf-iUkGltU</id>
@@ -219,15 +228,6 @@
         <updated>2025-04-20T10:03:18.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#月紫アリア4周年】デビュー４周年の激カワアイドル、祝うしかないっ💜💗✨ 4th anniversary【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=hbtw5BWBIog</id>
-        <link href="https://www.youtube.com/watch?v=hbtw5BWBIog"/>
-        <updated>2025-04-20T06:33:51.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
