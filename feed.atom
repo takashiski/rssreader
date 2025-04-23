@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T15:07:31.855Z</id>
+    <id>urn:2025-04-23T15:37:51.161Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T15:07:31.855Z</updated>
+    <updated>2025-04-23T15:37:51.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【-`🎮 APEX 】参加型カスタムだっていい！🔫 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=BPf-iUkGltU</id>
+        <link href="https://www.youtube.com/watch?v=BPf-iUkGltU"/>
+        <updated>2025-04-23T15:32:40.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】歌おうぜ。 水曜定期歌枠 Singing Stream #106【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=eNx-qFdhloI</id>
@@ -39,15 +48,6 @@
         <updated>2025-04-23T11:01:37.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【-`🎮 APEX 】参加型カスタムだっていい！🔫 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=BPf-iUkGltU</id>
-        <link href="https://www.youtube.com/watch?v=BPf-iUkGltU"/>
-        <updated>2025-04-23T10:32:40.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
