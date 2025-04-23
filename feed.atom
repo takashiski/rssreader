@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T08:40:28.389Z</id>
+    <id>urn:2025-04-23T09:08:16.195Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T08:40:28.389Z</updated>
+    <updated>2025-04-23T09:08:16.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,6 +28,15 @@
         <id>https://www.youtube.com/watch?v=A8B-suxGcl0</id>
         <link href="https://www.youtube.com/watch?v=A8B-suxGcl0"/>
         <updated>2025-04-22T12:11:41.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#月紫アリア1stミニアルバム発売】3D After LIVE✨ 可愛いとこ、もっとたくさん見て💜 ✧ member only【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=EyROYq0jPeU</id>
+        <link href="https://www.youtube.com/watch?v=EyROYq0jPeU"/>
+        <updated>2025-04-22T10:17:42.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -1272,15 +1281,6 @@
         <updated>2025-03-27T16:50:41.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #違う冬のぼくら #2 】なんでこっちが怖い世界なんだよ‼💥 #生意気ギャルズ で協力💜【月紫アリア/七星みりり/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=_yhN1OPMb08</id>
-        <link href="https://www.youtube.com/watch?v=_yhN1OPMb08"/>
-        <updated>2025-03-27T15:26:16.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
