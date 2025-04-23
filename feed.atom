@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T02:34:35.606Z</id>
+    <id>urn:2025-04-23T03:22:00.793Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T02:34:35.606Z</updated>
+    <updated>2025-04-23T03:22:00.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #歌枠 〗今日も元気に歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=pZQN0OWH0fo</id>
+        <link href="https://www.youtube.com/watch?v=pZQN0OWH0fo"/>
+        <updated>2025-04-23T03:06:11.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗最難関ボス曲『It Go』ノーミス耐久🔥今日人間をやめます。〖九楽ライ/Japanese Vtuber〗]]></title>
         <id>https://www.youtube.com/watch?v=brtldjsXBuU</id>
@@ -219,15 +228,6 @@
         <updated>2025-04-19T11:34:29.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #歌枠 〗今日も元気に歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=pZQN0OWH0fo</id>
-        <link href="https://www.youtube.com/watch?v=pZQN0OWH0fo"/>
-        <updated>2025-04-19T10:54:30.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
@@ -1353,15 +1353,6 @@
         <updated>2025-03-24T18:03:52.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】のどの痛みからの解放、迫りくる花粉。【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=LCy-hacSiSU</id>
-        <link href="https://www.youtube.com/watch?v=LCy-hacSiSU"/>
-        <updated>2025-03-24T14:48:48.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
 </feed>
