@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T11:35:05.504Z</id>
+    <id>urn:2025-04-23T12:12:10.404Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T11:35:05.504Z</updated>
+    <updated>2025-04-23T12:12:10.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【お夜食】謎味！？#ミステリーペヤング を食べてみたら〇〇だった🐰⁉️〖よく食べるうさぎ〗【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=qUEm6H46bWQ</id>
+        <link href="https://www.youtube.com/watch?v=qUEm6H46bWQ"/>
+        <updated>2025-04-23T11:56:09.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3Dお披露目本編の高評価1000目指してます👍 #ククルア爆誕3Dお披露目 #shorts]]></title>
         <id>https://www.youtube.com/watch?v=uSeDbR1brcg</id>
