@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T12:12:10.404Z</id>
+    <id>urn:2025-04-23T12:47:35.182Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T12:12:10.404Z</updated>
+    <updated>2025-04-23T12:47:35.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【※手元配信※】カメラあり！直筆サイン入りSSSRチェキ書くよ！🎨【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=tNUy6pVJhzQ</id>
+        <link href="https://www.youtube.com/watch?v=tNUy6pVJhzQ"/>
+        <updated>2025-04-23T12:45:11.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お夜食】謎味！？#ミステリーペヤング を食べてみたら〇〇だった🐰⁉️〖よく食べるうさぎ〗【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qUEm6H46bWQ</id>
@@ -831,15 +840,6 @@
         <updated>2025-04-09T18:21:11.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】ロボソン縛り！ここが俺たちのロボット大戦だ｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XwAJq0fb_hg</id>
-        <link href="https://www.youtube.com/watch?v=XwAJq0fb_hg"/>
-        <updated>2025-04-09T14:43:39.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
