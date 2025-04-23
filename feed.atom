@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-23T20:37:01.987Z</id>
+    <id>urn:2025-04-23T21:06:50.490Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-23T20:37:01.987Z</updated>
+    <updated>2025-04-23T21:06:50.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1353,15 +1353,6 @@
         <updated>2025-03-25T14:47:10.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意外と激ムズステップ😨#妖怪ランデブー #妖怪学校の先生はじめました #踊ってみた #vtuber #九楽ライ #dance #妖はじ #REALAKIBABOYZ #meme]]></title>
-        <id>https://www.youtube.com/watch?v=pvziYo4iAcE</id>
-        <link href="https://www.youtube.com/watch?v=pvziYo4iAcE"/>
-        <updated>2025-03-25T09:02:46.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
 </feed>
