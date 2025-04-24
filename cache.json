@@ -942,11 +942,21 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5zF6ALYGtLo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5zF6ALYGtLo",
+          "publishedOn": "2025-04-24T12:28:39.000Z",
+          "wordCount": null,
+          "title": "【#月紫アリア1stミニアルバム発売】3D LIVE✨4周年…新髪型お披露目もあり💜✨【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TRyyHxDLREM",
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=TRyyHxDLREM",
-          "publishedOn": "2025-04-23T18:19:29.000Z",
+          "publishedOn": "2025-04-24T12:20:08.000Z",
           "wordCount": null,
           "title": "💜 月紫アリア 1st EP ꒰ Ariaphilia ꒱ Trailer 💜 4/24 release",
           "imageUrl": null
@@ -1029,16 +1039,6 @@
           "publishedOn": "2025-04-16T13:40:39.000Z",
           "wordCount": null,
           "title": "【✨重大告知✨】超超最高なお知らせ💜聞きにこーいっっ！💥【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5zF6ALYGtLo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5zF6ALYGtLo",
-          "publishedOn": "2025-04-16T08:38:44.000Z",
-          "wordCount": null,
-          "title": "【#月紫アリア1stミニアルバム発売】3D LIVE✨4周年…新髪型お披露目もあり💜✨【月紫アリア/Vtuber】",
           "imageUrl": null
         },
         {
