@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T13:14:32.203Z</id>
+    <id>urn:2025-04-24T13:40:46.215Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T13:14:32.203Z</updated>
+    <updated>2025-04-24T13:40:46.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【※手元配信※】～販売終了のお知らせ～カメラあり📸直筆サイン入りSSSRチェキ書くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IS0iK42-Poc</id>
+        <link href="https://www.youtube.com/watch?v=IS0iK42-Poc"/>
+        <updated>2025-04-24T13:27:19.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#月紫アリア1stミニアルバム発売】3D LIVE✨4周年…新髪型お披露目もあり💜✨【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=5zF6ALYGtLo</id>
@@ -795,15 +804,6 @@
         <updated>2025-04-11T12:01:26.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(＾ω＾)【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3LXa2OR6by4</id>
-        <link href="https://www.youtube.com/watch?v=3LXa2OR6by4"/>
-        <updated>2025-04-11T11:35:31.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
