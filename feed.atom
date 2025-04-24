@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T09:07:53.692Z</id>
+    <id>urn:2025-04-24T09:37:10.608Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T09:07:53.692Z</updated>
+    <updated>2025-04-24T09:37:10.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】1時間だけ歌うぞー！🎙【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=VyRGKQx-QsA</id>
+        <link href="https://www.youtube.com/watch?v=VyRGKQx-QsA"/>
+        <updated>2025-04-24T09:08:04.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ボクのコト、ダイダイダイダイダイスキだよね？💕#ダイダイダイダイダイキライ #重音テト #初音ミク #九楽ライ #vtuber #踊ってみた #dance #meme #hatsunemiku]]></title>
+        <id>https://www.youtube.com/watch?v=Z4lrQiTDE4Q</id>
+        <link href="https://www.youtube.com/watch?v=Z4lrQiTDE4Q"/>
+        <updated>2025-04-24T09:03:03.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お夜食】謎味！？#ミステリーペヤング を食べてみたら〇〇だった🐰⁉️〖よく食べるうさぎ〗【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=qUEm6H46bWQ</id>
@@ -1335,15 +1353,6 @@
         <updated>2025-03-26T14:19:49.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌ってみた】more than words/皇ロゼ【羊文学】]]></title>
-        <id>https://www.youtube.com/watch?v=VFmp-Lx0eAQ</id>
-        <link href="https://www.youtube.com/watch?v=VFmp-Lx0eAQ"/>
-        <updated>2025-03-25T21:18:21.000Z</updated>
-        <author>
-            <name>皇ロゼ／SumeragiRose ch</name>
         </author>
     </entry>
 </feed>

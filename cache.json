@@ -571,6 +571,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Z4lrQiTDE4Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Z4lrQiTDE4Q",
+          "publishedOn": "2025-04-24T09:03:03.000Z",
+          "wordCount": null,
+          "title": "ボクのコト、ダイダイダイダイダイスキだよね？💕#ダイダイダイダイダイキライ #重音テト #初音ミク #九楽ライ #vtuber #踊ってみた #dance #meme #hatsunemiku",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=ut5OKLq_rU8",
           "author": null,
           "description": "",
@@ -765,16 +775,6 @@
           "publishedOn": "2025-03-30T10:00:06.000Z",
           "wordCount": null,
           "title": "【歌ってみた】アイドル/皇ロゼ【YOASOBI】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VFmp-Lx0eAQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VFmp-Lx0eAQ",
-          "publishedOn": "2025-03-25T21:18:21.000Z",
-          "wordCount": null,
-          "title": "【歌ってみた】more than words/皇ロゼ【羊文学】",
           "imageUrl": null
         }
       ]
@@ -1272,6 +1272,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VyRGKQx-QsA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VyRGKQx-QsA",
+          "publishedOn": "2025-04-24T09:08:04.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】1時間だけ歌うぞー！🎙【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=BPf-iUkGltU",
           "author": null,
