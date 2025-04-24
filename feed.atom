@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-24T11:35:08.832Z</id>
+    <id>urn:2025-04-24T12:12:11.983Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T11:35:08.832Z</updated>
+    <updated>2025-04-24T12:12:11.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【※手元配信※】～販売終了のお知らせ～カメラあり📸直筆サイン入りSSSRチェキ書くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=APctMp1RYUI</id>
+        <link href="https://www.youtube.com/watch?v=APctMp1RYUI"/>
+        <updated>2025-04-24T11:36:33.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【-`🎮 APEX 】自分ゴールドなんですけど、ここはダイヤ帯ですか？？ w/心白てと【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=_xcC9NHxV24</id>
+        <link href="https://www.youtube.com/watch?v=_xcC9NHxV24"/>
+        <updated>2025-04-24T11:36:31.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】1時間だけ歌うぞー！🎙【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=VyRGKQx-QsA</id>
@@ -39,6 +57,15 @@
         <updated>2025-04-24T01:59:57.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💜 月紫アリア 1st EP ꒰ Ariaphilia ꒱ Trailer 💜 4/24 release]]></title>
+        <id>https://www.youtube.com/watch?v=TRyyHxDLREM</id>
+        <link href="https://www.youtube.com/watch?v=TRyyHxDLREM"/>
+        <updated>2025-04-23T18:19:29.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -127,15 +154,6 @@
         <id>https://www.youtube.com/watch?v=A8B-suxGcl0</id>
         <link href="https://www.youtube.com/watch?v=A8B-suxGcl0"/>
         <updated>2025-04-22T12:11:41.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#月紫アリア1stミニアルバム発売】3D After LIVE✨ 可愛いとこ、もっとたくさん見て💜 ✧ member only【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=EyROYq0jPeU</id>
-        <link href="https://www.youtube.com/watch?v=EyROYq0jPeU"/>
-        <updated>2025-04-22T10:17:42.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
@@ -852,15 +870,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朝活】100人とおはよう！メンシスタンプ描くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=p-Ugcg95HvI</id>
-        <link href="https://www.youtube.com/watch?v=p-Ugcg95HvI"/>
-        <updated>2025-04-10T01:17:26.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【 #ストグラ #56 】おはよう～♬【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=3T4BqtPLpXw</id>
         <link href="https://www.youtube.com/watch?v=3T4BqtPLpXw"/>
@@ -1326,15 +1335,6 @@
         <updated>2025-03-28T01:04:30.000Z</updated>
         <author>
             <name>夢川かなう/Kanau ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎮 モンハンワイルズ/MHWilds 】ものもの、狩猟しろ、なさい！！！😎⚔【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=FIIXfy7x6Q4</id>
-        <link href="https://www.youtube.com/watch?v=FIIXfy7x6Q4"/>
-        <updated>2025-03-27T16:50:41.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
