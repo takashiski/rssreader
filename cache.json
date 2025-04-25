@@ -257,6 +257,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Bm8Gl5wKYBQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Bm8Gl5wKYBQ",
+          "publishedOn": "2025-04-25T13:20:24.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #64 】おはにょんす【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=iqvMP_7fAtE",
           "author": null,
           "description": "",
@@ -394,16 +404,6 @@
           "publishedOn": "2025-04-07T02:56:26.000Z",
           "wordCount": null,
           "title": "【歌枠】やっと咳治ってきた【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mRPhhvNYEYc",
-          "publishedOn": "2025-04-06T13:30:06.000Z",
-          "wordCount": null,
-          "title": "【cover】ハレンチ by 魔光リサ",
           "imageUrl": null
         }
       ]
@@ -946,7 +946,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=skflSgJ1zA8",
-          "publishedOn": "2025-04-24T16:32:07.000Z",
+          "publishedOn": "2025-04-25T13:34:44.000Z",
           "wordCount": null,
           "title": "【新髪型/おうち3Dお披露目】振り返り...💜 #月紫アリア1stミニアルバム発売 した💜✨【月紫アリア/Vtuber】",
           "imageUrl": null
