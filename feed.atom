@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T11:34:54.168Z</id>
+    <id>urn:2025-04-25T12:12:06.515Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T11:34:54.168Z</updated>
+    <updated>2025-04-25T12:12:06.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【sin.exe】謎のファイル『sin.exe』を起動してみた結果…あなたのPCも😇😇【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8L5ITYMwVdM</id>
+        <link href="https://www.youtube.com/watch?v=8L5ITYMwVdM"/>
+        <updated>2025-04-25T11:34:36.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌って踊ってみた】新・豪血寺一族‐レッツゴー！陰陽師【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=KIWrow8t50M</id>
@@ -1299,15 +1308,6 @@
         <updated>2025-03-30T10:00:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】弱点さらけだして楽におなりなさい🥂🐰【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=wKCSvLlv8q0</id>
-        <link href="https://www.youtube.com/watch?v=wKCSvLlv8q0"/>
-        <updated>2025-03-29T15:42:29.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
