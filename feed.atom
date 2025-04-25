@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T08:39:45.782Z</id>
+    <id>urn:2025-04-25T09:07:58.370Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T08:39:45.782Z</updated>
+    <updated>2025-04-25T09:07:58.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌って踊ってみた】新・豪血寺一族‐レッツゴー！陰陽師【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=KIWrow8t50M</id>
+        <link href="https://www.youtube.com/watch?v=KIWrow8t50M"/>
+        <updated>2025-04-25T08:25:54.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【※手元配信※】～販売終了のお知らせ～カメラあり📸直筆サイン入りSSSRチェキ書くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=IS0iK42-Poc</id>
@@ -804,15 +813,6 @@
         <updated>2025-04-11T12:01:26.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(＾ω＾)【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=3LXa2OR6by4</id>
-        <link href="https://www.youtube.com/watch?v=3LXa2OR6by4"/>
-        <updated>2025-04-11T11:35:31.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>

@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=KIWrow8t50M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KIWrow8t50M",
+          "publishedOn": "2025-04-25T08:25:54.000Z",
+          "wordCount": null,
+          "title": "【歌って踊ってみた】新・豪血寺一族‐レッツゴー！陰陽師【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IS0iK42-Poc",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-04-12T14:51:16.000Z",
           "wordCount": null,
           "title": "【32ヶ月記念✧歌枠】お知らせあり！ゲストデュエットあり！｜32 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3LXa2OR6by4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3LXa2OR6by4",
-          "publishedOn": "2025-04-11T11:35:31.000Z",
-          "wordCount": null,
-          "title": "【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(＾ω＾)【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
