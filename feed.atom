@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T16:08:13.511Z</id>
+    <id>urn:2025-04-25T16:40:09.244Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T16:08:13.511Z</updated>
+    <updated>2025-04-25T16:40:09.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【-`🎮 APEX 】明日の大会に向けてチーム練習だ！ w/折咲もしゅ、すでたき 【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=jHQ-udJaxI0</id>
+        <link href="https://www.youtube.com/watch?v=jHQ-udJaxI0"/>
+        <updated>2025-04-25T16:13:00.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#土用の丑の日】おかわりうなぎ♡今夜もスーパー贅沢ナイト🐰✨#PR【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=g2d3XgizCcg</id>
@@ -39,15 +48,6 @@
         <updated>2025-04-25T13:20:24.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【-`🎮 APEX 】明日の大会に向けてチーム練習だ！ w/折咲もしゅ、すでたき 【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=jHQ-udJaxI0</id>
-        <link href="https://www.youtube.com/watch?v=jHQ-udJaxI0"/>
-        <updated>2025-04-25T12:22:04.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +93,15 @@
         <updated>2025-04-24T20:31:12.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ntMDVSakWp0</id>
+        <link href="https://www.youtube.com/watch?v=ntMDVSakWp0"/>
+        <updated>2025-04-24T15:36:06.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -759,15 +768,6 @@
         <updated>2025-04-13T01:58:07.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【32ヶ月記念✧歌枠】お知らせあり！ゲストデュエットあり！｜32 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=2iiZfSPiqIQ</id>
-        <link href="https://www.youtube.com/watch?v=2iiZfSPiqIQ"/>
-        <updated>2025-04-12T14:51:16.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
