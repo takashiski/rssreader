@@ -942,6 +942,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=2rKglvP0aXk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2rKglvP0aXk",
+          "publishedOn": "2025-04-25T14:53:38.000Z",
+          "wordCount": null,
+          "title": "ぱ わ ー つ け る で #土用の丑の日【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=skflSgJ1zA8",
           "author": null,
           "description": "",
@@ -1079,16 +1089,6 @@
           "publishedOn": "2025-04-12T14:38:24.000Z",
           "wordCount": null,
           "title": "【 #PushingitTogether 】岩、転がせえええぇええぇ‼💥【月紫アリア/獅子神レオナ/白音ゆき/皇ロゼ/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=E1A7Rv414YI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E1A7Rv414YI",
-          "publishedOn": "2025-04-10T12:51:24.000Z",
-          "wordCount": null,
-          "title": "大事なお知らせ！【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
