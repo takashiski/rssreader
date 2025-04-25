@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T16:40:09.244Z</id>
+    <id>urn:2025-04-25T17:06:33.078Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T16:40:09.244Z</updated>
+    <updated>2025-04-25T17:06:33.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#至高の神うなぎ】エルフ、うなぎ、ついに実食！※手元配信※｜カメラあり【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=lqfSmlOd9c0</id>
+        <link href="https://www.youtube.com/watch?v=lqfSmlOd9c0"/>
+        <updated>2025-04-25T16:57:55.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【-`🎮 APEX 】明日の大会に向けてチーム練習だ！ w/折咲もしゅ、すでたき 【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=jHQ-udJaxI0</id>
@@ -96,7 +105,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】]]></title>
+        <title type="html"><![CDATA[【#いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=ntMDVSakWp0</id>
         <link href="https://www.youtube.com/watch?v=ntMDVSakWp0"/>
         <updated>2025-04-24T15:36:06.000Z</updated>
@@ -732,15 +741,6 @@
         <updated>2025-04-13T13:31:39.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#オレンジデー前夜祭歌枠リレー】多声類エルフからの愛、受け取ってくれるよね？【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=vl7W8W9pqsY</id>
-        <link href="https://www.youtube.com/watch?v=vl7W8W9pqsY"/>
-        <updated>2025-04-13T12:36:08.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
