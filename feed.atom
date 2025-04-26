@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T06:39:37.565Z</id>
+    <id>urn:2025-04-26T07:06:30.810Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T06:39:37.565Z</updated>
+    <updated>2025-04-26T07:06:30.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【-`🎮 APEX 】#えぺまつり APEX LEGENDS #GOLDRUSH 大会本番だ！👊🔥 w/折咲もしゅ、すでたき 【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=5PFtc3rhI3M</id>
+        <link href="https://www.youtube.com/watch?v=5PFtc3rhI3M"/>
+        <updated>2025-04-26T07:02:23.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 モンハンワイルズ 】シリーズ完全初見！ストーリどんどん進めていくぞっ✨【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=hzH8yVAs9kg</id>
@@ -1209,15 +1218,6 @@
         <updated>2025-04-01T15:15:02.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】3月にさようなら。【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=F_v0on8o4n0</id>
-        <link href="https://www.youtube.com/watch?v=F_v0on8o4n0"/>
-        <updated>2025-03-31T15:29:17.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

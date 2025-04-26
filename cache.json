@@ -1293,6 +1293,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=5PFtc3rhI3M",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5PFtc3rhI3M",
+          "publishedOn": "2025-04-26T07:02:23.000Z",
+          "wordCount": null,
+          "title": "【-`🎮 APEX 】#えぺまつり APEX LEGENDS #GOLDRUSH 大会本番だ！👊🔥 w/折咲もしゅ、すでたき 【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=jHQ-udJaxI0",
           "author": null,
           "description": "",
@@ -1430,16 +1440,6 @@
           "publishedOn": "2025-04-03T17:07:46.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】4月にこんにちは。【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=F_v0on8o4n0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=F_v0on8o4n0",
-          "publishedOn": "2025-03-31T15:29:17.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】3月にさようなら。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
