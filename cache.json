@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=j4ON1bTOFvc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j4ON1bTOFvc",
+          "publishedOn": "2025-04-26T12:35:31.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #65 】ゆったり警察【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=TM8pXpCpowY",
           "author": null,
           "description": "",
@@ -414,16 +424,6 @@
           "publishedOn": "2025-04-09T18:21:11.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #56 】おはよう～♬【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nrJzGZ2ylMU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nrJzGZ2ylMU",
-          "publishedOn": "2025-04-08T18:30:00.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #55 】早番警察【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1165,7 +1165,7 @@
           "link": "https://www.youtube.com/watch?v=g2d3XgizCcg",
           "publishedOn": "2025-04-25T15:41:16.000Z",
           "wordCount": null,
-          "title": "【#土用の丑の日】おかわりうなぎ♡今夜もスーパー贅沢ナイト🐰✨#PR【丸餅つきみ/Re:AcT】",
+          "title": "【#土用の丑の日】至高のうなぎ＋牛！幸せダブル盛り🍽️🐰#PR【丸餅つきみ/Re:AcT】",
           "imageUrl": null
         },
         {

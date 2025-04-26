@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T12:10:16.021Z</id>
+    <id>urn:2025-04-26T12:46:34.965Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T12:10:16.021Z</updated>
+    <updated>2025-04-26T12:46:34.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #65 】ゆったり警察【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=j4ON1bTOFvc</id>
+        <link href="https://www.youtube.com/watch?v=j4ON1bTOFvc"/>
+        <updated>2025-04-26T12:35:31.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】マジで回線完全復活だよーーー！【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=g_5f2Qv_Jxc</id>
@@ -123,7 +132,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#土用の丑の日】おかわりうなぎ♡今夜もスーパー贅沢ナイト🐰✨#PR【丸餅つきみ/Re:AcT】]]></title>
+        <title type="html"><![CDATA[【#土用の丑の日】至高のうなぎ＋牛！幸せダブル盛り🍽️🐰#PR【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=g2d3XgizCcg</id>
         <link href="https://www.youtube.com/watch?v=g2d3XgizCcg"/>
         <updated>2025-04-25T15:41:16.000Z</updated>
@@ -1029,15 +1038,6 @@
         <updated>2025-04-09T02:42:06.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #ストグラ #55 】早番警察【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=nrJzGZ2ylMU</id>
-        <link href="https://www.youtube.com/watch?v=nrJzGZ2ylMU"/>
-        <updated>2025-04-08T18:30:00.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
