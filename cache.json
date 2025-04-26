@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TM8pXpCpowY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TM8pXpCpowY",
+          "publishedOn": "2025-04-26T23:11:54.000Z",
+          "wordCount": null,
+          "title": "【歌枠】猫住み着いてアレルギー爆発【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=j4ON1bTOFvc",
           "author": null,
           "description": "",
@@ -284,16 +294,6 @@
           "publishedOn": "2025-04-26T18:22:17.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #65 】ゆったり警察【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TM8pXpCpowY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TM8pXpCpowY",
-          "publishedOn": "2025-04-26T08:35:32.000Z",
-          "wordCount": null,
-          "title": "【歌枠】猫住み着いてアレルギー爆発【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
