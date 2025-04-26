@@ -434,6 +434,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gy5_WLoCWIw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gy5_WLoCWIw",
+          "publishedOn": "2025-04-26T13:06:38.000Z",
+          "wordCount": null,
+          "title": "【 #きみとアイドル歌枠リレー 】わたしが、アイドル…！？【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=_vi4LgsFme8",
           "author": null,
           "description": "",
@@ -451,16 +461,6 @@
           "publishedOn": "2025-04-23T12:55:35.000Z",
           "wordCount": null,
           "title": "【 #歌枠  / KARAOKE 】歌おうぜ。 水曜定期歌枠 Singing Stream #106【 稀羽すう / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gy5_WLoCWIw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gy5_WLoCWIw",
-          "publishedOn": "2025-04-22T09:17:19.000Z",
-          "wordCount": null,
-          "title": "【 #きみとアイドル歌枠リレー 】わたしが、アイドル…！？【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -1303,16 +1303,6 @@
           "publishedOn": "2025-04-17T16:56:25.000Z",
           "wordCount": null,
           "title": "【 雑談 】おひるごはん！目玉焼きをたべたいのじゃ！！🍳【夢川かなう/リアクト/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VW5E2pn1kGU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VW5E2pn1kGU",
-          "publishedOn": "2025-03-28T01:04:30.000Z",
-          "wordCount": null,
-          "title": "【 雑談 】念願のてりたま！！まったり夜ご飯！🍔【夢川かなう/リアクト/Vtuber】",
           "imageUrl": null
         }
       ]
