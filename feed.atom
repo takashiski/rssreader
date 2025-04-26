@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T21:05:58.245Z</id>
+    <id>urn:2025-04-26T21:34:38.716Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T21:05:58.245Z</updated>
+    <updated>2025-04-26T21:34:38.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 Backroom Company 】#つくぴちゆきにーと こわいのなんていないよね？？【夢川かなう/リアクト/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=phWCO5lZ8Lg</id>
+        <link href="https://www.youtube.com/watch?v=phWCO5lZ8Lg"/>
+        <updated>2025-04-26T21:15:09.000Z</updated>
+        <author>
+            <name>夢川かなう/Kanau ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖Backroom Company〗僕バックルーム苦手なんだけど、先輩達が助けてくれるってこと...⁉〖#つくぴちゆきにーと/九楽ライ/夢川かなう/白音ゆき/月紫アリア〗]]></title>
         <id>https://www.youtube.com/watch?v=KxQm-BBUOes</id>
@@ -69,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#BackroomCompany】化け物から逃げながらお金を稼ぐアイドル【月紫アリア/夢川かなう/九楽ライ/白音ゆき/Vtuber】]]></title>
+        <title type="html"><![CDATA[【#BackroomCompany】化け物から逃げながらお金を稼ぐアイドル #つくぴちゆきにーと【月紫アリア/夢川かなう/九楽ライ/白音ゆき/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=VfkoLs7NyPA</id>
         <link href="https://www.youtube.com/watch?v=VfkoLs7NyPA"/>
         <updated>2025-04-26T15:40:15.000Z</updated>
