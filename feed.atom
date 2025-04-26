@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T10:06:34.263Z</id>
+    <id>urn:2025-04-26T10:37:00.228Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T10:06:34.263Z</updated>
+    <updated>2025-04-26T10:37:00.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[◆ASMR / 完全広告なし! / ひそひそこしょしょ雑談とマッサージで寝る？♡〖whispering/sleeping trriger/JapaneseVtuber〗]]></title>
+        <id>https://www.youtube.com/watch?v=rzGN3xuFRUI</id>
+        <link href="https://www.youtube.com/watch?v=rzGN3xuFRUI"/>
+        <updated>2025-04-26T10:10:14.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Adofai 最難関曲『It Go』目閉じノーミスクリア🔥#adanceoffireandice #itgo #九楽ライ #vtuber #音ゲー #リズムゲーム #切り抜き #shorts]]></title>
         <id>https://www.youtube.com/watch?v=TB_MqaavuGs</id>
@@ -1200,15 +1209,6 @@
         <updated>2025-04-03T13:41:12.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[九楽のドタバタトレイン🚃💦かなちゃん推しかも…💚#ラブトレ #踊ってみた #cutiestreet #きゅーすと #vtuber #九楽ライ #アイドル #dance #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=j9k07J7YSKI</id>
-        <link href="https://www.youtube.com/watch?v=j9k07J7YSKI"/>
-        <updated>2025-04-03T08:53:47.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
