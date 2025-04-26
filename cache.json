@@ -277,6 +277,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=TM8pXpCpowY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TM8pXpCpowY",
+          "publishedOn": "2025-04-26T08:35:32.000Z",
+          "wordCount": null,
+          "title": "【歌枠】猫住み着いてアレルギー爆発【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Bm8Gl5wKYBQ",
           "author": null,
           "description": "",
@@ -414,16 +424,6 @@
           "publishedOn": "2025-04-08T18:30:00.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #55 】早番警察【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UHS7Lm9P1v8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UHS7Lm9P1v8",
-          "publishedOn": "2025-04-07T02:56:26.000Z",
-          "wordCount": null,
-          "title": "【歌枠】やっと咳治ってきた【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
