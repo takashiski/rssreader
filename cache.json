@@ -825,6 +825,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hoQDVu3rGZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hoQDVu3rGZM",
+          "publishedOn": "2025-04-26T16:06:36.000Z",
+          "wordCount": null,
+          "title": "〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=pZQN0OWH0fo",
           "author": null,
           "description": "",
@@ -963,16 +973,6 @@
           "wordCount": null,
           "title": "〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=nz007kDVkmg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nz007kDVkmg",
-          "publishedOn": "2025-03-30T14:02:42.000Z",
-          "wordCount": null,
-          "title": "〖 #DBD 〗一生初心者サバイバー🔰〖Vtuber / #猫乃ユキノ〗",
-          "imageUrl": null
         }
       ]
     },
@@ -981,6 +981,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5XQhzMH08PgWa4Zp02Gcsw",
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VfkoLs7NyPA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VfkoLs7NyPA",
+          "publishedOn": "2025-04-26T15:40:15.000Z",
+          "wordCount": null,
+          "title": "【#BackroomCompany】化け物から逃げながらお金を稼ぐアイドル【月紫アリア/夢川かなう/九楽ライ/白音ゆき/Vtuber】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2rKglvP0aXk",
           "author": null,
@@ -1119,16 +1129,6 @@
           "publishedOn": "2025-04-13T13:31:39.000Z",
           "wordCount": null,
           "title": "【雑談】アリアとまったりお話…する？💜 talking stream【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RLERHVN-R_4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RLERHVN-R_4",
-          "publishedOn": "2025-04-12T14:38:24.000Z",
-          "wordCount": null,
-          "title": "【 #PushingitTogether 】岩、転がせえええぇええぇ‼💥【月紫アリア/獅子神レオナ/白音ゆき/皇ロゼ/Vtuber】",
           "imageUrl": null
         }
       ]
