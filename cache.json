@@ -1149,6 +1149,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uLMaOuosVm4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uLMaOuosVm4",
+          "publishedOn": "2025-04-27T10:37:19.000Z",
+          "wordCount": null,
+          "title": "【#minecraft  】ポテチとまったり🌟ホタルの島づくり！つづき【丸餅つきみ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=JnlP3x3IF9I",
           "author": null,
           "description": "",
@@ -1286,16 +1296,6 @@
           "publishedOn": "2025-04-10T02:17:43.000Z",
           "wordCount": null,
           "title": "【同時視聴】ゾンビ・スクールで夏を先取り✨✨【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BUbuh6KP-o0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BUbuh6KP-o0",
-          "publishedOn": "2025-04-09T02:42:06.000Z",
-          "wordCount": null,
-          "title": "【 #モンハンワイルズ /MHWilds 】かっこいい重ね着が欲しいツキヒコ👔✨✨【丸餅つきみ/Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1614,6 +1614,16 @@
           "publishedOn": "2025-04-27T04:41:59.000Z",
           "wordCount": null,
           "title": "【#歌枠】GW❕シングルの新情報あり🎧🌼【#キョウの生放送】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=O_-YCy51H6Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=O_-YCy51H6Y",
+          "publishedOn": "2025-04-25T08:57:29.000Z",
+          "wordCount": null,
+          "title": "Fragile - 花鋏キョウ 【MV】",
           "imageUrl": null
         },
         {
