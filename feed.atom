@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-27T07:06:34.999Z</id>
+    <id>urn:2025-04-27T07:34:36.236Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T07:06:34.999Z</updated>
+    <updated>2025-04-27T07:34:36.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#ミタクルブロック】組み立て配信💜アリアをいっしょに作りあげちゃぉ…💜✨【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=eE1sL5o92tQ</id>
+        <link href="https://www.youtube.com/watch?v=eE1sL5o92tQ"/>
+        <updated>2025-04-27T07:00:58.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#歌枠】GW❕シングルの新情報あり🎧🌼【#キョウの生放送】]]></title>
         <id>https://www.youtube.com/watch?v=6gxL-3LPCUA</id>
@@ -876,15 +885,6 @@
         <updated>2025-04-13T14:58:02.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【雑談】アリアとまったりお話…する？💜 talking stream【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=93B5-zi9JZ8</id>
-        <link href="https://www.youtube.com/watch?v=93B5-zi9JZ8"/>
-        <updated>2025-04-13T13:31:39.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
