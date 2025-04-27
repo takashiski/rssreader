@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-27T01:34:57.339Z</id>
+    <id>urn:2025-04-27T02:35:55.430Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T01:34:57.339Z</updated>
+    <updated>2025-04-27T02:35:55.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 モンハンワイルズ / 参加型 】上位突入✨HRどんどん上げたい…！！！【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=arVLErf6AbE</id>
+        <link href="https://www.youtube.com/watch?v=arVLErf6AbE"/>
+        <updated>2025-04-27T02:18:10.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#土用の丑の日】至高のうなぎ＋牛！幸せダブル盛り🍽️🐰#PR【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=g2d3XgizCcg</id>
