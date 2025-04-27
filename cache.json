@@ -1333,6 +1333,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y2TyeTJKs0Y",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y2TyeTJKs0Y",
+          "publishedOn": "2025-04-27T08:00:38.000Z",
+          "wordCount": null,
+          "title": "『 ジャラランブル - 獅子神レオナ 』 #オリジナル曲 #shorts 【 #獅子神レオナ 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=5PFtc3rhI3M",
           "author": null,
           "description": "",
@@ -1470,16 +1480,6 @@
           "publishedOn": "2025-04-04T09:36:33.000Z",
           "wordCount": null,
           "title": "【 -`🎮 モンハンワイルズ/MHWilds 】アプデ第一弾きちゃ！！！！やるぞやるぞ！！！😎✨【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NIqaql7SZbY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NIqaql7SZbY",
-          "publishedOn": "2025-04-03T17:07:46.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】4月にこんにちは。【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
