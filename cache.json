@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=tr2to9OAKz0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tr2to9OAKz0",
+          "publishedOn": "2025-04-27T11:01:18.000Z",
+          "wordCount": null,
+          "title": "#VackON vol.6 3Dにて初出演したときのライブ映像がコチラ‼️ #ククルアクレイユ #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lqfSmlOd9c0",
           "author": null,
           "description": "",
@@ -190,16 +200,6 @@
           "publishedOn": "2025-04-15T11:00:41.000Z",
           "wordCount": null,
           "title": "#多声類 エルフの声真似７選がワロタｗｗｗ #ククルアすこるわ助かるわ #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t6OZf19gwKw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t6OZf19gwKw",
-          "publishedOn": "2025-04-14T17:12:53.000Z",
-          "wordCount": null,
-          "title": "【歌枠】睡眠導入🫧波音とギターと歌｜Guitar Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
@@ -1611,7 +1611,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=6gxL-3LPCUA",
-          "publishedOn": "2025-04-27T04:41:59.000Z",
+          "publishedOn": "2025-04-27T11:22:41.000Z",
           "wordCount": null,
           "title": "【#歌枠】GW❕シングルの新情報あり🎧🌼【#キョウの生放送】",
           "imageUrl": null
@@ -1621,7 +1621,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=O_-YCy51H6Y",
-          "publishedOn": "2025-04-25T08:57:29.000Z",
+          "publishedOn": "2025-04-27T11:15:06.000Z",
           "wordCount": null,
           "title": "Fragile - 花鋏キョウ 【MV】",
           "imageUrl": null
