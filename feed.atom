@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T11:40:47.003Z</id>
+    <id>urn:2025-04-28T12:12:27.860Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T11:40:47.003Z</updated>
+    <updated>2025-04-28T12:12:27.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=hoQDVu3rGZM</id>
+        <link href="https://www.youtube.com/watch?v=hoQDVu3rGZM"/>
+        <updated>2025-04-28T12:07:02.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名前呼んで〜💜🍨 #aiscream #黒澤ルビィ #ルビィちゃん #はーい #何が好き #チョコミント #よりも #あなた #ラブライブ #ラブライブサンシャイン #Vtuber #月紫アリア]]></title>
         <id>https://www.youtube.com/watch?v=VQsMf65VAf0</id>
@@ -192,15 +201,6 @@
         <updated>2025-04-26T16:51:15.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=hoQDVu3rGZM</id>
-        <link href="https://www.youtube.com/watch?v=hoQDVu3rGZM"/>
-        <updated>2025-04-26T16:06:36.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
