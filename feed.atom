@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T09:08:08.060Z</id>
+    <id>urn:2025-04-29T09:37:37.729Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T09:08:08.060Z</updated>
+    <updated>2025-04-29T09:37:37.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【耳ふー💛】こっち来て……ふふ、もっとしてほしいの？◎バイノーラル◎【丸餅つきみ】#囁きボイス #asmr]]></title>
+        <id>https://www.youtube.com/watch?v=yqeVZisVCOI</id>
+        <link href="https://www.youtube.com/watch?v=yqeVZisVCOI"/>
+        <updated>2025-04-29T09:01:30.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[こういうノスタルジックな曲好きなんだけど、なんていうジャンルなんだろ？🧐#forget #pogo #九楽ライ #vtuber #dance #meme #踊ってみた #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=4xm1-ECSRWE</id>
+        <link href="https://www.youtube.com/watch?v=4xm1-ECSRWE"/>
+        <updated>2025-04-29T09:00:19.000Z</updated>
+        <author>
+            <name>Kulaku Lie ch.九楽ライ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#12【 メタファー：リファンタジオ 】 完全初見！実況プレイ（8/1～）【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Xpe5CARIFvk</id>
+        <link href="https://www.youtube.com/watch?v=Xpe5CARIFvk"/>
+        <updated>2025-04-29T08:58:23.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #67 】明日からしばらくお休み！【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=wBPLtz97tSw</id>
@@ -987,15 +1014,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【スナックつきみ】弱点があったっていいじゃん！開き直って生きるわよっ🥂🐰【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=U9ULt0QLT3Y</id>
-        <link href="https://www.youtube.com/watch?v=U9ULt0QLT3Y"/>
-        <updated>2025-04-12T13:44:00.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌ってみた】星が瞬くこんな夜に/Covered by 花鋏キョウ]]></title>
         <id>https://www.youtube.com/watch?v=HlN8Plr9UZY</id>
         <link href="https://www.youtube.com/watch?v=HlN8Plr9UZY"/>
@@ -1128,15 +1146,6 @@
         <updated>2025-04-09T13:24:37.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖🔴A Dance of Fire and Ice🔵〗激ムズ音ゲー耐久⁉ 吹部パーカス経験あるから余裕余裕......〖九楽ライ/Japanese Vtuber〗]]></title>
-        <id>https://www.youtube.com/watch?v=8Dnb3GeCAWs</id>
-        <link href="https://www.youtube.com/watch?v=8Dnb3GeCAWs"/>
-        <updated>2025-04-08T17:47:17.000Z</updated>
-        <author>
-            <name>Kulaku Lie ch.九楽ライ</name>
         </author>
     </entry>
     <entry>
@@ -1281,15 +1290,6 @@
         <updated>2025-04-03T13:41:12.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デビュー3周年記念歌枠 ✦ 3rd Anniversary / Singing Stream 【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=bCDEMyHK-Bs</id>
-        <link href="https://www.youtube.com/watch?v=bCDEMyHK-Bs"/>
-        <updated>2025-04-02T13:01:44.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
