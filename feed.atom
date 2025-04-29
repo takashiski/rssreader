@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-29T05:07:54.267Z</id>
+    <id>urn:2025-04-29T05:37:33.611Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T05:07:54.267Z</updated>
+    <updated>2025-04-29T05:37:33.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1360,24 +1360,6 @@
         <id>https://www.youtube.com/watch?v=20OITn876JA</id>
         <link href="https://www.youtube.com/watch?v=20OITn876JA"/>
         <updated>2025-03-31T07:54:50.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[たまに「みずびん」って読む人いますからね #varkshorts  #vtuber #水瓶ミア]]></title>
-        <id>https://www.youtube.com/watch?v=3SOtvY7coA0</id>
-        <link href="https://www.youtube.com/watch?v=3SOtvY7coA0"/>
-        <updated>2025-03-30T17:19:24.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格闘系女・水瓶ミア  #varkshorts #vtuber #水瓶ミア]]></title>
-        <id>https://www.youtube.com/watch?v=wHrR5ip_EVw</id>
-        <link href="https://www.youtube.com/watch?v=wHrR5ip_EVw"/>
-        <updated>2025-03-30T17:17:02.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
         </author>
