@@ -287,6 +287,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=wBPLtz97tSw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wBPLtz97tSw",
+          "publishedOn": "2025-04-29T08:31:58.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #67 】明日からしばらくお休み！【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=fBMYJ0WZg6g",
           "author": null,
           "description": "",
@@ -425,16 +435,6 @@
           "wordCount": null,
           "title": "【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bbevgbXKWp8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bbevgbXKWp8",
-          "publishedOn": "2025-04-10T17:35:18.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #57 】早番→SKE体験【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -443,6 +443,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeqIMtLuGc3YgwkhEaG8oDg",
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
+          "publishedOn": "2025-04-29T08:28:36.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠  / KARAOKE 】歌、届けます。 水曜20時は定期歌枠 Singing Stream #107【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gy5_WLoCWIw",
           "author": null,
@@ -581,16 +591,6 @@
           "publishedOn": "2025-04-02T13:01:44.000Z",
           "wordCount": null,
           "title": "デビュー3周年記念歌枠 ✦ 3rd Anniversary / Singing Stream 【 稀羽すう / Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1KstDkYZfNg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1KstDkYZfNg",
-          "publishedOn": "2025-03-31T15:10:57.000Z",
-          "wordCount": null,
-          "title": "【 歌枠 / KARAOKE 】夜、ここで待ってます。 ✦ Singing Stream 【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         }
       ]
