@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T09:36:43.067Z</id>
+    <id>urn:2025-04-30T10:08:02.430Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T09:36:43.067Z</updated>
+    <updated>2025-04-30T10:08:02.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[勝ち確定、する？💜 1stミニアルバム収録曲【#あたし争奪戦トーナメント】 #shorts #Vtuber #月紫アリア #アイドル #オリジナル曲 #EP #ミニアルバム]]></title>
+        <id>https://www.youtube.com/watch?v=iu4ufZfktdE</id>
+        <link href="https://www.youtube.com/watch?v=iu4ufZfktdE"/>
+        <updated>2025-04-30T09:30:32.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【理不尽ゲー】夜食を食べたかっただけなのに。絶叫集/切り抜き【丸餅つきみ】#ゲーム実況 #ママに隠れて夜食を食べる]]></title>
         <id>https://www.youtube.com/watch?v=yqCZG5pq7hI</id>
@@ -660,15 +669,6 @@
         <updated>2025-04-21T11:04:38.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[こっち見てよね！💜 #shorts #超特急逃走中 #イコラブ #イコールラブ #アイドル #踊ってみた #dance #Vtuber #月紫アリア #めるりぷ]]></title>
-        <id>https://www.youtube.com/watch?v=zPYBsQGhCX0</id>
-        <link href="https://www.youtube.com/watch?v=zPYBsQGhCX0"/>
-        <updated>2025-04-21T09:30:28.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
