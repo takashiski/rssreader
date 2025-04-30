@@ -444,6 +444,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
+          "publishedOn": "2025-04-30T13:29:31.000Z",
+          "wordCount": null,
+          "title": "【 #歌枠  / KARAOKE 】歌、届けます。 水曜20時は定期歌枠 Singing Stream #107【 稀羽すう / Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OURp1HLbJHQ",
           "author": null,
           "description": "",
@@ -461,16 +471,6 @@
           "publishedOn": "2025-04-29T08:58:23.000Z",
           "wordCount": null,
           "title": "#12【 メタファー：リファンタジオ 】 完全初見！実況プレイ（8/1～）【 ネタバレ注意/稀羽すう/Re:AcT 】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
-          "publishedOn": "2025-04-29T08:28:36.000Z",
-          "wordCount": null,
-          "title": "【 #歌枠  / KARAOKE 】歌、届けます。 水曜20時は定期歌枠 Singing Stream #107【 稀羽すう / Re:AcT 】",
           "imageUrl": null
         },
         {

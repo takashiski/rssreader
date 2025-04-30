@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T13:13:40.679Z</id>
+    <id>urn:2025-04-30T13:39:42.744Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T13:13:40.679Z</updated>
+    <updated>2025-04-30T13:39:42.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】歌、届けます。 水曜20時は定期歌枠 Singing Stream #107【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=qkGsSbIzxZo</id>
+        <link href="https://www.youtube.com/watch?v=qkGsSbIzxZo"/>
+        <updated>2025-04-30T13:29:31.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ミタクルブロック】組み立て配信💜アリアをいっしょに作りあげちゃぉ…💜✨【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=eE1sL5o92tQ</id>
@@ -208,15 +217,6 @@
         <id>https://www.youtube.com/watch?v=Xpe5CARIFvk</id>
         <link href="https://www.youtube.com/watch?v=Xpe5CARIFvk"/>
         <updated>2025-04-29T08:58:23.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】歌、届けます。 水曜20時は定期歌枠 Singing Stream #107【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=qkGsSbIzxZo</id>
-        <link href="https://www.youtube.com/watch?v=qkGsSbIzxZo"/>
-        <updated>2025-04-29T08:28:36.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
         </author>
