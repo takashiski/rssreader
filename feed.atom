@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-30T00:32:25.905Z</id>
+    <id>urn:2025-04-30T01:35:20.843Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T00:32:25.905Z</updated>
+    <updated>2025-04-30T01:35:20.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】花よりモンスター？🌸春のイベントをまったり楽しむ夜【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=12ZQiD0gu4s</id>
+        <link href="https://www.youtube.com/watch?v=12ZQiD0gu4s"/>
+        <updated>2025-04-30T01:34:28.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 #ストグラ #67 】明日からしばらくお休み！【 #真島ルイ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=wBPLtz97tSw</id>
@@ -39,15 +48,6 @@
         <updated>2025-04-29T13:27:06.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】花よりモンスター？🌸春のイベントをまったり楽しむ夜【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=12ZQiD0gu4s</id>
-        <link href="https://www.youtube.com/watch?v=12ZQiD0gu4s"/>
-        <updated>2025-04-29T10:56:38.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
@@ -1324,24 +1324,6 @@
         <id>https://www.youtube.com/watch?v=eCaqgon-TUM</id>
         <link href="https://www.youtube.com/watch?v=eCaqgon-TUM"/>
         <updated>2025-03-31T14:06:58.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームに実装されたいので案件ください(土下座)  #vtuber #varkshorts #ガチャ #ゲーム]]></title>
-        <id>https://www.youtube.com/watch?v=y0FiGMz8p60</id>
-        <link href="https://www.youtube.com/watch?v=y0FiGMz8p60"/>
-        <updated>2025-03-31T13:15:48.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バーチャル生物がかわいすぎる  #vtuber #varkshorts #水瓶ミア]]></title>
-        <id>https://www.youtube.com/watch?v=ULlIyv25qak</id>
-        <link href="https://www.youtube.com/watch?v=ULlIyv25qak"/>
-        <updated>2025-03-31T13:12:53.000Z</updated>
         <author>
             <name>水瓶ミア/ミアちゃんねる</name>
         </author>
