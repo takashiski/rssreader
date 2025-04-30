@@ -1149,6 +1149,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=yqCZG5pq7hI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yqCZG5pq7hI",
+          "publishedOn": "2025-04-30T09:01:23.000Z",
+          "wordCount": null,
+          "title": "【理不尽ゲー】夜食を食べたかっただけなのに。絶叫集/切り抜き【丸餅つきみ】#ゲーム実況 #ママに隠れて夜食を食べる",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=12ZQiD0gu4s",
           "author": null,
           "description": "",
@@ -1287,16 +1297,6 @@
           "wordCount": null,
           "title": "【3D一人芝居】いい女将さんならつきみが一番✨✨旦那様の人生変えてあげるわっ！！3D初演：落語・芝浜【丸餅つきみ/Re:AcT】",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YKKvM6yfxTA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YKKvM6yfxTA",
-          "publishedOn": "2025-04-13T14:58:02.000Z",
-          "wordCount": null,
-          "title": "【コラボ雑談】美声の女王様レイラ・サマ様にアレコレおねだりしたい！【レイラ・サマ/丸餅つきみ Re:AcT】",
-          "imageUrl": null
         }
       ]
     },
@@ -1332,6 +1332,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB1s_IdO-r0nUkY2mXeti-A",
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Hg-zjV0HTXI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Hg-zjV0HTXI",
+          "publishedOn": "2025-04-30T08:59:49.000Z",
+          "wordCount": null,
+          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】来たぞ！！歴戦王！！！！！【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=TnkUr9eCQJM",
           "author": null,
@@ -1470,16 +1480,6 @@
           "publishedOn": "2025-04-05T12:21:28.000Z",
           "wordCount": null,
           "title": "【-`🎮 APEX 】#TIEカスタム TIE CUSTOM SPRING.VER にでるよー！頑張る！🔫【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5sMPIQc7mzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5sMPIQc7mzk",
-          "publishedOn": "2025-04-04T17:28:27.000Z",
-          "wordCount": null,
-          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】ものもの、アプデ後、あそぶなさい！！【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
