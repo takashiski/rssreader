@@ -53,6 +53,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=uZR_hrXrNac",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uZR_hrXrNac",
+          "publishedOn": "2025-05-01T05:09:39.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見カウントします！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=yUCxjLo2yL8",
           "author": null,
           "description": "",
@@ -110,16 +120,6 @@
           "publishedOn": "2025-05-01T01:41:14.000Z",
           "wordCount": null,
           "title": "【メン限】5月のククルアファンミーティング【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uZR_hrXrNac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uZR_hrXrNac",
-          "publishedOn": "2025-05-01T01:36:54.000Z",
-          "wordCount": null,
-          "title": "【歌枠】初見カウントします！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         },
         {
@@ -988,7 +988,7 @@
           "link": "https://www.youtube.com/watch?v=jR7AkVZAKnM",
           "publishedOn": "2025-04-30T14:52:16.000Z",
           "wordCount": null,
-          "title": "【#ミタクルブロック】組み立て配信💜アリアをいっしょに作りあげちゃぉ…💜✨【月紫アリア/Vtuber】",
+          "title": "【#ミタクルブロック】#2 組み立て配信💜アリアをいっしょに作りあげちゃぉ…💜✨【月紫アリア/Vtuber】",
           "imageUrl": null
         },
         {
