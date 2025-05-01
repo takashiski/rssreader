@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T15:07:20.935Z</id>
+    <id>urn:2025-05-01T15:37:28.157Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T15:07:20.935Z</updated>
+    <updated>2025-05-01T15:37:28.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[〖 #歌枠 〗今日も楽しく歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=C3eWlrgNcm4</id>
-        <link href="https://www.youtube.com/watch?v=C3eWlrgNcm4"/>
-        <updated>2025-05-01T13:15:39.000Z</updated>
+        <title type="html"><![CDATA[#12【 メタファー：リファンタジオ 】 完全初見！実況プレイ（8/2～）【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=Xpe5CARIFvk</id>
+        <link href="https://www.youtube.com/watch?v=Xpe5CARIFvk"/>
+        <updated>2025-05-01T15:09:51.000Z</updated>
         <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
+            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>
@@ -336,15 +336,6 @@
         <updated>2025-04-29T09:00:19.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#12【 メタファー：リファンタジオ 】 完全初見！実況プレイ（8/2～）【 ネタバレ注意/稀羽すう/Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=Xpe5CARIFvk</id>
-        <link href="https://www.youtube.com/watch?v=Xpe5CARIFvk"/>
-        <updated>2025-04-29T08:58:23.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
     <entry>

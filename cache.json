@@ -444,6 +444,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCeqIMtLuGc3YgwkhEaG8oDg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Xpe5CARIFvk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Xpe5CARIFvk",
+          "publishedOn": "2025-05-01T15:09:51.000Z",
+          "wordCount": null,
+          "title": "#12【 メタファー：リファンタジオ 】 完全初見！実況プレイ（8/2～）【 ネタバレ注意/稀羽すう/Re:AcT 】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=qkGsSbIzxZo",
           "author": null,
           "description": "",
@@ -461,16 +471,6 @@
           "publishedOn": "2025-04-29T09:35:54.000Z",
           "wordCount": null,
           "title": "金曜は宅飲みすべ。 OPEN 22:00",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Xpe5CARIFvk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Xpe5CARIFvk",
-          "publishedOn": "2025-04-29T08:58:23.000Z",
-          "wordCount": null,
-          "title": "#12【 メタファー：リファンタジオ 】 完全初見！実況プレイ（8/2～）【 ネタバレ注意/稀羽すう/Re:AcT 】",
           "imageUrl": null
         },
         {
@@ -834,16 +834,6 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoFEbNyIRUS26-hf2AucwFw",
       "siteUrl": "https://www.youtube.com/channel/UCoFEbNyIRUS26-hf2AucwFw",
       "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=C3eWlrgNcm4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C3eWlrgNcm4",
-          "publishedOn": "2025-05-01T13:15:39.000Z",
-          "wordCount": null,
-          "title": "〖 #歌枠 〗今日も楽しく歌います🎤〖 Vtuber /#猫乃ユキノ 〗",
-          "imageUrl": null
-        },
         {
           "id": "https://www.youtube.com/watch?v=hoQDVu3rGZM",
           "author": null,
