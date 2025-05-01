@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T04:40:29.929Z</id>
+    <id>urn:2025-05-01T05:08:09.287Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T04:40:29.929Z</updated>
+    <updated>2025-05-01T05:08:09.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -114,7 +114,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【#ミタクルブロック】組み立て配信💜アリアをいっしょに作りあげちゃぉ…💜✨【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【#ミタクルブロック】#1 組み立て配信💜アリアをいっしょに作りあげちゃぉ…💜✨【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=eE1sL5o92tQ</id>
         <link href="https://www.youtube.com/watch?v=eE1sL5o92tQ"/>
         <updated>2025-04-30T12:10:36.000Z</updated>
