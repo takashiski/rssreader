@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T13:12:53.913Z</id>
+    <id>urn:2025-05-01T13:38:59.564Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T13:12:53.914Z</updated>
+    <updated>2025-05-01T13:38:59.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #歌枠 〗今日も楽しく歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=C3eWlrgNcm4</id>
+        <link href="https://www.youtube.com/watch?v=C3eWlrgNcm4"/>
+        <updated>2025-05-01T13:15:39.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】すべてを5月のせいにしていく季節【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=M4CehD66i3o</id>
@@ -516,15 +525,6 @@
         <updated>2025-04-26T17:23:31.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #歌枠 〗今日も楽しく歌います🎤〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=C3eWlrgNcm4</id>
-        <link href="https://www.youtube.com/watch?v=C3eWlrgNcm4"/>
-        <updated>2025-04-26T17:14:10.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
