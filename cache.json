@@ -1323,6 +1323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=M4CehD66i3o",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=M4CehD66i3o",
+          "publishedOn": "2025-05-01T11:13:38.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】すべてを5月のせいにしていく季節【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Hg-zjV0HTXI",
           "author": null,
           "description": "",
@@ -1460,16 +1470,6 @@
           "publishedOn": "2025-04-07T17:57:20.000Z",
           "wordCount": null,
           "title": "【 -`🎮 モンハンワイルズ/MHWilds 】奏でるは生命の調べ【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_FnlD1kpdjg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_FnlD1kpdjg",
-          "publishedOn": "2025-04-05T12:21:28.000Z",
-          "wordCount": null,
-          "title": "【-`🎮 APEX 】#TIEカスタム TIE CUSTOM SPRING.VER にでるよー！頑張る！🔫【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
