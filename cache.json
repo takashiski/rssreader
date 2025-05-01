@@ -601,6 +601,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCxLgvntienV0kwNLxrbcmyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=myv1gZI-nJY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=myv1gZI-nJY",
+          "publishedOn": "2025-05-01T07:04:38.000Z",
+          "wordCount": null,
+          "title": "◆ASMR / 完全広告なし! /ずうっと僕の耳かきで寝ようね♡〖whispering/sleeping trriger/JapaneseVtuber〗",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=4xm1-ECSRWE",
           "author": null,
           "description": "",
@@ -738,16 +748,6 @@
           "publishedOn": "2025-04-11T09:00:03.000Z",
           "wordCount": null,
           "title": "みんなの好きな沖縄料理は？僕は海ぶどう🌺🌴#カリスマさびら #踊ってみた #九楽ライ #vtuber #アイドル #dance #七人のカリスマ #charisma #charisma_house",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=zk-zAXiQAwM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zk-zAXiQAwM",
-          "publishedOn": "2025-04-10T12:15:02.000Z",
-          "wordCount": null,
-          "title": "〖🔴A Dance of Fire and Ice🔵〗ステージ12を超えた高難易度へ...正直めっちゃハマってます。〖九楽ライ/Japanese Vtuber〗",
           "imageUrl": null
         }
       ]
@@ -1119,16 +1119,6 @@
           "publishedOn": "2025-04-23T16:10:52.000Z",
           "wordCount": null,
           "title": "【#月紫アリア4周年】デビュー４周年の激カワアイドル、祝うしかないっ💜💗✨ 4th anniversary【月紫アリア/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kOuzpfqiX4g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kOuzpfqiX4g",
-          "publishedOn": "2025-04-23T09:30:21.000Z",
-          "wordCount": null,
-          "title": "2人きり🚃なる？💜 #shorts #ラブトレ #CUTIESTREET #きゅーすと #踊ってみた #dance #Vtuber #月紫アリア #アイドル #めるりぷ",
           "imageUrl": null
         }
       ]
