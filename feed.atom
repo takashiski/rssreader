@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-01T13:38:59.564Z</id>
+    <id>urn:2025-05-01T14:06:54.899Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T13:38:59.564Z</updated>
+    <updated>2025-05-01T14:06:54.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,15 +127,6 @@
         <id>https://www.youtube.com/watch?v=FsnM15InzyY</id>
         <link href="https://www.youtube.com/watch?v=FsnM15InzyY"/>
         <updated>2025-05-01T01:43:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メン限】5月のククルアファンミーティング【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=9dvvkPJBAj0</id>
-        <link href="https://www.youtube.com/watch?v=9dvvkPJBAj0"/>
-        <updated>2025-05-01T01:41:14.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
@@ -667,6 +658,15 @@
         <id>https://www.youtube.com/watch?v=KIWrow8t50M</id>
         <link href="https://www.youtube.com/watch?v=KIWrow8t50M"/>
         <updated>2025-04-25T11:00:06.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【※手元配信※】～販売終了のお知らせ～カメラあり📸直筆サイン入りSSSRチェキ書くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=IS0iK42-Poc</id>
+        <link href="https://www.youtube.com/watch?v=IS0iK42-Poc"/>
+        <updated>2025-04-25T03:56:00.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
