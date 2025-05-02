@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-02T10:07:52.213Z</id>
+    <id>urn:2025-05-02T10:39:03.838Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T10:07:52.213Z</updated>
+    <updated>2025-05-02T10:39:03.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】華のGW【皇ロゼ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Io6vN_LQLHY</id>
+        <link href="https://www.youtube.com/watch?v=Io6vN_LQLHY"/>
+        <updated>2025-05-02T10:16:10.000Z</updated>
+        <author>
+            <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アリアなしじゃ、しんじゃうね💜 1stミニアルバム収録曲【#しゅき好禁術】 #shorts #Vtuber #月紫アリア #アイドル #オリジナル曲 #EP #ミニアルバム]]></title>
         <id>https://www.youtube.com/watch?v=4zszpKy1zbY</id>
