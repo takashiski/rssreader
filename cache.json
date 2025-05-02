@@ -1303,6 +1303,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=T-OrTp-d3Ww",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=T-OrTp-d3Ww",
+          "publishedOn": "2025-05-02T09:13:57.000Z",
+          "wordCount": null,
+          "title": "【-`🎮 APEX 】新しいマウスとともにキャリーしてもらう旅 w/心白てと、パカエル 【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=M4CehD66i3o",
           "author": null,
           "description": "",
@@ -1440,16 +1450,6 @@
           "publishedOn": "2025-04-11T15:40:23.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】喉の調子が少しいい、とても【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mN-GWmmhZD0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mN-GWmmhZD0",
-          "publishedOn": "2025-04-07T17:57:20.000Z",
-          "wordCount": null,
-          "title": "【 -`🎮 モンハンワイルズ/MHWilds 】奏でるは生命の調べ【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
