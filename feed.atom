@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-02T11:34:54.107Z</id>
+    <id>urn:2025-05-02T12:12:09.615Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T11:34:54.107Z</updated>
+    <updated>2025-05-02T12:12:09.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【留守電ホラー】君に伝えた最後のメッセージ。#ホラーショート #ヤンデレ #留守電【丸餅つきみ】]]></title>
+        <id>https://www.youtube.com/watch?v=wJ9WVa7hBbU</id>
+        <link href="https://www.youtube.com/watch?v=wJ9WVa7hBbU"/>
+        <updated>2025-05-02T12:01:42.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】華のGW【皇ロゼ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=Io6vN_LQLHY</id>
@@ -876,15 +885,6 @@
         <updated>2025-04-19T16:24:50.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】今夜はあなたが知恵袋♡スナックつきみライフハックナイト🌙🍸✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=WQ0Z_xc5cH4</id>
-        <link href="https://www.youtube.com/watch?v=WQ0Z_xc5cH4"/>
-        <updated>2025-04-19T15:46:22.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
