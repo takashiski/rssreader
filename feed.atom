@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-02T09:36:27.073Z</id>
+    <id>urn:2025-05-02T10:07:52.213Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T09:36:27.073Z</updated>
+    <updated>2025-05-02T10:07:52.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[アリアなしじゃ、しんじゃうね💜 1stミニアルバム収録曲【#しゅき好禁術】 #shorts #Vtuber #月紫アリア #アイドル #オリジナル曲 #EP #ミニアルバム]]></title>
+        <id>https://www.youtube.com/watch?v=4zszpKy1zbY</id>
+        <link href="https://www.youtube.com/watch?v=4zszpKy1zbY"/>
+        <updated>2025-05-02T09:30:05.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【-`🎮 APEX 】新しいマウスとともにキャリーしてもらう旅 w/心白てと、パカエル 【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=T-OrTp-d3Ww</id>
@@ -685,15 +694,6 @@
         <id>https://www.youtube.com/watch?v=5zF6ALYGtLo</id>
         <link href="https://www.youtube.com/watch?v=5zF6ALYGtLo"/>
         <updated>2025-04-24T12:28:39.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💜 月紫アリア 1st EP ꒰ Ariaphilia ꒱ Trailer 💜 4/24 release]]></title>
-        <id>https://www.youtube.com/watch?v=TRyyHxDLREM</id>
-        <link href="https://www.youtube.com/watch?v=TRyyHxDLREM"/>
-        <updated>2025-04-24T12:20:08.000Z</updated>
         <author>
             <name>月紫アリア / Tsukushi Aria</name>
         </author>
