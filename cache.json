@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a60FY4tk-1E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a60FY4tk-1E",
+          "publishedOn": "2025-05-03T16:10:19.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初見さん大歓迎！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nokw0W3asBk",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "publishedOn": "2025-04-25T11:00:06.000Z",
           "wordCount": null,
           "title": "【歌って踊ってみた】新・豪血寺一族‐レッツゴー！陰陽師【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IS0iK42-Poc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IS0iK42-Poc",
-          "publishedOn": "2025-04-25T03:56:00.000Z",
-          "wordCount": null,
-          "title": "【※手元配信※】～販売終了のお知らせ～カメラあり📸直筆サイン入りSSSRチェキ書くよ🎨【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]

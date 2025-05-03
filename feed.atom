@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-03T16:07:28.214Z</id>
+    <id>urn:2025-05-03T16:38:50.875Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T16:07:28.215Z</updated>
+    <updated>2025-05-03T16:38:50.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初見さん大歓迎！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=a60FY4tk-1E</id>
+        <link href="https://www.youtube.com/watch?v=a60FY4tk-1E"/>
+        <updated>2025-05-03T16:10:19.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【#ASMR/3dio】睡眠誘導💗至近距離でお耳ふぅはぁ💗寝かしつけ💗 earcleaning/earblowing  広告なし【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=REU9B5l8_Sg</id>
@@ -766,15 +775,6 @@
         <id>https://www.youtube.com/watch?v=KIWrow8t50M</id>
         <link href="https://www.youtube.com/watch?v=KIWrow8t50M"/>
         <updated>2025-04-25T11:00:06.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【※手元配信※】～販売終了のお知らせ～カメラあり📸直筆サイン入りSSSRチェキ書くよ🎨【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=IS0iK42-Poc</id>
-        <link href="https://www.youtube.com/watch?v=IS0iK42-Poc"/>
-        <updated>2025-04-25T03:56:00.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
