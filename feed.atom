@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-03T17:35:16.668Z</id>
+    <id>urn:2025-05-03T18:08:29.795Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T17:35:16.668Z</updated>
+    <updated>2025-05-03T18:08:29.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 モンハンワイルズ / 参加型 】HR上げたり装備作ったり🏹狩りは一緒にしよ～！！【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=mvzvF2vzVZQ</id>
+        <link href="https://www.youtube.com/watch?v=mvzvF2vzVZQ"/>
+        <updated>2025-05-03T17:41:12.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見さん大歓迎！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=a60FY4tk-1E</id>
@@ -84,15 +93,6 @@
         <updated>2025-05-03T05:12:58.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 モンハンワイルズ / 参加型 】HR上げたり装備作ったり🏹狩りは一緒にしよ～！！【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=mvzvF2vzVZQ</id>
-        <link href="https://www.youtube.com/watch?v=mvzvF2vzVZQ"/>
-        <updated>2025-05-03T02:48:26.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
