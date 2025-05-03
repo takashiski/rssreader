@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-03T09:06:41.334Z</id>
+    <id>urn:2025-05-03T09:35:21.306Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T09:06:41.334Z</updated>
+    <updated>2025-05-03T09:35:21.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】明日はついにライブだよ～！【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=HQntb-mftVA</id>
+        <link href="https://www.youtube.com/watch?v=HQntb-mftVA"/>
+        <updated>2025-05-03T09:14:28.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先輩のオリ曲‼️実は1年あっためた動画🤫#しゅき好禁術 #月紫アリア #踊ってみた #dance #vtuber #アイドル #九楽ライ #オリ曲 本家▶​⁠@tsukushi_aria]]></title>
         <id>https://www.youtube.com/watch?v=KZajQalAS10</id>
@@ -1191,15 +1200,6 @@
         <updated>2025-04-11T16:18:44.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】喉の調子が少しいい、とても【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=DFGHKYwIgsQ</id>
-        <link href="https://www.youtube.com/watch?v=DFGHKYwIgsQ"/>
-        <updated>2025-04-11T15:40:23.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>

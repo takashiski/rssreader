@@ -1323,6 +1323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=HQntb-mftVA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HQntb-mftVA",
+          "publishedOn": "2025-05-03T09:14:28.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】明日はついにライブだよ～！【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T-OrTp-d3Ww",
           "author": null,
           "description": "",
@@ -1460,16 +1470,6 @@
           "publishedOn": "2025-04-14T15:38:45.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】うたっちゃおうぜ【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DFGHKYwIgsQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DFGHKYwIgsQ",
-          "publishedOn": "2025-04-11T15:40:23.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】喉の調子が少しいい、とても【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
