@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-03T01:34:52.104Z</id>
+    <id>urn:2025-05-03T02:33:47.194Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T01:34:52.104Z</updated>
+    <updated>2025-05-03T02:33:47.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】13年以上前のボカロ縛り！ケモノとエルフのコラボ！ #うるルア｜Karaoke Singing【#ククルアクレイユ × #天和うる】]]></title>
+        <id>https://www.youtube.com/watch?v=FsnM15InzyY</id>
+        <link href="https://www.youtube.com/watch?v=FsnM15InzyY"/>
+        <updated>2025-05-03T02:27:41.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【-`🎮 APEX 】新しいマウスとともにキャリーしてもらう旅 w/心白てと、パカエル 【獅子神レオナ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=T-OrTp-d3Ww</id>
@@ -174,15 +183,6 @@
         <updated>2025-05-01T01:43:59.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】13年以上前のボカロ縛り！ケモノとエルフのコラボ！ #うるルア｜Karaoke Singing【#ククルアクレイユ × #天和うる】]]></title>
-        <id>https://www.youtube.com/watch?v=FsnM15InzyY</id>
-        <link href="https://www.youtube.com/watch?v=FsnM15InzyY"/>
-        <updated>2025-05-01T01:43:40.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -1317,24 +1317,6 @@
         <updated>2025-04-03T16:16:07.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#水瓶ミア】4月、はやくない？美味しそうな新作商品多くない？【VTuber / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=XXs4YkpPDFE</id>
-        <link href="https://www.youtube.com/watch?v=XXs4YkpPDFE"/>
-        <updated>2025-04-03T13:53:09.000Z</updated>
-        <author>
-            <name>水瓶ミア/ミアちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #DBD 〗僕のだぞ！！！！！〖Vtuber / #猫乃ユキノ〗]]></title>
-        <id>https://www.youtube.com/watch?v=chWW5QJh3fI</id>
-        <link href="https://www.youtube.com/watch?v=chWW5QJh3fI"/>
-        <updated>2025-04-03T13:41:12.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
 </feed>
