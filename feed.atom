@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T23:06:39.900Z</id>
+    <id>urn:2025-05-04T23:35:01.989Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T23:06:39.900Z</updated>
+    <updated>2025-05-04T23:35:01.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -1333,15 +1333,6 @@
         <id>https://www.youtube.com/watch?v=0IcWVn4iHlI</id>
         <link href="https://www.youtube.com/watch?v=0IcWVn4iHlI"/>
         <updated>2025-04-05T15:55:43.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 歌枠 】春のおうたを歌いたい🌸お久しぶりの歌枠…🎤✨【 音伽ねむ / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=fOmiY-YSLcQ</id>
-        <link href="https://www.youtube.com/watch?v=fOmiY-YSLcQ"/>
-        <updated>2025-04-05T11:21:07.000Z</updated>
         <author>
             <name>音伽ねむ - Nemu Otogi -</name>
         </author>
