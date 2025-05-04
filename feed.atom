@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T02:38:19.627Z</id>
+    <id>urn:2025-05-04T03:27:18.761Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T02:38:19.627Z</updated>
+    <updated>2025-05-04T03:27:18.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【スナックつきみ】ライフハック後編🍳納豆に〇〇!? 食・暮らしの裏技あつめました✨🌙🍸✨【丸餅つきみ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=xYxL_MuktQc</id>
+        <link href="https://www.youtube.com/watch?v=xYxL_MuktQc"/>
+        <updated>2025-05-04T03:19:13.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 モンハンワイルズ / 参加型 】HR上げたり装備作ったり🏹狩りは一緒にしよ～！！【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=mvzvF2vzVZQ</id>
@@ -39,15 +48,6 @@
         <updated>2025-05-03T13:14:55.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【スナックつきみ】ライフハック後編🍳納豆に〇〇!? 食・暮らしの裏技あつめました✨🌙🍸✨【丸餅つきみ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=xYxL_MuktQc</id>
-        <link href="https://www.youtube.com/watch?v=xYxL_MuktQc"/>
-        <updated>2025-05-03T13:04:42.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
