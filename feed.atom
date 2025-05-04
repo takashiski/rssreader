@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T10:06:47.766Z</id>
+    <id>urn:2025-05-04T10:37:27.784Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T10:06:47.766Z</updated>
+    <updated>2025-05-04T10:37:27.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【冒頭無料配信】夜公演『Hearty!』【 #リアクト_POLAROPPOSITE 】]]></title>
+        <id>https://www.youtube.com/watch?v=C0Cl1tKenEg</id>
+        <link href="https://www.youtube.com/watch?v=C0Cl1tKenEg"/>
+        <updated>2025-05-04T10:36:59.000Z</updated>
+        <author>
+            <name>【Re:AcT /リアクト】公式チャンネル</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】同接100人目標！15分キープ耐久配信🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JN-robwztS4</id>
@@ -318,15 +327,6 @@
         <updated>2025-04-30T16:29:53.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【冒頭無料配信】夜公演『Hearty!』【 #リアクト_POLAROPPOSITE 】]]></title>
-        <id>https://www.youtube.com/watch?v=C0Cl1tKenEg</id>
-        <link href="https://www.youtube.com/watch?v=C0Cl1tKenEg"/>
-        <updated>2025-04-30T16:13:12.000Z</updated>
-        <author>
-            <name>【Re:AcT /リアクト】公式チャンネル</name>
         </author>
     </entry>
     <entry>
