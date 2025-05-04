@@ -63,6 +63,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Y9GtmSLZBxg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y9GtmSLZBxg",
+          "publishedOn": "2025-05-04T06:30:46.000Z",
+          "wordCount": null,
+          "title": "【歌枠】初コメ初見さん来て～～！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=a60FY4tk-1E",
           "author": null,
           "description": "",
@@ -200,16 +210,6 @@
           "publishedOn": "2025-04-26T13:37:00.000Z",
           "wordCount": null,
           "title": "【#いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=KIWrow8t50M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KIWrow8t50M",
-          "publishedOn": "2025-04-25T11:00:06.000Z",
-          "wordCount": null,
-          "title": "【歌って踊ってみた】新・豪血寺一族‐レッツゴー！陰陽師【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T06:09:24.654Z</id>
+    <id>urn:2025-05-04T06:40:39.205Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T06:09:24.654Z</updated>
+    <updated>2025-05-04T06:40:39.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】初コメ初見さん来て～～！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Y9GtmSLZBxg</id>
+        <link href="https://www.youtube.com/watch?v=Y9GtmSLZBxg"/>
+        <updated>2025-05-04T06:30:46.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡密着心音と耳かきで癒されちゃお？💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=ckn41389m38</id>
@@ -786,15 +795,6 @@
         <updated>2025-04-25T16:13:00.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌って踊ってみた】新・豪血寺一族‐レッツゴー！陰陽師【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=KIWrow8t50M</id>
-        <link href="https://www.youtube.com/watch?v=KIWrow8t50M"/>
-        <updated>2025-04-25T11:00:06.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
