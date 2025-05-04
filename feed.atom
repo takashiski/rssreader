@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T18:39:19.505Z</id>
+    <id>urn:2025-05-04T19:05:54.968Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T18:39:19.505Z</updated>
+    <updated>2025-05-04T19:05:54.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【オフコラボ】たこ焼きパーティ🐙アリアちゃんに食べさせて💜✨【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=VpYlLa0j4Hs</id>
+        <link href="https://www.youtube.com/watch?v=VpYlLa0j4Hs"/>
+        <updated>2025-05-04T18:50:58.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】初見さん大歓迎！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=a60FY4tk-1E</id>
@@ -714,15 +723,6 @@
         <updated>2025-04-26T13:22:08.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぱ わ ー つ け る で #土用の丑の日【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=2rKglvP0aXk</id>
-        <link href="https://www.youtube.com/watch?v=2rKglvP0aXk"/>
-        <updated>2025-04-26T13:12:22.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>

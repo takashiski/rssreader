@@ -992,6 +992,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC5XQhzMH08PgWa4Zp02Gcsw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=VpYlLa0j4Hs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VpYlLa0j4Hs",
+          "publishedOn": "2025-05-04T18:50:58.000Z",
+          "wordCount": null,
+          "title": "【オフコラボ】たこ焼きパーティ🐙アリアちゃんに食べさせて💜✨【月紫アリア/Vtuber】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=REU9B5l8_Sg",
           "author": null,
           "description": "",
@@ -1129,16 +1139,6 @@
           "publishedOn": "2025-04-27T13:41:58.000Z",
           "wordCount": null,
           "title": "【#BackroomCompany】化け物から逃げながらお金を稼ぐアイドル #つくぴちゆきにーと【月紫アリア/夢川かなう/九楽ライ/白音ゆき/Vtuber】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2rKglvP0aXk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2rKglvP0aXk",
-          "publishedOn": "2025-04-26T13:12:22.000Z",
-          "wordCount": null,
-          "title": "ぱ わ ー つ け る で #土用の丑の日【月紫アリア/Vtuber】",
           "imageUrl": null
         }
       ]
