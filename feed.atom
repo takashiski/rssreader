@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T07:34:29.870Z</id>
+    <id>urn:2025-05-04T08:08:31.676Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T07:34:29.870Z</updated>
+    <updated>2025-05-04T08:08:31.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】同接100人目標！15分キープ耐久配信🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=JN-robwztS4</id>
+        <link href="https://www.youtube.com/watch?v=JN-robwztS4"/>
+        <updated>2025-05-04T07:59:39.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【冒頭無料配信】昼公演『HAVOC』【 #リアクト_POLAROPPOSITE 】]]></title>
         <id>https://www.youtube.com/watch?v=pa60tyDWkc4</id>
@@ -696,15 +705,6 @@
         <updated>2025-04-26T13:51:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ntMDVSakWp0</id>
-        <link href="https://www.youtube.com/watch?v=ntMDVSakWp0"/>
-        <updated>2025-04-26T13:37:00.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
