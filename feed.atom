@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-05T17:06:55.219Z</id>
+    <id>urn:2025-05-05T17:36:34.650Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T17:06:55.219Z</updated>
+    <updated>2025-05-05T17:36:34.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -51,7 +51,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【オフコラボ】たこ焼きパーティ🐙アリアちゃんに食べさせて💜✨【月紫アリア/Vtuber】]]></title>
+        <title type="html"><![CDATA[【オフコラボ】たこ焼きパーティ🐙アリアちゃんに食べさせて💜✨ #アリアクトたこパ【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=VpYlLa0j4Hs</id>
         <link href="https://www.youtube.com/watch?v=VpYlLa0j4Hs"/>
         <updated>2025-05-04T18:50:58.000Z</updated>
@@ -78,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【歌枠】同接100人目標！15分キープ耐久配信🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】同接100人目標！30分キープ達成感謝！🎊｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=JN-robwztS4</id>
         <link href="https://www.youtube.com/watch?v=JN-robwztS4"/>
         <updated>2025-05-04T07:59:39.000Z</updated>
