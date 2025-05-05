@@ -1129,6 +1129,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCTEZGNJDqv-isWSPRsEhnRA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=gg0AIcjW2QY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gg0AIcjW2QY",
+          "publishedOn": "2025-05-05T13:01:12.000Z",
+          "wordCount": null,
+          "title": "「なんか……思ってたより……♡」#Vtuber切り抜き",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=xYxL_MuktQc",
           "author": null,
           "description": "",
@@ -1266,16 +1276,6 @@
           "publishedOn": "2025-04-26T00:21:10.000Z",
           "wordCount": null,
           "title": "【sin.exe】謎のファイル『sin.exe』を起動してみた結果…あなたのPCも😇😇【丸餅つきみ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5iAcGvT9eWE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5iAcGvT9eWE",
-          "publishedOn": "2025-04-24T10:45:03.000Z",
-          "wordCount": null,
-          "title": "「おはよう」って言っただけなのに、ドア開けてくれなかった。【#vtuber 】ドア越しの朝のつきみさん、機嫌を損ねました。#それでも好きって言って",
           "imageUrl": null
         }
       ]
