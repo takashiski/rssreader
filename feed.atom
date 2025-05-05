@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-05T09:37:40.459Z</id>
+    <id>urn:2025-05-05T10:08:10.783Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T09:37:40.459Z</updated>
+    <updated>2025-05-05T10:08:10.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【歌枠】GW最終日だって・・・？！【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=l7gTiO8Ux3k</id>
+        <link href="https://www.youtube.com/watch?v=l7gTiO8Ux3k"/>
+        <updated>2025-05-05T10:01:08.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【雑談】ライブお疲れ様でした！【 #Vtuber / #生リサ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=DHql6kLQCYA</id>
+        <link href="https://www.youtube.com/watch?v=DHql6kLQCYA"/>
+        <updated>2025-05-05T09:59:27.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガチな恋もアリアリです💜 1stミニアルバム収録曲【#アリかナシかアリアリです】 #shorts #Vtuber #月紫アリア #アイドル #オリジナル曲 #EP #ミニアルバム]]></title>
+        <id>https://www.youtube.com/watch?v=caWnV3fKQ5M</id>
+        <link href="https://www.youtube.com/watch?v=caWnV3fKQ5M"/>
+        <updated>2025-05-05T09:29:00.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【オフコラボ】たこ焼きパーティ🐙アリアちゃんに食べさせて💜✨【月紫アリア/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=VpYlLa0j4Hs</id>
@@ -561,15 +588,6 @@
         <updated>2025-04-27T18:57:16.000Z</updated>
         <author>
             <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#BackroomCompany】化け物から逃げながらお金を稼ぐアイドル #つくぴちゆきにーと【月紫アリア/夢川かなう/九楽ライ/白音ゆき/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=VfkoLs7NyPA</id>
-        <link href="https://www.youtube.com/watch?v=VfkoLs7NyPA"/>
-        <updated>2025-04-27T13:41:58.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1203,15 +1221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #ストグラ #58 】明日からちょっとおやすみ【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ElqzCFnodU8</id>
-        <link href="https://www.youtube.com/watch?v=ElqzCFnodU8"/>
-        <updated>2025-04-11T18:13:52.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[深夜雑談 - midnight chat 「わたしの魂は何色か。」【 稀羽すう / Re:AcT 】]]></title>
         <id>https://www.youtube.com/watch?v=hw3yNAOereo</id>
         <link href="https://www.youtube.com/watch?v=hw3yNAOereo"/>
@@ -1245,15 +1254,6 @@
         <updated>2025-04-11T12:01:26.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【cover】怪獣の花唄 by 蒲田ヤバッキオ,真島ルイ]]></title>
-        <id>https://www.youtube.com/watch?v=x06N4u3TYZA</id>
-        <link href="https://www.youtube.com/watch?v=x06N4u3TYZA"/>
-        <updated>2025-04-11T11:00:06.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
         </author>
     </entry>
     <entry>
