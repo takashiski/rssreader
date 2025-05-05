@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-05T05:38:07.297Z</id>
+    <id>urn:2025-05-05T06:11:00.098Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T05:38:07.297Z</updated>
+    <updated>2025-05-05T06:11:00.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -48,15 +48,6 @@
         <updated>2025-05-04T07:10:09.000Z</updated>
         <author>
             <name>【Re:AcT /リアクト】公式チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初コメ初見さん来て～～！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=Y9GtmSLZBxg</id>
-        <link href="https://www.youtube.com/watch?v=Y9GtmSLZBxg"/>
-        <updated>2025-05-04T06:30:46.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
@@ -714,6 +705,15 @@
         <updated>2025-04-26T13:51:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【#いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=ntMDVSakWp0</id>
+        <link href="https://www.youtube.com/watch?v=ntMDVSakWp0"/>
+        <updated>2025-04-26T13:37:00.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
