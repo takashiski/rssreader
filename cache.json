@@ -1313,6 +1313,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=EdWZXW3-MYI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EdWZXW3-MYI",
+          "publishedOn": "2025-05-05T11:24:07.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】LIVEが終わりこどもの日、べいびーな【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=HQntb-mftVA",
           "author": null,
           "description": "",
@@ -1450,16 +1460,6 @@
           "publishedOn": "2025-04-18T12:30:34.000Z",
           "wordCount": null,
           "title": "ジャラランブル/獅子神レオナ　【Official Music Video】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fBBfdZr9QrQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fBBfdZr9QrQ",
-          "publishedOn": "2025-04-14T15:38:45.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】うたっちゃおうぜ【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]
