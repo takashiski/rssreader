@@ -267,6 +267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=PVZ8d5w3Pz4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PVZ8d5w3Pz4",
+          "publishedOn": "2025-05-06T09:23:06.000Z",
+          "wordCount": null,
+          "title": "【 #ストグラ #68 】かえってきた！！！！！【 #真島ルイ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=MyQ0YEU92KQ",
           "author": null,
           "description": "",
@@ -404,16 +414,6 @@
           "publishedOn": "2025-04-16T18:23:02.000Z",
           "wordCount": null,
           "title": "【 #ストグラ #59 】春～♬【 #真島ルイ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Sy5-DAltQyY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Sy5-DAltQyY",
-          "publishedOn": "2025-04-11T23:23:07.000Z",
-          "wordCount": null,
-          "title": "【歌枠】鼻声だって歌いたい【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         }
       ]
