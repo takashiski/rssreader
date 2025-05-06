@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T04:39:08.804Z</id>
+    <id>urn:2025-05-06T05:07:48.939Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T04:39:08.804Z</updated>
+    <updated>2025-05-06T05:07:48.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[休止前最後💜行ってきます！【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=LWKtGb-Rr88</id>
+        <link href="https://www.youtube.com/watch?v=LWKtGb-Rr88"/>
+        <updated>2025-05-06T04:35:14.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【雑談】ライブお疲れ様でした！【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=DHql6kLQCYA</id>
@@ -570,15 +579,6 @@
         <updated>2025-04-28T12:07:02.000Z</updated>
         <author>
             <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名前呼んで〜💜🍨 #aiscream #黒澤ルビィ #ルビィちゃん #はーい #何が好き #チョコミント #よりも #あなた #ラブライブ #ラブライブサンシャイン #Vtuber #月紫アリア]]></title>
-        <id>https://www.youtube.com/watch?v=VQsMf65VAf0</id>
-        <link href="https://www.youtube.com/watch?v=VQsMf65VAf0"/>
-        <updated>2025-04-28T09:30:30.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
