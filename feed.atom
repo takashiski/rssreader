@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-06T07:07:56.849Z</id>
+    <id>urn:2025-05-06T07:36:02.430Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T07:07:56.849Z</updated>
+    <updated>2025-05-06T07:36:02.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【#よりどりみどり歌祭り】開会式☘️ 緑髪オンリーの歌枠リレー開催！💚【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=5zu0kj8q_Fg</id>
+        <link href="https://www.youtube.com/watch?v=5zu0kj8q_Fg"/>
+        <updated>2025-05-06T07:34:05.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】GW最終日だって・・・？！【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=MyQ0YEU92KQ</id>
@@ -343,15 +352,6 @@
         <id>https://www.youtube.com/watch?v=0PU57d-49nA</id>
         <link href="https://www.youtube.com/watch?v=0PU57d-49nA"/>
         <updated>2025-05-01T02:41:00.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#よりどりみどり歌祭り】開会式☘️ 緑髪オンリーの歌枠リレー開催！💚【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=5zu0kj8q_Fg</id>
-        <link href="https://www.youtube.com/watch?v=5zu0kj8q_Fg"/>
-        <updated>2025-05-01T02:38:31.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
