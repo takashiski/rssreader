@@ -267,6 +267,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=MyQ0YEU92KQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MyQ0YEU92KQ",
+          "publishedOn": "2025-05-06T06:06:05.000Z",
+          "wordCount": null,
+          "title": "【歌枠】GW最終日だって・・・？！【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DHql6kLQCYA",
           "author": null,
           "description": "",
@@ -274,16 +284,6 @@
           "publishedOn": "2025-05-06T01:32:52.000Z",
           "wordCount": null,
           "title": "【雑談】ライブお疲れ様でした！【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=l7gTiO8Ux3k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l7gTiO8Ux3k",
-          "publishedOn": "2025-05-05T10:01:08.000Z",
-          "wordCount": null,
-          "title": "【歌枠】GW最終日だって・・・？！【 #Vtuber / #生リサ /Re:AcT】",
           "imageUrl": null
         },
         {
