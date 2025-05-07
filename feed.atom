@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T12:12:49.152Z</id>
+    <id>urn:2025-05-07T12:47:51.429Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T12:12:49.152Z</updated>
+    <updated>2025-05-07T12:47:51.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prototype - niki / covered by ククルア・クレイユ]]></title>
+        <id>https://www.youtube.com/watch?v=ugbb7iPvAhA</id>
+        <link href="https://www.youtube.com/watch?v=ugbb7iPvAhA"/>
+        <updated>2025-05-07T12:04:57.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 雑談 】今日でデビュー1000日🤍✨みんないつもありがとう…🗝💭【 #音伽ねむ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=DHEjoB_eWZc</id>
@@ -795,15 +804,6 @@
         <updated>2025-04-26T13:51:06.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=ntMDVSakWp0</id>
-        <link href="https://www.youtube.com/watch?v=ntMDVSakWp0"/>
-        <updated>2025-04-26T13:37:00.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>

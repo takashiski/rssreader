@@ -43,6 +43,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ugbb7iPvAhA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ugbb7iPvAhA",
+          "publishedOn": "2025-05-07T12:04:57.000Z",
+          "wordCount": null,
+          "title": "Prototype - niki / covered by ククルア・クレイユ",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0PU57d-49nA",
           "author": null,
           "description": "",
@@ -180,16 +190,6 @@
           "publishedOn": "2025-04-26T16:58:28.000Z",
           "wordCount": null,
           "title": "【#至高の神うなぎ】エルフ、うなぎ、ついに実食！※手元配信※｜カメラあり【#ククルアクレイユ｜Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ntMDVSakWp0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ntMDVSakWp0",
-          "publishedOn": "2025-04-26T13:37:00.000Z",
-          "wordCount": null,
-          "title": "【#いちプロ歌枠リレー】口の悪さはご愛敬！インターネット老人の多声類エルフが参戦‼️【#ククルアクレイユ｜Re:AcT】",
           "imageUrl": null
         }
       ]
