@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T13:16:34.656Z</id>
+    <id>urn:2025-05-07T13:42:33.038Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T13:16:34.656Z</updated>
+    <updated>2025-05-07T13:42:33.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -28,6 +28,15 @@
         <id>https://www.youtube.com/watch?v=-UfNageVyJ0</id>
         <link href="https://www.youtube.com/watch?v=-UfNageVyJ0"/>
         <updated>2025-05-07T11:12:58.000Z</updated>
+        <author>
+            <name>Marumochi Tsukimi / 丸餅つきみ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【歌ってみた】死神/米津玄師　cover  丸餅つきみ]]></title>
+        <id>https://www.youtube.com/watch?v=2AOD4Vp60Kk</id>
+        <link href="https://www.youtube.com/watch?v=2AOD4Vp60Kk"/>
+        <updated>2025-05-07T09:52:08.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
@@ -732,15 +741,6 @@
         <updated>2025-04-27T11:01:18.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【sin.exe】ホラーから学んだ人生に大事なこと✨ #ホラーゲーム実況 #sinexe #切り抜き【丸餅つきみ】]]></title>
-        <id>https://www.youtube.com/watch?v=JnlP3x3IF9I</id>
-        <link href="https://www.youtube.com/watch?v=JnlP3x3IF9I"/>
-        <updated>2025-04-27T09:30:10.000Z</updated>
-        <author>
-            <name>Marumochi Tsukimi / 丸餅つきみ</name>
         </author>
     </entry>
     <entry>
