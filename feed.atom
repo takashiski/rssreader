@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T15:38:05.274Z</id>
+    <id>urn:2025-05-08T16:08:40.230Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T15:38:05.274Z</updated>
+    <updated>2025-05-08T16:08:40.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -627,6 +627,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[♡💜 休止中：ふり～ちゃっと 💜♡]]></title>
+        <id>https://www.youtube.com/watch?v=Uo6DKpQkzVA</id>
+        <link href="https://www.youtube.com/watch?v=Uo6DKpQkzVA"/>
+        <updated>2025-04-30T06:08:04.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【 #モンハンワイルズ /MHWilds 】花よりモンスター？🌸春のイベントをまったり楽しむ夜【丸餅つきみ/Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=12ZQiD0gu4s</id>
         <link href="https://www.youtube.com/watch?v=12ZQiD0gu4s"/>
@@ -696,15 +705,6 @@
         <updated>2025-04-29T09:00:19.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デビュー4周年✨記念グッズ販売中💜🩷5/8まで]]></title>
-        <id>https://www.youtube.com/watch?v=FqP0FGRlpCs</id>
-        <link href="https://www.youtube.com/watch?v=FqP0FGRlpCs"/>
-        <updated>2025-04-28T16:40:25.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
