@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T16:08:40.230Z</id>
+    <id>urn:2025-05-08T16:40:51.667Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T16:08:40.230Z</updated>
+    <updated>2025-05-08T16:40:51.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[〖 #歌枠 〗たくさんコメントしてね☔〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=znDlitqzsKY</id>
+        <link href="https://www.youtube.com/watch?v=znDlitqzsKY"/>
+        <updated>2025-05-08T16:35:25.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡ドキドキ至近距離で癒されちゃお？💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=iO1ZsiluQSM</id>
+        <link href="https://www.youtube.com/watch?v=iO1ZsiluQSM"/>
+        <updated>2025-05-08T16:19:56.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〖 #朝活 〗かいぬし様、行ってらっしゃいませ💗 morning stream !!〖 Vtuber /#猫乃ユキノ 〗]]></title>
+        <id>https://www.youtube.com/watch?v=KIyNTM_Gcs8</id>
+        <link href="https://www.youtube.com/watch?v=KIyNTM_Gcs8"/>
+        <updated>2025-05-08T16:16:48.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#1〖MiSide : ミサイド〗ずーっと一緒だよ...?♡ 〖Vtuber / #猫乃ユキノ〗]]></title>
+        <id>https://www.youtube.com/watch?v=1_FWCdx7r0A</id>
+        <link href="https://www.youtube.com/watch?v=1_FWCdx7r0A"/>
+        <updated>2025-05-08T16:15:27.000Z</updated>
+        <author>
+            <name>猫乃ユキノ／NekonoYukino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡密着心音と耳かきで癒されちゃお？💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=ckn41389m38</id>
@@ -1248,15 +1284,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[〖 #歌枠 〗春の歌枠🌸〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=Lr3SNI3i4B8</id>
-        <link href="https://www.youtube.com/watch?v=Lr3SNI3i4B8"/>
-        <updated>2025-04-13T01:58:07.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【歌ってみた】星が瞬くこんな夜に/Covered by 花鋏キョウ]]></title>
         <id>https://www.youtube.com/watch?v=HlN8Plr9UZY</id>
         <link href="https://www.youtube.com/watch?v=HlN8Plr9UZY"/>
@@ -1299,15 +1326,6 @@
         <updated>2025-04-11T12:01:26.000Z</updated>
         <author>
             <name>稀羽すう - Suu Usuwa -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〖 #ASMR /#黒3Dio 〗♡広告なし♡心音と耳かきで癒されちゃお？💗耳かき/囁き/マッサージ/(EarBlowing/whisper)〖 Vtuber /#猫乃ユキノ 〗]]></title>
-        <id>https://www.youtube.com/watch?v=AyNVMqQiJTw</id>
-        <link href="https://www.youtube.com/watch?v=AyNVMqQiJTw"/>
-        <updated>2025-04-10T16:23:21.000Z</updated>
-        <author>
-            <name>猫乃ユキノ／NekonoYukino</name>
         </author>
     </entry>
     <entry>
