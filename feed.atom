@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T14:07:19.595Z</id>
+    <id>urn:2025-05-08T14:38:38.109Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T14:07:19.595Z</updated>
+    <updated>2025-05-08T14:38:38.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】朝、鳥のさえずりを聞くとよいことがおきるでしょう。 #朝活 【 稀羽すう / Re:AcT 】]]></title>
+        <id>https://www.youtube.com/watch?v=FX8Pdw6sy3Y</id>
+        <link href="https://www.youtube.com/watch?v=FX8Pdw6sy3Y"/>
+        <updated>2025-05-08T14:34:04.000Z</updated>
+        <author>
+            <name>稀羽すう - Suu Usuwa -</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[休止前最後💜行ってきます！【月紫アリア/Vtuber】]]></title>
+        <id>https://www.youtube.com/watch?v=LWKtGb-Rr88</id>
+        <link href="https://www.youtube.com/watch?v=LWKtGb-Rr88"/>
+        <updated>2025-05-08T14:18:16.000Z</updated>
+        <author>
+            <name>月紫アリア / Tsukushi Aria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【 #ストグラ #70 】遅遅番part2【 #真島ルイ /Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=8p9PRfXW0lw</id>
+        <link href="https://www.youtube.com/watch?v=8p9PRfXW0lw"/>
+        <updated>2025-05-08T14:15:18.000Z</updated>
+        <author>
+            <name>魔光リサ - Lisa Makoh -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💜 世界でいちばんアイドル / 超ときめき♡宣伝部⌇covered by 月紫アリア【歌ってみた/Vtuber】]]></title>
         <id>https://www.youtube.com/watch?v=YH7YrZPx2Fk</id>
@@ -174,15 +201,6 @@
         <updated>2025-05-06T07:34:05.000Z</updated>
         <author>
             <name>ククルア・クレイユ - Coucourua Creil -</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[休止前最後💜行ってきます！【月紫アリア/Vtuber】]]></title>
-        <id>https://www.youtube.com/watch?v=LWKtGb-Rr88</id>
-        <link href="https://www.youtube.com/watch?v=LWKtGb-Rr88"/>
-        <updated>2025-05-06T04:35:14.000Z</updated>
-        <author>
-            <name>月紫アリア / Tsukushi Aria</name>
         </author>
     </entry>
     <entry>
@@ -1140,15 +1158,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【 #ストグラ #60 】はやばん【 #真島ルイ /Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=gJ0jBonZ--c</id>
-        <link href="https://www.youtube.com/watch?v=gJ0jBonZ--c"/>
-        <updated>2025-04-17T18:29:22.000Z</updated>
-        <author>
-            <name>魔光リサ - Lisa Makoh -</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[〖 #7dtdりとねこ鯖 〗5日目！ゾンビ襲来！？🧟‍♀️過酷な35日間を耐えろ！！〖 Vtuber /#猫乃ユキノ 〗]]></title>
         <id>https://www.youtube.com/watch?v=jCmDmNPOetY</id>
         <link href="https://www.youtube.com/watch?v=jCmDmNPOetY"/>
@@ -1308,15 +1317,6 @@
         <updated>2025-04-09T14:21:31.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 #歌枠  / KARAOKE 】歌おっか！水曜定期歌枠 Singing Stream #104【 稀羽すう / Re:AcT 】]]></title>
-        <id>https://www.youtube.com/watch?v=-laNi9L3YAE</id>
-        <link href="https://www.youtube.com/watch?v=-laNi9L3YAE"/>
-        <updated>2025-04-09T13:24:37.000Z</updated>
-        <author>
-            <name>稀羽すう - Suu Usuwa -</name>
         </author>
     </entry>
 </feed>
