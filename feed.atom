@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-08T13:15:12.431Z</id>
+    <id>urn:2025-05-08T13:39:24.210Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-08T13:15:12.431Z</updated>
+    <updated>2025-05-08T13:39:24.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[【歌枠】#参加型 リスナーのお悩み相談を歌で解決！#ククルアラッキーソング｜Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
+        <title type="html"><![CDATA[【歌枠】リスナー参加型！お悩み相談を歌で解決！#ククルアラッキーソング｜Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=nLu1kpQ34zE</id>
         <link href="https://www.youtube.com/watch?v=nLu1kpQ34zE"/>
         <updated>2025-05-08T13:00:47.000Z</updated>
