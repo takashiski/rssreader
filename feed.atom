@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T10:39:07.791Z</id>
+    <id>urn:2025-05-09T11:06:19.768Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T10:39:07.791Z</updated>
+    <updated>2025-05-09T11:06:19.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】おなかもいっぱい、カロリー消費【 獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=Lkkc55nDI7w</id>
+        <link href="https://www.youtube.com/watch?v=Lkkc55nDI7w"/>
+        <updated>2025-05-09T10:53:37.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソロver‼️#めるりぷ #わからせおーばーきる #踊ってみた #dance #オリジナル曲 #わた #月紫アリア #九楽ライ #アイドル @MeltyR.I.P. ​⁠振付:@wata0w0]]></title>
         <id>https://www.youtube.com/watch?v=XVv-tBBtadA</id>
@@ -1198,15 +1207,6 @@
         <id>https://www.youtube.com/watch?v=tzVpytF9THY</id>
         <link href="https://www.youtube.com/watch?v=tzVpytF9THY"/>
         <updated>2025-04-18T14:08:35.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャラランブル/獅子神レオナ　【Official Music Video】]]></title>
-        <id>https://www.youtube.com/watch?v=S2n6XY2qleg</id>
-        <link href="https://www.youtube.com/watch?v=S2n6XY2qleg"/>
-        <updated>2025-04-18T12:30:34.000Z</updated>
         <author>
             <name>獅子神レオナ/レオナちゃんねる</name>
         </author>

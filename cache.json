@@ -1323,6 +1323,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=Lkkc55nDI7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Lkkc55nDI7w",
+          "publishedOn": "2025-05-09T10:53:37.000Z",
+          "wordCount": null,
+          "title": "【 -`🎙 歌枠/Singing 】おなかもいっぱい、カロリー消費【 獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=EdWZXW3-MYI",
           "author": null,
           "description": "",
@@ -1460,16 +1470,6 @@
           "publishedOn": "2025-04-18T14:08:35.000Z",
           "wordCount": null,
           "title": "【 -`🎙 歌枠/Singing 】ちょっと見せたいものがあるんだけど！！【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S2n6XY2qleg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S2n6XY2qleg",
-          "publishedOn": "2025-04-18T12:30:34.000Z",
-          "wordCount": null,
-          "title": "ジャラランブル/獅子神レオナ　【Official Music Video】",
           "imageUrl": null
         }
       ]
