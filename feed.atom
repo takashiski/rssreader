@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-09T14:07:09.325Z</id>
+    <id>urn:2025-05-09T14:38:11.960Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-09T14:07:09.325Z</updated>
+    <updated>2025-05-09T14:38:11.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【 モンハンワイルズ 】装備を整えて上位ゾ・シア討伐再び…！！【 #音伽ねむ / Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=y-oGf2R4a0Q</id>
+        <link href="https://www.youtube.com/watch?v=y-oGf2R4a0Q"/>
+        <updated>2025-05-09T14:17:09.000Z</updated>
+        <author>
+            <name>音伽ねむ - Nemu Otogi -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【 モンハンワイルズ 】装備を整えて上位ゾ・シア討伐再び…！！【 #音伽ねむ / Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=fLZuBZAXzMc</id>
@@ -48,15 +57,6 @@
         <updated>2025-05-09T07:59:56.000Z</updated>
         <author>
             <name>Kulaku Lie ch.九楽ライ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 モンハンワイルズ 】装備を整えて上位ゾ・シア討伐再び…！！【 #音伽ねむ / Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=y-oGf2R4a0Q</id>
-        <link href="https://www.youtube.com/watch?v=y-oGf2R4a0Q"/>
-        <updated>2025-05-09T05:36:30.000Z</updated>
-        <author>
-            <name>音伽ねむ - Nemu Otogi -</name>
         </author>
     </entry>
     <entry>
