@@ -1333,6 +1333,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=H-mi9fppvKg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H-mi9fppvKg",
+          "publishedOn": "2025-05-10T09:20:20.000Z",
+          "wordCount": null,
+          "title": "【-`🎮 R.E.P.O. 】みんなが頑張ってくれると思います、多分。【獅子神レオナ/Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=Lkkc55nDI7w",
           "author": null,
           "description": "",
@@ -1470,16 +1480,6 @@
           "publishedOn": "2025-04-20T13:39:55.000Z",
           "wordCount": null,
           "title": "【 #至高のうなぎ 】26日は土用の丑の日‼️大好きなうなぎでパワーチャージ⚡【獅子神レオナ/Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tzVpytF9THY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tzVpytF9THY",
-          "publishedOn": "2025-04-18T14:08:35.000Z",
-          "wordCount": null,
-          "title": "【 -`🎙 歌枠/Singing 】ちょっと見せたいものがあるんだけど！！【獅子神レオナ/Re:AcT】",
           "imageUrl": null
         }
       ]

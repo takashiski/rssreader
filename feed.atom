@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-10T09:06:36.170Z</id>
+    <id>urn:2025-05-10T09:35:03.522Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T09:06:36.170Z</updated>
+    <updated>2025-05-10T09:35:03.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【-`🎮 R.E.P.O. 】みんなが頑張ってくれると思います、多分。【獅子神レオナ/Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=H-mi9fppvKg</id>
+        <link href="https://www.youtube.com/watch?v=H-mi9fppvKg"/>
+        <updated>2025-05-10T09:20:20.000Z</updated>
+        <author>
+            <name>獅子神レオナ/レオナちゃんねる</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【33ヶ月記念✧歌枠】1000日越えてこれからも。ゲストデュエットあり！｜33 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=W7R_OHpFQx8</id>
@@ -1209,15 +1218,6 @@
         <updated>2025-04-18T14:41:07.000Z</updated>
         <author>
             <name>皇ロゼ／SumeragiRose ch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【 -`🎙 歌枠/Singing 】ちょっと見せたいものがあるんだけど！！【獅子神レオナ/Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=tzVpytF9THY</id>
-        <link href="https://www.youtube.com/watch?v=tzVpytF9THY"/>
-        <updated>2025-04-18T14:08:35.000Z</updated>
-        <author>
-            <name>獅子神レオナ/レオナちゃんねる</name>
         </author>
     </entry>
     <entry>
