@@ -297,6 +297,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCDrG8pzkq_cCCLcN5wgrzNw",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SjmiYulqJug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SjmiYulqJug",
+          "publishedOn": "2025-05-10T08:25:38.000Z",
+          "wordCount": null,
+          "title": "【歌枠】ライブも終わってのほほんな日々【 #Vtuber / #生リサ /Re:AcT】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=T4bxRu5VjtY",
           "author": null,
           "description": "",
@@ -434,16 +444,6 @@
           "publishedOn": "2025-04-19T11:34:29.000Z",
           "wordCount": null,
           "title": "【歌枠】扇風機の音が入るかも注意【 #Vtuber / #生リサ /Re:AcT】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VolnyIhspig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VolnyIhspig",
-          "publishedOn": "2025-04-18T20:22:50.000Z",
-          "wordCount": null,
-          "title": "【 #ストグラ #61 】東署のディラン【 #真島ルイ /Re:AcT】",
           "imageUrl": null
         }
       ]
