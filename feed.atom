@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-10T08:37:59.892Z</id>
+    <id>urn:2025-05-10T09:06:36.170Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T08:37:59.892Z</updated>
+    <updated>2025-05-10T09:06:36.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[【33ヶ月記念✧歌枠】1000日越えてこれからも。ゲストデュエットあり！｜33 Month Anniversary LIVE【#ククルアクレイユ｜Re:AcT】]]></title>
+        <id>https://www.youtube.com/watch?v=W7R_OHpFQx8</id>
+        <link href="https://www.youtube.com/watch?v=W7R_OHpFQx8"/>
+        <updated>2025-05-10T08:34:04.000Z</updated>
+        <author>
+            <name>ククルア・クレイユ - Coucourua Creil -</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【歌枠】ライブも終わってのほほんな日々【 #Vtuber / #生リサ /Re:AcT】]]></title>
         <id>https://www.youtube.com/watch?v=SjmiYulqJug</id>
@@ -714,15 +723,6 @@
         <updated>2025-04-30T09:01:23.000Z</updated>
         <author>
             <name>Marumochi Tsukimi / 丸餅つきみ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【歌枠】初見カウントします！ランチタイム歌枠🍸⚛️🎶｜Karaoke Singing Stream【#ククルアクレイユ｜Re:AcT】]]></title>
-        <id>https://www.youtube.com/watch?v=cN256jEXGXg</id>
-        <link href="https://www.youtube.com/watch?v=cN256jEXGXg"/>
-        <updated>2025-04-30T06:46:10.000Z</updated>
-        <author>
-            <name>ククルア・クレイユ - Coucourua Creil -</name>
         </author>
     </entry>
     <entry>
